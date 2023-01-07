@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">178</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1e874aa-8d01-4c9a-95e9-852ed5f1999e</dc:identifier>
+        <dc:title>Cracking Codes with Python: An Introduction to Building and Breaking Ciphers</dc:title>
+        <dc:creator opf:file-as="Sweigart, Al" opf:role="aut">Al Sweigart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-23T05:00:00+00:00</dc:date>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781593278694</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0713P1Q8X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Al Sweigart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-07T18:20:39.842236+00:00"/>
+        <meta name="calibre:title_sort" content="Cracking Codes with Python: An Introduction to Building and Breaking Ciphers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
