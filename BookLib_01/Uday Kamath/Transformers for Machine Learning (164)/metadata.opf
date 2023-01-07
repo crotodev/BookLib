@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">164</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">577d80cb-d2fe-4b01-a8a8-4b055349dbe5</dc:identifier>
+        <dc:title>Transformers for Machine Learning</dc:title>
+        <dc:creator opf:file-as="Kamath, Uday &amp; Graham, Kenneth L. &amp; Emara, Wael" opf:role="aut">Uday Kamath</dc:creator>
+        <dc:creator opf:file-as="Kamath, Uday &amp; Graham, Kenneth L. &amp; Emara, Wael" opf:role="aut">Kenneth L. Graham</dc:creator>
+        <dc:creator opf:file-as="Kamath, Uday &amp; Graham, Kenneth L. &amp; Emara, Wael" opf:role="aut">Wael Emara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-25T00:00:00+00:00</dc:date>
+        <dc:description>Transformers are becoming a core part of many neural network architectures, employed in a wide range of applications such as NLP, Speech Recognition, Time Series, and Computer Vision. Transformers have gone through many adaptations and alterations, resulting in newer techniques and methods. Transformers for Machine Learning: A Deep Dive is the first comprehensive book on transformers. Key Features: A comprehensive reference book for detailed explanations for every algorithm and techniques related to the transformers. 60+ transformer architectures covered in a comprehensive manner. A book for understanding how to apply the transformer techniques in speech, text, time series, and computer vision. Practical tips and tricks for each architecture and how to use it in the real world. Hands-on case studies and code snippets for theory and practical real-world analysis using the tools and libraries, all ready to run in Google Colab. The theoretical explanations of the state-of-the-art transformer architectures will appeal to postgraduate students and researchers (academic and industry) as it will provide a single entry point with deep discussions of a quickly moving field. The practical hands-on case studies and code will appeal to undergraduate students, practitioners, and professionals as it allows for quick experimentation and lowers the barrier to entry into the field.</dc:description>
+        <dc:publisher>CRC Press LLC</dc:publisher>
+        <dc:identifier opf:scheme="DOI">10.1201/9781003170082</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Uday Kamath&quot;: &quot;&quot;, &quot;Kenneth L. Graham&quot;: &quot;&quot;, &quot;Wael Emara&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-03T16:39:51+00:00"/>
+        <meta name="calibre:title_sort" content="Transformers for Machine Learning"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

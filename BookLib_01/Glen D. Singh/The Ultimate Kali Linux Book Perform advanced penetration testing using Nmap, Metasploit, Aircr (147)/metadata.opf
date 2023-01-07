@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d16d2e65-ed52-4962-a0be-e97f35bacb26</dc:identifier>
+        <dc:title>The Ultimate Kali Linux Book Perform advanced penetration testing using Nmap, Metasploit, Aircrack-ng &amp; Empire, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Singh, Glen D." opf:role="aut">Glen D. Singh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-06T11:05:28+00:00</dc:date>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>kali linux</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Glen D. Singh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-30T08:53:59+00:00"/>
+        <meta name="calibre:title_sort" content="Ultimate Kali Linux Book Perform advanced penetration testing using Nmap, Metasploit, Aircrack-ng &amp; Empire, 2nd Edition, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

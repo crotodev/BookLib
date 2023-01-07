@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82b80a65-51f0-434a-b26c-a632f6a041df</dc:identifier>
+        <dc:title>Advanced Algorithms and Data Structures</dc:title>
+        <dc:creator opf:file-as="Rocca, Marcello La" opf:role="aut">Marcello La Rocca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>algorithms</dc:subject>
+        <dc:subject>data science</dc:subject>
+        <dc:subject>data structures</dc:subject>
+        <dc:subject>programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marcello La Rocca&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-22T07:51:08+00:00"/>
+        <meta name="calibre:title_sort" content="Advanced Algorithms and Data Structures"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

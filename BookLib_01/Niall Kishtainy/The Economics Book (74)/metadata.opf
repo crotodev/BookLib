@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">74</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9c2b2e5-1c8d-4125-9124-98c337140ac8</dc:identifier>
+        <dc:title>The Economics Book</dc:title>
+        <dc:creator opf:file-as="Kishtainy, Niall &amp; Abbot, George &amp; Farndon, John &amp; Kennedy, Frank &amp; Meadway, James &amp; Wallace, Christopher &amp; Weeks, Marcus" opf:role="aut">Niall Kishtainy</dc:creator>
+        <dc:creator opf:file-as="Kishtainy, Niall &amp; Abbot, George &amp; Farndon, John &amp; Kennedy, Frank &amp; Meadway, James &amp; Wallace, Christopher &amp; Weeks, Marcus" opf:role="aut">George Abbot</dc:creator>
+        <dc:creator opf:file-as="Kishtainy, Niall &amp; Abbot, George &amp; Farndon, John &amp; Kennedy, Frank &amp; Meadway, James &amp; Wallace, Christopher &amp; Weeks, Marcus" opf:role="aut">John Farndon</dc:creator>
+        <dc:creator opf:file-as="Kishtainy, Niall &amp; Abbot, George &amp; Farndon, John &amp; Kennedy, Frank &amp; Meadway, James &amp; Wallace, Christopher &amp; Weeks, Marcus" opf:role="aut">Frank Kennedy</dc:creator>
+        <dc:creator opf:file-as="Kishtainy, Niall &amp; Abbot, George &amp; Farndon, John &amp; Kennedy, Frank &amp; Meadway, James &amp; Wallace, Christopher &amp; Weeks, Marcus" opf:role="aut">James Meadway</dc:creator>
+        <dc:creator opf:file-as="Kishtainy, Niall &amp; Abbot, George &amp; Farndon, John &amp; Kennedy, Frank &amp; Meadway, James &amp; Wallace, Christopher &amp; Weeks, Marcus" opf:role="aut">Christopher Wallace</dc:creator>
+        <dc:creator opf:file-as="Kishtainy, Niall &amp; Abbot, George &amp; Farndon, John &amp; Kennedy, Frank &amp; Meadway, James &amp; Wallace, Christopher &amp; Weeks, Marcus" opf:role="aut">Marcus Weeks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-01T10:34:44+00:00</dc:date>
+        <dc:publisher>DK</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>economics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Niall Kishtainy&quot;: &quot;&quot;, &quot;George Abbot&quot;: &quot;&quot;, &quot;John Farndon&quot;: &quot;&quot;, &quot;Frank Kennedy&quot;: &quot;&quot;, &quot;James Meadway&quot;: &quot;&quot;, &quot;Christopher Wallace&quot;: &quot;&quot;, &quot;Marcus Weeks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-26T06:05:48+00:00"/>
+        <meta name="calibre:title_sort" content="Economics Book, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

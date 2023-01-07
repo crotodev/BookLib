@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">80</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75560780-4086-40a8-8b49-4c3bb445e281</dc:identifier>
+        <dc:title>Python Web Scraping Cookbook Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS</dc:title>
+        <dc:creator opf:file-as="Heydt, Michael" opf:role="aut">Michael Heydt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-15T08:14:43+00:00</dc:date>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>aws</dc:subject>
+        <dc:subject>cookbook</dc:subject>
+        <dc:subject>programming</dc:subject>
+        <dc:subject>python</dc:subject>
+        <dc:subject>web-scraping</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Heydt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-26T06:12:22+00:00"/>
+        <meta name="calibre:title_sort" content="Python Web Scraping Cookbook Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

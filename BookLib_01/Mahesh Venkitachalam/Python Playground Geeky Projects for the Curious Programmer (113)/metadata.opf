@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">113</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d646f5de-71ac-4008-828c-d0087fe88b97</dc:identifier>
+        <dc:title>Python Playground Geeky Projects for the Curious Programmer</dc:title>
+        <dc:creator opf:file-as="Venkitachalam, Mahesh" opf:role="aut">Mahesh Venkitachalam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-29T22:01:09+00:00</dc:date>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>python</dc:subject>
+        <dc:subject>programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mahesh Venkitachalam&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-26T19:15:05+00:00"/>
+        <meta name="calibre:title_sort" content="Python Playground Geeky Projects for the Curious Programmer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">118</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ed51539-a478-4a2a-81a3-bf7d47249e8f</dc:identifier>
+        <dc:title>Get started &amp; MicroPython on Raspberry Pi Pico-Raspberry Pi Trading Ltd (2021)</dc:title>
+        <dc:creator opf:file-as="Halfacree, Gareth &amp; Everard, Ben" opf:role="aut">Gareth Halfacree</dc:creator>
+        <dc:creator opf:file-as="Halfacree, Gareth &amp; Everard, Ben" opf:role="aut">Ben Everard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-07T11:55:49+00:00</dc:date>
+        <dc:publisher>Raspberry Pi Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>IoT</dc:subject>
+        <dc:subject>micropython</dc:subject>
+        <dc:subject>programming</dc:subject>
+        <dc:subject>python</dc:subject>
+        <dc:subject>raspberry pi</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gareth Halfacree&quot;: &quot;&quot;, &quot;Ben Everard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-27T19:27:54+00:00"/>
+        <meta name="calibre:title_sort" content="Get started &amp; MicroPython on Raspberry Pi Pico-Raspberry Pi Trading Ltd (2021)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

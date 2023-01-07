@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6bd72ba2-ef8a-435c-850c-f73e6b2f27d0</dc:identifier>
+        <dc:title>Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential</dc:title>
+        <dc:creator opf:file-as="Forte, Tiago" opf:role="aut">Tiago Forte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-14T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;A revolutionary approach to enhancing productivity, creating flow, and vastly increasing your ability to capture, remember, and benefit from the unprecedented amount of information all around us.&lt;/b&gt;&lt;BR&gt;For the first time in history, we have instantaneous access to the world's knowledge. There has never been a better time to learn, to contribute, and to improve ourselves. Yet, rather than feeling empowered, we are often left feeling overwhelmed by this constant influx of information. The very knowledge that was supposed to set us free has instead led to the paralyzing stress of believing we'll never know or remember enough.&lt;BR&gt; &lt;BR&gt;Now, this eye-opening and accessible guide shows how you can easily create your own personal system for knowledge management, otherwise known as a Second Brain. As a trusted and organized digital repository of your most valued ideas, notes, and creative work synced across all your devices and platforms, a Second Brain gives you the confidence to...</dc:description>
+        <dc:publisher>Atria Books</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Tiago Forte&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-02T16:53:16+00:00"/>
+        <meta name="calibre:title_sort" content="Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

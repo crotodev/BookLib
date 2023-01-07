@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">102</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">745e03c8-a848-468e-acb1-09932b6b7cbf</dc:identifier>
+        <dc:title>Buzan Study Skills Handbook The Shortcut to Success in Your Studies with Mind Mapping, Speed Reading and Winning Memory Techniques</dc:title>
+        <dc:creator opf:file-as="Buzan, Tony" opf:role="aut">Tony Buzan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-25T06:10:47+00:00</dc:date>
+        <dc:publisher>BBC Active</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>learning</dc:subject>
+        <dc:subject>school</dc:subject>
+        <dc:subject>mind-mapping</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tony Buzan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-26T19:04:29+00:00"/>
+        <meta name="calibre:title_sort" content="Buzan Study Skills Handbook The Shortcut to Success in Your Studies with Mind Mapping, Speed Reading and Winning Memory Techniques"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">109</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca0b2682-bc98-467e-88fb-8f179c8cb360</dc:identifier>
+        <dc:title>Python All-in-One For Dummies®</dc:title>
+        <dc:creator opf:file-as="Shovic, John &amp; Simpson, Alan" opf:role="aut">John Shovic</dc:creator>
+        <dc:creator opf:file-as="Shovic, John &amp; Simpson, Alan" opf:role="aut">Alan Simpson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-10T16:01:07+00:00</dc:date>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>python</dc:subject>
+        <dc:subject>programming</dc:subject>
+        <dc:subject>for dummies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Shovic&quot;: &quot;&quot;, &quot;Alan Simpson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-26T19:11:31+00:00"/>
+        <meta name="calibre:title_sort" content="Python All-in-One For Dummies®"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

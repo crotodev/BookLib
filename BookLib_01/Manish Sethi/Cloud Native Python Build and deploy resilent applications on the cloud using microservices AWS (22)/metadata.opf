@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b4e07bf-da56-4df6-9f1d-cda6462de5b1</dc:identifier>
+        <dc:title>Cloud Native Python Build and deploy resilent applications on the cloud using microservices AWS Azure and more</dc:title>
+        <dc:creator opf:file-as="Sethi, Manish" opf:role="aut">Manish Sethi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-21T04:00:00+00:00</dc:date>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781787129313</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>python</dc:subject>
+        <dc:subject>programming</dc:subject>
+        <dc:subject>cloud native</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Manish Sethi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-14T19:11:47+00:00"/>
+        <meta name="calibre:title_sort" content="Cloud Native Python Build and deploy resilent applications on the cloud using microservices AWS Azure and more"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

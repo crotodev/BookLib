@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec04becf-54a0-4c0a-a0d0-2e76c617940d</dc:identifier>
+        <dc:title>Python Ethical Hacking from Scratch Think like an ethical hacker, avoid detection &amp; successfully develop, deploy, detect &amp; avoid malware</dc:title>
+        <dc:creator opf:file-as="Sarwar, Fahad Ali" opf:role="aut">Fahad Ali Sarwar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-27T07:01:33+00:00</dc:date>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>ethical hacking</dc:subject>
+        <dc:subject>python</dc:subject>
+        <dc:subject>from scratch</dc:subject>
+        <dc:subject>programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fahad Ali Sarwar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-30T06:02:03+00:00"/>
+        <meta name="calibre:title_sort" content="Python Ethical Hacking from Scratch Think like an ethical hacker, avoid detection &amp; successfully develop, deploy, detect &amp; avoid malware"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

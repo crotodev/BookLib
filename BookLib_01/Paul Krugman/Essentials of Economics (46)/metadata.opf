@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d04800ef-5dfd-4ebd-b70f-058732e2978d</dc:identifier>
+        <dc:title>Essentials of Economics</dc:title>
+        <dc:creator opf:file-as="Krugman, Paul &amp; Well, Robin" opf:role="aut">Paul Krugman</dc:creator>
+        <dc:creator opf:file-as="Krugman, Paul &amp; Well, Robin" opf:role="aut">Robin Well</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>economics</dc:subject>
+        <dc:subject>textbook</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paul Krugman&quot;: &quot;&quot;, &quot;Robin Well&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-22T07:28:30+00:00"/>
+        <meta name="calibre:title_sort" content="Essentials of Economics"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

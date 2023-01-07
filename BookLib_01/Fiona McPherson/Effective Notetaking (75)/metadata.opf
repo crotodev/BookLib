@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">75</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87f5620d-f15b-4b8e-9e52-072040a30e35</dc:identifier>
+        <dc:title>Effective Notetaking</dc:title>
+        <dc:creator opf:file-as="McPherson, Fiona" opf:role="aut">Fiona McPherson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-28T16:00:00+00:00</dc:date>
+        <dc:description>Downloaded from z-lib.org</dc:description>
+        <dc:publisher>Wayz Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">af369ccb-214d-4a32-b3f1-9298a2869a86</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780987652249</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>learning</dc:subject>
+        <dc:subject>note-taking</dc:subject>
+        <dc:subject>school</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fiona McPherson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-26T06:08:19+00:00"/>
+        <meta name="calibre:title_sort" content="Effective Notetaking"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

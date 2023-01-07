@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2413ae4-1ccf-401d-9f66-a6d653bc9f5f</dc:identifier>
+        <dc:title>Automated Deep Learning Using Neural Network Intelligence Develop and Design PyTorch and TensorFlow Models Using Python</dc:title>
+        <dc:creator opf:file-as="Gridin, Ivan" opf:role="aut">Ivan Gridin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-15T19:23:00+00:00</dc:date>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ivan Gridin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-03T17:17:28+00:00"/>
+        <meta name="calibre:title_sort" content="Automated Deep Learning Using Neural Network Intelligence Develop and Design PyTorch and TensorFlow Models Using Python"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

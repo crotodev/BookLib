@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0906cd8c-91c0-4c02-a3ec-ea9b9a64568a</dc:identifier>
+        <dc:title>A Handlist of Rhetorical Terms</dc:title>
+        <dc:creator opf:file-as="Lanham, Richard A." opf:role="aut">Richard A. Lanham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-18T23:05:50+00:00</dc:date>
+        <dc:description>Rhetoric</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>critical thinking</dc:subject>
+        <dc:subject>literature</dc:subject>
+        <dc:subject>logic</dc:subject>
+        <dc:subject>reasoning</dc:subject>
+        <dc:subject>rhetoric</dc:subject>
+        <dc:subject>writing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard A. Lanham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-22T07:50:42+00:00"/>
+        <meta name="calibre:title_sort" content="Handlist of Rhetorical Terms, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

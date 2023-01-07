@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">150</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfca6166-81ed-4494-bbc5-de07fbbcdb43</dc:identifier>
+        <dc:title>Python for Finance</dc:title>
+        <dc:creator opf:file-as="Hilpisch, Yves" opf:role="aut">Yves Hilpisch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-03T00:00:00+00:00</dc:date>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>python</dc:subject>
+        <dc:subject>finance</dc:subject>
+        <dc:subject>financial analysis</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yves Hilpisch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-30T15:16:17+00:00"/>
+        <meta name="calibre:title_sort" content="Python for Finance"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

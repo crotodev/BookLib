@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f27f4e3-3e19-452b-8f53-df2327d4a4fc</dc:identifier>
+        <dc:title>HBR at 100: The Most Influential and Innovative Articles from Harvard Business Review's First Century</dc:title>
+        <dc:creator opf:file-as="Harvard Business Review" opf:role="aut">Harvard Business Review</dc:creator>
+        <dc:creator opf:file-as="Harvard Business Review" opf:role="aut">Michael E. Porter</dc:creator>
+        <dc:creator opf:file-as="Harvard Business Review" opf:role="aut">Clayton M. Christensen</dc:creator>
+        <dc:creator opf:file-as="Harvard Business Review" opf:role="aut">W. Chan Kim</dc:creator>
+        <dc:creator opf:file-as="Harvard Business Review" opf:role="aut">Renee A. Mauborgne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-18T21:00:00+00:00</dc:date>
+        <dc:description>Downloaded from z-lib.org</dc:description>
+        <dc:publisher>Harvard Business Review Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>business</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harvard Business Review&quot;: &quot;&quot;, &quot;Michael E. Porter&quot;: &quot;&quot;, &quot;Clayton M. Christensen&quot;: &quot;&quot;, &quot;W. Chan Kim&quot;: &quot;&quot;, &quot;Renee A. Mauborgne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-26T19:11:04+00:00"/>
+        <meta name="calibre:title_sort" content="HBR at 100: The Most Influential and Innovative Articles from Harvard Business Review's First Century"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

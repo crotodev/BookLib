@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">83</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a47ea70-9adb-48c0-b639-346affb370d7</dc:identifier>
+        <dc:title>Investments</dc:title>
+        <dc:creator opf:file-as="Bodie, Zvi &amp; Kane, Alex &amp; Marcus, Alan J." opf:role="aut">Zvi Bodie</dc:creator>
+        <dc:creator opf:file-as="Bodie, Zvi &amp; Kane, Alex &amp; Marcus, Alan J." opf:role="aut">Alex Kane</dc:creator>
+        <dc:creator opf:file-as="Bodie, Zvi &amp; Kane, Alex &amp; Marcus, Alan J." opf:role="aut">Alan J. Marcus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-28T01:57:44+00:00</dc:date>
+        <dc:publisher>McGraw-Hill Education</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>investing</dc:subject>
+        <dc:subject>finance</dc:subject>
+        <dc:subject>financial analysis</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Zvi Bodie&quot;: &quot;&quot;, &quot;Alex Kane&quot;: &quot;&quot;, &quot;Alan J. Marcus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-26T06:17:38+00:00"/>
+        <meta name="calibre:title_sort" content="Investments"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

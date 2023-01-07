@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">67</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4314d110-337a-4f4d-82ec-4825df6fa01a</dc:identifier>
+        <dc:title>Asset-Liability and Liquidity Management</dc:title>
+        <dc:creator opf:file-as="Farahvash, Pooya" opf:role="aut">Pooya Farahvash</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-27T10:26:56+00:00</dc:date>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>finance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pooya Farahvash&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-22T08:10:07+00:00"/>
+        <meta name="calibre:title_sort" content="Asset-Liability and Liquidity Management"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
