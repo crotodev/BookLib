@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75b82c38-5a56-4fa0-aeed-68d9d22d1d28</dc:identifier>
+        <dc:title>Learning the vi and Vim Editors, 8th Edition</dc:title>
+        <dc:creator opf:file-as="Robbins, Arnold &amp; Hannah, Elbert" opf:role="aut">Arnold Robbins</dc:creator>
+        <dc:creator opf:file-as="Robbins, Arnold &amp; Hannah, Elbert" opf:role="aut">Elbert Hannah</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-25T05:00:00+00:00</dc:date>
+        <dc:description>&lt;span&gt;&lt;div&gt;&lt;p&gt;vi and its derivatives are perhaps the most important family of text editors in the programming community. With this updated guide, Unix and Linux users will learn text editing basics for both vi and Vim ("vi improved") before moving onto advanced editing tools for each editor. Authors Elbert Hannah and Arnold Robbins cover the latest major releases of Vim, including 8.0 and 8.2.&lt;/p&gt;&lt;p&gt;Whether you're a programmer or computer analyst or you work with browsers or command-line interfaces, you'll examine multi-window editing, global search and replacement, power tools for programmers, and how to write interactive macros and scripts to extend the editor-all in the easy-to-follow style that's made this book a classic.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Go beyond the basics to learn which vi commands fit your specific needs&lt;/li&gt;&lt;li&gt;Learn advanced vi tools that shift some of the editing burden to the computer&lt;/li&gt;&lt;li&gt;Explore Vim tools that provide major improvements over vi&lt;/li&gt;&lt;li&gt;Examine Vim's multi-window editing feature, a significant upgrade over vi&lt;/li&gt;&lt;li&gt;Use Vim scripts to customize and tailor Vim to suit your needs&lt;/li&gt;&lt;li&gt;Look at Vim in modern GUI environments with Graphical Vim (gvim)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781492078807</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>vim</dc:subject>
+        <dc:subject>programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arnold Robbins&quot;: &quot;&quot;, &quot;Elbert Hannah&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-14T17:46:59+00:00"/>
+        <meta name="calibre:title_sort" content="Learning the vi and Vim Editors, 8th Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
