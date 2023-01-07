@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4abb3c66-db93-49e5-9586-1a90387e6061</dc:identifier>
+        <dc:title>Introduction to Python Network Automation</dc:title>
+        <dc:creator opf:file-as="Choi, Brendan" opf:role="aut">Brendan Choi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-25T04:00:00+00:00</dc:date>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484268056</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>automation</dc:subject>
+        <dc:subject>python</dc:subject>
+        <dc:subject>programming</dc:subject>
+        <dc:subject>network</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brendan Choi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-14T19:13:18+00:00"/>
+        <meta name="calibre:title_sort" content="Introduction to Python Network Automation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

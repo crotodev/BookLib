@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">68</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f763e3f3-f961-43bb-9c4e-35140bc32116</dc:identifier>
+        <dc:title>A Random Walk Down Wall Street</dc:title>
+        <dc:creator opf:file-as="Malkiel, Burton G." opf:role="aut">Burton G. Malkiel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;The best investment guide money can buy, with more than 1.5 million copies sold, now fully revised and updated.&lt;/p&gt;&lt;p&gt;Today's stock market is not for the faint of heart. At a time of frightening volatility, what is the average investor to do?&lt;/p&gt;&lt;p&gt;The answer: turn to Burton G. Malkiel's advice in his reassuring, authoritative, gimmick-free, and perennially best-selling guide to investing. Long established as the first book to purchase before starting a portfolio or 401(k), A Random Walk Down Wall Street now features new material on "tax-loss harvesting," the crown jewel of tax management; the current bitcoin bubble; and automated investment advisers; as well as a brand-new chapter on factor investing and risk parity. And as always, Malkiel's core insights&amp;#8212;on stocks and bonds, as well as real estate investment trusts, home ownership, and tangible assets like gold and collectibles&amp;#8212; along with the book's classic life-cycle guide to investing, will help restore...</dc:description>
+        <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780393356939</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>wall street</dc:subject>
+        <dc:subject>finance</dc:subject>
+        <dc:subject>investing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Burton G. Malkiel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-22T15:46:11+00:00"/>
+        <meta name="calibre:title_sort" content="Random Walk Down Wall Street, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

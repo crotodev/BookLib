@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51780732-327f-4605-9a82-94d8fc5e5bc2</dc:identifier>
+        <dc:title>Financial Modeling in Excel® For Dummies®, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Fairhurst, Danielle Stein" opf:role="aut">Danielle Stein Fairhurst</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-04T04:24:02+00:00</dc:date>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>finance</dc:subject>
+        <dc:subject>financial modeling</dc:subject>
+        <dc:subject>for dummies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Danielle Stein Fairhurst&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="For Dummies Business &amp; Personal Finance"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-12-22T07:30:52+00:00"/>
+        <meta name="calibre:title_sort" content="Financial Modeling in Excel® For Dummies®, 2nd Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

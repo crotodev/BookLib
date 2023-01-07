@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">175</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47373777-6a1f-4e98-ba95-318bba444ee5</dc:identifier>
+        <dc:title>Hyperfocus: How to Be More Productive in a World of Distraction</dc:title>
+        <dc:creator opf:file-as="Bailey, Chris" opf:role="aut">Chris Bailey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-28T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;A practical guide to managing your attention&amp;#8212;the most powerful resource you have to get stuff done, become more creative, and live a meaningful life&lt;/b&gt;&lt;br&gt;Our attention has never been as overwhelmed as it is today. Many of us recognize that our brains are unable to multitask but feel compelled to do so anyway, as we easily become uncomfortable and try to cram as much into every moment of our lives as we can. &lt;i&gt;Hyperfocus&lt;/i&gt; provides profound insights into how we can best manage our attention in a distressed world. &lt;br&gt;The most recent neuroscientific research on attention reveals that our brain has two powerful modes that can be unlocked when we use our attention well: a focused mode (hyperfocus), which is the foundation for being highly productive, and a creative mode (scatterfocus), which enables us to connect ideas in novel ways. &lt;i&gt;Hyperfocus&lt;/i&gt; helps readers unlock each of the two mental modes so they can concentrate more deeply, think more clearly, and work and...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Chris Bailey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-07T05:39:18+00:00"/>
+        <meta name="calibre:title_sort" content="Hyperfocus: How to Be More Productive in a World of Distraction"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

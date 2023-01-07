@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">120</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca4b6c44-8f35-45f1-982c-d0986e480025</dc:identifier>
+        <dc:title>Embedded System Design with ARM Cortex-M Microcontrollers: Applications with C, C++ and MicroPython</dc:title>
+        <dc:creator opf:file-as="Ünsalan, Cem &amp; Gürhan, Hüseyin Deniz &amp; Yücel, Mehmet Erkin" opf:role="aut">Cem Ünsalan</dc:creator>
+        <dc:creator opf:file-as="Ünsalan, Cem &amp; Gürhan, Hüseyin Deniz &amp; Yücel, Mehmet Erkin" opf:role="aut">Hüseyin Deniz Gürhan</dc:creator>
+        <dc:creator opf:file-as="Ünsalan, Cem &amp; Gürhan, Hüseyin Deniz &amp; Yücel, Mehmet Erkin" opf:role="aut">Mehmet Erkin Yücel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Springer International Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783030884390</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>IoT</dc:subject>
+        <dc:subject>microcontrollers</dc:subject>
+        <dc:subject>micropython</dc:subject>
+        <dc:subject>programming</dc:subject>
+        <dc:subject>python</dc:subject>
+        <dc:subject>raspberry pi</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cem Ünsalan&quot;: &quot;&quot;, &quot;Hüseyin Deniz Gürhan&quot;: &quot;&quot;, &quot;Mehmet Erkin Yücel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-27T19:33:06+00:00"/>
+        <meta name="calibre:title_sort" content="Embedded System Design with ARM Cortex-M Microcontrollers: Applications with C, C++ and MicroPython"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
