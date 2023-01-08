@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">193</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d98a15fa-3158-48a3-9387-bd0e4f88301f</dc:identifier>
+        <dc:title>Python for Algorithmic Trading</dc:title>
+        <dc:creator opf:file-as="Hilpisch, Yves" opf:role="aut">Yves Hilpisch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-25T05:00:00+00:00</dc:date>
+        <dc:description>&lt;span&gt;&lt;div&gt;&lt;p&gt;Financial trading, once the exclusive domain of institutional players, is now open to small organizations and individual traders using online platforms. The tool of choice for many traders today is Python and its ecosystem of powerful packages. In this practical book, author Yves Hilpisch shows students, academics, and practitioners how to use Python in the fascinating field of algorithmic trading.&lt;/p&gt;&lt;p&gt;You’ll learn several ways to apply Python to different aspects of algorithmic trading, such as backtesting trading strategies and interacting with online trading platforms. Some of the biggest buy- and sell-side institutions make heavy use of Python. By exploring options for systematically building and deploying automated algorithmic trading strategies, this book will help you level the playing field.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Set up a proper Python environment for algorithmic trading&lt;/li&gt;&lt;li&gt;Learn how to retrieve financial data from public and proprietary data sources&lt;/li&gt;&lt;li&gt;Explore vectorization for financial analytics with NumPy and pandas&lt;/li&gt;&lt;li&gt;Master vectorized backtesting of different algorithmic trading strategies&lt;/li&gt;&lt;li&gt;Generate market predictions by using machine learning and deep learning&lt;/li&gt;&lt;li&gt;Tackle real-time processing of streaming data with socket programming tools&lt;/li&gt;&lt;li&gt;Implement automated algorithmic trading strategies with the OANDA and FXCM platforms&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781492053354</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>finance</dc:subject>
+        <dc:subject>programming</dc:subject>
+        <dc:subject>python</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yves Hilpisch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-08T16:58:36.464271+00:00"/>
+        <meta name="calibre:title_sort" content="Python for Algorithmic Trading"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

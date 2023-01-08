@@ -5,11 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6429e03e-8835-4098-bcca-2057bd23bfce</dc:identifier>
         <dc:title>The Power of Habit 7 Steps to Successful Habits</dc:title>
         <dc:creator opf:file-as="Tracy, Brian" opf:role="aut">Brian Tracy</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-09-26T21:45:42+00:00</dc:date>
         <dc:language>en</dc:language>
+        <dc:subject>self-improvement</dc:subject>
+        <dc:subject>productivity</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Brian Tracy&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-08T05:18:35.796827+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-08T05:18:35+00:00"/>
         <meta name="calibre:title_sort" content="Power of Habit 7 Steps to Successful Habits, The"/>
     </metadata>
     <guide>
