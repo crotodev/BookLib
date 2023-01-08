@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">179</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37af7f7e-0d54-40bc-a10c-38c4ddbfe7a8</dc:identifier>
+        <dc:title>The Time Paradox</dc:title>
+        <dc:creator opf:file-as="Zimbardo, Philip &amp; Boyd, John" opf:role="aut">Philip Zimbardo</dc:creator>
+        <dc:creator opf:file-as="Zimbardo, Philip &amp; Boyd, John" opf:role="aut">John Boyd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-05T04:00:00+00:00</dc:date>
+        <dc:publisher>Atria Books</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Philip Zimbardo&quot;: &quot;&quot;, &quot;John Boyd&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-08T02:28:17+00:00"/>
+        <meta name="calibre:title_sort" content="Time Paradox, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
