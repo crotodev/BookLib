@@ -5,9 +5,9 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">fae3919a-a2f8-4c7a-9c9b-29b30e086a80</dc:identifier>
         <dc:title>Personal Finance for Dummies</dc:title>
         <dc:creator opf:file-as="Tyson, Eric" opf:role="aut">Eric Tyson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-10-01T04:15:41+00:00</dc:date>
-        <dc:publisher>Wiley</dc:publisher>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
         <dc:language>eng</dc:language>
         <dc:subject>personal finance</dc:subject>
         <dc:subject>finance</dc:subject>

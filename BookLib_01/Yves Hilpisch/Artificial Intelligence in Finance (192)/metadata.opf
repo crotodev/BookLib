@@ -7,6 +7,7 @@
         <dc:creator opf:file-as="Hilpisch, Yves" opf:role="aut">Yves Hilpisch</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-10-14T14:36:49+00:00</dc:date>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
         <dc:language>en</dc:language>
         <dc:subject>finance</dc:subject>
         <dc:subject>programming</dc:subject>
