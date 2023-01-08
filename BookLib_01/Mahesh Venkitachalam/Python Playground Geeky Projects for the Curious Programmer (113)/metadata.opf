@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d646f5de-71ac-4008-828c-d0087fe88b97</dc:identifier>
         <dc:title>Python Playground Geeky Projects for the Curious Programmer</dc:title>
         <dc:creator opf:file-as="Venkitachalam, Mahesh" opf:role="aut">Mahesh Venkitachalam</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-09-29T22:01:09+00:00</dc:date>
         <dc:publisher>No Starch Press</dc:publisher>
         <dc:language>eng</dc:language>

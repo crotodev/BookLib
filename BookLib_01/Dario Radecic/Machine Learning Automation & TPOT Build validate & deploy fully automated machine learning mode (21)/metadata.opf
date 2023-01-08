@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8c132a24-cfd4-49b3-bee1-2daaf045d1d6</dc:identifier>
         <dc:title>Machine Learning Automation &amp; TPOT Build validate &amp; deploy fully automated machine learning models &amp; Python</dc:title>
         <dc:creator opf:file-as="Radečić, Dario" opf:role="aut">Dario Radečić</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-05-07T04:00:00+00:00</dc:date>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781800567887</dc:identifier>

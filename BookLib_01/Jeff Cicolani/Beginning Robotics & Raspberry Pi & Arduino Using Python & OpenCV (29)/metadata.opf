@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">684385be-fb23-490f-b4b2-29b05b399159</dc:identifier>
         <dc:title>Beginning Robotics &amp; Raspberry Pi &amp; Arduino Using Python &amp; OpenCV</dc:title>
         <dc:creator opf:file-as="Cicolani, Jeff" opf:role="aut">Jeff Cicolani</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-03-01T07:35:00+00:00</dc:date>
         <dc:publisher>Apress</dc:publisher>
         <dc:language>eng</dc:language>

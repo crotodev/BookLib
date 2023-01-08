@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1bc80d1c-0b23-45a3-8c4f-4422cd95aa0f</dc:identifier>
         <dc:title>The Official Raspberry Pi Handbook 2022</dc:title>
         <dc:creator opf:file-as="Hattersley, Lucy" opf:role="aut">Lucy Hattersley</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-09-22T09:55:13+00:00</dc:date>
         <dc:publisher>Raspberry Pi Press</dc:publisher>
         <dc:language>eng</dc:language>

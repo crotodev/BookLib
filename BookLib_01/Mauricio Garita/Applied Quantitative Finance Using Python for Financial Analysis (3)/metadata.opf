@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b26abc95-4cb4-4607-b3c4-fa45f34e339b</dc:identifier>
         <dc:title>Applied Quantitative Finance Using Python for Financial Analysis</dc:title>
         <dc:creator opf:file-as="Garita, Mauricio" opf:role="aut">Mauricio Garita</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-09-04T04:00:00+00:00</dc:date>
         <dc:publisher>Palgrave Pivot</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9783030291402</dc:identifier>

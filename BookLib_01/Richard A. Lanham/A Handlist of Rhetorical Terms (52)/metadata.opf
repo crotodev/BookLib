@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">0906cd8c-91c0-4c02-a3ec-ea9b9a64568a</dc:identifier>
         <dc:title>A Handlist of Rhetorical Terms</dc:title>
         <dc:creator opf:file-as="Lanham, Richard A." opf:role="aut">Richard A. Lanham</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2006-12-18T23:05:50+00:00</dc:date>
         <dc:description>Rhetoric</dc:description>
         <dc:language>eng</dc:language>

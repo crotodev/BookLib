@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">399871a7-92a0-4281-95af-ecc2abad94c9</dc:identifier>
         <dc:title>CompTIA® Advanced Security Practitioner (CASP+) CAS-004 Cert Guide</dc:title>
         <dc:creator opf:file-as="McMillan, Troy" opf:role="aut">Troy McMillan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-01-15T00:00:00+00:00</dc:date>
         <dc:publisher>Pearson</dc:publisher>
         <dc:language>eng</dc:language>

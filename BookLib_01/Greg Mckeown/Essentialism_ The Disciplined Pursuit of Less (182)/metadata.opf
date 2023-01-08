@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ffe3ac60-633e-4bc2-bf18-5a9ea63afb8f</dc:identifier>
         <dc:title>Essentialism: The Disciplined Pursuit of Less</dc:title>
         <dc:creator opf:file-as="Mckeown, Greg" opf:role="aut">Greg Mckeown</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-04-15T00:00:00+00:00</dc:date>
         <dc:description>&lt;b&gt;Uploaded by [StormRG]&lt;/b&gt;</dc:description>
         <dc:publisher>Crown Publishing Group</dc:publisher>
@@ -13,7 +13,7 @@
         <dc:identifier opf:scheme="MOBI-ASIN">B00G1J1D28</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Greg Mckeown&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-08T04:50:27.326070+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-08T04:50:27+00:00"/>
         <meta name="calibre:title_sort" content="Essentialism: The Disciplined Pursuit of Less"/>
     </metadata>
     <guide>

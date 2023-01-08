@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8cbcc991-ded3-41a4-84c5-81dfd3edd2f0</dc:identifier>
+        <dc:title>Mastering Python for Finance, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="James Ma Weiming" opf:role="aut">James Ma Weiming</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-30T04:00:00+00:00</dc:date>
+        <dc:description>&lt;span&gt;&lt;p&gt;&lt;b&gt;Take your financial skills to the next level by mastering cutting-edge mathematical and statistical financial applications&lt;/b&gt;&lt;/p&gt;&lt;h4&gt;Key Features&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Explore advanced financial models used by the industry and ways of solving them using Python
+&lt;/li&gt;&lt;li&gt;Build state-of-the-art infrastructure for modeling, visualization, trading, and more
+&lt;/li&gt;&lt;li&gt;Empower your financial applications by applying machine learning and deep learning&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Book Description&lt;/h4&gt;&lt;p&gt;The second edition of Mastering Python for Finance will guide you through carrying out complex financial calculations practiced in the industry of finance by using next-generation methodologies. You will master the Python ecosystem by leveraging publicly available tools to successfully perform research studies and modeling, and learn to manage risks with the help of advanced examples.
+&lt;/p&gt;&lt;p&gt;You will start by setting up your Jupyter notebook to implement the tasks throughout the book. You will learn to make efficient and powerful data-driven financial decisions using popular libraries such as TensorFlow, Keras, Numpy, SciPy, and scikit-learn. You will also learn how to build financial applications by mastering concepts such as stocks, options, interest rates and their derivatives, and risk analytics using computational methods. With these foundations, you will learn to apply statistical analysis to time series data, and understand how time series data is useful for implementing an event-driven backtesting system and for working with high-frequency data in building an algorithmic trading platform. Finally, you will explore machine learning and deep learning techniques that are applied in finance.&lt;/p&gt;&lt;p&gt;By the end of this book, you will be able to apply Python to different paradigms in the financial industry and perform efficient data analysis.&lt;/p&gt;&lt;h4&gt;What you will learn&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Solve linear and nonlinear models representing various financial problems
+&lt;/li&gt;&lt;li&gt;Perform principal component analysis on the DOW index and its components
+&lt;/li&gt;&lt;li&gt;Analyze, predict, and forecast stationary and non-stationary time series processes
+&lt;/li&gt;&lt;li&gt;Create an event-driven backtesting tool and measure your strategies
+&lt;/li&gt;&lt;li&gt;Build a high-frequency algorithmic trading platform with Python
+&lt;/li&gt;&lt;li&gt;Replicate the CBOT VIX index with SPX options for studying VIX-based strategies
+&lt;/li&gt;&lt;li&gt;Perform regression-based and classification-based machine learning tasks for prediction
+&lt;/li&gt;&lt;li&gt;Use TensorFlow and Keras in deep learning neural network architecture&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Who this book is for&lt;/h4&gt;&lt;p&gt;If you are a financial or data analyst or a software developer in the financial industry who is interested in using advanced Python techniques for quantitative methods in finance, this is the book you need! You will also find this book useful if you want to extend the functionalities of your existing financial applications by using smart machine learning techniques. Prior experience in Python is required.&lt;/p&gt;&lt;p&gt;Downloading the example code for this ebook: You can download the example code files for this ebook on GitHub at the following link: &lt;a href="https://github.com/PacktPublishing/Mastering-Python-for-Finance-Second-Edition"&gt;https://github.com/PacktPublishing/Mastering-Python-for-Finance-Second-Edition&lt;/a&gt;. If you require support please email: customercare@packt.com&lt;/p&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781789346466</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;James Ma Weiming&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-08T19:26:34.027723+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering Python for Finance, 2nd Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
