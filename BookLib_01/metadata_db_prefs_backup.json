@@ -17,6 +17,18 @@
   ],
   "gui_view_history": [
     [
+      131,
+      "The Last Wish: Introducing The Witcher"
+    ],
+    [
+      132,
+      "Blood of Elves"
+    ],
+    [
+      197,
+      "James Ma Weiming"
+    ],
+    [
       175,
       "Hyperfocus: How to Be More Productive in a World of Distraction"
     ],
@@ -46,45 +58,25 @@
     ]
   ],
   "library_view books view state": {
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    },
-    "column_positions": {
-      "authors": 2,
-      "languages": 11,
-      "last_modified": 10,
-      "ondevice": 0,
-      "pubdate": 9,
-      "publisher": 8,
-      "rating": 5,
-      "series": 7,
-      "size": 4,
-      "tags": 6,
-      "timestamp": 3,
-      "title": 1
-    },
-    "column_sizes": {
-      "authors": 350,
-      "languages": 0,
-      "last_modified": 0,
-      "pubdate": 90,
-      "publisher": 208,
-      "rating": 68,
-      "series": 279,
-      "size": 88,
-      "tags": 350,
-      "timestamp": 96,
-      "title": 350
-    },
     "hidden_columns": [
       "last_modified",
       "languages"
     ],
-    "languages_injected": true,
     "last_modified_injected": true,
+    "languages_injected": true,
     "sort_history": [
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "publisher",
+        true
+      ],
+      [
+        "title",
+        false
+      ],
       [
         "timestamp",
         false
@@ -101,7 +93,39 @@
         "timestamp",
         false
       ]
-    ]
+    ],
+    "column_positions": {
+      "ondevice": 0,
+      "title": 1,
+      "authors": 2,
+      "timestamp": 3,
+      "size": 4,
+      "rating": 5,
+      "tags": 6,
+      "series": 7,
+      "publisher": 8,
+      "pubdate": 9,
+      "last_modified": 10,
+      "languages": 11
+    },
+    "column_sizes": {
+      "title": 350,
+      "authors": 350,
+      "timestamp": 96,
+      "size": 88,
+      "rating": 68,
+      "tags": 350,
+      "series": 279,
+      "publisher": 208,
+      "pubdate": 90,
+      "last_modified": 0,
+      "languages": 0
+    },
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    }
   },
   "books view split pane state": {
     "column_positions": {
