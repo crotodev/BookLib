@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">204</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe3937df-b05b-4027-ace4-9b886658dc21</dc:identifier>
+        <dc:title>The Daily Laws: 366 Meditations on Power, Seduction, Mastery, Strategy, and Human Nature</dc:title>
+        <dc:creator opf:file-as="Greene, Robert" opf:role="aut">Robert Greene</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-12T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;&lt;b&gt;From the world&amp;rsquo;s foremost expert on power and strategy comes a daily devotional designed to help you seize your destiny.&lt;/b&gt;&lt;/b&gt;&lt;br&gt;Robert Greene, the #1 &lt;i&gt;New York Times&lt;/i&gt; bestselling author, has been the consigliere to millions for more than two decades. Now, with entries that are drawn from his six books, plus never-before-published works, &lt;i&gt;The Daily Laws&lt;/i&gt; offers a page of refined and concise wisdom for each day of the year, in an easy-to-digest lesson that will only take a few minutes to absorb. Each day will feature a Daily Law as well&amp;mdash;a prescription that readers cannot afford to ignore in the battle of life. Each month will center around a major theme: power, seduction, persuasion, strategy, human nature, toxic people, self-control, mastery, psychology, leadership, adversity, or creativity.&lt;br&gt;&amp;nbsp;&lt;br&gt;Who doesn&amp;rsquo;t want to be more powerful? More in control? The best at what they do? The secret: Read this book every...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>productivity</dc:subject>
+        <dc:subject>self-improvement</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Greene&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-09T03:56:06.748497+00:00"/>
+        <meta name="calibre:title_sort" content="Daily Laws: 366 Meditations on Power, Seduction, Mastery, Strategy, and Human Nature, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
