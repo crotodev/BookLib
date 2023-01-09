@@ -6,13 +6,13 @@
         <dc:title>The Hitchhiker’s Guide To Python</dc:title>
         <dc:creator opf:file-as="Reitz, Kenneth &amp; Schlusser, Tanya" opf:role="aut">Kenneth Reitz</dc:creator>
         <dc:creator opf:file-as="Reitz, Kenneth &amp; Schlusser, Tanya" opf:role="aut">Tanya Schlusser</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-09-14T00:00:00+00:00</dc:date>
         <dc:description>The Hitchhiker's Guide to Python takes the journeyman Pythonista to true expertise. More than any other language, Python was created with the philosophy of simplicity and parsimony. Now 25 years old, Python has become the primary or secondary language (after SQL) for many business users. With popularity comes diversity—and possibly dilution.   This guide, collaboratively written by over a hundred members of the Python community, describes best practices currently used by package and application developers. Unlike other books for this audience, The Hitchhiker’s Guide is light on reusable code and heavier on design philosophy, directing the reader to excellent sources that already exist.</dc:description>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Kenneth Reitz&quot;: &quot;&quot;, &quot;Tanya Schlusser&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-08T16:47:30.826894+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-08T16:47:30+00:00"/>
         <meta name="calibre:title_sort" content="Hitchhiker’s Guide To Python, The"/>
     </metadata>
     <guide>

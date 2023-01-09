@@ -5,9 +5,9 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2c19a0a6-8bb4-4c04-94a3-c7b45bb44dc2</dc:identifier>
         <dc:title>Make It Stick</dc:title>
         <dc:creator opf:file-as="Brown, Peter C." opf:role="aut">Peter C. Brown</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-01-22T04:45:58+00:00</dc:date>
-        <dc:language>en</dc:language>
+        <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Peter C. Brown&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-08T04:57:55+00:00"/>
         <meta name="calibre:title_sort" content="Make It Stick"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ba0eca9e-3cfb-4edf-825d-e263cba48ae2</dc:identifier>
         <dc:title>Numerical Python Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib</dc:title>
         <dc:creator opf:file-as="Johansson, Robert" opf:role="aut">Robert Johansson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-12-19T03:12:11+00:00</dc:date>
         <dc:publisher>Apress</dc:publisher>
         <dc:language>eng</dc:language>

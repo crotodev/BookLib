@@ -6,12 +6,12 @@
         <dc:title>Learning Python for Forensics Leverage the power of Python in forensic investigations</dc:title>
         <dc:creator opf:file-as="Miller, Preston &amp; Bryce, Chapin" opf:role="aut">Preston Miller</dc:creator>
         <dc:creator opf:file-as="Miller, Preston &amp; Bryce, Chapin" opf:role="aut">Chapin Bryce</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-01-31T21:35:23+00:00</dc:date>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:language>en</dc:language>
+        <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Preston Miller&quot;: &quot;&quot;, &quot;Chapin Bryce&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-08T22:08:46.777423+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-08T22:08:46+00:00"/>
         <meta name="calibre:title_sort" content="Learning Python for Forensics Leverage the power of Python in forensic investigations"/>
     </metadata>
     <guide>

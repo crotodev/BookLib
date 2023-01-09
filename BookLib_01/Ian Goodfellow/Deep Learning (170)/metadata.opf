@@ -7,9 +7,9 @@
         <dc:creator opf:file-as="Goodfellow, Ian &amp; Bengio, Yoshua &amp; Courvil, Aaron" opf:role="aut">Ian Goodfellow</dc:creator>
         <dc:creator opf:file-as="Goodfellow, Ian &amp; Bengio, Yoshua &amp; Courvil, Aaron" opf:role="aut">Yoshua Bengio</dc:creator>
         <dc:creator opf:file-as="Goodfellow, Ian &amp; Bengio, Yoshua &amp; Courvil, Aaron" opf:role="aut">Aaron Courvil</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-08-26T11:03:09+00:00</dc:date>
-        <dc:language>en</dc:language>
+        <dc:language>eng</dc:language>
         <dc:subject>deep learning</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Ian Goodfellow&quot;: &quot;&quot;, &quot;Yoshua Bengio&quot;: &quot;&quot;, &quot;Aaron Courvil&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-04T16:00:36+00:00"/>

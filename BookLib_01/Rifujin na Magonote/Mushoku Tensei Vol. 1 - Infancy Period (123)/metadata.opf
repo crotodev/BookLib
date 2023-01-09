@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">910e77bc-64c0-4b79-a7c7-671a5c9c9da6</dc:identifier>
         <dc:title>Mushoku Tensei Vol. 1 - Infancy Period</dc:title>
         <dc:creator opf:file-as="Magonote, Rifujin na" opf:role="aut">Rifujin na Magonote</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>Kadokawa Shoten</dc:publisher>
         <dc:language>eng</dc:language>

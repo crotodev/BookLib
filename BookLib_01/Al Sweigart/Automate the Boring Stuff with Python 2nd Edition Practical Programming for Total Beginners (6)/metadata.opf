@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">12468d6b-8b16-4948-86f4-31f747b4cb9c</dc:identifier>
         <dc:title>Automate the Boring Stuff with Python 2nd Edition Practical Programming for Total Beginners</dc:title>
         <dc:creator opf:file-as="Sweigart, Al" opf:role="aut">Al Sweigart</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-11-12T05:00:00+00:00</dc:date>
         <dc:publisher>No Starch Press</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781593279929</dc:identifier>

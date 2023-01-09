@@ -6,7 +6,7 @@
         <dc:title>Mastering the Art of French Cooking</dc:title>
         <dc:creator opf:file-as="Beck, Simone &amp; Child, Julia" opf:role="aut">Simone Beck</dc:creator>
         <dc:creator opf:file-as="Beck, Simone &amp; Child, Julia" opf:role="aut">Julia Child</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Simone Beck&quot;: &quot;&quot;, &quot;Julia Child&quot;: &quot;&quot;}"/>
