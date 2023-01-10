@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">bffcb7c6-7a0f-403f-9217-093a88c964b4</dc:identifier>
         <dc:title>Data Science from Scratch</dc:title>
         <dc:creator opf:file-as="Grus, Joel" opf:role="aut">Joel Grus</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-04-17T00:00:00+00:00</dc:date>
         <dc:description>&lt;p&gt;Data science libraries, frameworks, modules, and toolkits are great for doing data science, but they're also a good way to dive into the discipline without actually understanding data science. With this updated second edition, you'll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch.&lt;/p&gt;&lt;p&gt;If you have an aptitude for mathematics and some programming skills, author Joel Grus will help you get comfortable with the math and statistics at the core of data science, and with hacking skills you need to get started as a data scientist. Today's messy glut of data holds answers to questions no one's even thought to ask. This book provides you with the know-how to dig those answers out.&lt;/p&gt;</dc:description>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>

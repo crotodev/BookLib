@@ -7,14 +7,14 @@
         <dc:creator opf:file-as="Spina, Julia &amp; Kulikov, Anton &amp; Sosnoff, Tom" opf:role="aut">Julia Spina</dc:creator>
         <dc:creator opf:file-as="Spina, Julia &amp; Kulikov, Anton &amp; Sosnoff, Tom" opf:role="aut">Anton Kulikov</dc:creator>
         <dc:creator opf:file-as="Spina, Julia &amp; Kulikov, Anton &amp; Sosnoff, Tom" opf:role="aut">Tom Sosnoff</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-02-23T00:00:00+00:00</dc:date>
         <dc:description>&lt;p&gt;&lt;b&gt;An approachable guide to sustainable options trading, minimal luck needed. &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Traders who are successful long-term do not rely on luck, but rather their ability to adapt, strategize, and utilize available tools and information. Modern markets are becoming increasingly accessible to the average consumer, and the emergence of retail options trading is opening a world of opportunities for the individual investor. Options are highly versatile and complex financial instruments that were exclusive to industry professionals until recently. So where should beginners start? &lt;i&gt;The Unlucky Investor's Guide to Options Trading&lt;/i&gt; breaks down the science of options trading to suit interested traders from any background. Using statistics and historical options data, readers will develop an intuitive understanding of the potential risks and rewards of options contracts. From the basics of options trading to strategy construction and portfolio management, &lt;i&gt;The Unlucky Investor's...</dc:description>
         <dc:publisher>John Wiley &amp; Sons</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781119882664</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Julia Spina&quot;: &quot;&quot;, &quot;Anton Kulikov&quot;: &quot;&quot;, &quot;Tom Sosnoff&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-10T06:52:45.623922+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-10T06:52:45+00:00"/>
         <meta name="calibre:title_sort" content="Unlucky Investor's Guide to Options Trading, The"/>
     </metadata>
     <guide>

@@ -13,7 +13,7 @@
         <dc:creator opf:file-as="Alteen, Nick &amp; Fisher, Jennifer &amp; Gerena, Casey &amp; Gruver, Wes &amp; Jalis, Asim &amp; Osman, Heiwad &amp; Pagan, Marife &amp; Patlolla, Santosh &amp; Roth, Michael" opf:role="aut">Marife Pagan</dc:creator>
         <dc:creator opf:file-as="Alteen, Nick &amp; Fisher, Jennifer &amp; Gerena, Casey &amp; Gruver, Wes &amp; Jalis, Asim &amp; Osman, Heiwad &amp; Pagan, Marife &amp; Patlolla, Santosh &amp; Roth, Michael" opf:role="aut">Santosh Patlolla</dc:creator>
         <dc:creator opf:file-as="Alteen, Nick &amp; Fisher, Jennifer &amp; Gerena, Casey &amp; Gruver, Wes &amp; Jalis, Asim &amp; Osman, Heiwad &amp; Pagan, Marife &amp; Patlolla, Santosh &amp; Roth, Michael" opf:role="aut">Michael Roth</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>Tutorials Dojo</dc:publisher>
         <dc:language>eng</dc:language>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">76cae505-47fb-49fa-88c5-3e1c3e06452b</dc:identifier>
         <dc:title>Damodaran on Valuation, 2nd Edition</dc:title>
         <dc:creator opf:file-as="Damodaran, Aswath" opf:role="aut">Aswath Damodaran</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>John Wiley &amp; Sons</dc:publisher>
         <dc:language>eng</dc:language>

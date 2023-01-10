@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f6a0cfc8-c1f9-433f-abc5-1d416be62687</dc:identifier>
         <dc:title>Angelas Ashes</dc:title>
         <dc:creator opf:file-as="Mccourt, Frank" opf:role="aut">Frank Mccourt</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:identifier opf:scheme="ISBN">0684874350</dc:identifier>
         <dc:language>eng</dc:language>

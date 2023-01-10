@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a0089f71-dd3a-49b1-97ff-2ad75a07683c</dc:identifier>
         <dc:title>Hands-On Penetration Testing &amp; Python Enhance your ethical hacking skills to build automated &amp; intelligent systems 2019</dc:title>
         <dc:creator opf:file-as="Khan, Furqan" opf:role="aut">Furqan Khan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:language>eng</dc:language>

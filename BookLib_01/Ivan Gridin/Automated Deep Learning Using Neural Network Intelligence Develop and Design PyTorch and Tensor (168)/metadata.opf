@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c2413ae4-1ccf-401d-9f66-a6d653bc9f5f</dc:identifier>
         <dc:title>Automated Deep Learning Using Neural Network Intelligence Develop and Design PyTorch and TensorFlow Models Using Python</dc:title>
         <dc:creator opf:file-as="Gridin, Ivan" opf:role="aut">Ivan Gridin</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-06-15T19:23:00+00:00</dc:date>
         <dc:publisher>Apress</dc:publisher>
         <dc:language>eng</dc:language>

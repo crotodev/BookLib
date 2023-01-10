@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c510f1ee-1fba-495a-b3fa-0ecd56d5f497</dc:identifier>
         <dc:title>Calculus Early Transcendentals 8th Edition (metric version) by James Stewart (z-lib</dc:title>
         <dc:creator opf:file-as="Stewart, James" opf:role="aut">James Stewart</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-06-17T02:09:34+00:00</dc:date>
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;James Stewart&quot;: &quot;&quot;}"/>

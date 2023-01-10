@@ -6,7 +6,7 @@
         <dc:title>How to Read a Book</dc:title>
         <dc:creator opf:file-as="Adler, Mortimer J. &amp; Doren, Charles Van" opf:role="aut">Mortimer J. Adler</dc:creator>
         <dc:creator opf:file-as="Adler, Mortimer J. &amp; Doren, Charles Van" opf:role="aut">Charles Van Doren</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>Touchstone</dc:publisher>
         <dc:language>eng</dc:language>

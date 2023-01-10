@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b1dd6625-ee57-4a3e-a3df-b656b73082e0</dc:identifier>
         <dc:title>Linear Algebra and Its Applications, 4th Edition</dc:title>
         <dc:creator opf:file-as="Strang, Gilbert" opf:role="aut">Gilbert Strang</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-22T04:38:45+00:00</dc:date>
         <dc:language>eng</dc:language>
         <dc:subject>algebra</dc:subject>

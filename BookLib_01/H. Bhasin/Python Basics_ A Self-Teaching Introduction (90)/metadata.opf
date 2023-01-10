@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f082facc-4b84-4173-8efc-dc8388979750</dc:identifier>
         <dc:title>Python Basics: A Self-Teaching Introduction</dc:title>
         <dc:creator opf:file-as="Bhasin, H." opf:role="aut">H. Bhasin</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-12-05T00:00:00+00:00</dc:date>
         <dc:publisher>Mercury Learning and Information</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">B07L5SK5CZ</dc:identifier>

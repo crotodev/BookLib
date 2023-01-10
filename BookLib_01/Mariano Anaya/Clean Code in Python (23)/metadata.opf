@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">42ef2da7-e5f1-455d-bec7-efd9c969fcc4</dc:identifier>
         <dc:title>Clean Code in Python</dc:title>
         <dc:creator opf:file-as="Anaya, Mariano" opf:role="aut">Mariano Anaya</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-01-26T05:00:00+00:00</dc:date>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781800560215</dc:identifier>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">bfca6166-81ed-4494-bbc5-de07fbbcdb43</dc:identifier>
         <dc:title>Python for Finance</dc:title>
         <dc:creator opf:file-as="Hilpisch, Yves" opf:role="aut">Yves Hilpisch</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-10-03T00:00:00+00:00</dc:date>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
         <dc:language>eng</dc:language>

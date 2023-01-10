@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b85cb51d-ce8f-4918-b3ae-5ca30b6e00cb</dc:identifier>
         <dc:title>Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow</dc:title>
         <dc:creator opf:file-as="Géron, Aurélien" opf:role="aut">Aurélien Géron</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-09-26T00:00:00+00:00</dc:date>
         <dc:description>Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This practical book shows you how.</dc:description>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>

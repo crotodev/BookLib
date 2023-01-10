@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7dd94895-cbe4-4891-aa02-a8e7cc74cfb4</dc:identifier>
         <dc:title>Beginning Sensor Networks with XBee, Raspberry Pi, and Arduino: Sensing the World with Python and MicroPython</dc:title>
         <dc:creator opf:file-as="Bell, Charles" opf:role="aut">Charles Bell</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>Apress</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781484257968</dc:identifier>

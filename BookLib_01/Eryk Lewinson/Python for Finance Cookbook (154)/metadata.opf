@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c4c16fee-c70e-48f0-a25e-21b64f96f45f</dc:identifier>
         <dc:title>Python for Finance Cookbook</dc:title>
         <dc:creator opf:file-as="Eryk Lewinson" opf:role="aut">Eryk Lewinson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-01-30T12:17:30+00:00</dc:date>
         <dc:description>Python is becoming the number one language for data science and also quantitative finance. This book provides you with solutions to common tasks from the intersection of quantitative finance and data science, using modern Python libraries.</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
