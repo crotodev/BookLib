@@ -11,6 +11,8 @@
         <dc:publisher>John Wiley &amp; Sons</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781118460146</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>algorithmic trading</dc:subject>
+        <dc:subject>algorithms</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Ernie Chan&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Wiley Trading"/>
         <meta name="calibre:series_index" content="1"/>
