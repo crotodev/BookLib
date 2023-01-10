@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">218</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c95645a-e349-407c-8ba7-d8cc82e15813</dc:identifier>
+        <dc:title>SOFR Futures and Options</dc:title>
+        <dc:creator opf:file-as="Huggins, Doug &amp; Schaller, Christian" opf:role="aut">Christian Schaller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-14T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;i&gt;SOFR Futures and Options&lt;/i&gt; is the practical guide through the maze of the transition from LIBOR. In the first section, it provides an in-depth explanation of the concepts involved: &lt;li&gt;The repo market and the construction of SOFR&lt;/li&gt; &lt;li&gt;SOFR-based lending markets and the term rate&lt;/li&gt; &lt;li&gt;The secured-unsecured basis&lt;/li&gt; &lt;li&gt;SOFR futures and options and their spread contracts&lt;/li&gt; &lt;li&gt;Margin and convexity&lt;/li&gt;&lt;p&gt;Applying these insights, the second section offers detailed worked-through examples of hedging loans, swaps, bonds, and floors with SOFR futures and options, supported by interactive spreadsheets accessible on the web. &lt;p&gt;The gold standard resource for professionals working at financial institutions, &lt;i&gt;SOFR Futures and Options&lt;/i&gt; also belongs in the libraries of students of finance and business, as well as those preparing for the Chartered Financial Analyst exam.</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119888956</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Christian Schaller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-10T06:58:08.407668+00:00"/>
+        <meta name="calibre:title_sort" content="SOFR Futures and Options"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

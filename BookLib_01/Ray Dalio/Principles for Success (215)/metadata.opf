@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">215</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">20352c31-f0a3-4124-b441-166e9a08f4e0</dc:identifier>
+        <dc:title>Principles for Success</dc:title>
+        <dc:creator opf:file-as="Dalio, Ray" opf:role="aut">Ray Dalio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-25T23:00:00+00:00</dc:date>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07Y8Q1BTR</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ray Dalio&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-10T06:46:52.939610+00:00"/>
+        <meta name="calibre:title_sort" content="Principles for Success"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
