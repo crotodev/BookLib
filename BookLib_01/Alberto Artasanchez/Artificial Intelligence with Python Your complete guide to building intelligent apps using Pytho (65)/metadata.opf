@@ -11,9 +11,9 @@
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:language>eng</dc:language>
         <dc:subject>Python</dc:subject>
-        <dc:subject>programming</dc:subject>
+        <dc:subject>Programming</dc:subject>
         <dc:subject>tensorflow</dc:subject>
-        <dc:subject>artificial intelligence</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Alberto Artasanchez&quot;: &quot;&quot;, &quot;Prateek Joshi&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-22T08:07:37+00:00"/>
         <meta name="calibre:title_sort" content="Artificial Intelligence with Python Your complete guide to building intelligent apps using Python 3.x and TensorFlow 2"/>

@@ -11,7 +11,7 @@
         <dc:identifier opf:scheme="ISBN">9781718502031</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Python</dc:subject>
-        <dc:subject>programming</dc:subject>
+        <dc:subject>Programming</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Al Sweigart&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-14T17:46:00+00:00"/>
         <meta name="calibre:title_sort" content="Recursive Book of Recursion, The"/>

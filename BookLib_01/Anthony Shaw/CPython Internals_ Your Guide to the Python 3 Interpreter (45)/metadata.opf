@@ -9,7 +9,7 @@
         <dc:date>2020-05-29T17:54:42+00:00</dc:date>
         <dc:language>eng</dc:language>
         <dc:subject>Python</dc:subject>
-        <dc:subject>programming</dc:subject>
+        <dc:subject>Programming</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Anthony Shaw&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-22T07:26:24+00:00"/>
         <meta name="calibre:title_sort" content="CPython Internals: Your Guide to the Python 3 Interpreter"/>
