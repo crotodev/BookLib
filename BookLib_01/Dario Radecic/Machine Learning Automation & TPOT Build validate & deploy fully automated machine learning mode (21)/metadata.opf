@@ -11,7 +11,7 @@
         <dc:identifier opf:scheme="ISBN">9781800567887</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>machine learning</dc:subject>
-        <dc:subject>programming</dc:subject>
+        <dc:subject>Programming</dc:subject>
         <dc:subject>Python</dc:subject>
         <dc:subject>automation</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Dario Radečić&quot;: &quot;&quot;}"/>
