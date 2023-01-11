@@ -11,7 +11,7 @@
         <dc:identifier opf:scheme="ISBN">9781484271506</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Python</dc:subject>
-        <dc:subject>programming</dc:subject>
+        <dc:subject>Programming</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Joos Korstanje&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-10T19:19:43+00:00"/>
         <meta name="calibre:title_sort" content="Advanced Forecasting with Python: With State-of-the-Art-Models Including LSTMs, Facebook’s Prophet, and Amazon’s DeepAR"/>
