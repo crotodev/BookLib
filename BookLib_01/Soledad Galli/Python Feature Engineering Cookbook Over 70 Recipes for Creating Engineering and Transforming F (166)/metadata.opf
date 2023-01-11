@@ -5,11 +5,11 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">634a883e-a3ce-4ae2-b07a-5879bbfd922b</dc:identifier>
         <dc:title>Python Feature Engineering Cookbook Over 70 Recipes for Creating Engineering and Transforming Features to Build Machine</dc:title>
         <dc:creator opf:file-as="Galli, Soledad" opf:role="aut">Soledad Galli</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:language>eng</dc:language>
-        <dc:subject>python</dc:subject>
+        <dc:subject>Python</dc:subject>
         <dc:subject>programming</dc:subject>
         <dc:subject>machine learning</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Soledad Galli&quot;: &quot;&quot;}"/>

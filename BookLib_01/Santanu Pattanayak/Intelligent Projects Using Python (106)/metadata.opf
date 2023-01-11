@@ -5,12 +5,12 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b4ffc813-7d6b-4b4c-91cc-d381f185654f</dc:identifier>
         <dc:title>Intelligent Projects Using Python</dc:title>
         <dc:creator opf:file-as="Santanu Pattanayak" opf:role="aut">Santanu Pattanayak</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-01-31T22:19:56+00:00</dc:date>
         <dc:description>&lt;p&gt;&lt;b&gt;Implement machine learning and deep learning methodologies to build smart, cognitive AI projects using Python&lt;/b&gt;&lt;p&gt;&lt;b&gt;Key Features&lt;/b&gt;&lt;p&gt;&lt;li&gt;A go-to guide to help you master AI algorithms and concepts&lt;li&gt;8 real-world projects tackling different challenges in healthcare, e-commerce, and surveillance&lt;li&gt;Use TensorFlow, Keras, and other Python libraries to implement smart AI applications&lt;p&gt;&lt;b&gt;Book Description&lt;/b&gt;&lt;p&gt;This book will be a perfect companion if you want to build insightful projects from leading AI domains using Python.&lt;p&gt;The book covers detailed implementation of projects from all the core disciplines of AI. We start by covering the basics of how to create smart systems using machine learning and deep learning techniques. You will assimilate various neural network architectures such as CNN, RNN, LSTM, to solve critical new world challenges. You will learn to train a model to detect diabetic retinopathy conditions in the human eye and create an intelligent system for...</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:language>eng</dc:language>
-        <dc:subject>python</dc:subject>
+        <dc:subject>Python</dc:subject>
         <dc:subject>programming</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Santanu Pattanayak&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-26T19:08:53+00:00"/>

@@ -5,13 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">92fba778-a84f-42c9-aa52-94bec1af7cf2</dc:identifier>
         <dc:title>Python for Data Analysis, 3rd Edition</dc:title>
         <dc:creator opf:file-as="Wes McKinney" opf:role="aut">Wes McKinney</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-09-25T07:00:00+00:00</dc:date>
         <dc:description>&lt;span&gt;&lt;div&gt;&lt;p&gt;Get the definitive handbook for manipulating, processing, cleaning, and crunching datasets in Python. Updated for Python 3.9 and pandas 1.2, the third edition of this hands-on guide is packed with practical case studies that show you how to solve a broad set of data analysis problems effectively. YouÃ??Ã?Â¢??ll learn the latest versions of pandas, NumPy, and Jupyter in the process.&lt;/p&gt;&lt;p&gt;Written by Wes McKinney, the creator of the Python pandas project, this book is a practical, modern introduction to data science tools in Python. ItÃ??Ã?Â¢??s ideal for analysts new to Python and for Python programmers new to data science and scientific computing. Data files and related material are available on GitHub.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Use the Jupyter notebook and IPython shell for exploratory computing&lt;/li&gt;&lt;li&gt;Learn basic and advanced features in NumPy&lt;/li&gt;&lt;li&gt;Get started with data analysis tools in the pandas library&lt;/li&gt;&lt;li&gt;Use flexible tools to load, clean, transform, merge, and reshape data&lt;/li&gt;&lt;li&gt;Create informative visualizations with matplotlib&lt;/li&gt;&lt;li&gt;Apply the pandas groupby facility to slice, dice, and summarize datasets&lt;/li&gt;&lt;li&gt;Analyze and manipulate regular and irregular time series data&lt;/li&gt;&lt;li&gt;Learn how to solve real-world data analysis problems with thorough, detailed examples&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/span&gt;</dc:description>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781098103965</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>python</dc:subject>
+        <dc:subject>Python</dc:subject>
         <dc:subject>programming</dc:subject>
         <dc:subject>data analysis</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Wes McKinney&quot;: &quot;&quot;}"/>

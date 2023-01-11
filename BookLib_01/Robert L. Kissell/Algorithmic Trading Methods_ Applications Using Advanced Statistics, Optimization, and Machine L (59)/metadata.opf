@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6cc2d06d-24ce-4918-ae63-baf01df27934</dc:identifier>
         <dc:title>Algorithmic Trading Methods: Applications Using Advanced Statistics, Optimization, and Machine Learning Techniques</dc:title>
         <dc:creator opf:file-as="Kissell, Robert L." opf:role="aut">Robert L. Kissell</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-09-03T09:19:57+00:00</dc:date>
         <dc:description>Algorithmic Trading Methods: Applications Using Advanced Statistics, Optimization, and Machine Learning Techniques, Second Edition (2021) 614pp. 978-0-12-815630-8</dc:description>
         <dc:publisher>Elsevier Inc.</dc:publisher>
@@ -13,7 +13,7 @@
         <dc:language>eng</dc:language>
         <dc:subject>algorithmic trading</dc:subject>
         <dc:subject>algorithms</dc:subject>
-        <dc:subject>python</dc:subject>
+        <dc:subject>Python</dc:subject>
         <dc:subject>programming</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Robert L. Kissell&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-22T08:00:50+00:00"/>

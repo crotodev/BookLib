@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Ünsalan, Cem &amp; Gürhan, Hüseyin Deniz &amp; Yücel, Mehmet Erkin" opf:role="aut">Cem Ünsalan</dc:creator>
         <dc:creator opf:file-as="Ünsalan, Cem &amp; Gürhan, Hüseyin Deniz &amp; Yücel, Mehmet Erkin" opf:role="aut">Hüseyin Deniz Gürhan</dc:creator>
         <dc:creator opf:file-as="Ünsalan, Cem &amp; Gürhan, Hüseyin Deniz &amp; Yücel, Mehmet Erkin" opf:role="aut">Mehmet Erkin Yücel</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>Springer International Publishing</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9783030884390</dc:identifier>
@@ -16,7 +16,7 @@
         <dc:subject>microcontrollers</dc:subject>
         <dc:subject>micropython</dc:subject>
         <dc:subject>programming</dc:subject>
-        <dc:subject>python</dc:subject>
+        <dc:subject>Python</dc:subject>
         <dc:subject>raspberry pi</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Cem Ünsalan&quot;: &quot;&quot;, &quot;Hüseyin Deniz Gürhan&quot;: &quot;&quot;, &quot;Mehmet Erkin Yücel&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-27T19:33:06+00:00"/>

@@ -50,13 +50,13 @@
 &lt;p&gt;Eryk Lewinson received his master's degree in Quantitative Finance from Erasmus University Rotterdam. In his professional career, he has gained experience in the practical application of data science methods while working in risk management and data science departments of two ""big 4"" companies, a Dutch neo-broker and most recently the Netherlands' largest online retailer.&lt;/p&gt;
 &lt;p&gt;Outside of work, he has written over a hundred articles about topics related to data science, which have been viewed more than 3 million times. In his free time, he enjoys playing video games, reading books, and traveling with his girlfriend.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781803243191</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1803243198</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781803243191</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>cookbook</dc:subject>
         <dc:subject>finance</dc:subject>
         <dc:subject>programming</dc:subject>
-        <dc:subject>python</dc:subject>
+        <dc:subject>Python</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Eryk Lewinson&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-11T03:00:47+00:00"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b020eb1a-d999-4af8-b1a5-e20ae7f09083</dc:identifier>
         <dc:title>MicroPython Projects</dc:title>
         <dc:creator opf:file-as="Jacob Beningo" opf:role="aut">Jacob Beningo</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-04-17T07:47:19+00:00</dc:date>
         <dc:description>MicroPython Projects is a project-based guide that provides you with a wide range of projects along the lines of electronic applications, Android Applications, GPS, automation devices, and so on. With this pragmatic approach, you will be confident enough to design complex projects on MicroPython spanning altogether new areas of the technology.</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
@@ -13,7 +13,7 @@
         <dc:subject>IoT</dc:subject>
         <dc:subject>micropython</dc:subject>
         <dc:subject>programming</dc:subject>
-        <dc:subject>python</dc:subject>
+        <dc:subject>Python</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Jacob Beningo&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-27T20:03:16+00:00"/>
         <meta name="calibre:title_sort" content="MicroPython Projects"/>

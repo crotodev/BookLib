@@ -6,11 +6,11 @@
         <dc:title>Expert Python Programming Master Python by learning the best coding practices and advanced programming concepts</dc:title>
         <dc:creator opf:file-as="Jaworski, Michal &amp; Ziadé, Tarek" opf:role="aut">Michal Jaworski</dc:creator>
         <dc:creator opf:file-as="Jaworski, Michal &amp; Ziadé, Tarek" opf:role="aut">Tarek Ziadé</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-05-26T13:54:22+00:00</dc:date>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:language>eng</dc:language>
-        <dc:subject>python</dc:subject>
+        <dc:subject>Python</dc:subject>
         <dc:subject>programming</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Michal Jaworski&quot;: &quot;&quot;, &quot;Tarek Ziadé&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-26T19:07:14+00:00"/>

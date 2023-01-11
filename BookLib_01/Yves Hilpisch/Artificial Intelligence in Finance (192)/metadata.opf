@@ -5,13 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c5e374b5-81a9-4748-aa94-bfbdd7cba1c9</dc:identifier>
         <dc:title>Artificial Intelligence in Finance</dc:title>
         <dc:creator opf:file-as="Hilpisch, Yves" opf:role="aut">Yves Hilpisch</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-10-14T14:36:49+00:00</dc:date>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
         <dc:language>eng</dc:language>
         <dc:subject>finance</dc:subject>
         <dc:subject>programming</dc:subject>
-        <dc:subject>python</dc:subject>
+        <dc:subject>Python</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Yves Hilpisch&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-08T16:56:51+00:00"/>
         <meta name="calibre:title_sort" content="Artificial Intelligence in Finance"/>

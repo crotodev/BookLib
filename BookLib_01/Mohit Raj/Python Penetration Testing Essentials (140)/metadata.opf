@@ -5,13 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7d1e7a93-5942-44d5-bc9a-9347782591ec</dc:identifier>
         <dc:title>Python Penetration Testing Essentials</dc:title>
         <dc:creator opf:file-as="Raj, Mohit" opf:role="aut">Mohit Raj</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:language>eng</dc:language>
         <dc:subject>ethical hacking</dc:subject>
         <dc:subject>programming</dc:subject>
-        <dc:subject>python</dc:subject>
+        <dc:subject>Python</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Mohit Raj&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-30T05:52:26+00:00"/>
         <meta name="calibre:title_sort" content="Python Penetration Testing Essentials"/>
