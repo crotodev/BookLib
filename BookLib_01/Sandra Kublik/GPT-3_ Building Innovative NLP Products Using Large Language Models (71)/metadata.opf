@@ -4,8 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">71</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">575ec63a-973c-447f-853d-e1e83c94c32d</dc:identifier>
         <dc:title>GPT-3: Building Innovative NLP Products Using Large Language Models</dc:title>
-        <dc:creator opf:file-as="Sandra Kublik" opf:role="aut">Sandra Kublik</dc:creator>
-        <dc:creator opf:file-as="Sandra Kublik" opf:role="aut">Shubham Saboo</dc:creator>
+        <dc:creator opf:file-as="Kublik, Sandra &amp; Saboo, Shubham" opf:role="aut">Sandra Kublik</dc:creator>
+        <dc:creator opf:file-as="Kublik, Sandra &amp; Saboo, Shubham" opf:role="aut">Shubham Saboo</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-07-15T04:00:00+00:00</dc:date>
         <dc:description>&lt;span&gt;&lt;div&gt;&lt;p&gt;GPT-3: NLP with LLMs is a unique, pragmatic take on Generative Pre-trained Transformer 3, the famous AI language model launched by OpenAI in 2020. This model is capable of tackling a wide array of tasks, like conversation, text completion, and even coding with stunningly good performance. Since its launch, the API has powered a staggering number of applications that have now grown into full-fledged startups generating business value. This book will be a deep dive into what GPT-3 is, why it is important, what it can do, what has already been done with it, how to get access to it, and how one can build a GPT-3 powered product from scratch.&lt;/p&gt;&lt;p&gt;This book is for anyone who wants to understand the scope and nature of GPT-3. The book will evaluate the GPT-3 API from multiple perspectives and discuss the various components of the new, burgeoning economy enabled by GPT-3. This book will look at the influence of GPT-3 on important AI trends like creator economy, no-code, and Artificial General Intelligence and will equip the readers to structure their imaginative ideas and convert them from mere concepts to reality.&lt;/p&gt;&lt;/div&gt;&lt;/span&gt;</dc:description>

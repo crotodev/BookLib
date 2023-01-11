@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">163</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5169d5a-dda4-43c2-88b8-feb0e25cab1d</dc:identifier>
+        <dc:title>AWS Certified Developer - Associate Guide, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Tankariya, Vipul &amp; Parmar, Bhavin" opf:role="aut">Vipul Tankariya</dc:creator>
+        <dc:creator opf:file-as="Tankariya, Vipul &amp; Parmar, Bhavin" opf:role="aut">Bhavin Parmar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-31T16:16:23+00:00</dc:date>
+        <dc:description>With rapid adaptation of the cloud platform, the need for cloud certification has also increased. This is your one stop solution and will help you transform yourself from zero to certified. This guide will help you gain technical expertise in the AWS platform and help you start working with various AWS Services.</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Vipul Tankariya&quot;: &quot;&quot;, &quot;Bhavin Parmar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-02T16:53:41+00:00"/>
+        <meta name="calibre:title_sort" content="AWS Certified Developer - Associate Guide, 2nd Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

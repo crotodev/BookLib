@@ -10,8 +10,8 @@
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:language>eng</dc:language>
         <dc:subject>finance</dc:subject>
-        <dc:subject>python</dc:subject>
         <dc:subject>programming</dc:subject>
+        <dc:subject>python</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;James Ma Weiming&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-08T19:27:57+00:00"/>
         <meta name="calibre:title_sort" content="Mastering Python for Finance"/>
