@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">156</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3f692ee-4345-489c-8be6-e286c7529c7d</dc:identifier>
+        <dc:title>Learning Functional Programming: Managing Code Complexity by Thinking Functionally</dc:title>
+        <dc:creator opf:file-as="Widman, Jack" opf:role="aut">Jack Widman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-23T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Learn how to think and write code like a functional programmer. With this practical guide, software developers familiar with object-oriented programming will dive into the core concepts of functional programming and learn how to use both functional and OOP features together on large or complex software projects. &lt;/p&gt;
+&lt;p&gt;Author Jack Widman uses samples from Java, Python, C#, Scala, and JavaScript to help you gain a new perspective and a set of tools for managing the complexity in your problem domain. You'll be able to write code that's simpler, reusable, easier to test and modify, and more consistently correct. This book also shows you how to use patterns from category theory to help bridge the gap between OOP and functional programming. &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Learn functional programming fundamentals and explore the way functional programmers approach problems &lt;/li&gt;
+&lt;li&gt;Understand how FP differs from object-oriented and imperative programming &lt;/li&gt;
+&lt;li&gt;Use a set of practical, applicable design patterns that model reality in a functional way &lt;/li&gt;
+&lt;li&gt;Learn how to incorporate FP and OOP features into software projects &lt;/li&gt;
+&lt;li&gt;Apply functional design patterns appropriately and use them to write correct, robust, and easily modifiable code &lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Jack Widman’s path to software engineering took a circuitous route. Majoring in Latin in college and studying Roman and Ancient Greek Literature, Philosophy and Music, he then became enamored of Mathematics. Learning, on his own, enough to get into grad school, Jack then completed a Ph.D. in Mathematics at Wesleyan University in Middletown, CT. While there, he learned about programming languages and writing code. With over 20 years of experience writing software, Jack provides consulting services to a wide range of software teams, especially with respect to converting codebases to a functional style of coding. He has both deep knowledge and a passion for the subject.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781098111755</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1098111753</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">t6DnzgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jack Widman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-12-31T11:42:13+00:00"/>
+        <meta name="calibre:title_sort" content="Learning Functional Programming: Managing Code Complexity by Thinking Functionally"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

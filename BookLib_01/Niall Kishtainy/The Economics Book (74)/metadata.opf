@@ -11,11 +11,11 @@
         <dc:creator opf:file-as="Kishtainy, Niall &amp; Abbot, George &amp; Farndon, John &amp; Kennedy, Frank &amp; Meadway, James &amp; Wallace, Christopher &amp; Weeks, Marcus" opf:role="aut">James Meadway</dc:creator>
         <dc:creator opf:file-as="Kishtainy, Niall &amp; Abbot, George &amp; Farndon, John &amp; Kennedy, Frank &amp; Meadway, James &amp; Wallace, Christopher &amp; Weeks, Marcus" opf:role="aut">Christopher Wallace</dc:creator>
         <dc:creator opf:file-as="Kishtainy, Niall &amp; Abbot, George &amp; Farndon, John &amp; Kennedy, Frank &amp; Meadway, James &amp; Wallace, Christopher &amp; Weeks, Marcus" opf:role="aut">Marcus Weeks</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-08-01T10:34:44+00:00</dc:date>
         <dc:publisher>DK</dc:publisher>
         <dc:language>eng</dc:language>
-        <dc:subject>economics</dc:subject>
+        <dc:subject>Economics</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Niall Kishtainy&quot;: &quot;&quot;, &quot;George Abbot&quot;: &quot;&quot;, &quot;John Farndon&quot;: &quot;&quot;, &quot;Frank Kennedy&quot;: &quot;&quot;, &quot;James Meadway&quot;: &quot;&quot;, &quot;Christopher Wallace&quot;: &quot;&quot;, &quot;Marcus Weeks&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-26T06:05:48+00:00"/>
         <meta name="calibre:title_sort" content="Economics Book, The"/>

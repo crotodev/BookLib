@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">83</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a47ea70-9adb-48c0-b639-346affb370d7</dc:identifier>
+        <dc:title>Loose Leaf for Investments</dc:title>
+        <dc:creator opf:file-as="Zvi Bodie, Professor &amp; Kane, Alex &amp; Alan J. Marcus, Professor" opf:role="aut">Zvi Bodie, Professor</dc:creator>
+        <dc:creator opf:file-as="Zvi Bodie, Professor &amp; Kane, Alex &amp; Alan J. Marcus, Professor" opf:role="aut">Alex Kane</dc:creator>
+        <dc:creator opf:file-as="Zvi Bodie, Professor &amp; Kane, Alex &amp; Alan J. Marcus, Professor" opf:role="aut">Alan J. Marcus, Professor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-06T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Investments sets the standard as a graduate (MBA) text intended primarily for courses in investment analysis. The guiding principle has been to present the material in a framework that is organized by a central core of consistent fundamental principles and will introduce students to major issues currently of concern to all investors. In an effort to link theory to practice, the authors make their approach consistent with that of the CFA Institute. Many features of this text make it consistent with and relevant to the CFA curriculum. &lt;/p&gt;
+&lt;p&gt;The common unifying theme is that security markets are nearly efficient, meaning that most securities are priced appropriately given their risk and return attributes. Investments is also organized around several important themes: The central theme is the near-informational-efficiency of well-developed security markets and the general awareness that competitive markets do not offer "free lunches" to participants. A second theme is the risk–return trade-off. Also, this text places great emphasis on asset allocation. Finally, this text offers a broad and deep treatment of futures, options, and other derivative security markets.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>McGraw-Hill Education</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781260819380</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">_3f_yAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Investments &amp; Securities</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>investing</dc:subject>
+        <dc:subject>finance</dc:subject>
+        <dc:subject>financial analysis</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Zvi Bodie, Professor&quot;: &quot;&quot;, &quot;Alex Kane&quot;: &quot;&quot;, &quot;Alan J. Marcus, Professor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-26T06:17:38+00:00"/>
+        <meta name="calibre:title_sort" content="Loose Leaf for Investments"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

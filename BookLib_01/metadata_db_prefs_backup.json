@@ -99,7 +99,15 @@
       ],
       [
         "title",
+        true
+      ],
+      [
+        "timestamp",
         false
+      ],
+      [
+        "publisher",
+        true
       ],
       [
         "timestamp",

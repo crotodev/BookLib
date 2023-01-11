@@ -5,11 +5,11 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c34611a3-caea-4c4a-8d52-b3025cc287ec</dc:identifier>
         <dc:title>Advanced Macroeconomics, 5th Edition</dc:title>
         <dc:creator opf:file-as="Romer, David" opf:role="aut">David Romer</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-01-27T08:42:38+00:00</dc:date>
         <dc:publisher>McGraw-Hill Education</dc:publisher>
         <dc:language>eng</dc:language>
-        <dc:subject>economics</dc:subject>
+        <dc:subject>Economics</dc:subject>
         <dc:subject>macroeconomics</dc:subject>
         <dc:subject>textbook</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;David Romer&quot;: &quot;&quot;}"/>

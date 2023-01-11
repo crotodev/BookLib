@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">150</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfca6166-81ed-4494-bbc5-de07fbbcdb43</dc:identifier>
+        <dc:title>Python for Finance: Analyze Big Financial Data</dc:title>
+        <dc:creator opf:file-as="Hilpisch, Yves" opf:role="aut">Yves Hilpisch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The financial industry has adopted Python at a tremendous rate recently, with some of the largest investment banks and hedge funds using it to build core trading and risk management systems. This hands-on guide helps both developers and quantitative analysts get started with Python, and guides you through the most important aspects of using Python for quantitative finance.&lt;/p&gt;
+&lt;p&gt;Using practical examples through the book, author Yves Hilpisch also shows you how to develop a full-fledged framework for Monte Carlo simulation-based derivatives and risk analytics, based on a large, realistic case study. Much of the book uses interactive IPython Notebooks, with topics that include:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Fundamentals:&lt;/strong&gt; Python data structures, NumPy array handling, time series analysis with pandas, visualization with matplotlib, high performance I/O operations with PyTables, date/time information handling, and selected best practices&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Financial topics:&lt;/strong&gt; mathematical techniques with NumPy, SciPy and SymPy such as regression and optimization; stochastics for Monte Carlo simulation, Value-at-Risk, and Credit-Value-at-Risk calculations; statistics for normality tests, mean-variance portfolio optimization, principal component analysis (PCA), and Bayesian regression&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Special topics:&lt;/strong&gt; performance Python for financial algorithms, such as vectorization and parallelization, integrating Python with Excel, and building financial applications based on Web technologies&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Yves Hilpisch is the founder and managing partner of The Python Quants, an analytics software provider and financial engineering group. The Python Quants offer, among others, the Python Quant Platform (http://quant-platform.com) and DX Analytics (http://dx-analytics.com). Yves also lectures on mathematical finance and organizes meetups and conferences about Python for Quantitative Finance in New York and London.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781491945285</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1491945281</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">KaR_oAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>python</dc:subject>
+        <dc:subject>programming</dc:subject>
+        <dc:subject>finance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yves Hilpisch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-12-30T15:16:17+00:00"/>
+        <meta name="calibre:title_sort" content="Python for Finance: Analyze Big Financial Data"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
