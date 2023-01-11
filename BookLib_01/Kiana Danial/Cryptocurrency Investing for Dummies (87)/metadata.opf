@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">57c6bfd1-3b1c-4af0-a25b-490a9a0e8f49</dc:identifier>
         <dc:title>Cryptocurrency Investing for Dummies</dc:title>
         <dc:creator opf:file-as="Danial, Kiana" opf:role="aut">Kiana Danial</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-03-06T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;The ultimate guide to the world of cryptocurrencies!&lt;/p&gt;
@@ -45,8 +45,8 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Kiana Danial&lt;/strong&gt; is the CEO of Invest Diva as well as an internationally recognized personal investing and wealth management expert. She delivers workshops and seminars to corporations, universities, and investment groups, and has been featured in &lt;em&gt;Forbes&lt;/em&gt; and on CNN. She was named the 2018 Personal Investment Expert of the Year by Wealth &amp;amp; Finance International.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>For Dummies</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781119533030</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1119533031</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781119533030</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>for dummies</dc:subject>
         <dc:subject>cryptocurrency</dc:subject>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9a265d86-4c3c-48e3-8033-873ae83af740</dc:identifier>
         <dc:title>Python for Finance Cookbook: Over 80 Powerful Recipes for Effective Financial Data Analysis, 2nd Edition</dc:title>
         <dc:creator opf:file-as="Lewinson, Eryk" opf:role="aut">Eryk Lewinson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-12-30T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Use modern Python libraries such as pandas, NumPy, and scikit-learn and popular machine learning and deep learning methods to solve financial modeling problems&lt;/p&gt;

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8d0ac691-4b5d-4083-886d-1330a10d657e</dc:identifier>
         <dc:title>The Recursive Book of Recursion</dc:title>
         <dc:creator opf:file-as="Sweigart, Al" opf:role="aut">Al Sweigart</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-06-15T00:00:00+00:00</dc:date>
         <dc:publisher>No Starch Press</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781718502031</dc:identifier>

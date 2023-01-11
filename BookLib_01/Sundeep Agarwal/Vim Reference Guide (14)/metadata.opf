@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f8219d57-1980-4c20-a1aa-d1acec4340f2</dc:identifier>
         <dc:title>Vim Reference Guide</dc:title>
         <dc:creator opf:file-as="Agarwal, Sundeep" opf:role="aut">Sundeep Agarwal</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-03-14T10:17:36+00:00</dc:date>
         <dc:language>eng</dc:language>
         <dc:subject>vim</dc:subject>

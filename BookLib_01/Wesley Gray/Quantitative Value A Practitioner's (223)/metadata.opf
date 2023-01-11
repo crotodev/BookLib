@@ -9,11 +9,11 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>John Wiley &amp; Sons</dc:publisher>
-        <dc:language>en</dc:language>
+        <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Wesley Gray&quot;: &quot;&quot;, &quot;Tobias Carlisle&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Wiley Finance"/>
         <meta name="calibre:series_index" content="8"/>
-        <meta name="calibre:timestamp" content="2023-01-11T02:58:38.270021+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-11T02:58:38+00:00"/>
         <meta name="calibre:title_sort" content="Quantitative Value A Practitioner’s Guide to Automating Intelligent Investment &amp; Eliminating Behavioral Errors-Wiley (2012)"/>
     </metadata>
     <guide>

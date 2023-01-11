@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">00054487-0da3-45fa-8402-fb74eb06f468</dc:identifier>
         <dc:title>Transformers for Natural Language Processing: Build Innovative Deep Neural Network Architectures for NLP With Python, PyTorch, TensorFlow, BERT, RoBERTa, and More</dc:title>
         <dc:creator opf:file-as="Rothman, Denis" opf:role="aut">Denis Rothman</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-01-29T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Publisher's Note: A new edition of this book is out now that includes working with GPT-3 and comparing the results with other models. It includes even more use cases, such as casual language analysis and computer vision tasks, as well as an introduction to OpenAI's Codex.&lt;/p&gt;
@@ -53,9 +53,9 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Denis Rothman&lt;/strong&gt; graduated from Sorbonne University and Paris-Diderot University, patenting one of the very first word2matrix embedding solutions. Denis Rothman is the author of three cutting-edge AI solutions: one of the first AI cognitive chatbots more than 30 years ago; a profit-orientated AI resource optimizing system; and an AI APS (Advanced Planning and Scheduling) solution based on cognitive patterns used worldwide in aerospace, rail, energy, apparel, and many other fields. Designed initially as a cognitive AI bot for IBM, it then went on to become a robust APS solution used to this day.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781800565791</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1800565798</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">Cr0YEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781800565791</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Artificial Intelligence</dc:subject>

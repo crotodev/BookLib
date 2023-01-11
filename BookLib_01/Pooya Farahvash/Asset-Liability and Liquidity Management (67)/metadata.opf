@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">4314d110-337a-4f4d-82ec-4825df6fa01a</dc:identifier>
         <dc:title>Asset-Liability and Liquidity Management</dc:title>
         <dc:creator opf:file-as="Farahvash, Pooya" opf:role="aut">Pooya Farahvash</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-06-16T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;em&gt;Asset-Liability and Liquidity Management&lt;/em&gt; distils the author’s extensive experience in the financial industry, and ALM in particular, into concise and comprehensive lessons. Each of the topics are covered with a focus on real-world applications, based on the author’s own experience in the industry.&lt;/p&gt;
@@ -32,9 +32,9 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;POOYA FARAHVASH&lt;/strong&gt; is vice president of Treasury Modeling and Analytics at American Express Company overseeing development of models used in ALM, liquidity risk management, stress testing, and deposit products. He previously worked at investment bank Jefferies in liquidity risk management and at CIT Group in asset-liability management. His experience in the banking industry is focused in treasury department activities, specifically in areas of interest rate risk, liquidity risk, asset-liability management, deposit modeling, and economic capital. Dr. Farahvash is also an adjunct instructor at New York University, teaching analytical courses. He received his PhD degree in Industrial and Systems Engineering and MS degree in Statistics both from Rutgers University, New Jersey. He currently lives in New York City.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">vovgDwAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781119701880</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1119701880</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">vovgDwAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Banks &amp; Banking</dc:subject>

@@ -9,7 +9,7 @@
         <dc:creator opf:file-as="Tandon, Akash &amp; Ryza, Sandy &amp; Laserson, Uri &amp; Owen, Sean &amp; Wills, Josh" opf:role="aut">Uri Laserson</dc:creator>
         <dc:creator opf:file-as="Tandon, Akash &amp; Ryza, Sandy &amp; Laserson, Uri &amp; Owen, Sean &amp; Wills, Josh" opf:role="aut">Sean Owen</dc:creator>
         <dc:creator opf:file-as="Tandon, Akash &amp; Ryza, Sandy &amp; Laserson, Uri &amp; Owen, Sean &amp; Wills, Josh" opf:role="aut">Josh Wills</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
         <dc:language>eng</dc:language>

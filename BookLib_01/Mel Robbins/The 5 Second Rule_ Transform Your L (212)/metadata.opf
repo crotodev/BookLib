@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">212</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9a1204b-bc31-43ce-a33f-44fee2771778</dc:identifier>
+        <dc:title>The 5 Second Rule: Transform Your Life, Work, and Confidence With Everyday Courage</dc:title>
+        <dc:creator opf:file-as="Robbins, Mel" opf:role="aut">Mel Robbins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-27T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Nearly 2 million copies sold&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Audible's #1 Nonfiction Book of the Year&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Amazon's 6th Most Read Book of the Year&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;100,000 five star reviews (across all formats)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Published in 33 languages&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Millions of lives changed&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Learn the fastest way to change your life. &lt;/p&gt;
+&lt;p&gt;The 5 Second Rule is the secret to changing anything about your life. You can use the Rule and its countdown method to break any bad habit, interrupt self-doubt and negative self-talk, and push yourself to take the actions that will change your life. &lt;/p&gt;
+&lt;p&gt;If you struggle with motivation... &lt;/p&gt;
+&lt;p&gt;If you are tired of doubting yourself... &lt;/p&gt;
+&lt;p&gt;If you know what you want but can't make yourself go get it... &lt;/p&gt;
+&lt;p&gt;You NEED The 5 Second Rule. The secret to changing your life isn't knowing what to do--it's knowing how to make yourself do it. &lt;/p&gt;
+&lt;p&gt;It's a simple tool, backed by research, and it has changed the lives of millions. It will work for you too. &lt;/p&gt;
+&lt;p&gt;Using the science of habits, riveting stories, and surprising facts from some of the most famous moments in history, Mel Robbins will explain the power of a five second decision. You'll also meet and inspired by hundreds of people around the world who are using the Rule to achieve their goals, reach their potential, and chase their dreams. &lt;/p&gt;
+&lt;p&gt;In the book, you'll learn the inspiring and relatable story of how Mel invented the 5 Second Rule during the worst moment of her life, when her anxiety and finances were so bad, she could barely get out of bed. Since creating the Rule, Mel has shared it with audiences around the world, the most respected brands, and people who want to make real and lasting change. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Easy. Accessible. Science-backed. Proven. &lt;/p&gt;
+&lt;p&gt;You are just five seconds away from a totally different life. &lt;/p&gt;
+&lt;p&gt;Read the book and you'll learn the secret to creating it.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Mel Robbins is one of the leading voices in personal development and transformation and a New York Times Bestselling author. Her work includes "The High 5 Habit," "The 5 Second Rule," four #1 bestselling audiobooks, the #1 podcast on Audible, as well as signature online courses that have changed the lives of more than half a million students worldwide. &lt;/p&gt;
+&lt;p&gt;Her groundbreaking work on behavior change has been translated into 36 languages and is used by healthcare professionals, veterans' organizations, and the world's leading brands to inspire people to be more confident, effective, and fulfilled. &lt;/p&gt;
+&lt;p&gt;As one of the most widely booked and followed public speakers in the world, Mel coaches more than 60 million people online every month and videos featuring her work have more than a billion views online, including her TEDx talk, which is one of the most popular of all time. &lt;/p&gt;
+&lt;p&gt;There's nothing Mel loves more than making a real difference in people's lives by teaching them to believe in themselves and inspiring them to take the actions that will change their lives. Mel lives in New England with her husband of 25 years and their three kids, but she is and will always be a Midwesterner at heart.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Savio Republic</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01MUSNFOO</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781682612385</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1682612384</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">l18QDgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Motivational &amp; Inspirational</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>productivity</dc:subject>
+        <dc:subject>self-improvement</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mel Robbins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-09T05:06:10+00:00"/>
+        <meta name="calibre:title_sort" content="5 Second Rule: Transform Your Life, Work, and Confidence With Everyday Courage, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
