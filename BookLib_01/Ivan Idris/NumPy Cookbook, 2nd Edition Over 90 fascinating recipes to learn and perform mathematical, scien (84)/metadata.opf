@@ -5,13 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">352aecf1-42b1-4f04-93fb-29fae180deec</dc:identifier>
         <dc:title>NumPy Cookbook, 2nd Edition Over 90 fascinating recipes to learn and perform mathematical, scientific, and engineering Python...</dc:title>
         <dc:creator opf:file-as="Idris, Ivan" opf:role="aut">Ivan Idris</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-04-28T06:34:26+00:00</dc:date>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:language>eng</dc:language>
         <dc:subject>numpy</dc:subject>
         <dc:subject>cookbook</dc:subject>
-        <dc:subject>python</dc:subject>
+        <dc:subject>Python</dc:subject>
         <dc:subject>programming</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Ivan Idris&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-26T06:19:38+00:00"/>

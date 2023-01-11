@@ -5,13 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8ea50734-1839-4c56-8d02-97065d6b5137</dc:identifier>
         <dc:title>Natural Language Processing &amp; TensorFlow The definitive NLP book to implement the most sought-after machine learning models &amp; tasks, 2nd Edition</dc:title>
         <dc:creator opf:file-as="Ganegedara, Thushan" opf:role="aut">Thushan Ganegedara</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-07-26T10:25:52+00:00</dc:date>
         <dc:description>Learning to solve common NLP problems effectively is an important skill to master due to its popularity. TensorFlow is one of the leading frameworks for implementing production-grade machine learning solutions. By the end of this book, you’ll be ready to confidently develop end-to-end machine learning solutions efficiently with TensorFlow.</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:language>eng</dc:language>
         <dc:subject>programming</dc:subject>
-        <dc:subject>python</dc:subject>
+        <dc:subject>Python</dc:subject>
         <dc:subject>tensorflow</dc:subject>
         <dc:subject>nlp</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Thushan Ganegedara&quot;: &quot;&quot;}"/>
