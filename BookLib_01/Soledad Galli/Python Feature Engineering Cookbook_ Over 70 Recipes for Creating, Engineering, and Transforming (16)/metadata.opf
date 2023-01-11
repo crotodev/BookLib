@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e0a9354-350d-41d3-8678-a2ba06a85c9c</dc:identifier>
+        <dc:title>Python Feature Engineering Cookbook: Over 70 Recipes for Creating, Engineering, and Transforming Features to Build Machine Learning Models</dc:title>
+        <dc:creator opf:file-as="Galli, Soledad" opf:role="aut">Soledad Galli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-22T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Extract accurate information from data to train and improve machine learning models using NumPy, SciPy, pandas, and scikit-learn libraries&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Discover solutions for feature generation, feature extraction, and feature selection &lt;/li&gt;
+&lt;li&gt;Uncover the end-to-end feature engineering process across continuous, discrete, and unstructured datasets &lt;/li&gt;
+&lt;li&gt;Implement modern feature extraction techniques using Python's pandas, scikit-learn, SciPy and NumPy libraries&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Feature engineering is invaluable for developing and enriching your machine learning models. In this cookbook, you will work with the best tools to streamline your feature engineering pipelines and techniques and simplify and improve the quality of your code. &lt;/p&gt;
+&lt;p&gt;Using Python libraries such as pandas, scikit-learn, Featuretools, and Feature-engine, you'll learn how to work with both continuous and discrete datasets and be able to transform features from unstructured datasets. You will develop the skills necessary to select the best features as well as the most suitable extraction techniques. This book will cover Python recipes that will help you automate feature engineering to simplify complex processes. You'll also get to grips with different feature engineering strategies, such as the box-cox transform, power transform, and log transform across machine learning, reinforcement learning, and natural language processing (NLP) domains. &lt;/p&gt;
+&lt;p&gt;By the end of this book, you'll have discovered tips and practical solutions to all of your feature engineering problems.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Simplify your feature engineering pipelines with powerful Python packages &lt;/li&gt;
+&lt;li&gt;Get to grips with imputing missing values &lt;/li&gt;
+&lt;li&gt;Encode categorical variables with a wide set of techniques &lt;/li&gt;
+&lt;li&gt;Extract insights from text quickly and effortlessly &lt;/li&gt;
+&lt;li&gt;Develop features from transactional data and time series data &lt;/li&gt;
+&lt;li&gt;Derive new features by combining existing variables &lt;/li&gt;
+&lt;li&gt;Understand how to transform, discretize, and scale your variables &lt;/li&gt;
+&lt;li&gt;Create informative variables from date and time&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is for machine learning professionals, AI engineers, data scientists, and NLP and reinforcement learning engineers who want to optimize and enrich their machine learning models with the best features. Knowledge of machine learning and Python coding will assist you with understanding the concepts covered in this book.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Foreseeing Variable Problems When Building ML Models&lt;/li&gt;
+&lt;li&gt;Imputing Missing Data&lt;/li&gt;
+&lt;li&gt;Encoding Categorical Variables&lt;/li&gt;
+&lt;li&gt;Transforming Numerical Variables&lt;/li&gt;
+&lt;li&gt;Performing Variable Discretisation&lt;/li&gt;
+&lt;li&gt;Working with Outliers&lt;/li&gt;
+&lt;li&gt;Deriving Features from Dates and Time Variables&lt;/li&gt;
+&lt;li&gt;Performing Feature Scaling&lt;/li&gt;
+&lt;li&gt;Applying Mathematical Computations to Features&lt;/li&gt;
+&lt;li&gt;Creating Features with Transactional and Time Series Data&lt;/li&gt;
+&lt;li&gt;Extracting Features from Text Variables&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Soledad Galli&lt;/strong&gt; is a lead data scientist with more than 10 years of experience in world-class academic institutions and renowned businesses. She has researched, developed, and put into production machine learning models for insurance claims, credit risk assessment, and fraud prevention. Soledad received a Data Science Leaders' award in 2018 and was named one of LinkedIn's voices in data science and analytics in 2019. She is passionate about enabling people to step into and excel in data science, which is why she mentors data scientists and speaks at data science meetings regularly. She also teaches online courses on machine learning in a prestigious Massive Open Online Course platform, which have reached more than 10,000 students worldwide.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781789806311</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1789806313</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">2c_LDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computer Architecture</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>cookbook</dc:subject>
+        <dc:subject>Data Analytics</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>machine learning</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Soledad Galli&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-12-14T18:34:15+00:00"/>
+        <meta name="calibre:title_sort" content="Python Feature Engineering Cookbook: Over 70 Recipes for Creating, Engineering, and Transforming Features to Build Machine Learning Models"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

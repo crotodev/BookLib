@@ -10,7 +10,7 @@
         <dc:description>Learning to solve common NLP problems effectively is an important skill to master due to its popularity. TensorFlow is one of the leading frameworks for implementing production-grade machine learning solutions. By the end of this book, you’ll be ready to confidently develop end-to-end machine learning solutions efficiently with TensorFlow.</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:language>eng</dc:language>
-        <dc:subject>programming</dc:subject>
+        <dc:subject>Programming</dc:subject>
         <dc:subject>Python</dc:subject>
         <dc:subject>tensorflow</dc:subject>
         <dc:subject>nlp</dc:subject>
