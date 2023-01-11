@@ -20,9 +20,9 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Scott Walck&lt;/strong&gt; has a PhD in Physics from Lehigh University and has been a professor of physics, including computational physics, to undergraduates for over 20 years at Lebanon Valley College. He has also written academic articles and given talks on the use of functional programming in teaching physics. &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>No Starch Press</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781718501669</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">1718501668</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">qS1mEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1718501668</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781718501669</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Science</dc:subject>
         <dc:subject>Physics</dc:subject>
@@ -31,7 +31,7 @@
         <dc:subject>Open Source</dc:subject>
         <dc:subject>Electromagnetism</dc:subject>
         <dc:subject>haskell</dc:subject>
-        <dc:subject>programming</dc:subject>
+        <dc:subject>Programming</dc:subject>
         <dc:subject>functional programming</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Scott N. Walck&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-31T11:42:04+00:00"/>

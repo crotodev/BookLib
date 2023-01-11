@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">226</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58b3ab49-70e9-4498-8a86-6dc1b36d5e5a</dc:identifier>
+        <dc:title>PyTorch Computer Vision Cookbook</dc:title>
+        <dc:creator opf:file-as="Avendi, Michael" opf:role="aut">Michael Avendi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-20T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;PyTorch Computer Vision Cookbook&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Michael Avendi&lt;/strong&gt; is a principal data scientist with vast experience in deep learning, computer vision, and medical imaging analysis. He works on the research and development of data-driven algorithms for various imaging problems, including medical imaging applications. His research papers have been published in major medical journals, including the Medical Imaging Analysis journal. Michael Avendi is an active Kaggle participant and was awarded a top prize in a Kaggle competition in 2017.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781838644833</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1838644830</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Avendi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-11T06:37:44.129206+00:00"/>
+        <meta name="calibre:title_sort" content="PyTorch Computer Vision Cookbook"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
