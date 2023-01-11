@@ -6,7 +6,7 @@
         <dc:title>Algorithms for Dummies</dc:title>
         <dc:creator opf:file-as="Mueller, John Paul &amp; Massaron, Luca" opf:role="aut">John Paul Mueller</dc:creator>
         <dc:creator opf:file-as="Mueller, John Paul &amp; Massaron, Luca" opf:role="aut">Luca Massaron</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-04-24T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Discover how algorithms shape and impact our digital world All data, big or small, starts with algorithms. Algorithms are mathematical equations that determine what we see—based on our likes, dislikes, queries, views, interests, relationships, and more—online. They are, in a sense, the electronic gatekeepers to our digital, as well as our physical, world. This book demystifies the subject of algorithms so you can understand how important they are business and scientific decision making. Algorithms for Dummies is a clear and concise primer for everyday people who are interested in algorithms and how they impact our digital lives. Based on the fact that we already live in a world where algorithms are behind most of the technology we use, this book offers eye-opening information on the pervasiveness and importance of this mathematical science—how it plays out in our everyday digestion of news and entertainment, as well as in its influence on our social interactions and consumerism. Readers even learn how to program an algorithm using Python! Become well-versed in the major areas comprising algorithms Examine the incredible history behind algorithms Get familiar with real-world applications of problem-solving procedures Experience hands-on development of an algorithm from start to finish with Python If you have a nagging curiosity about why an ad for that hammock you checked out on Amazon is appearing on your Facebook page, you'll find Algorithm for Dummies to be an enlightening introduction to this integral realm of math, science, and business.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -17,7 +17,7 @@
         <dc:subject>Computers</dc:subject>
         <dc:subject>Programming</dc:subject>
         <dc:subject>Information Technology</dc:subject>
-        <dc:subject>algorithms</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
         <dc:subject>for dummies</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;John Paul Mueller&quot;: &quot;&quot;, &quot;Luca Massaron&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-22T08:01:49+00:00"/>

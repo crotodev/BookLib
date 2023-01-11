@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">047c5b9e-d628-4f38-be76-bec1072269c3</dc:identifier>
         <dc:title>40 Algorithms Every Programmer Should Know: Hone Your Problem-Solving Skills by Learning Different Algorithms and Their Implementation in Python</dc:title>
         <dc:creator opf:file-as="Ahmad, Imran" opf:role="aut">Imran Ahmad</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-06-12T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Learn algorithms for solving classic computer science problems with this concise guide covering everything from fundamental algorithms, such as sorting and searching, to modern algorithms used in machine learning and cryptography&lt;/p&gt;
@@ -45,8 +45,8 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Imran Ahmad&lt;/strong&gt; is a certified Google Instructor and has been teaching for Google and Learning Tree for the last many years. The topics Imran teaches include Python, Machine Learning, Algorithms, Big Data and Deep Learning. In his PhD, he proposed a new linear programming based algorithm called ATSRA , which can be used to optimally assign resources in a cloud computing environment. For the last 4 years, Imran is working in a high-profile machine learning project at the advanced analytics lab of the Canadian Federal Government. The project is to develop machine learning algorithms that can automate the process of immigration. Imran is currently working on developing algorithms to use GPUs optimally to train complex machine learning models.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781789801217</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1789801214</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781789801217</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">4IzrDwAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
@@ -55,7 +55,7 @@
         <dc:subject>Software Development &amp; Engineering</dc:subject>
         <dc:subject>Tools</dc:subject>
         <dc:subject>General</dc:subject>
-        <dc:subject>algorithms</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
         <dc:subject>Programming</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Imran Ahmad&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>

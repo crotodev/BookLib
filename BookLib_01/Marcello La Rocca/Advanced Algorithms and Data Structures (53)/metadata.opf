@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">82b80a65-51f0-434a-b26c-a632f6a041df</dc:identifier>
         <dc:title>Advanced Algorithms and Data Structures</dc:title>
         <dc:creator opf:file-as="Rocca, Marcello La" opf:role="aut">Marcello La Rocca</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-06-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Advanced Algorithms and Data Structures &lt;strong&gt;introduces a collection of algorithms for complex programming challenges in data analysis, machine learning, and graph computing.&lt;/strong&gt; &lt;/p&gt;
@@ -26,15 +26,15 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Marcello La Rocca&lt;/strong&gt; is a research scientist and a full-stack engineer. His focus is on optimization algorithms, genetic algorithms, machine learning, and quantum computing.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Manning</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781617295485</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1617295485</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">sYUxEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781617295485</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>General</dc:subject>
         <dc:subject>Languages</dc:subject>
         <dc:subject>JavaScript</dc:subject>
-        <dc:subject>algorithms</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
         <dc:subject>Data Science</dc:subject>
         <dc:subject>data structures</dc:subject>
         <dc:subject>Programming</dc:subject>
