@@ -25,7 +25,7 @@
         <dc:identifier opf:scheme="ISBN">9781492053354</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>finance</dc:subject>
-        <dc:subject>programming</dc:subject>
+        <dc:subject>Programming</dc:subject>
         <dc:subject>Python</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Yves Hilpisch&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
