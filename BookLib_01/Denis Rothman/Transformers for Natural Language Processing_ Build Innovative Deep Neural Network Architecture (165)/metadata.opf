@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">165</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00054487-0da3-45fa-8402-fb74eb06f468</dc:identifier>
+        <dc:title>Transformers for Natural Language Processing: Build Innovative Deep Neural Network Architectures for NLP With Python, PyTorch, TensorFlow, BERT, RoBERTa, and More</dc:title>
+        <dc:creator opf:file-as="Rothman, Denis" opf:role="aut">Denis Rothman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-29T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Publisher's Note: A new edition of this book is out now that includes working with GPT-3 and comparing the results with other models. It includes even more use cases, such as casual language analysis and computer vision tasks, as well as an introduction to OpenAI's Codex.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Build and implement state-of-the-art language models, such as the original Transformer, BERT, T5, and GPT-2, using concepts that outperform classical deep learning models&lt;/li&gt;
+&lt;li&gt;Go through hands-on applications in Python using Google Colaboratory Notebooks with nothing to install on a local machine&lt;/li&gt;
+&lt;li&gt;Test transformer models on advanced use cases&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;The transformer architecture has proved to be revolutionary in outperforming the classical RNN and CNN models in use today. With an apply-as-you-learn approach, Transformers for Natural Language Processing investigates in vast detail the deep learning for machine translations, speech-to-text, text-to-speech, language modeling, question answering, and many more NLP domains with transformers.&lt;/p&gt;
+&lt;p&gt;The book takes you through NLP with Python and examines various eminent models and datasets within the transformer architecture created by pioneers such as Google, Facebook, Microsoft, OpenAI, and Hugging Face.&lt;/p&gt;
+&lt;p&gt;The book trains you in three stages. The first stage introduces you to transformer architectures, starting with the original transformer, before moving on to RoBERTa, BERT, and DistilBERT models. You will discover training methods for smaller transformers that can outperform GPT-3 in some cases. In the second stage, you will apply transformers for Natural Language Understanding (NLU) and Natural Language Generation (NLG). Finally, the third stage will help you grasp advanced language understanding techniques such as optimizing social network datasets and fake news identification.&lt;/p&gt;
+&lt;p&gt;By the end of this NLP book, you will understand transformers from a cognitive science perspective and be proficient in applying pretrained transformer models by tech giants to various datasets.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Use the latest pretrained transformer models&lt;/li&gt;
+&lt;li&gt;Grasp the workings of the original Transformer, GPT-2, BERT, T5, and other transformer models&lt;/li&gt;
+&lt;li&gt;Create language understanding Python programs using concepts that outperform classical deep learning models&lt;/li&gt;
+&lt;li&gt;Use a variety of NLP platforms, including Hugging Face, Trax, and AllenNLP&lt;/li&gt;
+&lt;li&gt;Apply Python, TensorFlow, and Keras programs to sentiment analysis, text summarization, speech recognition, machine translations, and more&lt;/li&gt;
+&lt;li&gt;Measure the productivity of key transformers to define their scope, potential, and limits in production&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;Since the book does not teach basic programming, you must be familiar with neural networks, Python, PyTorch, and TensorFlow in order to learn their implementation with Transformers.&lt;/p&gt;
+&lt;p&gt;Readers who can benefit the most from this book include experienced deep learning &amp;amp; NLP practitioners and data analysts &amp;amp; data scientists who want to process the increasing amounts of language-driven data.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Getting Started with the Model Architecture of the Transformer&lt;/li&gt;
+&lt;li&gt;Fine-Tuning BERT Models&lt;/li&gt;
+&lt;li&gt;Pretraining a RoBERTa Model from Scratch&lt;/li&gt;
+&lt;li&gt;Downstream NLP Tasks with Transformers&lt;/li&gt;
+&lt;li&gt;Machine Translation with the Transformer&lt;/li&gt;
+&lt;li&gt;Text Generation with OpenAI GPT-2 and GPT-3 Models&lt;/li&gt;
+&lt;li&gt;Applying Transformers to Legal and Financial Documents for AI Text Summarization&lt;/li&gt;
+&lt;li&gt;Matching Tokenizers and Datasets&lt;/li&gt;
+&lt;li&gt;Semantic Role Labeling with BERT-Based Transformers&lt;/li&gt;
+&lt;li&gt;Let Your Data Do the Talking: Story, Questions, and Answers&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;(N.B. Please use the Look Inside option to see further chapters)&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p style="font-style: italic"&gt;"After looking through so many sources, I can attest that not only will this book help you get started rapidly with using, training, and transfer-learning transformers, but it will also help you understand transformers in deep philosophical ways. I am VERY grateful to Denis for writing this book AND FOR writing it very well."&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Thom Ives, Lead Data Scientist at UL Prospector, Owner of Integrated Machine Learning &amp;amp; AI&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;"Transformers have taken the NLP world by storm in the last couple of years and have become indispensable for both academic research and industrial practice in NLP. For me, the major benefit of this book has been its comprehensive coverage. The Transformer models covered include not only the popular ones such as BERT, GPT-3 and T5, but also less well-known ones such as RoBERTa and ELECTRA. Examples are provided using Hugging Face (both PyTorch and TensorFlow), AllenNLP, and Trax (Google Brain) libraries."&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Sujit Pal, Technology Research Director at Elsevier Labs, Co-author of Deep Learning with TensorFlow 2 and Keras, Second Edition&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;"There is much attention and hype surrounding transformers and this book authored by Denis provides well-balanced coverage of the theory and practice that allows newcomers to get a good grasp of the concept, before following along with several code examples provided in the book. Particularly, the book provides a solid background on the architecture of transformers before covering popular models such as BERT, RoBERTa, and GPT-2. It also takes readers through several use cases (text summarization, labeling, Q &amp;amp;A, sentiment analysis and fake news detection) that they can follow along. I am already using this book as a reference for implementing some of the tutorial videos for my YouTube channel Data Professor."&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Chanin Nantasenamat, Ph.D., Associate Professor of Bioinformatics and Founder of Data Professor YouTube channel&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Denis Rothman&lt;/strong&gt; graduated from Sorbonne University and Paris-Diderot University, patenting one of the very first word2matrix embedding solutions. Denis Rothman is the author of three cutting-edge AI solutions: one of the first AI cognitive chatbots more than 30 years ago; a profit-orientated AI resource optimizing system; and an AI APS (Advanced Planning and Scheduling) solution based on cognitive patterns used worldwide in aerospace, rail, energy, apparel, and many other fields. Designed initially as a cognitive AI bot for IBM, it then went on to become a robust APS solution used to this day.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781800565791</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1800565798</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Cr0YEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>Natural Language Processing</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Neural Networks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Denis Rothman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-03T16:42:09+00:00"/>
+        <meta name="calibre:title_sort" content="Transformers for Natural Language Processing: Build Innovative Deep Neural Network Architectures for NLP With Python, PyTorch, TensorFlow, BERT, RoBERTa, and More"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
