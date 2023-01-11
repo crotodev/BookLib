@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">146</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0388d00-2dd4-4807-b9e9-e9474180796b</dc:identifier>
+        <dc:title>Audio Production Basics With A</dc:title>
+        <dc:creator opf:file-as="Gold, Harry &amp; Rey, Ryan" opf:role="aut">Harry Gold</dc:creator>
+        <dc:creator opf:file-as="Gold, Harry &amp; Rey, Ryan" opf:role="aut">Ryan Rey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-30T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Learn the basics of recording, editing, and mixing using Logic Pro X, a favorite audio platform of musicians everywhere. Filled with tips and insights, Audio Production Basics with Logic Pro X will guide you every step of the way. With this book and the included media files, you'll get practical, hands-on experience. We cover everything from setting up your computer to the fundamentals of audio production, including: -Basic Digital Audio Workstation operations and audio hardware options -Principles of sound production and microphone use -Essential Logic concepts and operations -MIDI fundamentals for playing and performing with virtual instruments -Multi-track recording and signal processing techniques -Mixing your project and using automation -Outputting your final mixdown Logic Pro X software is very powerful and easy to use once you know the basics. Take the first step now, with Audio Production Basics with Logic Pro X.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Rowman &amp; Littlefield Publishers</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781538137239</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">gXNEywEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Gold&quot;: &quot;&quot;, &quot;Ryan Rey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-30T06:13:56+00:00"/>
+        <meta name="calibre:title_sort" content="Audio Production Basics With A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
