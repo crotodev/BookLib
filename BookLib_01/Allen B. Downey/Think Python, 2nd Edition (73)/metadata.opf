@@ -5,11 +5,11 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ec065125-369d-46e4-b1d2-5a8be49708ae</dc:identifier>
         <dc:title>Think Python, 2nd Edition</dc:title>
         <dc:creator opf:file-as="Downey, Allen B." opf:role="aut">Allen B. Downey</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-11-19T16:21:29+00:00</dc:date>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
         <dc:language>eng</dc:language>
-        <dc:subject>python</dc:subject>
+        <dc:subject>Python</dc:subject>
         <dc:subject>programming</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Allen B. Downey&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-26T06:04:38+00:00"/>
