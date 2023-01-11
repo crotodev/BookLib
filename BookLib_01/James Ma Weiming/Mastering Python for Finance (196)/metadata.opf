@@ -44,12 +44,12 @@
 &lt;p&gt;&lt;strong&gt;James Ma Weiming&lt;/strong&gt; is a software engineer based in Singapore. His studies and research are focused on financial technology, machine learning, data sciences, and computational finance. James started his career in financial services working with treasury fixed income and foreign exchange products, and fund distribution. His interests in derivatives led him to Chicago, where he worked with veteran traders of the Chicago Board of Trade to devise high-frequency, low-latency strategies to game the market. He holds an MS degree in finance from Illinois Tech's Stuart School of Business in the United States and a bachelor's degree in computer engineering from Nanyang Technological University.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781789346466</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">1789346460</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">rjDdwQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1789346460</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>finance</dc:subject>
         <dc:subject>programming</dc:subject>
-        <dc:subject>python</dc:subject>
+        <dc:subject>Python</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;James Ma Weiming&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-08T19:26:34+00:00"/>
