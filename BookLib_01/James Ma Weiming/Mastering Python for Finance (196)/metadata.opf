@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8cbcc991-ded3-41a4-84c5-81dfd3edd2f0</dc:identifier>
         <dc:title>Mastering Python for Finance</dc:title>
         <dc:creator opf:file-as="Weiming, James Ma" opf:role="aut">James Ma Weiming</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-04-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Take your financial skills to the next level by mastering cutting-edge mathematical and statistical financial applications&lt;/p&gt;
@@ -54,6 +54,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-08T19:26:34+00:00"/>
         <meta name="calibre:title_sort" content="Mastering Python for Finance"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;local&quot;, &quot;user&quot;: &quot;viewer&quot;, &quot;annotation&quot;: {&quot;title&quot;: &quot;A minimization example with integer programming #1&quot;, &quot;pos_type&quot;: &quot;epubcfi&quot;, &quot;pos&quot;: &quot;epubcfi(/118/2/4/2[sbo-rt-content]/2/4/2/2/2/1:314)&quot;, &quot;timestamp&quot;: &quot;2023-01-13T02:43:57.207565+00:00&quot;, &quot;type&quot;: &quot;bookmark&quot;}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>
