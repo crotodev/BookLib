@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">288</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ccb493ad-6a2c-4d08-b764-d969a87be49b</dc:identifier>
+        <dc:title>Python Machine Learning - Second Edition: Machine Learning and Deep Learning With Python, Scikit-Learn, and TensorFlow</dc:title>
+        <dc:creator opf:file-as="Raschka, Sebastian" opf:role="aut">Sebastian Raschka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-20T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-style: italic; font-weight: bold"&gt;Publisher's Note: This edition from 2017 is outdated and is not compatible with TensorFlow 2 or any of the most recent updates to Python libraries. A new third edition, updated for 2020 and featuring TensorFlow 2 and the latest in scikit-learn, reinforcement learning, and GANs, has now been published.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Second edition of the bestselling book on Machine Learning&lt;/li&gt;
+&lt;li&gt;A practical approach to key frameworks in data science, machine learning, and deep learning&lt;/li&gt;
+&lt;li&gt;Use the most powerful Python libraries to implement machine learning and deep learning&lt;/li&gt;
+&lt;li&gt;Get to know the best practices to improve and optimize your machine learning systems and algorithms&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Machine learning is eating the software world, and now deep learning is extending machine learning. Understand and work at the cutting edge of machine learning, neural networks, and deep learning with this second edition of Sebastian Raschka's bestselling book, Python Machine Learning. Using Python's open source libraries, this book offers the practical knowledge and techniques you need to create and contribute to machine learning, deep learning, and modern data analysis.&lt;/p&gt;
+&lt;p&gt;Fully extended and modernized, Python Machine Learning Second Edition now includes the popular TensorFlow 1.x deep learning library. The scikit-learn code has also been fully updated to v0.18.1 to include improvements and additions to this versatile machine learning library.&lt;/p&gt;
+&lt;p&gt;Sebastian Raschka and Vahid Mirjalili's unique insight and expertise introduce you to machine learning and deep learning algorithms from scratch, and show you how to apply them to practical industry challenges using realistic and interesting examples. By the end of the book, you'll be ready to meet the new data analysis opportunities.&lt;/p&gt;
+&lt;p&gt;If you've read the first edition of this book, you'll be delighted to find a balance of classical ideas and modern insights into machine learning. Every chapter has been critically updated, and there are new chapters on key technologies. You'll be able to learn and work with TensorFlow 1.x more deeply than ever before, and get essential coverage of the Keras neural network library, along with updates to scikit-learn 0.18.1.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Understand the key frameworks in data science, machine learning, and deep learning&lt;/li&gt;
+&lt;li&gt;Harness the power of the latest Python open source libraries in machine learning&lt;/li&gt;
+&lt;li&gt;Explore machine learning techniques using challenging real-world data&lt;/li&gt;
+&lt;li&gt;Master deep neural network implementation using the TensorFlow 1.x library&lt;/li&gt;
+&lt;li&gt;Learn the mechanics of classification algorithms to implement the best tool for the job&lt;/li&gt;
+&lt;li&gt;Predict continuous target outcomes using regression analysis&lt;/li&gt;
+&lt;li&gt;Uncover hidden patterns and structures in data with clustering&lt;/li&gt;
+&lt;li&gt;Delve deeper into textual and social media data using sentiment analysis&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0742K7HYF</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Sebastian Raschka&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:57:23.177391+00:00"/>
+        <meta name="calibre:title_sort" content="Python Machine Learning - Second Edition: Machine Learning and Deep Learning With Python, Scikit-Learn, and TensorFlow"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

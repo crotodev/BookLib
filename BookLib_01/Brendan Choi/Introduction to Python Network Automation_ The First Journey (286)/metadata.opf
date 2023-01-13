@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">286</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a06f1681-20eb-4775-a964-2abea4d9e1f9</dc:identifier>
+        <dc:title>Introduction to Python Network Automation: The First Journey</dc:title>
+        <dc:creator opf:file-as="Choi, Brendan" opf:role="aut">Brendan Choi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Learn and implement network automation within the Enterprise network using Python 3. This introductory book will be your guide to building an integrated virtual networking lab to begin your Network Automation journey and master the basics of Python Network Automation. The book features a review of the practical Python network automation scripting skills and tips learned from the production network, so you can safely test and practice in a lab environment first, various Python modules such as paramiko and netmiko, pandas, re, and much more. You'll also develop essential skills such as Python scripting, regular expressions, Linux and Windows administration, VMware virtualization, and Cisco networking from the comfort of your laptop/PC with no actual networking hardware. Finally, you will learn to write a fully automated and working Cisco IOS XE upgrade application using Python. Introduction to Python Network Automation uses a canonical order, where you begin at the bottom and by the time you have completed this book, you will at least reach the intermediate level of Python coding for enterprise networking automation using native Python tools. You will: Build a proper GNS3-based networking lab for Python network automation needs Write the basics of Python codes in both the Windows and Linux environments Control network devices using telnet, SSH, and SNMP protocols using Python codes Understand virtualization and how to use VMware workstation Examine virtualization and how to use VMware Workstation Pro Develop a working Cisco IOS upgrade application.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484268070</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">WxufzgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Brendan Choi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:55:14.929972+00:00"/>
+        <meta name="calibre:title_sort" content="Introduction to Python Network Automation: The First Journey"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
