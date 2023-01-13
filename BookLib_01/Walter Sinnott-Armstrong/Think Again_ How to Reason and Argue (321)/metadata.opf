@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">321</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f737c2a-6447-4e73-ae0e-dc91b174596c</dc:identifier>
+        <dc:title>Think Again: How to Reason and Argue</dc:title>
+        <dc:creator opf:file-as="Sinnott-Armstrong, Walter" opf:role="aut">Walter Sinnott-Armstrong</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Our personal and political worlds are rife with arguments and disagreements, some of them petty and vitriolic. The inability to compromise and understand the opposition is epidemic today, from countries refusing to negotiate, to politicians pandering to their base. Social media has produced a virulent world where extreme positions dominate. There is much demonization of the other side, very little progress is made, and the end result is further widening of positions. How did this happen, and what might be done to address it? Walter Sinnott-Armstrong says there is such a thing as a "good" argument: Reasonable arguments can create more mutual understanding and respect, and even if neither party is convinced by the other, compromise is still possible. Think Again shows the importance of good arguments and reveals common misunderstandings. Rather than a means to persuade other people or beat them in an intellectual competition, Sinnott-Armstrong sees arguments as an essential tool for constructive interaction with others. After showing how the failure of good arguments has led us to society's current woes, he shows readers what makes a good argument. In clear, lively, and practical prose, and with plentiful examples from politics, popular culture, and everyday life, Sinnott-Armstrong explains what defines an argument, identifies the components of good arguments as well as fallacies to avoid, and demonstrates what good arguments can accomplish. Armed with these tools, readers will be able to spot bad reasoning and bad arguments, and to advance their own views in a forceful yet logical way. These skills could even help repair our tattered civic culture.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780190627126</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">tYBZDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Epistemology</dc:subject>
+        <dc:subject>Logic</dc:subject>
+        <dc:subject>Social</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Sinnott-Armstrong&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-13T17:35:34.790107+00:00"/>
+        <meta name="calibre:title_sort" content="Think Again: How to Reason and Argue"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

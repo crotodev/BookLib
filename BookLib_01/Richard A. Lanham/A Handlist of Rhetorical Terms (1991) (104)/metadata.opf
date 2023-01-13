@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7c95533f-88cd-4974-bb3f-a476bc0f27cd</dc:identifier>
         <dc:title>A Handlist of Rhetorical Terms (1991)</dc:title>
         <dc:creator opf:file-as="Lanham, Richard A." opf:role="aut">Richard A. Lanham</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2006-12-18T23:05:50+00:00</dc:date>
         <dc:description>Rhetoric</dc:description>
         <dc:language>eng</dc:language>
@@ -13,7 +13,7 @@
         <dc:subject>writing</dc:subject>
         <dc:subject>literature</dc:subject>
         <dc:subject>critical thinking</dc:subject>
-        <dc:subject>logic</dc:subject>
+        <dc:subject>Logic</dc:subject>
         <dc:subject>reasoning</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Richard A. Lanham&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-26T19:06:38+00:00"/>
