@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6335f2d1-901f-49e1-816d-fbe2f37a692d</dc:identifier>
         <dc:title>Equity Research for the Technology Investor: Value Investing in Technology Stocks</dc:title>
         <dc:creator opf:file-as="Bajikar, Sundeep" opf:role="aut">Sundeep Bajikar</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-10-28T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book describes an equity research approach which combines principles of value investing with domain specific expertise in the technology industry. The book also provides an overview of the financial services industry and the different types of conflicts of interest that drive market participants toward objectives that may not be aligned with those of the individual investor. The book describes an equity research process that I have followed throughout my career as a financial analyst, and shows that equity research is difficult not just for the technical skills involved but also due to behavioral issues that one has to deal with quite frequently when it comes to investing. Equity Research takes a lot of work - much more than an individual investor is likely to be able to commit given that her main profession is probably something other than investing. A central message of the book is for the individual investor to find an independent investment manager who she can trust to pursue an investment strategy that is aligned with her goals.&lt;/p&gt;
@@ -14,11 +14,11 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;Sundeep Bajikar is a global technology investor, author, and technologist. He currently serves as Managing Director of Corporate Strategy and Market Intelligence at Applied Materials, where he is responsible for shaping the company's strategy related to A.I. and the future of computing, in addition to tracking and measuring core business performance. Previously, Sundeep was Senior Vice President and Senior Analyst covering global technology stocks at Jefferies LLC, and became the first analyst to cover both Apple and Samsung Electronics concurrently. His coverage ranged from Semiconductors and SemiCap Equipment to IT Hardware, with total company market capitalization of nearly a trillion dollars. Prior to Jefferies, Sundeep was Senior Analyst at Morgan Stanley for 5 years, covering Semiconductors. Combined, Sundeep has more than 9 years of experience in equity research, and has published hundreds of research reports as a sellside analyst. Prior to becoming an equity research analyst Sundeep spent 9 years of his career at Intel Corporation in various engineering and strategic planning roles. Sundeep holds more than 10 U.S. and international patents pertaining primarily to mobile device location and security technologies, with more than 20 additional patents pending. He was voted Rising Star in Semiconductor Equity Research, in the Institutional Investor 2014 survey, and received Honorary Mention in the 2013 survey. --This text refers to the paperback edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Bajikar Tech Investor</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780692802595</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B01D9RPKU0</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">NEHvzgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B01D9RPKU0</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780692802595</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>finance</dc:subject>
+        <dc:subject>Finance</dc:subject>
         <dc:subject>equity research</dc:subject>
         <dc:subject>financial analysis</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Sundeep Bajikar&quot;: &quot;&quot;}"/>

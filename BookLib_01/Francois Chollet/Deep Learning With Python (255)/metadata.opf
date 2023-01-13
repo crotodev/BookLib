@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">255</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0312ebe8-5db8-49fc-960a-6b62cc5b1b24</dc:identifier>
+        <dc:title>Deep Learning With Python</dc:title>
+        <dc:creator opf:file-as="Chollet, Francois" opf:role="aut">Francois Chollet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-29T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Summary &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Deep Learning with Python&lt;/em&gt; introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google AI researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the Technology &lt;/p&gt;
+&lt;p&gt;Machine learning has made remarkable progress in recent years. We went from near-unusable speech and image recognition, to near-human accuracy. We went from machines that couldn't beat a serious Go player, to defeating a world champion. Behind this progress is deep learning—a combination of engineering advances, best practices, and theory that enables a wealth of previously impossible smart applications. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the Book &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Deep Learning with Python&lt;/em&gt; introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google AI researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples. You'll explore challenging concepts and practice with applications in computer vision, natural-language processing, and generative models. By the time you finish, you'll have the knowledge and hands-on skills to apply deep learning in your own projects. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What's Inside &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Deep learning from first principles&lt;/li&gt;
+&lt;li&gt;Setting up your own deep-learning environment &lt;/li&gt;
+&lt;li&gt;Image-classification models&lt;/li&gt;
+&lt;li&gt;Deep learning for text and sequences&lt;/li&gt;
+&lt;li&gt;Neural style transfer, text generation, and image generation&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;About the Reader &lt;/p&gt;
+&lt;p&gt;Readers need intermediate Python skills. No previous experience with Keras, TensorFlow, or machine learning is required. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the Author &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;François Chollet&lt;/strong&gt; works on deep learning at Google in Mountain View, CA. He is the creator of the Keras deep-learning library, as well as a contributor to the TensorFlow machine-learning framework. He also does deep-learning research, with a focus on computer vision and the application of machine learning to formal reasoning. His papers have been published at major conferences in the field, including the Conference on Computer Vision and Pattern Recognition (CVPR), the Conference and Workshop on Neural Information Processing Systems (NIPS), the International Conference on Learning Representations (ICLR), and others. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Table of Contents &lt;/p&gt;
+&lt;ol&gt;&lt;li style="font-size: medium; font-weight: bold"&gt;&lt;span style="font-size: medium"&gt;PART 1 - FUNDAMENTALS OF DEEP LEARNING&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;What is deep learning?&lt;/li&gt;
+&lt;li&gt;Before we begin: the mathematical building blocks of neural networks &lt;/li&gt;
+&lt;li&gt;Getting started with neural networks&lt;/li&gt;
+&lt;li&gt;Fundamentals of machine learning&lt;/li&gt;
+&lt;li style="font-size: medium; font-weight: bold"&gt;&lt;span style="font-size: medium"&gt;PART 2 - DEEP LEARNING IN PRACTICE&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Deep learning for computer vision&lt;/li&gt;
+&lt;li&gt;Deep learning for text and sequences&lt;/li&gt;
+&lt;li&gt;Advanced deep-learning best practices&lt;/li&gt;
+&lt;li&gt;Generative deep learning&lt;/li&gt;
+&lt;li&gt;Conclusions&lt;/li&gt;
+&lt;li&gt;appendix A - Installing Keras and its dependencies on Ubuntu&lt;/li&gt;
+&lt;li&gt;appendix B - Running Jupyter notebooks on an EC2 GPU instance&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0977ZRV1J</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Francois Chollet&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-13T06:54:49.187917+00:00"/>
+        <meta name="calibre:title_sort" content="Deep Learning With Python"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

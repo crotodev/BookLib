@@ -5,13 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d5a1944c-b274-41de-b4e0-135d8188719b</dc:identifier>
         <dc:title>Quantitative Finance With Python. A Practical Guide to Investment Management, Trading, and Financial Engineering</dc:title>
         <dc:creator opf:file-as="Kelliher, Chris" opf:role="aut">Chris Kelliher</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-05-20T04:00:00+00:00</dc:date>
         <dc:publisher>Chapman and Hall/CRC</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781032014432</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Python</dc:subject>
-        <dc:subject>finance</dc:subject>
+        <dc:subject>Finance</dc:subject>
         <dc:subject>quantitative finance</dc:subject>
         <dc:subject>Programming</dc:subject>
         <dc:subject>trading</dc:subject>

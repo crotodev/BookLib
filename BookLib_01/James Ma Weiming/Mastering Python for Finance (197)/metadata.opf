@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">09114227-ad53-45c2-a40f-ccda45055578</dc:identifier>
         <dc:title>Mastering Python for Finance</dc:title>
         <dc:creator opf:file-as="Weiming, James Ma" opf:role="aut">James Ma Weiming</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-04-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Understand, design, and implement state-of-the-art mathematical and statistical applications used in finance with Python&lt;/p&gt;
@@ -35,7 +35,7 @@
         <dc:identifier opf:scheme="GOOGLE">_DplrgEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781784394516</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>finance</dc:subject>
+        <dc:subject>Finance</dc:subject>
         <dc:subject>Programming</dc:subject>
         <dc:subject>Python</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;James Ma Weiming&quot;: &quot;&quot;}"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">4314d110-337a-4f4d-82ec-4825df6fa01a</dc:identifier>
         <dc:title>Asset-Liability and Liquidity Management</dc:title>
         <dc:creator opf:file-as="Farahvash, Pooya" opf:role="aut">Pooya Farahvash</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-06-16T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;em&gt;Asset-Liability and Liquidity Management&lt;/em&gt; distils the author’s extensive experience in the financial industry, and ALM in particular, into concise and comprehensive lessons. Each of the topics are covered with a focus on real-world applications, based on the author’s own experience in the industry.&lt;/p&gt;
@@ -39,7 +39,7 @@
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Banks &amp; Banking</dc:subject>
         <dc:subject>General</dc:subject>
-        <dc:subject>finance</dc:subject>
+        <dc:subject>Finance</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Pooya Farahvash&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2022-12-22T08:10:07+00:00"/>

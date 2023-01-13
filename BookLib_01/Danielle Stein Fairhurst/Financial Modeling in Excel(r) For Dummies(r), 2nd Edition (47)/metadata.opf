@@ -5,11 +5,11 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">51780732-327f-4605-9a82-94d8fc5e5bc2</dc:identifier>
         <dc:title>Financial Modeling in Excel® For Dummies®, 2nd Edition</dc:title>
         <dc:creator opf:file-as="Fairhurst, Danielle Stein" opf:role="aut">Danielle Stein Fairhurst</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-12-04T04:24:02+00:00</dc:date>
         <dc:publisher>John Wiley &amp; Sons</dc:publisher>
         <dc:language>eng</dc:language>
-        <dc:subject>finance</dc:subject>
+        <dc:subject>Finance</dc:subject>
         <dc:subject>financial modeling</dc:subject>
         <dc:subject>for dummies</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Danielle Stein Fairhurst&quot;: &quot;&quot;}"/>

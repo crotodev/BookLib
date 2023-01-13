@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">247</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">822c7fa3-2566-4bd4-9da7-25112845db4d</dc:identifier>
+        <dc:title>Numerical Python: Scientific Computing and Data Science Applications With Numpy, SciPy and Matplotlib</dc:title>
+        <dc:creator opf:file-as="Johansson, Robert" opf:role="aut">Robert Johansson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-25T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Leverage the numerical and mathematical modules in Python and its standard library as well as popular open source numerical Python packages like NumPy, SciPy, FiPy, matplotlib and more. This fully revised edition, updated with the latest details of each package and changes to Jupyter projects, demonstrates how to numerically compute solutions and mathematically model applications in big data, cloud computing, financial engineering, business management and more. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Numerical Python, Second Edition&lt;/em&gt; , presents many brand-new case study examples of applications in data science and statistics using Python, along with extensions to many previous examples. Each of these demonstrates the power of Python for rapid development and exploratory computing due to its simple and high-level syntax and multiple options for data analysis. &lt;/p&gt;
+&lt;p&gt;After reading this book, readers will be familiar with many computing techniques including array-based and symbolic computing, visualization and numerical file I/O, equation solving, optimization, interpolation and integration, and domain-specific computational problems, such as differential equation solving, data analysis, statistical modeling and machine learning.&lt;/p&gt;
+&lt;p&gt;W &lt;strong&gt;hat You'll Learn&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Work with vectors and matrices using NumPy &lt;/li&gt;
+&lt;li&gt;Plot and visualize data with Matplotlib &lt;/li&gt;
+&lt;li&gt;Perform data analysis tasks with Pandas and SciPy &lt;/li&gt;
+&lt;li&gt;Review statistical modeling and machine learning with statsmodels and scikit-learn &lt;/li&gt;
+&lt;li&gt;Optimize Python code using Numba and Cython &lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For &lt;/p&gt;
+&lt;p&gt;Developers who want to understand how to use Python and its related ecosystem for numerical computing. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484242452</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484242459</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Johansson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-13T06:42:34.483935+00:00"/>
+        <meta name="calibre:title_sort" content="Numerical Python: Scientific Computing and Data Science Applications With Numpy, SciPy and Matplotlib"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

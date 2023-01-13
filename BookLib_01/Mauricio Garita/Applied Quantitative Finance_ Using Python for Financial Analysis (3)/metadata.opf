@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b26abc95-4cb4-4607-b3c4-fa45f34e339b</dc:identifier>
         <dc:title>Applied Quantitative Finance: Using Python for Financial Analysis</dc:title>
         <dc:creator opf:file-as="Garita, Mauricio" opf:role="aut">Mauricio Garita</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-09-04T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book provides both conceptual knowledge of quantitative finance and a hands-on approach to using Python. It begins with a description of concepts prior to the application of Python with the purpose of understanding how to compute and interpret results. This book offers practical applications in the field of finance concerning Python, a language that is more and more relevant in the financial arena due to big data. This will lead to a better understanding of finance as it gives a descriptive process for students, academics and practitioners. &lt;/p&gt;
@@ -32,7 +32,7 @@
         <dc:subject>Quantum Theory</dc:subject>
         <dc:subject>General</dc:subject>
         <dc:subject>Discrete Mathematics</dc:subject>
-        <dc:subject>finance</dc:subject>
+        <dc:subject>Finance</dc:subject>
         <dc:subject>Python</dc:subject>
         <dc:subject>Programming</dc:subject>
         <dc:subject>quantitative finance</dc:subject>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">250</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41aa2148-2103-471a-9931-4619a4da0870</dc:identifier>
+        <dc:title>Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python</dc:title>
+        <dc:creator opf:file-as="Gedeck, Peter" opf:role="aut">Peter Gedeck</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-10T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Statistical methods are a key part of data science, yet few data scientists have formal statistical training. Courses and books on basic statistics rarely cover the topic from a data science perspective. The second edition of this popular guide adds comprehensive examples in Python, provides practical guidance on applying statistical methods to data science, tells you how to avoid their misuse, and gives you advice on what’s important and what’s not.&lt;/p&gt;
+&lt;p&gt;Many data science resources incorporate statistical methods but lack a deeper statistical perspective. If you’re familiar with the R or Python programming languages and have some exposure to statistics, this quick reference bridges the gap in an accessible, readable format.&lt;/p&gt;
+&lt;p&gt;With this book, you’ll learn:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Why exploratory data analysis is a key preliminary step in data science&lt;/li&gt;
+&lt;li&gt;How random sampling can reduce bias and yield a higher-quality dataset, even with big data&lt;/li&gt;
+&lt;li&gt;How the principles of experimental design yield definitive answers to questions&lt;/li&gt;
+&lt;li&gt;How to use regression to estimate outcomes and detect anomalies&lt;/li&gt;
+&lt;li&gt;Key classification techniques for predicting which categories a record belongs to&lt;/li&gt;
+&lt;li&gt;Statistical machine learning methods that "learn" from data&lt;/li&gt;
+&lt;li&gt;Unsupervised learning methods for extracting meaning from unlabeled data&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B08712TT3F</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Peter Gedeck&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-13T06:48:41.276146+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

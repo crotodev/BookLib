@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">258</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40b91aa5-4b30-4afe-a2ea-fe2983050fd8</dc:identifier>
+        <dc:title>Python Playground: Geeky Projects for the Curious Programmer</dc:title>
+        <dc:creator opf:file-as="Venkitachalam, Mahesh" opf:role="aut">Mahesh Venkitachalam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-01T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Python is a powerful programming language that’s easy to learn and fun to play with. But once you’ve gotten a handle on the basics, what do you do next? &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Python Playground&lt;/em&gt; is a collection of imaginative programming projects that will inspire you to use Python to make art and music, build simulations of real-world phenomena, and interact with hardware like the Arduino and Raspberry Pi. You’ll learn to use common Python tools and libraries like numpy, matplotlib, and pygame to do things like:&lt;br&gt;–Generate Spirograph-like patterns using parametric equations and the turtle module&lt;br&gt;–Create music on your computer by simulating frequency overtones&lt;br&gt;–Translate graphical images into ASCII art&lt;br&gt;–Write an autostereogram program that produces 3D images hidden beneath random patterns&lt;br&gt;–Make realistic animations with OpenGL shaders by exploring particle systems, transparency, and billboarding techniques&lt;br&gt;–Construct 3D visualizations using data from CT and MRI scans&lt;br&gt;–Build a laser show that responds to music by hooking up your computer to an Arduino &lt;/p&gt;
+&lt;p&gt;Programming shouldn’t be a chore. Have some solid, geeky fun with &lt;em&gt;Python Playground&lt;/em&gt;. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;The projects in this book are compatible with both Python 2 and 3.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781593276041</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B017AH8H7I</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">YRHSCgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Computer Graphics</dc:subject>
+        <dc:subject>Hardware</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mahesh Venkitachalam&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-13T06:59:47.458048+00:00"/>
+        <meta name="calibre:title_sort" content="Python Playground: Geeky Projects for the Curious Programmer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
