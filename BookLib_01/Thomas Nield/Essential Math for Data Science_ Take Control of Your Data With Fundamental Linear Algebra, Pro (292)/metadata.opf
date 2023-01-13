@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">292</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">929cee93-03a4-42cb-a22b-9c36d7e95011</dc:identifier>
+        <dc:title>Essential Math for Data Science: Take Control of Your Data With Fundamental Linear Algebra, Probability, and Statistics</dc:title>
+        <dc:creator opf:file-as="Nield, Thomas" opf:role="aut">Thomas Nield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-10T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Master the math needed to excel in data science, machine learning, and statistics. In this book author Thomas Nield guides you through areas like calculus, probability, linear algebra, and statistics and how they apply to techniques like linear regression, logistic regression, and neural networks. Along the way you'll also gain practical insights into the state of data science and how to use those insights to maximize your career. Learn how to: Use Python code and libraries like SymPy, NumPy, and scikit-learn to explore essential mathematical concepts like calculus, linear algebra, statistics, and machine learning Understand techniques like linear regression, logistic regression, and neural networks in plain English, with minimal mathematical notation and jargon Perform descriptive statistics and hypothesis testing on a dataset to interpret p-values and statistical significance Manipulate vectors and matrices and perform matrix decomposition Integrate and build upon incremental knowledge of calculus, probability, statistics, and linear algebra, and apply it to regression models including neural networks Navigate practically through a data science career and avoid common pitfalls, assumptions, and biases while tuning your skill set to stand out in the job market&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781098102937</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">NayezgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Machine Learning</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Algebra</dc:subject>
+        <dc:subject>Linear</dc:subject>
+        <dc:subject>Calculus</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Nield&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-13T08:01:33.594849+00:00"/>
+        <meta name="calibre:title_sort" content="Essential Math for Data Science: Take Control of Your Data With Fundamental Linear Algebra, Probability, and Statistics"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
