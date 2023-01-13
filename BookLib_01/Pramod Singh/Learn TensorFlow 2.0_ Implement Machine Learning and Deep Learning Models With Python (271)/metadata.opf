@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">271</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d2f8fec-96c5-49dd-9f06-809dd6ef038c</dc:identifier>
+        <dc:title>Learn TensorFlow 2.0: Implement Machine Learning and Deep Learning Models With Python</dc:title>
+        <dc:creator opf:file-as="Singh, Pramod &amp; Manure, Avinash" opf:role="aut">Pramod Singh</dc:creator>
+        <dc:creator opf:file-as="Singh, Pramod &amp; Manure, Avinash" opf:role="aut">Avinash Manure</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-17T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Learn how to use TensorFlow 2.0 to build machine learning and deep learning models with complete examples. The book begins with introducing TensorFlow 2.0 framework and the major changes from its last release. Next, it focuses on building Supervised Machine Learning models using TensorFlow 2.0. It also demonstrates how to build models using customer estimators. Further, it explains how to use TensorFlow 2.0 API to build machine learning and deep learning models for image classification using the standard as well as custom parameters. You'll review sequence predictions, saving, serving, deploying, and standardized datasets, and then deploy these models to production. All the code presented in the book will be available in the form of executable scripts at Github which allows you to try out the examples and extend them in interesting ways. &lt;/p&gt;
+&lt;p&gt;What You'll LearnReview the new features of TensorFlow 2.0Use TensorFlow 2.0 to build machine learning and deep learning models Perform sequence predictions using TensorFlow 2.0Deploy TensorFlow 2.0 models with practical examplesWho This Book Is ForData scientists, machine and deep learning engineers.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484255582</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">3_rEDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pramod Singh&quot;: &quot;&quot;, &quot;Avinash Manure&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:15:03.662762+00:00"/>
+        <meta name="calibre:title_sort" content="Learn TensorFlow 2.0: Implement Machine Learning and Deep Learning Models With Python"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">268</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5616804-cda2-4586-b362-4e38a4da14e9</dc:identifier>
+        <dc:title>Using Asyncio in Python: Understanding Python's Asynchronous Programming Features</dc:title>
+        <dc:creator opf:file-as="Hattingh, Caleb" opf:role="aut">Caleb Hattingh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-30T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;If you’re among the Python developers put off by asyncio’s complexity, it’s time to take another look. Asyncio is complicated because it aims to solve problems in concurrent network programming for both framework and end-user developers. The features you need to consider are a small subset of the whole asyncio API, but picking out the right features is the tricky part. That’s where this practical book comes in. &lt;/p&gt;
+&lt;p&gt;Veteran Python developer Caleb Hattingh helps you gain a basic understanding of asyncio’s building blocks—enough to get started writing simple event-based programs. You’ll learn why asyncio offers a safer alternative to preemptive multitasking (threading) and how this API provides a simpleway to support thousands of simultaneous socket connections. &lt;/p&gt;
+&lt;p&gt;Get a critical comparison of asyncio and threading for concurrent network programmingTake an asyncio walk-through, including a quickstart guidefor hitting the ground looping with event-based programmingLearn the difference between asyncio features for end-user developers and those for framework developersUnderstand asyncio’s new async/await language syntax, including coroutines and task and future APIsGet detailed case studies (with code) of some popular asyncio-compatible third-party libraries&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781492075301</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">j1_NDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Systems Architecture</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Parallel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Caleb Hattingh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:10:33.887118+00:00"/>
+        <meta name="calibre:title_sort" content="Using Asyncio in Python: Understanding Python's Asynchronous Programming Features"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

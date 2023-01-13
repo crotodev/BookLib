@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">272</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24b65dd9-16e6-4126-9f6a-9ddd472226a3</dc:identifier>
+        <dc:title>How to Read a Book: The Art of Getting a Liberal Education</dc:title>
+        <dc:creator opf:file-as="Adler, Mortimer Jerome" opf:role="aut">Mortimer Jerome Adler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1940-01-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;One of the greatest American minds of the last century shares his vast knowledge of the Great Books to help the reader understand how to read a book so as to get its full meaning.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0006AOZVO</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Mortimer Jerome Adler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:16:22.726177+00:00"/>
+        <meta name="calibre:title_sort" content="How to Read a Book: The Art of Getting a Liberal Education"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">263</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">092466d0-cc17-4728-bbe6-55164e454646</dc:identifier>
+        <dc:title>Mastering spaCy: An End-To-End Practical Guide to Implementing NLP Applications Using the Python Ecosystem</dc:title>
+        <dc:creator opf:file-as="Altinok, Duygu" opf:role="aut">Duygu Altinok</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-09T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Build end-to-end industrial-strength NLP models using advanced morphological and syntactic features in spaCy to create real-world applications with ease&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Gain an overview of what spaCy offers for natural language processing&lt;/li&gt;
+&lt;li&gt;Learn details of spaCy's features and how to use them effectively&lt;/li&gt;
+&lt;li&gt;Work through practical recipes using spaCy&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;spaCy is an industrial-grade, efficient NLP Python library. It offers various pre-trained models and ready-to-use features. Mastering spaCy provides you with end-to-end coverage of spaCy's features and real-world applications.&lt;/p&gt;
+&lt;p&gt;You'll begin by installing spaCy and downloading models, before progressing to spaCy's features and prototyping real-world NLP apps. Next, you'll get familiar with visualizing with spaCy's popular visualizer displaCy. The book also equips you with practical illustrations for pattern matching and helps you advance into the world of semantics with word vectors. Statistical information extraction methods are also explained in detail. Later, you'll cover an interactive business case study that shows you how to combine all spaCy features for creating a real-world NLP pipeline. You'll implement ML models such as sentiment analysis, intent recognition, and context resolution. The book further focuses on classification with popular frameworks such as TensorFlow's Keras API together with spaCy. You'll cover popular topics, including intent classification and sentiment analysis, and use them on popular datasets and interpret the classification results.&lt;/p&gt;
+&lt;p&gt;By the end of this book, you'll be able to confidently use spaCy, including its linguistic features, word vectors, and classifiers, to create your own NLP apps.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Install spaCy, get started easily, and write your first Python script&lt;/li&gt;
+&lt;li&gt;Understand core linguistic operations of spaCy&lt;/li&gt;
+&lt;li&gt;Discover how to combine rule-based components with spaCy statistical models&lt;/li&gt;
+&lt;li&gt;Become well-versed with named entity and keyword extraction&lt;/li&gt;
+&lt;li&gt;Build your own ML pipelines using spaCy&lt;/li&gt;
+&lt;li&gt;Apply all the knowledge you've gained to design a chatbot using spaCy&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is for data scientists and machine learners who want to excel in NLP as well as NLP developers who want to master spaCy and build applications with it. Language and speech professionals who want to get hands-on with Python and spaCy and software developers who want to quickly prototype applications with spaCy will also find this book helpful. Beginner-level knowledge of the Python programming language is required to get the most out of this book. A beginner-level understanding of linguistics such as parsing, POS tags, and semantic similarity will also be useful.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Getting Started with spaCy&lt;/li&gt;
+&lt;li&gt;Core Operations with spaCy&lt;/li&gt;
+&lt;li&gt;Linguistic Features&lt;/li&gt;
+&lt;li&gt;Rule-Based Matching&lt;/li&gt;
+&lt;li&gt;Working with Word Vectors and Semantic Similarity&lt;/li&gt;
+&lt;li&gt;Putting Everything Together: Semantic Parsing with spaCy&lt;/li&gt;
+&lt;li&gt;Customizing spaCy Models&lt;/li&gt;
+&lt;li&gt;Text Classification with spaCy&lt;/li&gt;
+&lt;li&gt;spaCy and Transformers&lt;/li&gt;
+&lt;li&gt;Putting Everything Together: Designing Your Chatbot with spaCy&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781800561120</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B093Q3XMF9</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">rKgxEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Business &amp; Productivity Software</dc:subject>
+        <dc:subject>Word Processing</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Duygu Altinok&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:04:37.461000+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering spaCy: An End-To-End Practical Guide to Implementing NLP Applications Using the Python Ecosystem"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
