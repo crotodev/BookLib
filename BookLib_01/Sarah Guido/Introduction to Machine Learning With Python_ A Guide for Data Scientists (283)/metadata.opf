@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">283</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27582e0e-8f6b-4181-af5f-7fe4ccc14378</dc:identifier>
+        <dc:title>Introduction to Machine Learning With Python: A Guide for Data Scientists</dc:title>
+        <dc:creator opf:file-as="Guido, Sarah" opf:role="aut">Sarah Guido</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Machine learning has become an integral part of many commercial applications and research projects, but this field is not exclusive to large companies with extensive research teams. If you use Python, even as a beginner, this book will teach you practical ways to build your own machine learning solutions. With all the data available today, machine learning applications are limited only by your imagination.&lt;/p&gt;
+&lt;p&gt;You’ll learn the steps necessary to create a successful machine-learning application with Python and the scikit-learn library. Authors Andreas Müller and Sarah Guido focus on the practical aspects of using machine learning algorithms, rather than the math behind them. Familiarity with the NumPy and matplotlib libraries will help you get even more from this book.&lt;/p&gt;
+&lt;p&gt;With this book, you’ll learn:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fundamental concepts and applications of machine learning&lt;/li&gt;
+&lt;li&gt;Advantages and shortcomings of widely used machine learning algorithms&lt;/li&gt;
+&lt;li&gt;How to represent data processed by machine learning, including which data aspects to focus on&lt;/li&gt;
+&lt;li&gt;Advanced methods for model evaluation and parameter tuning&lt;/li&gt;
+&lt;li&gt;The concept of pipelines for chaining models and encapsulating your workflow&lt;/li&gt;
+&lt;li&gt;Methods for working with text data, including text-specific processing techniques&lt;/li&gt;
+&lt;li&gt;Suggestions for improving your machine learning and data science skills.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1449369413</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah Guido&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:52:37.260138+00:00"/>
+        <meta name="calibre:title_sort" content="Introduction to Machine Learning With Python: A Guide for Data Scientists"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
