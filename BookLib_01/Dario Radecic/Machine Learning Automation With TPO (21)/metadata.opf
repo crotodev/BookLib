@@ -16,8 +16,8 @@
 &lt;p&gt;By the end of this book, you'll have gained the confidence to implement AutoML techniques in your organization on a production level. &lt;/p&gt;
 &lt;p&gt;What You Will Learn: Get to grips with building automated machine learning modelsBuild classification and regression models with impressive accuracy in a short timeDevelop neural network classifiers with AutoML techniquesCompare AutoML models with traditional, manually developed models on the same datasetsCreate robust, production-ready modelsEvaluate automated classification models based on metrics such as accuracy, recall, precision, and f1-scoreGet hands-on with deployment using Flask-RESTful on localhostWho this book is for: Data scientists, data analysts, and software developers who are new to machine learning and want to use it in their applications will find this book useful. This book is also for business users looking to automate business tasks with machine learning. Working knowledge of the Python programming language and beginner-level understanding of machine learning are necessary to get started.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781800567887</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">wfFbzgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781800567887</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Machine Learning</dc:subject>
         <dc:subject>Programming</dc:subject>

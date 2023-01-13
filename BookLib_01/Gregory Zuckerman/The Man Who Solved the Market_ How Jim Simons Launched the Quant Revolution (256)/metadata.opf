@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">55d76f1d-8ed5-42d9-8c04-bedfa0da4697</dc:identifier>
         <dc:title>The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution</dc:title>
         <dc:creator opf:file-as="Zuckerman, Gregory" opf:role="aut">Gregory Zuckerman</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-11-05T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;NEW YORK TIMES **BESTSELLER &lt;/p&gt;
@@ -17,8 +17,8 @@
 &lt;p&gt;&lt;em&gt;The Man Who Solved the Market&lt;/em&gt; is a portrait of a modern-day Midas who remade markets in his own image, but failed to anticipate how his success would impact his firm and his country. It's also a story of what Simons's revolution means for the rest of us.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Portfolio</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9780735217980</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">073521798X</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">2vm0DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">073521798X</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Finance</dc:subject>
@@ -28,7 +28,7 @@
         <dc:subject>Business</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Gregory Zuckerman&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-01-13T06:55:41.279331+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T06:55:41+00:00"/>
         <meta name="calibre:title_sort" content="Man Who Solved the Market: How Jim Simons Launched the Quant Revolution, The"/>
     </metadata>
     <guide>

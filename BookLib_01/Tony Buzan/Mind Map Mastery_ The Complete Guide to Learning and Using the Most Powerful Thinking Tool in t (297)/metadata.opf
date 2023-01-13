@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">58c0e67e-7bb3-48f9-89bc-43fc1dd2eb58</dc:identifier>
         <dc:title>Mind Map Mastery: The Complete Guide to Learning and Using the Most Powerful Thinking Tool in the Universe</dc:title>
         <dc:creator opf:file-as="Buzan, Tony" opf:role="aut">Tony Buzan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-03-13T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Discover how you can use mind mapping to get organized, improve your memory, plan your business strategy, and much more—from the original creator of this revolutionary thinking tool &lt;/p&gt;
@@ -15,9 +15,9 @@
 &lt;p&gt;• The history of the development of the Mind Map&lt;br&gt;• An explanation of what makes a Mind Map (and what isn’t a Mind Map)&lt;br&gt;• Why the Mind Map technique is such a powerful tool&lt;br&gt;• Illustrated step-by-step techniques for Mind Map development&lt;br&gt;• How to deal with Mind Maps that have “gone wrong” &lt;/p&gt;
 &lt;p&gt;Developed both for those new to the Mind Map concept as well as more experienced users who would like to revise and expand their expertise, &lt;em&gt;Mind Map Mastery&lt;/em&gt; is the one Mind Mapping book needed on the shelf of every student and businessperson across the world.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Watkins Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781786781413</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1786781417</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">fuY4DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781786781413</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Decision-Making &amp; Problem Solving</dc:subject>
@@ -27,7 +27,7 @@
         <dc:subject>Memory Improvement</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Tony Buzan&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-01-13T08:07:27.646009+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T08:07:27+00:00"/>
         <meta name="calibre:title_sort" content="Mind Map Mastery: The Complete Guide to Learning and Using the Most Powerful Thinking Tool in the Universe"/>
     </metadata>
     <guide>

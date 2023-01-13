@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2a2fca0b-d49b-4149-8169-2fdd60b4abb4</dc:identifier>
         <dc:title>Hands-On Data Preprocessing in Python: Learn How to Effectively Prepare Data for Successful Data Analytics</dc:title>
         <dc:creator opf:file-as="Jafari, Roy" opf:role="aut">Roy Jafari</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-01-21T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Get your raw data cleaned up and ready for processing to design better data analytic solutions&lt;/p&gt;
@@ -48,12 +48,12 @@
 &lt;li&gt;Case Study 3: United States Counties Clustering Analysis&lt;/li&gt;
 &lt;li&gt;Summary, Practice Case Studies, and Conclusions&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781801072137</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1801072132</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781801072137</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Roy Jafari&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2023-01-13T07:30:34.811731+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:30:34+00:00"/>
         <meta name="calibre:title_sort" content="Hands-On Data Preprocessing in Python: Learn How to Effectively Prepare Data for Successful Data Analytics"/>
     </metadata>
     <guide>

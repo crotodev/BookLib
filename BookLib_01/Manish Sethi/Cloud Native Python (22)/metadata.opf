@@ -44,8 +44,8 @@
 &lt;p&gt;&lt;strong&gt;Manish Sethi&lt;/strong&gt; works as an engineer in Bangalore, India. Over the course of his career, he has worked for startups and Fortune 10 companies, helping organizations adopt a cloud native approach to architecting massively scalable products.&lt;/p&gt;
 &lt;p&gt;He regularly spends time learning and implementing new technology paradigms and actively finds himself solving practical problems using serverless architecture, machine and deep learning, and so on. He contributes to Bangalore DevOps and the Docker community by writing blog posts, giving talks in meetups, and so on.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781787129313</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">W27uswEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781787129313</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1787129314</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Python</dc:subject>

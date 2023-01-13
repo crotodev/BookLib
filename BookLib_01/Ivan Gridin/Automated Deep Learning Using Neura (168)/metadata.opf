@@ -31,9 +31,9 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Ivan Gridin&lt;/strong&gt; is a machine learning expert who has worked on distributive high-load systems and implemented different machine learning approaches in practice. One of the primary areas of his research is the design and analysis of predictive time series models. Ivan has fundamental math skills in probability theory, random process theory, time series analysis, machine learning, deep learning, and optimization. He has published books on genetic algorithms and time series analysis.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Apress</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781484281482</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1484281489</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">XgfvzgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484281482</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Artificial Intelligence</dc:subject>

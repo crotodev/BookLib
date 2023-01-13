@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">092466d0-cc17-4728-bbe6-55164e454646</dc:identifier>
         <dc:title>Mastering spaCy: An End-To-End Practical Guide to Implementing NLP Applications Using the Python Ecosystem</dc:title>
         <dc:creator opf:file-as="Altinok, Duygu" opf:role="aut">Duygu Altinok</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-07-09T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Build end-to-end industrial-strength NLP models using advanced morphological and syntactic features in spaCy to create real-world applications with ease&lt;/p&gt;
@@ -38,9 +38,9 @@
 &lt;li&gt;spaCy and Transformers&lt;/li&gt;
 &lt;li&gt;Putting Everything Together: Designing Your Chatbot with spaCy&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">rKgxEAAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781800561120</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B093Q3XMF9</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">rKgxEAAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Data Science</dc:subject>
@@ -50,7 +50,7 @@
         <dc:subject>Artificial Intelligence</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Duygu Altinok&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-01-13T07:04:37.461000+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:04:37+00:00"/>
         <meta name="calibre:title_sort" content="Mastering spaCy: An End-To-End Practical Guide to Implementing NLP Applications Using the Python Ecosystem"/>
     </metadata>
     <guide>

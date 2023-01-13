@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3d48d1bd-8082-49aa-8028-f7b79322acfd</dc:identifier>
         <dc:title>The Art of Clean Code: Best Practices to Eliminate Complexity and Simplify Your Life</dc:title>
         <dc:creator opf:file-as="Mayer, Christian" opf:role="aut">Christian Mayer</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-08-02T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -27,8 +27,8 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Christian Mayer&lt;/strong&gt; has a PhD in computer science and is the founder of the popular Python site Finxter, an educational platform that teaches more than a million people a year how to program. He has published a number of books, including the &lt;em&gt;Coffee Break Python&lt;/em&gt; series, and is the author of &lt;em&gt;Python One-Liners&lt;/em&gt; (No Starch Press, 2020).&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>No Starch Press</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781718502185</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1718502184</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781718502185</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">FTlTEAAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
@@ -39,7 +39,7 @@
         <dc:subject>Python</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Christian Mayer&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2023-01-13T17:04:16.512146+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T17:04:16+00:00"/>
         <meta name="calibre:title_sort" content="Art of Clean Code: Best Practices to Eliminate Complexity and Simplify Your Life, The"/>
     </metadata>
     <guide>

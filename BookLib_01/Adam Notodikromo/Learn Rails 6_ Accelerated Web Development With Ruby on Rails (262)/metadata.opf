@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8f8a4917-0ce4-4bb4-800a-ccd006140909</dc:identifier>
         <dc:title>Learn Rails 6: Accelerated Web Development With Ruby on Rails</dc:title>
         <dc:creator opf:file-as="Notodikromo, Adam" opf:role="aut">Adam Notodikromo</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-10-25T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Effectively learn and apply software development and engineering techniques to web application development using Rails 6 with this accelerated tutorial. This book teaches modern engineering practices including git flow, containerization, debugging, testing, and deployment. Along the way, you’ll see how to build a social network application and then deploy it on a cloud provider such as Amazon Web Services. After reading and using this book, you'll be able to effectively build and deploy your Rails application to the cloud. You’ll also have used the Ruby on Rails framework to carry out the rapid development of an idea into a product without sacrificing quality. What You Will Learn Use the Ruby on Rails 6 web development framework Integrate Docker with your Ruby on Rails code Apply software engineering techniques to learning the Rails framework Design, build, and deploy a social networking application to the Amazon cloud Who This Book Is For Beginners with at least some prior programming experience. Ruby experience is helpful, but not required.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -21,7 +21,7 @@
         <dc:subject>Programming</dc:subject>
         <dc:subject>Information Technology</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Adam Notodikromo&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-13T07:03:38.972700+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:03:38+00:00"/>
         <meta name="calibre:title_sort" content="Learn Rails 6: Accelerated Web Development With Ruby on Rails"/>
     </metadata>
     <guide>

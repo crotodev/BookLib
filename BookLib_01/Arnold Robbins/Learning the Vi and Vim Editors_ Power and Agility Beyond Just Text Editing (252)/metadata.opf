@@ -6,13 +6,13 @@
         <dc:title>Learning the Vi and Vim Editors: Power and Agility Beyond Just Text Editing</dc:title>
         <dc:creator opf:file-as="Robbins, Arnold &amp; Hannah, Elbert" opf:role="aut">Arnold Robbins</dc:creator>
         <dc:creator opf:file-as="Robbins, Arnold &amp; Hannah, Elbert" opf:role="aut">Elbert Hannah</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-12-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Among the text editors being used in the programming community, perhaps the most important family is vi and its derivatives. With this updated edition, Unix and Linux users will learn text editing basics for both vi and Vim ("vi improved") before moving on to advanced editing tools for each editor. Authors Arnold Robbins and Elbert Hannah cover the latest major releases of Vim, including 8.0 and 8.2. If you're a programmer or computer analyst, or you work with browsers or command-line interfaces, using Vim can speed up your work and make complex tasks easier. You'll examine multiwindow editing, global search and replacement, and power tools for programmers, and learn how to write interactive macros and scripts to extend the editor--all in the easy-to-follow style that's made this book a classic. Go beyond the basics to learn which vi commands fit your specific needs Learn advanced vi tools that shift most of the editing burden to the computer Explore Vim tools that provide major improvements over vi Examine Vimâ??s multiwindow editing feature, a significant upgrade over vi Use Vim scripts to customize and tailor Vim to your needs Look at Vim in modern GUI environments with Graphical Vim (gvim) See Vim in the broader programming milieu, including usingit as an IDE&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781492078807</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">tNY9zgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781492078807</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Operating Systems</dc:subject>
@@ -21,7 +21,7 @@
         <dc:subject>Word Processing</dc:subject>
         <dc:subject>User Interfaces</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Arnold Robbins&quot;: &quot;&quot;, &quot;Elbert Hannah&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-13T06:51:16.763886+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T06:51:16+00:00"/>
         <meta name="calibre:title_sort" content="Learning the Vi and Vim Editors: Power and Agility Beyond Just Text Editing"/>
     </metadata>
     <guide>

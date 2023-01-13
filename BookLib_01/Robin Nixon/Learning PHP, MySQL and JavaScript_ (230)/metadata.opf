@@ -12,8 +12,8 @@
 &lt;p&gt;Web designers will learn how to use these technologies together while picking up valuable web programming practices along the way, including how to optimize websites for mobile devices. You'll put everything together to build a fully functional social networking site suitable for both desktop and mobile browsers. &lt;/p&gt;
 &lt;p&gt;Explore MySQL from database structure to complex queriesUse the MySQL PDO extension, PHP's improved MySQL interfaceCreate dynamic PHP web pages that tailor themselves to the userManage cookies and sessions and maintain a high level of securityEnhance JavaScript with the React libraryUse Ajax calls for background browser-server communicationStyle your web pages by acquiring CSS skillsImplement HTML5 features, including geolocation, audio, video, and the canvas elementReformat your websites into mobile web apps&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781492093824</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">zihozgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781492093824</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Languages</dc:subject>
@@ -24,7 +24,7 @@
         <dc:subject>Mathematics</dc:subject>
         <dc:subject>General</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Robin Nixon&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-11T19:32:55.570958+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-11T19:32:55+00:00"/>
         <meta name="calibre:title_sort" content="Learning PHP, MySQL and JavaScript: A Step-By-Step Guide to Creating Dynamic Websites"/>
     </metadata>
     <guide>

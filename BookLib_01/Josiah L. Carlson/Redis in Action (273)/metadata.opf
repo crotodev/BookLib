@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1ea11fcb-e0c1-456b-8948-193576e684ac</dc:identifier>
         <dc:title>Redis in Action</dc:title>
         <dc:creator opf:file-as="Carlson, Josiah L." opf:role="aut">Josiah L. Carlson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-06-28T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;SummaryRedis in Action introduces Redis and walks you through examples that demonstrate how to use it effectively. You'll begin by getting Redis set up properly and then exploring the key-value model. Then, you'll dive into real use cases including simple caching, distributed ad targeting, and more. You'll learn how to scale Redis from small jobs to massive datasets. Experienced developers will appreciate chapters on clustering and internal scripting to make Redis easier to use. &lt;/p&gt;
@@ -16,8 +16,8 @@
 &lt;p&gt;What's InsideRedis from the ground upPreprocessing real-time dataManaging in-memory datasetsPub/sub and configurationPersisting to diskAbout the AuthorDr. Josiah L. Carlson is a seasoned database professional and an active contributor to the Redis community. &lt;/p&gt;
 &lt;p&gt;Table of ContentsPART 1 GETTING STARTEDGetting to know RedisAnatomy of a Redis web applicationPART 2 CORE CONCEPTSCommands in RedisKeeping data safe and ensuring performanceUsing Redis for application supportApplication components in RedisSearch-based applicationsBuilding a simple social networkPART 3 NEXT STEPSReducing memory useScaling RedisScripting Redis with Lua&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Manning</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781617290855</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">qo2aMQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781617290855</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Database Administration &amp; Management</dc:subject>
@@ -36,7 +36,7 @@
         <dc:subject>Search Engines</dc:subject>
         <dc:subject>Web Programming</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Josiah L. Carlson&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-13T07:18:22.990805+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:18:22+00:00"/>
         <meta name="calibre:title_sort" content="Redis in Action"/>
     </metadata>
     <guide>

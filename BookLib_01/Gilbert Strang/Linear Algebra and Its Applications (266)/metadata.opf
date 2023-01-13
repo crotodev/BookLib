@@ -5,19 +5,19 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">e52ffc15-3b59-4174-8f0c-40f83e995a8c</dc:identifier>
         <dc:title>Linear Algebra and Its Applications</dc:title>
         <dc:creator opf:file-as="Strang, Gilbert" opf:role="aut">Gilbert Strang</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1976-01-02T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This text combines the underlying theory discussions with examples from electrical engineering, computer science, physics, biology, and economics.&lt;/p&gt;
 &lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Academic Press</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9788131501726</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">0126736502</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">ISopuAAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0126736502</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Gilbert Strang&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-01-13T07:07:52.640525+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:07:52+00:00"/>
         <meta name="calibre:title_sort" content="Linear Algebra and Its Applications"/>
     </metadata>
     <guide>

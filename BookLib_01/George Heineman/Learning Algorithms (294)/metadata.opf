@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">044f1ebf-b67a-48ca-9fd2-3325c8472947</dc:identifier>
         <dc:title>Learning Algorithms</dc:title>
         <dc:creator opf:file-as="Heineman, George" opf:role="aut">George Heineman</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-07-20T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;When it comes to writing efficient code, every software professional needs to have an effective working knowledge of algorithms. In this practical book, author George Heineman ( &lt;em&gt;Algorithms in a Nutshell&lt;/em&gt; ) provides concise and informative descriptions of key algorithms that improve coding in multiple languages. Software developers, testers, and maintainers will discover how algorithms solve computational problems creatively.&lt;/p&gt;
@@ -17,9 +17,9 @@
 &lt;li&gt;Use existing Python libraries and data structures to solve problems using algorithms&lt;/li&gt;
 &lt;li&gt;Understand the main steps of important algorithms&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">AFI5EAAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781492091011</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B099YPZX8G</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">AFI5EAAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Programming</dc:subject>
@@ -32,7 +32,7 @@
         <dc:subject>Machine Learning</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;George Heineman&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2023-01-13T08:04:40.771492+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T08:04:40+00:00"/>
         <meta name="calibre:title_sort" content="Learning Algorithms"/>
     </metadata>
     <guide>

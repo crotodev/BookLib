@@ -7,15 +7,15 @@
         <dc:creator opf:file-as="Audevart, Alexia &amp; Banachewicz, Konrad &amp; Massaron, Luca" opf:role="aut">Alexia Audevart</dc:creator>
         <dc:creator opf:file-as="Audevart, Alexia &amp; Banachewicz, Konrad &amp; Massaron, Luca" opf:role="aut">Konrad Banachewicz</dc:creator>
         <dc:creator opf:file-as="Audevart, Alexia &amp; Banachewicz, Konrad &amp; Massaron, Luca" opf:role="aut">Luca Massaron</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-02-08T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Comprehensive recipes to give you valuable insights on Transformers, Reinforcement Learning, and moreKey FeaturesDeep Learning solutions from Kaggle Masters and Google Developer ExpertsGet to grips with the fundamentals including variables, matrices, and data sourcesLearn advanced techniques to make your algorithms faster and more accurateBook DescriptionThe independent recipes in Machine Learning Using TensorFlow Cookbook will teach you how to perform complex data computations and gain valuable insights into your data. Dive into recipes on training models, model evaluation, sentiment analysis, regression analysis, artificial neural networks, and deep learning - each using Google’s machine learning library, TensorFlow. This cookbook covers the fundamentals of the TensorFlow library, including variables, matrices, and various data sources. You’ll discover real-world implementations of Keras and TensorFlow and learn how to use estimators to train linear models and boosted trees, both for classification and regression. Explore the practical applications of a variety of deep learning architectures, such as recurrent neural networks and Transformers, and see how they can be used to solve computer vision and natural language processing (NLP) problems. With the help of this book, you will be proficient in using TensorFlow, understand deep learning from the basics, and be able to implement machine learning algorithms in real-world scenarios. &lt;/p&gt;
 &lt;p&gt;What you will learnTake TensorFlow into productionImplement and fine-tune Transformer models for various NLP tasksApply reinforcement learning algorithms using the TF-Agents frameworkUnderstand linear regression techniques and use Estimators to train linear modelsExecute neural networks and improve predictions on tabular dataMaster convolutional neural networks and recurrent neural networks through practical recipesWho this book is forIf you are a data scientist or a machine learning engineer, and you want to skip detailed theoretical explanations in favor of building production-ready machine learning models using TensorFlow, this book is for you. &lt;/p&gt;
 &lt;p&gt;Basic familiarity with Python, linear algebra, statistics, and machine learning is necessary to make the most out of this book.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781800206885</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">148bEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781800206885</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Mathematics</dc:subject>
         <dc:subject>Discrete Mathematics</dc:subject>
@@ -26,7 +26,7 @@
         <dc:subject>Database Administration &amp; Management</dc:subject>
         <dc:subject>Artificial Intelligence</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Alexia Audevart&quot;: &quot;&quot;, &quot;Konrad Banachewicz&quot;: &quot;&quot;, &quot;Luca Massaron&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-13T17:26:23.878024+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T17:26:23+00:00"/>
         <meta name="calibre:title_sort" content="Machine Learning Using TensorFlow Cookbook: Create Powerful Machine Learning Algorithms With TensorFlow"/>
     </metadata>
     <guide>

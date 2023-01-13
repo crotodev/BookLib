@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ccb493ad-6a2c-4d08-b764-d969a87be49b</dc:identifier>
         <dc:title>Python Machine Learning - Second Edition: Machine Learning and Deep Learning With Python, Scikit-Learn, and TensorFlow</dc:title>
         <dc:creator opf:file-as="Raschka, Sebastian" opf:role="aut">Sebastian Raschka</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-09-20T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-style: italic; font-weight: bold"&gt;Publisher's Note: This edition from 2017 is outdated and is not compatible with TensorFlow 2 or any of the most recent updates to Python libraries. A new third edition, updated for 2020 and featuring TensorFlow 2 and the latest in scikit-learn, reinforcement learning, and GANs, has now been published.&lt;/p&gt;
@@ -33,7 +33,7 @@
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Sebastian Raschka&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-01-13T07:57:23.177391+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:57:23+00:00"/>
         <meta name="calibre:title_sort" content="Python Machine Learning - Second Edition: Machine Learning and Deep Learning With Python, Scikit-Learn, and TensorFlow"/>
     </metadata>
     <guide>

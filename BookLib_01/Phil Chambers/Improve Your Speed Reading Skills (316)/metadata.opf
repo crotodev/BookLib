@@ -5,20 +5,20 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">0d93352f-98fe-452d-b7e7-eae62f9abc30</dc:identifier>
         <dc:title>Improve Your Speed Reading Skills</dc:title>
         <dc:creator opf:file-as="Chambers, Phil" opf:role="aut">Phil Chambers</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-01-20T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;READ FASTER, LEARN MORE, ACHIEVE MORE Improve Your Speed Reading Skills and breeze through books, newspapers, textbooks, reports, webpages _ whatever you need to read, however you want to read it.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Pearson UK</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781292083971</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">UBQUBgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781292083971</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Self-Help</dc:subject>
         <dc:subject>Personal Growth</dc:subject>
         <dc:subject>Success</dc:subject>
         <dc:subject>General</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Phil Chambers&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-13T17:28:32.756873+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T17:28:32+00:00"/>
         <meta name="calibre:title_sort" content="Improve Your Speed Reading Skills"/>
     </metadata>
     <guide>

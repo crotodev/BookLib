@@ -16,8 +16,8 @@
 &lt;p&gt;What You Will Learn: Explore modern ways of setting up repeatable and consistent Python development environmentsEffectively package Python code for community and production useLearn modern syntax elements of Python programming, such as f-strings, enums, and lambda functionsDemystify metaprogramming in Python with metaclassesWrite concurrent code in PythonExtend and integrate Python with code written in different languagesWho this book is for: The Python programming book is intended for expert programmers who want to learn Python's advanced-level concepts and latest features. &lt;/p&gt;
 &lt;p&gt;Anyone who has basic Python skills should be able to follow the content of the book, although it might require some additional effort from less experienced programmers. It should also be a good introduction to Python 3.9 for those who are still a bit behind and continue to use other older versions.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781801071109</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">WC9xzgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781801071109</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Software Development &amp; Engineering</dc:subject>

@@ -6,15 +6,15 @@
         <dc:title>Personal Finance for Seniors for Dummies</dc:title>
         <dc:creator opf:file-as="Tyson, Eric &amp; Carlson, Robert C." opf:role="aut">Eric Tyson</dc:creator>
         <dc:creator opf:file-as="Tyson, Eric &amp; Carlson, Robert C." opf:role="aut">Robert C. Carlson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-05-03T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The fast and easy way for Baby Boomers to protect their financial futureAre you nearing (or already basking in) retirement? This helpful guide addresses the unique financial opportunities and challenges you'll face as you enter your golden years. &lt;/p&gt;
 &lt;p&gt;Personal Finance For Seniors For Dummies empowers you to chart your financial course for the decades to come, guiding you through the basics of creating a budget for retirement, investing accrued assets, taking advantage of governmental and nongovernmental benefits and planning for your family's future. You'll get trusted, practical information on reexamining investment strategies and rebalancing a portfolio, long-term care options, pension plans and social security, health care, Medicare, and prescription drug costs, and so much more. &lt;/p&gt;
 &lt;p&gt;Advice on how to invest, spend, and protect your wealthGuidance on wills and trustsOther titles by Tyson: Personal Finance For Dummies, Investing For Dummies, and Home Buying For DummiesPersonal Finance For Seniors For Dummies is basic enough to help novices get their arms around thorny financial issues, while also challenging advanced readers to identify areas for improvement.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>John Wiley &amp; Sons</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780470548769</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">A_BWngEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780470548769</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Personal Finance</dc:subject>
@@ -22,7 +22,7 @@
         <dc:subject>Money Management</dc:subject>
         <dc:subject>Retirement Planning</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Eric Tyson&quot;: &quot;&quot;, &quot;Robert C. Carlson&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-13T07:09:02.091985+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:09:02+00:00"/>
         <meta name="calibre:title_sort" content="Personal Finance for Seniors for Dummies"/>
     </metadata>
     <guide>

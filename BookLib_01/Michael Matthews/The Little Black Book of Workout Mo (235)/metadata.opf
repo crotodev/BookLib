@@ -102,14 +102,14 @@
 &lt;p&gt;Mike Matthews is the &lt;strong&gt;#1 bestselling fitness author in the world&lt;/strong&gt; , with over 1.5 million books sold, as well as the founder of the &lt;strong&gt;#1 brand of all-natural sports supplements&lt;/strong&gt; , Legion. &lt;/p&gt;
 &lt;p&gt;His simple and science-based approach to building muscle, losing fat, and getting healthy has helped &lt;strong&gt;tens of thousands&lt;/strong&gt; of people build their best body ever, and his work has been featured in many popular outlets including Esquire, Men's Health, Elle, Women's Health, Muscle &amp;amp; Strength, and more, as well as on &lt;strong&gt;FOX&lt;/strong&gt; and &lt;strong&gt;ABC&lt;/strong&gt;.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Oculus Publishers</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">TM6ctgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1938895355</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">B07FCX94TJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781938895357</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">1938895355</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">TM6ctgEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Michael Matthews&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-01-13T00:29:09.089551+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T00:29:09+00:00"/>
         <meta name="calibre:title_sort" content="Little Black Book of Workout Motivation, The"/>
     </metadata>
     <guide>

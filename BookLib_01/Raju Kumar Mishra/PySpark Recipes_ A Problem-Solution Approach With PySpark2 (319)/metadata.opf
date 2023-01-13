@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">dd0b29c9-9ac0-4583-a416-dffdb40c66ae</dc:identifier>
         <dc:title>PySpark Recipes: A Problem-Solution Approach With PySpark2</dc:title>
         <dc:creator opf:file-as="Mishra, Raju Kumar" opf:role="aut">Raju Kumar Mishra</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-12-10T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Quickly find solutions to common programming problems encountered while processing big data. Content is presented in the popular problem-solution format. Look up the programming problem that you want to solve. Read the solution. Apply the solution directly in your own code. Problem solved!PySpark Recipes covers Hadoop and its shortcomings. The architecture of Spark, PySpark, and RDD are presented. You will learn to apply RDD to solve day-to-day big data problems. Python and NumPy are included and make it easy for new learners of PySpark to understand and adopt the model. &lt;/p&gt;
@@ -23,7 +23,7 @@
         <dc:subject>Data Analytics</dc:subject>
         <dc:subject>Networking</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Raju Kumar Mishra&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-13T17:32:21.040775+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T17:32:21+00:00"/>
         <meta name="calibre:title_sort" content="PySpark Recipes: A Problem-Solution Approach With PySpark2"/>
     </metadata>
     <guide>

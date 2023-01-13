@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Neubauer, Andre &amp; Freudenberger, Jurgen &amp; Kuhn, Volker" opf:role="aut">Andre Neubauer</dc:creator>
         <dc:creator opf:file-as="Neubauer, Andre &amp; Freudenberger, Jurgen &amp; Kuhn, Volker" opf:role="aut">Jurgen Freudenberger</dc:creator>
         <dc:creator opf:file-as="Neubauer, Andre &amp; Freudenberger, Jurgen &amp; Kuhn, Volker" opf:role="aut">Volker Kuhn</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2007-11-12T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;One of the most important key technologies for digital communication systems as well as storage media is coding theory. It provides a means to transmit information across time and space over noisy and unreliable communication channels.&lt;/p&gt;
@@ -42,7 +42,7 @@
         <dc:subject>Engineering</dc:subject>
         <dc:subject>Telecommunications</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Andre Neubauer&quot;: &quot;&quot;, &quot;Jurgen Freudenberger&quot;: &quot;&quot;, &quot;Volker Kuhn&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-13T17:38:47.180399+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T17:38:47+00:00"/>
         <meta name="calibre:title_sort" content="Coding Theory: Algorithms, Architectures and Applications"/>
     </metadata>
     <guide>

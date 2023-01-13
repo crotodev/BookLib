@@ -49,8 +49,8 @@
 &lt;li&gt;Appendix B: A Quick SQL Tutorial&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781801815925</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">1801815925</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">VIqezgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1801815925</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Python</dc:subject>
         <dc:subject>gui</dc:subject>

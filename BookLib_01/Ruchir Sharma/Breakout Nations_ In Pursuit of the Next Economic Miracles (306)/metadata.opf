@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3e3f1cea-f873-4646-94f8-444fb8c8ba90</dc:identifier>
         <dc:title>Breakout Nations: In Pursuit of the Next Economic Miracles</dc:title>
         <dc:creator opf:file-as="Sharma, Ruchir" opf:role="aut">Ruchir Sharma</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-04-09T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;**International Bestseller &lt;/p&gt;
@@ -53,15 +53,15 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Ruchir Sharma&lt;/strong&gt; penned the international bestseller &lt;em&gt;Breakout Nations&lt;/em&gt; and is a contributing op-ed writer at the &lt;em&gt;New York Times&lt;/em&gt;. His commentary has also appeared in the &lt;em&gt;Wall Street Journal&lt;/em&gt; , the &lt;em&gt;Financial Times&lt;/em&gt; , &lt;em&gt;Foreign Affairs&lt;/em&gt; , and other publications. He is chief global strategist at Morgan Stanley Investment Management, based in New York. --This text refers to the paperback edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780393083835</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B007F7XXKA</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">ZhNEg2Abnr8C</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B007F7XXKA</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780393083835</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Investments &amp; Securities</dc:subject>
         <dc:subject>General</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Ruchir Sharma&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-13T17:04:44.015384+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T17:04:44+00:00"/>
         <meta name="calibre:title_sort" content="Breakout Nations: In Pursuit of the Next Economic Miracles"/>
     </metadata>
     <guide>

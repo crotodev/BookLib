@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a44cbd13-4531-43e3-82e9-b6398aa7397f</dc:identifier>
         <dc:title>Financial Theory With Python: A Gentle Introduction</dc:title>
         <dc:creator opf:file-as="Hilpisch, Yves" opf:role="aut">Yves Hilpisch</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-10-19T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Nowadays, finance, mathematics, and programming are intrinsically linked. This book provides the relevant foundations of each discipline to give you the major tools you need to get started in the world of computational finance.&lt;/p&gt;

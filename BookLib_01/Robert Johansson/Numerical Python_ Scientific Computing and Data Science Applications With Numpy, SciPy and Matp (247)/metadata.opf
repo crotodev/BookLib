@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">822c7fa3-2566-4bd4-9da7-25112845db4d</dc:identifier>
         <dc:title>Numerical Python: Scientific Computing and Data Science Applications With Numpy, SciPy and Matplotlib</dc:title>
         <dc:creator opf:file-as="Johansson, Robert" opf:role="aut">Robert Johansson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-12-25T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Leverage the numerical and mathematical modules in Python and its standard library as well as popular open source numerical Python packages like NumPy, SciPy, FiPy, matplotlib and more. This fully revised edition, updated with the latest details of each package and changes to Jupyter projects, demonstrates how to numerically compute solutions and mathematically model applications in big data, cloud computing, financial engineering, business management and more. &lt;/p&gt;
@@ -25,7 +25,7 @@
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Robert Johansson&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-01-13T06:42:34.483935+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T06:42:34+00:00"/>
         <meta name="calibre:title_sort" content="Numerical Python: Scientific Computing and Data Science Applications With Numpy, SciPy and Matplotlib"/>
     </metadata>
     <guide>

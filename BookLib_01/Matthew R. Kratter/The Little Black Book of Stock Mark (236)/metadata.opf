@@ -29,14 +29,14 @@
 &lt;p&gt;&lt;strong&gt;Amazon best-selling author&lt;/strong&gt; and retired hedge fund manager, Matthew Kratter will teach you the secrets that he has used to trade profitably for the last 20 years.&lt;/p&gt;
 &lt;p&gt;And if you ever get stuck, you can always reach out to him by email (provided inside of the book), and he will help you.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Independently published</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">B06XF886DH</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9781520736570</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1520736576</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">ab2bswEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781520736570</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B06XF886DH</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Matthew R. Kratter&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-01-13T00:31:10.510865+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T00:31:10+00:00"/>
         <meta name="calibre:title_sort" content="Little Black Book of Stock Market Secrets, The"/>
     </metadata>
     <guide>

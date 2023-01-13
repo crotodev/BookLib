@@ -5,15 +5,15 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">41fc336a-e1a5-45ed-9599-ae19b3343d35</dc:identifier>
         <dc:title>Python Web Scraping Cookbook: Over 90 Proven Recipes to Get You Scraping With Python, Microservices, Docker, and AWS</dc:title>
         <dc:creator opf:file-as="Heydt, Michael" opf:role="aut">Michael Heydt</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-02-09T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Untangle your web scraping complexities and access web data with ease using Python scriptsKey FeaturesHands-on recipes for advancing your web scraping skills to expert levelOne-stop solution guide to address complex and challenging web scraping tasks using PythonUnderstand web page structures and collect data from a website with easeBook DescriptionPython Web Scraping Cookbook is a solution-focused book that will teach you techniques to develop high-performance Scrapers, and deal with cookies, hidden form fields, Ajax-based sites and proxies. You'll explore a number of real-world scenarios where every part of the development or product life cycle will be fully covered. You will not only develop the skills to design reliable, high-performing data flows, but also deploy your codebase to Amazon Web Services (AWS). If you are involved in software engineering, product development, or data mining or in building data-driven products, you will find this book useful as each recipe has a clear purpose and objective. &lt;/p&gt;
 &lt;p&gt;Right from extracting data from websites to writing a sophisticated web crawler, the book's independent recipes will be extremely helpful while on the job. This book covers Python libraries, requests, and BeautifulSoup. You will learn about crawling, web spidering, working with AJAX websites, and paginated items. You will also understand to tackle problems such as 403 errors, working with proxy, scraping images, and LXML.By the end of this book, you will be able to scrape websites more efficiently and deploy and operate your scraper in the cloud. &lt;/p&gt;
 &lt;p&gt;What you will learnUse a variety of tools to scrape any website and data, including Scrapy and SeleniumMaster expression languages, such as XPath and CSS, and regular expressions to extract web dataDeal with scraping traps such as hidden form fields, throttling, pagination, and different status codesBuild robust scraping pipelines with SQS and RabbitMQScrape assets like image media and learn what to do when Scraper fails to runExplore ETL techniques of building a customized crawler, parser, and convert structured and unstructured data from websitesDeploy and run your scraper as a service in AWS Elastic Container ServiceWho this book is forThis book is ideal for Python programmers, web administrators, security professionals, and anyone who wants to perform web analytics. Familiarity with Python and basic understanding of web scraping will be useful to make the best of this book.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781787286634</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">BJdMDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781787286634</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Languages</dc:subject>
@@ -24,7 +24,7 @@
         <dc:subject>Search Engines</dc:subject>
         <dc:subject>Database Administration &amp; Management</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Michael Heydt&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-01-13T08:08:42.327605+00:00"/>
+        <meta name="calibre:timestamp" content="2023-01-13T08:08:42+00:00"/>
         <meta name="calibre:title_sort" content="Python Web Scraping Cookbook: Over 90 Proven Recipes to Get You Scraping With Python, Microservices, Docker, and AWS"/>
     </metadata>
     <guide>
