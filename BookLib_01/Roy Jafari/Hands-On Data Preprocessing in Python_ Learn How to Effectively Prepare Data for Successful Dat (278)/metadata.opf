@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">278</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a2fca0b-d49b-4149-8169-2fdd60b4abb4</dc:identifier>
+        <dc:title>Hands-On Data Preprocessing in Python: Learn How to Effectively Prepare Data for Successful Data Analytics</dc:title>
+        <dc:creator opf:file-as="Jafari, Roy" opf:role="aut">Roy Jafari</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-21T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Get your raw data cleaned up and ready for processing to design better data analytic solutions&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Develop the skills to perform data cleaning, data integration, data reduction, and data transformation&lt;/li&gt;
+&lt;li&gt;Make the most of your raw data with powerful data transformation and massaging techniques&lt;/li&gt;
+&lt;li&gt;Perform thorough data cleaning, including dealing with missing values and outliers&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Hands-On Data Preprocessing is a primer on the best data cleaning and preprocessing techniques, written by an expert who's developed college-level courses on data preprocessing and related subjects. &lt;/p&gt;
+&lt;p&gt;With this book, you'll be equipped with the optimum data preprocessing techniques from multiple perspectives, ensuring that you get the best possible insights from your data. &lt;/p&gt;
+&lt;p&gt;You'll learn about different technical and analytical aspects of data preprocessing – data collection, data cleaning, data integration, data reduction, and data transformation – and get to grips with implementing them using the open source Python programming environment. &lt;/p&gt;
+&lt;p&gt;The hands-on examples and easy-to-follow chapters will help you gain a comprehensive articulation of data preprocessing, its whys and hows, and identify opportunities where data analytics could lead to more effective decision making. As you progress through the chapters, you'll also understand the role of data management systems and technologies for effective analytics and how to use APIs to pull data.&lt;/p&gt;
+&lt;p&gt;By the end of this Python data preprocessing book, you'll be able to use Python to read, manipulate, and analyze data; perform data cleaning, integration, reduction, and transformation techniques, and handle outliers or missing values to effectively prepare data for analytic tools.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Use Python to perform analytics functions on your data&lt;/li&gt;
+&lt;li&gt;Understand the role of databases and how to effectively pull data from databases&lt;/li&gt;
+&lt;li&gt;Perform data preprocessing steps defined by your analytics goals&lt;/li&gt;
+&lt;li&gt;Recognize and resolve data integration challenges&lt;/li&gt;
+&lt;li&gt;Identify the need for data reduction and execute it&lt;/li&gt;
+&lt;li&gt;Detect opportunities to improve analytics with data transformation&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is for junior and senior data analysts, business intelligence professionals, engineering undergraduates, and data enthusiasts looking to perform preprocessing and data cleaning on large amounts of data. You don't need any prior experience with data preprocessing to get started with this book. However, basic programming skills, such as working with variables, conditionals, and loops, along with beginner-level knowledge of Python and simple analytics experience, are a prerequisite.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Review of the Core Modules of NumPy and Pandas&lt;/li&gt;
+&lt;li&gt;Review of Another Core Module - Matplotlib&lt;/li&gt;
+&lt;li&gt;Data – What Is It Really?&lt;/li&gt;
+&lt;li&gt;Databases&lt;/li&gt;
+&lt;li&gt;Data Visualization&lt;/li&gt;
+&lt;li&gt;Prediction&lt;/li&gt;
+&lt;li&gt;Classification&lt;/li&gt;
+&lt;li&gt;Clustering Analysis&lt;/li&gt;
+&lt;li&gt;Data Cleaning Level I - Cleaning Up the Table&lt;/li&gt;
+&lt;li&gt;Data Cleaning Level II - Unpacking, Restructuring, and Reformulating the Table&lt;/li&gt;
+&lt;li&gt;Data Cleaning Level III- Missing Values, Outliers, and Errors&lt;/li&gt;
+&lt;li&gt;Data Fusion and Data Integration&lt;/li&gt;
+&lt;li&gt;Data Reduction&lt;/li&gt;
+&lt;li&gt;Data Transformation and Massaging&lt;/li&gt;
+&lt;li&gt;Case Study 1 - Mental Health in Tech&lt;/li&gt;
+&lt;li&gt;Case Study 2 - Predicting COVID-19 Hospitalizations&lt;/li&gt;
+&lt;li&gt;Case Study 3: United States Counties Clustering Analysis&lt;/li&gt;
+&lt;li&gt;Summary, Practice Case Studies, and Conclusions&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781801072137</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1801072132</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Roy Jafari&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:30:34.811731+00:00"/>
+        <meta name="calibre:title_sort" content="Hands-On Data Preprocessing in Python: Learn How to Effectively Prepare Data for Successful Data Analytics"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

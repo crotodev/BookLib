@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">280</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13009b70-0d8c-429f-8210-78484edad51b</dc:identifier>
+        <dc:title>Think Data Structures: Algorithms and Information Retrieval in Java</dc:title>
+        <dc:creator opf:file-as="Downey, Allen B." opf:role="aut">Allen B. Downey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-07T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;If you’re a student studying computer science or a software developer preparing for technical interviews, this practical book will help you learn and review some of the most important ideas in software engineering—data structures and algorithms—in a way that’s clearer, more concise, and more engaging than other materials.&lt;/p&gt;
+&lt;p&gt;By emphasizing practical knowledge and skills over theory, author Allen Downey shows you how to use data structures to implement efficient algorithms, and then analyze and measure their performance. You’ll explore the important classes in the Java collections framework (JCF), how they’re implemented, and how they’re expected to perform. Each chapter presents hands-on exercises supported by test code online.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Use data structures such as lists and maps, and understand how they work&lt;/li&gt;
+&lt;li&gt;Build an application that reads Wikipedia pages, parses the contents, and navigates the resulting data tree&lt;/li&gt;
+&lt;li&gt;Analyze code to predict how fast it will run and how much memory it will require&lt;/li&gt;
+&lt;li&gt;Write classes that implement the Map interface, using a hash table and binary search tree&lt;/li&gt;
+&lt;li&gt;Build a simple web search engine with a crawler, an indexer that stores web page contents, and a retriever that returns user query results&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Other books by Allen Downey include &lt;em&gt;Think Java&lt;/em&gt; , &lt;em&gt;Think Python&lt;/em&gt; , &lt;em&gt;Think Stats&lt;/em&gt; , and &lt;em&gt;Think Bayes&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B073SJBWKD</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Allen B. Downey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:48:31.485231+00:00"/>
+        <meta name="calibre:title_sort" content="Think Data Structures: Algorithms and Information Retrieval in Java"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
