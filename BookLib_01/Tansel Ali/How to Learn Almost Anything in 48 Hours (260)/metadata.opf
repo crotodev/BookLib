@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">260</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">959f05c1-0b38-48c2-aa55-fb6a952000dd</dc:identifier>
+        <dc:title>How to Learn Almost Anything in 48 Hours</dc:title>
+        <dc:creator opf:file-as="Ali, Tansel" opf:role="aut">Tansel Ali</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-02T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;We all want to improve our knowledge, learn new things, and ace exams, but in this fast paced world we can feel a little time poor to really get the best from ourselves. In this amazingly practical book, memory coach and brain trainer, Tansel Ali unlocks the secrets to learning almost anything in just 48 hours. &lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;How to Learn Almost Anything in 48 Hours&lt;/strong&gt; , Tansel demonstrates techniques to apply to learning a wide range of things: &lt;/p&gt;
+&lt;p&gt;Studying Exams&lt;br&gt;Speeches and Presentations&lt;br&gt;Foreign Languages&lt;br&gt;Music Theory and Practice&lt;br&gt;Speed Reading&lt;br&gt;New Technologies and Software&lt;br&gt;General Knowledge, Trivia and Facts. &lt;/p&gt;
+&lt;p&gt;Includes exercises to hone your skills at memory and train your brain to learn well and learn fast, this is the ultimate book for anyone ready to sharpen their mind and expand their knowledge.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hardie Grant Books</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B014SWDRX2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Tansel Ali&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:01:54.761773+00:00"/>
+        <meta name="calibre:title_sort" content="How to Learn Almost Anything in 48 Hours"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
