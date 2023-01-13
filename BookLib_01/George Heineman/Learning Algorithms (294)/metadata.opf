@@ -6,9 +6,32 @@
         <dc:title>Learning Algorithms</dc:title>
         <dc:creator opf:file-as="Heineman, George" opf:role="aut">George Heineman</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:language>en</dc:language>
+        <dc:date>2021-07-20T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;When it comes to writing efficient code, every software professional needs to have an effective working knowledge of algorithms. In this practical book, author George Heineman ( &lt;em&gt;Algorithms in a Nutshell&lt;/em&gt; ) provides concise and informative descriptions of key algorithms that improve coding in multiple languages. Software developers, testers, and maintainers will discover how algorithms solve computational problems creatively.&lt;/p&gt;
+&lt;p&gt;Each chapter builds on earlier chapters through eye-catching visuals and a steady rollout of essential concepts, including an algorithm analysis to classify the performance of every algorithm presented in the book. At the end of each chapter, youâ??ll get to apply what youâ??ve learned to a novel challenge problemâ??simulating the experience you might find in a technical code interview.&lt;/p&gt;
+&lt;p&gt;With this book, you will:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Examine fundamental algorithms central to computer science and software engineering&lt;/li&gt;
+&lt;li&gt;Learn common strategies for efficient problem solvingâ??such as divide and conquer, dynamic programming, and greedy approaches&lt;/li&gt;
+&lt;li&gt;Analyze code to evaluate time complexity using big O notation&lt;/li&gt;
+&lt;li&gt;Use existing Python libraries and data structures to solve problems using algorithms&lt;/li&gt;
+&lt;li&gt;Understand the main steps of important algorithms&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781492091011</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B099YPZX8G</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">AFI5EAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Complex Analysis</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Machine Learning</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;George Heineman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-13T08:04:40.771492+00:00"/>
         <meta name="calibre:title_sort" content="Learning Algorithms"/>
     </metadata>

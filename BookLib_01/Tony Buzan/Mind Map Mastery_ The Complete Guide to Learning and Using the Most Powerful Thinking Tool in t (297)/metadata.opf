@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">297</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58c0e67e-7bb3-48f9-89bc-43fc1dd2eb58</dc:identifier>
+        <dc:title>Mind Map Mastery: The Complete Guide to Learning and Using the Most Powerful Thinking Tool in the Universe</dc:title>
+        <dc:creator opf:file-as="Buzan, Tony" opf:role="aut">Tony Buzan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-13T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Discover how you can use mind mapping to get organized, improve your memory, plan your business strategy, and much more—from the original creator of this revolutionary thinking tool &lt;/p&gt;
+&lt;p&gt;For the past five decades, Tony Buzan has been at the leading edge of learning and educational research with his revolutionary Mind Map technique. With &lt;em&gt;Mind Map Mastery&lt;/em&gt; , he has distilled these years of global research into the clearest and most powerful instructional work available on the Mind Map technique. &lt;/p&gt;
+&lt;p&gt;Tony Buzan’s Mind Map technique has gathered amazing praise and an enormous worldwide following over the last few decades—but as with any very successful idea, there have been many sub-standard imitators. With &lt;em&gt;Mind Map Mastery,&lt;/em&gt; Tony Buzan re-establishes the essential concepts that are the core of the Mind Map with a clarity and practicality unrivalled by other books. &lt;/p&gt;
+&lt;p&gt;If you are looking to improve your memory, plan your business strategy, become more organized, study for an exam or plan out your future, this is the book for you. With a clarity and depth that far exceeds any other book on the subject, it includes: &lt;/p&gt;
+&lt;p&gt;• The history of the development of the Mind Map&lt;br&gt;• An explanation of what makes a Mind Map (and what isn’t a Mind Map)&lt;br&gt;• Why the Mind Map technique is such a powerful tool&lt;br&gt;• Illustrated step-by-step techniques for Mind Map development&lt;br&gt;• How to deal with Mind Maps that have “gone wrong” &lt;/p&gt;
+&lt;p&gt;Developed both for those new to the Mind Map concept as well as more experienced users who would like to revise and expand their expertise, &lt;em&gt;Mind Map Mastery&lt;/em&gt; is the one Mind Mapping book needed on the shelf of every student and businessperson across the world.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Watkins Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781786781413</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1786781417</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">fuY4DwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Decision-Making &amp; Problem Solving</dc:subject>
+        <dc:subject>Management Science</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Memory Improvement</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tony Buzan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-13T08:07:27.646009+00:00"/>
+        <meta name="calibre:title_sort" content="Mind Map Mastery: The Complete Guide to Learning and Using the Most Powerful Thinking Tool in the Universe"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

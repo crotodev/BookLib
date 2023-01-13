@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c35c8ce-44af-4499-87ad-609a5bb44289</dc:identifier>
+        <dc:title>Risk Management and Financial Institutions, + Web Site</dc:title>
+        <dc:creator opf:file-as="Hull, John" opf:role="aut">John Hull</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-08T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The essential guide to managing financial institution risk, fully revised and updated The dangers inherent in the financial system make understanding risk management essential for anyone working in, or planning to work in, the financial sector. A practical resource for financial professionals and students alike, Risk Management and Financial Institutions, Third Edition explains all aspects of financial risk as well as the way financial institutions are regulated, to help readers better understand financial markets and potential dangers. Fully revised and updated, this new edition features coverage of Basel 2.5, Basel III and Dodd-Frank as well as expanded sections on counterparty credit risk, central clearing, and collateralization. In addition, end-of-chapter practice problems and a website featuring supplemental materials designed to provide a more comprehensive learning experience make this the ultimate learning resource. Written by acclaimed risk management expert, John Hull, Risk Management and Financial Institutions is the only book you need to understand—and respond to—financial risk. The new edition of the financial risk management bestseller Describes the activities of different types of financial institutions, explains how they are regulated, and covers market risk, credit risk, operational risk, liquidity risk, and model risk Features new coverage of Basel III, Dodd-Frank, counterparty credit risk, central clearing, collateralization, and much more Provides readers with access to a supplementary website offering software and unique learning aids Author John Hull is one of the most respected authorities on financial risk management A timely update to the definitive resource on risk in the financial system, Risk Management and Financial Institutions + Web Site, Third Edition is an indispensable resource from internationally renowned expert John Hull.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781118269039</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ixLD1gjPfoMC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Corporate Finance</dc:subject>
+        <dc:subject>Insurance</dc:subject>
+        <dc:subject>Risk Assessment &amp; Management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Hull&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-13T08:09:51.945831+00:00"/>
+        <meta name="calibre:title_sort" content="Risk Management and Financial Institutions, + Web Site"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
