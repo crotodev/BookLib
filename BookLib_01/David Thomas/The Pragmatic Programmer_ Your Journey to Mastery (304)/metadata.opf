@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">304</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ddf4c427-2019-49fe-8479-de8f9cafe31e</dc:identifier>
+        <dc:title>The Pragmatic Programmer: Your Journey to Mastery</dc:title>
+        <dc:creator opf:file-as="Thomas, David &amp; Hunt, Andrew" opf:role="aut">David Thomas</dc:creator>
+        <dc:creator opf:file-as="Thomas, David &amp; Hunt, Andrew" opf:role="aut">Andrew Hunt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"One of the most significant books in my life. &lt;/p&gt;
+&lt;p&gt;"--Obie Fernandez, Author, The Rails Way "Twenty years ago, the first edition of The Pragmatic Programmer completely changed the trajectory of my career. This new edition could do the same for yours. &lt;/p&gt;
+&lt;p&gt;" --Mike Cohn, Author of Succeeding with Agile, Agile Estimating and Planning, and User Stories Applied ". . . filled with practical advice, both technical and professional, that will serve you and your projects well for years to come. &lt;/p&gt;
+&lt;p&gt;" --Andrea Goulet, CEO, Corgibytes, Founder, LegacyCode. Rocks ". . . lightning does strike twice, and this book is proof. &lt;/p&gt;
+&lt;p&gt;" --VM (Vicky) Brasseur, Director of Open Source Strategy, Juniper Networks The Pragmatic Programmer is one of those rare tech books you'll read, re-read, and read again over the years. Whether you're new to the field or an experienced practitioner, you'll come away with fresh insights each and every time. Dave Thomas and Andy Hunt wrote the first edition of this influential book in 1999 to help their clients create better software and rediscover the joy of coding. These lessons have helped a generation of programmers examine the very essence of software development, independent of any particular language, framework, or methodology, and the Pragmatic philosophy has spawned hundreds of books, screencasts, and audio books, as well as thousands of careers and success stories. Now, twenty years later, this new edition re-examines what it means to be a modern programmer. Topics range from personal responsibility and career development to architectural techniques for keeping your code flexible and easy to adapt and reuse. Read this book, and you'll learn how to: Fight software rot Learn continuously Avoid the trap of duplicating knowledge Write flexible, dynamic, and adaptable code Harness the power of basic tools Avoid programming by coincidence Learn real requirements Solve the underlying problems of concurrent code Guard against security vulnerabilities Build teams of Pragmatic Programmers Take responsibility for your work and career Test ruthlessly and effectively, including property-based testing Implement the Pragmatic Starter Kit Delight your users Written as a series of self-contained sections and filled with classic and fresh anecdotes, thoughtful examples, and interesting analogies, The Pragmatic Programmer illustrates the best approaches and major pitfalls of many different aspects of software development. Whether you're a new coder, an experienced p ...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780135956977</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">-8pXyQEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;David Thomas&quot;: &quot;&quot;, &quot;Andrew Hunt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-13T17:03:10.125059+00:00"/>
+        <meta name="calibre:title_sort" content="Pragmatic Programmer: Your Journey to Mastery, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

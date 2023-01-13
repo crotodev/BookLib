@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">310</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf38fff7-a138-437c-8435-9ed4fd56f2d3</dc:identifier>
+        <dc:title>Quiet: The Power of Introverts in a World That Can't Stop Talking</dc:title>
+        <dc:creator opf:file-as="Cain, Susan" opf:role="aut">Susan Cain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-29T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;#1 NEW YORK TIMES BESTSELLER • Experience the book that started the Quiet Movement and revolutionized how the world sees introverts—and how introverts see themselves—by offering validation, inclusion, and inspiration“Superbly researched, deeply insightful, and a fascinating read, Quiet is an indispensable resource for anyone who wants to understand the gifts of the introverted half of the population.”—Gretchen Rubin, author of The Happiness Project NAMED ONE OF THE BEST BOOKS OF THE YEAR BY People • O: The Oprah Magazine • Christian Science Monitor • Inc. • Library Journal • Kirkus Reviews At least one-third of the people we know are introverts. They are the ones who prefer listening to speaking; who innovate and create but dislike self-promotion; who favor working on their own over working in teams. It is to introverts—Rosa Parks, Chopin, Dr. Seuss, Steve Wozniak—that we owe many of the great contributions to society.   In Quiet, Susan Cain argues that we dramatically undervalue introverts and shows how much we lose in doing so. She charts the rise of the Extrovert Ideal throughout the twentieth century and explores how deeply it has come to permeate our culture. She also introduces us to successful introverts—from a witty, high-octane public speaker who recharges in solitude after his talks, to a record-breaking salesman who quietly taps into the power of questions. Passionately argued, impeccably researched, and filled with indelible stories of real people, Quiet has the power to permanently change how we see introverts and, equally important, how they see themselves. Now with Extra Libris material, including a reader’s guide and bonus content&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Crown</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307352156</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">uNMjeFMorPgC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Personality</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Leadership</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Susan Cain&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-13T17:11:44.618502+00:00"/>
+        <meta name="calibre:title_sort" content="Quiet: The Power of Introverts in a World That Can't Stop Talking"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

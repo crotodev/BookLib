@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">305</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d48d1bd-8082-49aa-8028-f7b79322acfd</dc:identifier>
+        <dc:title>The Art of Clean Code: Best Practices to Eliminate Complexity and Simplify Your Life</dc:title>
+        <dc:creator opf:file-as="Mayer, Christian" opf:role="aut">Christian Mayer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-02T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Learn eight principles to simplify your code and become a more effective (and successful) programmer. &lt;/p&gt;
+&lt;p&gt;Most software developers waste thousands of hours working with overly complex code. The eight core principles in &lt;em&gt;The Art of Clean Coding&lt;/em&gt; will teach you how to write clear, maintainable code without compromising functionality. The book’s guiding principle is simplicity: reduce and simplify, then reinvest energy in the important parts to save you countless hours and ease the often onerous task of code maintenance. &lt;/p&gt;
+&lt;p&gt;Bestselling author Christian Mayer leverages his experience helping thousands perfect their coding skills in this new book. With expert advice and real-world examples, he’ll show you how to: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Concentrate on the important stuff with the 80/20 principle -- focus on the 20% of your code that matters most&lt;/li&gt;
+&lt;li&gt;Avoid coding in isolation: create a minimum viable product to get early feedback&lt;/li&gt;
+&lt;li&gt;Write code cleanly and simply to eliminate clutter &lt;/li&gt;
+&lt;li&gt;Avoid premature optimization that risks over-complicating code &lt;/li&gt;
+&lt;li&gt;Balance your goals, capacity, and feedback to achieve the productive state of Flow&lt;/li&gt;
+&lt;li&gt;Apply the Do One Thing Well philosophy to vastly improve functionality&lt;/li&gt;
+&lt;li&gt;Design efficient user interfaces with the Less is More principle&lt;/li&gt;
+&lt;li&gt;Tie your new skills together into one unifying principle: Focus &lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;The Python-based &lt;em&gt;The Art of Clean Coding&lt;/em&gt; is suitable for programmers at any level, with ideas presented in a language-agnostic manner.&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"An excellent book packed full of insights that every programmer (and project manager) should know." &lt;br&gt;&lt;strong&gt;—Tim Cox, Author of&lt;/strong&gt; Raspberry Pi Cookbook for Python Programmers&lt;br&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;"An extremely readable book . . . Readers of this book will likely come away as believers in a more minimalistic mindset. Moreover, the book lives up to its title. The lessons taught can be applied not only in coding but also toward making the reader’s life generally more productive and successful." **&lt;br&gt;—Lee Teschler, Microcontroller Tips &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;"A great source to learn about the basic principles of clean code and best practices to get better at coding . . . Reading this book saves you time and teaches valuable skills, so go for it!" &lt;br&gt;&lt;/strong&gt;—Crow Intelligence&lt;br&gt;&lt;strong&gt;&lt;br&gt;"I very much enjoyed [ &lt;/strong&gt;&lt;span style="font-weight: bold; font-style: italic"&gt;The Art of Clean Code&lt;/span&gt;&lt;strong&gt; ], and definitely would recommend it to anybody, not just programmers or related, but anybody, as it does apply to nearly everyone, if they can think outside the box!" &lt;/strong&gt;&lt;br&gt;—Lukas Batema, Founder of BatemaDevelopment**&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Christian Mayer&lt;/strong&gt; has a PhD in computer science and is the founder of the popular Python site Finxter, an educational platform that teaches more than a million people a year how to program. He has published a number of books, including the &lt;em&gt;Coffee Break Python&lt;/em&gt; series, and is the author of &lt;em&gt;Python One-Liners&lt;/em&gt; (No Starch Press, 2020).&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718502185</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1718502184</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">FTlTEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Christian Mayer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-13T17:04:16.512146+00:00"/>
+        <meta name="calibre:title_sort" content="Art of Clean Code: Best Practices to Eliminate Complexity and Simplify Your Life, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
