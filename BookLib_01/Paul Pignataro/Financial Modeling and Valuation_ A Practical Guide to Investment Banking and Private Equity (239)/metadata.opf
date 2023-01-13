@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a60e69e-d7ca-4aae-8875-5fe319b977a2</dc:identifier>
+        <dc:title>Financial Modeling and Valuation: A Practical Guide to Investment Banking and Private Equity</dc:title>
+        <dc:creator opf:file-as="Pignataro, Paul" opf:role="aut">Paul Pignataro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The fully revised new edition of the best-selling guide to using financial models to determine if a stock is over or undervalued Written by the founder and CEO of the world-renowned New York School of Finance, Financial Modeling and Valuation provides clear and systematic guidance on accurately evaluating the soundness of a stock investment. This invaluable handbook equips investors with the tools necessary for understanding the underlying fundamentals of a rational investment and for making smarter investment decisions in any market environment. Built around an in-depth case study of global retail leader Amazon, this fully updated Second Edition shows you how to analyze the financial standing of a company using the methods of Wall Street professionals. Step-by-step, you will learn to build the core three statements—income statement, cash flow statement, and balance sheet—as well as the three major supporting schedules required for complete company valuation and analysis. All line items are explained in clear language and include real-world tips and techniques for using them as tools for valuing and managing a business. This must-have guide: Features new and in-depth case studies based on Amazon that simulate real-world modelling and valuation Explains valuation techniques such as illustrative comparable company analysis, precedent transactions analysis, and discounted cash flow analysis Covers all essential applications of a model, including pricing a stock, raising debt, and raising equity Includes an introductory section describing the recent and dramatic shift of the entire retail industry Provides end-of-chapter questions, downloadable practice models, additional case studies, and common interview questions via a companion website Financial Modeling and Valuation: A Practical Guide to Investment Banking and Private Equity, Second Edition is essential reading for finance professionals, venture capitalists, individual investors, and students in investment banking and related degree programs in finance.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119808893</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">F8p6EAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Corporate Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paul Pignataro&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-13T03:11:39.797265+00:00"/>
+        <meta name="calibre:title_sort" content="Financial Modeling and Valuation: A Practical Guide to Investment Banking and Private Equity"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
