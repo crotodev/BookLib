@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">4b0269f3-5f7b-4a71-898e-d170909b8b3b</dc:identifier>
         <dc:title>Innovative Tableau: 100 More Tips, Tutorials, and Strategies</dc:title>
         <dc:creator opf:file-as="Sleeper, Ryan" opf:role="aut">Ryan Sleeper</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-04-24T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Level up with Tableau to build eye-catching, easy-to-interpret data visualizations. In this follow-up guide to Practical Tableau, author Ryan Sleeper takes you through a collection of unique tips and tutorials for using this popular software. Beginning to advanced Tableau users will learn how to go beyond Show Me to make better charts and learn dozens of tricks to improve both the author and user experience.&lt;/p&gt;
@@ -14,7 +14,7 @@
 &lt;li&gt;Examine unique new charts—timelines, custom gauges, and leapfrog charts—plus innovations to traditional charts such as highlight tables, scatter plots, and maps&lt;/li&gt;
 &lt;li&gt;Get tips that can help make a Tableau developer’s life easier&lt;/li&gt;
 &lt;li&gt;Understand what developers can do to make users’ lives easier&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781492075653</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1492075655</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">c-_eDwAAQBAJ</dc:identifier>

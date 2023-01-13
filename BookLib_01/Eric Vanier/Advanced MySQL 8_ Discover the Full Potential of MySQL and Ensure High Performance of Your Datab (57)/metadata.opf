@@ -7,13 +7,13 @@
         <dc:creator opf:file-as="Vanier, Eric &amp; Shah, Birju &amp; Malepati, Tejaswi" opf:role="aut">Eric Vanier</dc:creator>
         <dc:creator opf:file-as="Vanier, Eric &amp; Shah, Birju &amp; Malepati, Tejaswi" opf:role="aut">Birju Shah</dc:creator>
         <dc:creator opf:file-as="Vanier, Eric &amp; Shah, Birju &amp; Malepati, Tejaswi" opf:role="aut">Tejaswi Malepati</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-01-31T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Design cost-efficient database solutions, scale enterprise operations and reduce overhead business costs with MySQLKey FeaturesExplore the new and advanced features of MySQL 8.0Use advanced techniques to optimize MySQL performanceCreate MySQL-based applications for your enterprise with the help of practical examplesBook DescriptionAdvanced MySQL 8 teaches you to enhance your existing database infrastructure and build various tools to improve your enterprise applications and overall website performance. The book starts with the new and exciting MySQL 8.0 features and how to utilize them for maximum efficiency. As you make your way through the chapters, you will learn to optimize MySQL performance using indexes and advanced data query techniques for large queries. You will also discover MySQL Server 8.0 settings and work with the MySQL data dictionary to boost the performance of your database. In the concluding chapters, you will cover MySQL 8.0 Group Replication, which will enable you to create elastic, highly available, and fault-tolerant replication topologies. You will also explore backup and recovery techniques for your databases and understand important tips and tricks to help your critical data reach its full potential. &lt;/p&gt;
 &lt;p&gt;By the end of this book, you’ll have learned about new MySQL 8.0 security features that allow a database administrator (DBA) to simplify user management and increase the security of their multi-user environments. &lt;/p&gt;
 &lt;p&gt;What you will learnExplore new and exciting features of MySQL 8.0Analyze and optimize large MySQL queriesUnderstand MySQL Server 8.0 settingsMaster the deployment of Group Replication and use it in an InnoDB clusterMonitor large distributed databasesDiscover different types of backups and recovery methods for your databasesExplore tips to help your critical data reach its full potentialWho this book is forAdvanced MySQL 8 is for database administrators, data architects, and database developers who want to dive deeper into building advanced database applications in the MySQL environment.&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Packt Publishing Ltd</dc:publisher>
+        <dc:publisher>Packt Publishing</dc:publisher>
         <dc:identifier opf:scheme="GOOGLE">EGSGDwAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781788833790</dc:identifier>
         <dc:language>eng</dc:language>

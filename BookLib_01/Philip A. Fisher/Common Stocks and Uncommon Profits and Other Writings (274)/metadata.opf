@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">274</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9721f58-28fc-488d-b8bd-179f5ad32446</dc:identifier>
+        <dc:title>Common Stocks and Uncommon Profits and Other Writings</dc:title>
+        <dc:creator opf:file-as="Fisher, Philip A." opf:role="aut">Philip A. Fisher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-14T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Philip Fisher gilt als einer der Pioniere der modernen Investmenttheorie und zählt zu den einflussreichsten Investoren aller Zeiten. Seine Investmentphilosophien, die er vor fast 40 vorgestellt hat, werden nicht nur von modernen Finanzexperten und Investoren - inklusive Warren Buffett - studiert und angewendet, sondern gelten für viele als das Evangelium schlechthin. "Common Stocks and Uncommon Profits and Other Writings" ist die aktualisierte Broschurausgabe der 1958 erschienenen Originalausgabe. Diese Neuauflage stellt Fishers Ideen einer neuen Generation von Investoren vor. Sie enthält alle Investmentweisheiten der Originalausgabe sowie ein erweitertes Vorwort und eine Einleitung von Philip Fishers Sohn Ken - selbst ein angesehener Investment-Guru. Ken Fisher beschreibt hier, wie dieses Buch sein Privat- und Berufsleben beeinflusst hat und geht ausführlich auf die Investmentleidenschaft seines Vaters ein. "Common Stocks and Uncommon Profits and Other Writings " - eine unverzichtbare Lektüre für Finanzinteressierte, Anleger und Finanzexperten gleichermaßen. Die Neuauflage erscheint in neuem Design als Band der Reihe 'Wiley's Investment Classics Series'.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119143130</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">RrZNCAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Investments &amp; Securities</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Accounting</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Philip A. Fisher&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:19:10.676341+00:00"/>
+        <meta name="calibre:title_sort" content="Common Stocks and Uncommon Profits and Other Writings"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
