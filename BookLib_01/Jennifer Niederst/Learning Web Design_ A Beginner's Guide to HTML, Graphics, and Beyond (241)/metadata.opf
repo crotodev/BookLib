@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">241</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bbb8d4d0-4e5f-4805-8b77-c5046e2d63cb</dc:identifier>
+        <dc:title>Learning Web Design: A Beginner's Guide to HTML, Graphics, and Beyond</dc:title>
+        <dc:creator opf:file-as="Niederst, Jennifer &amp; Robbins, Jennifer Niederst" opf:role="aut">Jennifer Niederst</dc:creator>
+        <dc:creator opf:file-as="Niederst, Jennifer &amp; Robbins, Jennifer Niederst" opf:role="aut">Jennifer Niederst Robbins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-01-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In &lt;em&gt;Learning Web Design&lt;/em&gt; , author Jennifer Niederst shares the knowledge she's gained from years of web design experience, both as a designer and a teacher. This book starts from the beginning-- defining the Internet, the Web, browsers, and URLs -- so you don't need to have any previous knowledge about how the Web works. After reading this book, you'll have a solid foundation in HTML, graphics, and design principles that you can immediately put to use in creating effective web pages. &lt;/p&gt;
+&lt;p&gt;In the second edition, Jennifer has updated the book to cover style sheets and reflect current web standards. She has also added exercises that help you to learn various techniques and short quizzes that make sure you're up to speed with key concepts. The companion CD-ROM contains material for all the exercises in the book, as well as trial versions of Fireworks® MX, and HomeSite™ 5; Adobe ® Photoshop® 7, ImageReady® 7, and BBEdit 7. * &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;em&gt;Learning Web Design&lt;/em&gt; &lt;em&gt;, 2nd Edition:&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Covers the nuts and bolts of basic HTML and style sheets, with detailed examples of formatting text, adding graphic elements, making links, creating tables and frames, and using color on the Web.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Explains whether to use GIFs or JPEGs for different types of images, and includes important tips on optimizing graphics for web delivery.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Provides dozens of web design do and don'ts, to help you make good web design decisions and avoid common beginner traps.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Contains hands-on exercises throughout the book that allow you to try out new techniques along the way.&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Unlike other beginner books,&lt;/em&gt; &lt;em&gt;Learning Web Design&lt;/em&gt; &lt;em&gt;leaves no holes in your education. It gives you everything you need to create basic web sites and will prepare you for more advanced web work. If you are interested in web design, this book is the place to start. After finishing it, you'll be ready for the author's bestselling companion reference,&lt;/em&gt; &lt;em&gt;Web Design in a Nutshell&lt;/em&gt; *. &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fireworks and HomeSite are trademarks or registered trademarks of Macromedia, Inc. in the United States and/or other countries. Adobe, ImageReady, and Photoshop are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Jennifer Niederst Robbins was one of the first designers for the Web. As the designer of O'Reilly's Global Network Navigator (GNN), the first commercial web site, she has been designing for the Web since 1993. Since then, she has worked as the creative director of Songline Studios (a former subsidiary of O'Reilly) and as a freelance designer and consultant since 1996. She is the author of the bestselling Web Design in a Nutshell and Learning Web Design (O'Reilly), and she has taught web design at the Massachusetts College of Art in Boston and Johnson and Wales University in Providence. She has spoken at major design and Internet events including SXSW Interactive, Seybold Seminars, the GRAFILL conference (Geilo, Norway), and one of the first W3C International Expos. &lt;/p&gt;
+&lt;p&gt;In addition to designing, Jennifer enjoys cooking, travel, indie-rock, and making stuff. She maintains her own professional web site at http://www.littlechair.com as well.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780596004842</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1449319270</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">eN6_am2A5acC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Web Design</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jennifer Niederst&quot;: &quot;&quot;, &quot;Jennifer Niederst Robbins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-13T06:37:24.689023+00:00"/>
+        <meta name="calibre:title_sort" content="Learning Web Design: A Beginner's Guide to HTML, Graphics, and Beyond"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

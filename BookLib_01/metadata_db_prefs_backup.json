@@ -17,16 +17,52 @@
   ],
   "gui_view_history": [
     [
+      238,
+      "Investments"
+    ],
+    [
+      237,
+      "Essentials of Investments"
+    ],
+    [
+      196,
+      "Mastering Python for Finance"
+    ],
+    [
+      228,
+      "JavaScript: The Definitive Guide, 7th Edition"
+    ],
+    [
+      204,
+      "The Daily Laws: 366 Meditations on Power, Seduction, Mastery, Strategy, and Human Nature"
+    ],
+    [
+      162,
+      "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential"
+    ],
+    [
+      161,
+      "AWS Certified Developer Associate All-in-One Exam Guide (Exam DVA-C01)"
+    ],
+    [
+      95,
+      "Study Skills for Dummies"
+    ],
+    [
+      221,
+      "Incerto 5-Book Bundle: Fooled by Randomness, The Black Swan, The Bed of Procrustes, Antifragile, Skin in the Game"
+    ],
+    [
+      102,
+      "Buzan Study Skills Handbook The Shortcut to Success in Your Studies with Mind Mapping, Speed Reading and Winning Memory Techniques"
+    ],
+    [
       209,
       "The Side Hustle Bible: 150+ Side Hustle Ideas and How to Start Making Money Right Away \u2013 Make Money Online and Offline"
     ],
     [
       202,
       "Learning Python for Forensics Leverage the power of Python in forensic investigations"
-    ],
-    [
-      197,
-      "Mastering Python for Finance"
     ],
     [
       214,
@@ -39,64 +75,48 @@
     [
       24,
       "Introduction to Python Network Automation"
-    ],
-    [
-      208,
-      "The Art of Seduction"
-    ],
-    [
-      131,
-      "The Last Wish: Introducing The Witcher"
-    ],
-    [
-      132,
-      "Blood of Elves"
-    ],
-    [
-      197,
-      "James Ma Weiming"
-    ],
-    [
-      175,
-      "Hyperfocus: How to Be More Productive in a World of Distraction"
-    ],
-    [
-      179,
-      "The Time Paradox"
-    ],
-    [
-      172,
-      "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"
-    ],
-    [
-      169,
-      "Applied Deep Learning with TensorFlow 2. Learn to Implement Advanced Deep Learning Techniques with Python, 2nd Edition"
-    ],
-    [
-      170,
-      "Deep Learning"
     ]
   ],
   "library_view books view state": {
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "languages": 11,
+      "last_modified": 10,
+      "ondevice": 0,
+      "pubdate": 9,
+      "publisher": 8,
+      "rating": 5,
+      "series": 7,
+      "size": 4,
+      "tags": 6,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 350,
+      "languages": 0,
+      "last_modified": 0,
+      "pubdate": 90,
+      "publisher": 208,
+      "rating": 68,
+      "series": 279,
+      "size": 88,
+      "tags": 350,
+      "timestamp": 96,
+      "title": 350
+    },
     "hidden_columns": [
       "last_modified",
       "languages"
     ],
-    "last_modified_injected": true,
     "languages_injected": true,
+    "last_modified_injected": true,
     "sort_history": [
-      [
-        "title",
-        true
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "publisher",
-        true
-      ],
       [
         "title",
         true
@@ -113,39 +133,7 @@
         "timestamp",
         false
       ]
-    ],
-    "column_positions": {
-      "ondevice": 0,
-      "title": 1,
-      "authors": 2,
-      "timestamp": 3,
-      "size": 4,
-      "rating": 5,
-      "tags": 6,
-      "series": 7,
-      "publisher": 8,
-      "pubdate": 9,
-      "last_modified": 10,
-      "languages": 11
-    },
-    "column_sizes": {
-      "title": 350,
-      "authors": 350,
-      "timestamp": 96,
-      "size": 88,
-      "rating": 68,
-      "tags": 350,
-      "series": 279,
-      "publisher": 208,
-      "pubdate": 90,
-      "last_modified": 0,
-      "languages": 0
-    },
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    }
+    ]
   },
   "books view split pane state": {
     "column_positions": {

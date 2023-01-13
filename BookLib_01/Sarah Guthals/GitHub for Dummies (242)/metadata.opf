@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">242</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f7bdbfa-f6c6-4a56-bfe6-b5e776d4f44b</dc:identifier>
+        <dc:title>GitHub for Dummies</dc:title>
+        <dc:creator opf:file-as="Guthals, Sarah &amp; Haack, Phil" opf:role="aut">Sarah Guthals</dc:creator>
+        <dc:creator opf:file-as="Guthals, Sarah &amp; Haack, Phil" opf:role="aut">Phil Haack</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Code collaboratively with GitHub Once you’ve learned the basics of coding the next step is to start sharing your expertise, learning from other coding pros, or working as a collaborative member of development teams. GitHub is the go-to community for facilitating coding collaboration, and GitHub For Dummies is the next step on your journey as a developer. Written by a GitHub engineer, this book is packed with insight on how GitHub works and how you can use it to become a more effective, efficient, and valuable member of any collaborative programming team. Store and share your work online with GitHub Collaborate with others on your team or across the international coding community Embrace open-source values and processes Establish yourself as a valuable member of the GitHub community From setting up GitHub on your desktop and launching your first project to cloning repositories, finding useful apps on the marketplace, and improving workflow, GitHub For Dummies covers the essentials the novice programmer needs to enhance collaboration and teamwork with this industry-standard tool.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119572671</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">63eUDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah Guthals&quot;: &quot;&quot;, &quot;Phil Haack&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-13T06:38:12.203783+00:00"/>
+        <meta name="calibre:title_sort" content="GitHub for Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
