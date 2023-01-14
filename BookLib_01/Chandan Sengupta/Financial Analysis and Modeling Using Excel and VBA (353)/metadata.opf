@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">353</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a423ca0-ed32-4451-bb38-4c7990500a42</dc:identifier>
+        <dc:title>Financial Analysis and Modeling Using Excel and VBA</dc:title>
+        <dc:creator opf:file-as="Sengupta, Chandan" opf:role="aut">Chandan Sengupta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-09T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;An updated look at the theory and practice of financial analysis and modeling&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Financial Analysis and Modeling Using Excel and VBA, Second Edition&lt;/em&gt; presents a comprehensive approach to analyzing financial problems and developing simple to sophisticated financial models in all major areas of finance using Excel 2007 and VBA (as well as earlier versions of both). This expanded and fully updated guide reviews all the necessary financial theory and concepts, and walks you through a wide range of real-world financial problems and models that you can learn from, use for practice, and easily adapt for work and classroom use. A companion website includes several useful modeling tools and fully working versions of all the models discussed in the book.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Teaches financial analysis and modeling and illustrates advanced features of Excel and VBA, using a learn-by-doing approach&lt;/li&gt;
+&lt;li&gt;Contains detailed coverage of the powerful features of Excel 2007 essential for financial analysis and modeling, such as the Ribbon interface, PivotTables, data analysis, and statistical analysis&lt;/li&gt;
+&lt;li&gt;Other titles by Sengupta: &lt;em&gt;Financial Modeling Using C++&lt;/em&gt; and &lt;em&gt;The Only Proven Road to Investment Success&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Designed for self-study, classroom use, and reference&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;This comprehensive guide is an essential read for anyone who has to perform financial analysis or understand and implement financial models.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Praise for the first edition of Financial Analysis and Modeling Using Excel and VBA&lt;/p&gt;
+&lt;p&gt;"Excel and VBA have vast capabilities, yet until this book, users were on their own to figure out just how to use these tools for both single and complex financial problems. Financial Modeling fills the gaps with practical guidance to modeling a wide range of finance problems."&lt;br&gt;— &lt;strong&gt;Tim Koller&lt;/strong&gt; , Partner, McKinsey &amp;amp; Company, Inc.&lt;/p&gt;
+&lt;p&gt;Although many people think that financial analysis and financial modeling are different activities, they are actually the two sides of a coin. The skills associated with these disciplines are essential for today's financial professional as well as students in this field—and Excel and its built-in programming language Visual Basic for Applications (VBA) remain the premier tools for the job.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Financial Analysis and Modeling Using Excel and VBA, Second Edition&lt;/em&gt; presents a comprehensive approach to analyzing financial problems and developing simple to sophisticated financial models in all major areas of finance using Excel 2007 and VBA—as well as earlier versions of both—to find solutions.&lt;/p&gt;
+&lt;p&gt;This expanded and fully updated guide reviews all the necessary financial theory and concepts, and walks you through a wide range of real-world financial problems and models that you can learn from, use for practice, and easily adapt for work and classroom use. A companion website includes several useful modeling tools and fully working versions of all the models discussed in the book.&lt;/p&gt;
+&lt;p&gt;Written in a straightforward and accessible style, the &lt;em&gt;Second Edition of Financial Analysis and Modeling Using Excel and VBA&lt;/em&gt; :&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Includes detailed coverage of the powerful features of Excel 2007 essential for financial analysis and modeling, such as the Ribbon interface, PivotTables, data analysis,and statistical analysis&lt;/li&gt;
+&lt;li&gt;Teaches financial analysis and modeling, and illustrates advanced features of Excel and VBA, using a learn-by-doing approach&lt;/li&gt;
+&lt;li&gt;Contains comprehensive new chapters on writing formulas that can make decisions, answering what-if questions,finding iterative solutions to problems, and much more&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Equally useful to both those who are interested in financial analysis and those who are interested in financial modeling, this reliable resource will help you make the most of Excel and VBA as you navigate the complex terrain of today's modern financial world.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Chandan Sengupta&lt;/strong&gt; teaches finance in the MBA program at the Fordham University Graduate School of Business, specializing in financial modeling, business valuation, corporate finance, and investment management. Formerly, he was vice president at the Chase Manhattan Bank for eight years and senior financial advisor for Mobil Corporation for ten years. He is also the author of the first edition of this book as well as Financial Modeling Using C++ and The Only Proven Road to Investment Success, all of which are published by Wiley. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780470275603</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">047027560X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Chandan Sengupta&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-14T05:39:08.236789+00:00"/>
+        <meta name="calibre:title_sort" content="Financial Analysis and Modeling Using Excel and VBA"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
