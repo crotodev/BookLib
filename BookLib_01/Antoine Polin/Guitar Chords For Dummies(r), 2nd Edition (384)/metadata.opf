@@ -7,6 +7,7 @@
         <dc:creator opf:file-as="Polin, Antoine" opf:role="aut">Antoine Polin</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-11-02T10:52:41+00:00</dc:date>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
         <dc:language>en</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Antoine Polin&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-14T10:16:45.950250+00:00"/>
