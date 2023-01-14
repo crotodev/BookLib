@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d98a15fa-3158-48a3-9387-bd0e4f88301f</dc:identifier>
         <dc:title>Python for Algorithmic Trading: From Idea to Cloud Deployment</dc:title>
         <dc:creator opf:file-as="Hilpisch, Yves" opf:role="aut">Yves Hilpisch</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-11-24T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Algorithmic trading, once the exclusive domain of institutional players, is now open to small organizations and individual traders using online platforms. The tool of choice for many traders today is Python and its ecosystem of powerful packages. In this practical book, author Yves Hilpisch shows students, academics, and practitioners how to use Python in the fascinating field of algorithmic trading.&lt;/p&gt;
