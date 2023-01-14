@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">333</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80d0aeb9-01b2-4540-b9fa-44c7131189ee</dc:identifier>
+        <dc:title>Version Control With Git</dc:title>
+        <dc:creator opf:file-as="Ponuthorai, Prem Kumar &amp; Loeliger, Jon" opf:role="aut">Prem Kumar Ponuthorai</dc:creator>
+        <dc:creator opf:file-as="Ponuthorai, Prem Kumar &amp; Loeliger, Jon" opf:role="aut">Jon Loeliger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-21T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Track, branch, merge, and manage code revisions with Git, the free and open source distributed version control system. Through a series of step-by-step tutorials, this practical guide quickly takes you from Git fundamentals to advanced techniques, and provides friendly yet rigorous advice for navigating Git's many functions. You'll learn how to work with everything from small to very large projects with speed and efficiency. &lt;/p&gt;
+&lt;p&gt;In this third edition, authors Prem Kumar Ponuthorai and Jon Loeliger break down Git concepts using a modular approach. You'll start with the basics and fundamental philosophy of Git, followed by intermediate commands to help you efficiently supplement your daily development workflow. Finally, you'll learn advanced Git commands and concepts to understand how Git works under the hood. &lt;/p&gt;
+&lt;p&gt;Learn how to use Git for real-world development scenariosGain insight into Git's common use cases, initial tasks, and basic functionsUse the system for distributed version controlLearn how to manage merges, conflicts, patches, and diffsApply advanced techniques such as rebasing, hooks, and ways to handle submodules&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781492091141</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">To-WEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Business &amp; Productivity Software</dc:subject>
+        <dc:subject>Collaboration</dc:subject>
+        <dc:subject>System Administration</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Prem Kumar Ponuthorai&quot;: &quot;&quot;, &quot;Jon Loeliger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-14T04:37:05.001853+00:00"/>
+        <meta name="calibre:title_sort" content="Version Control With Git"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

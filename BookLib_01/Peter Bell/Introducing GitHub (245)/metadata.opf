@@ -6,10 +6,10 @@
         <dc:title>Introducing GitHub</dc:title>
         <dc:creator opf:file-as="Bell, Peter &amp; Beer, Brent" opf:role="aut">Peter Bell</dc:creator>
         <dc:creator opf:file-as="Bell, Peter &amp; Beer, Brent" opf:role="aut">Brent Beer</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
         <dc:language>en</dc:language>
-        <dc:subject>www.it-ebooks.info</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Peter Bell&quot;: &quot;&quot;, &quot;Brent Beer&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-13T06:41:21+00:00"/>
         <meta name="calibre:title_sort" content="Introducing GitHub"/>

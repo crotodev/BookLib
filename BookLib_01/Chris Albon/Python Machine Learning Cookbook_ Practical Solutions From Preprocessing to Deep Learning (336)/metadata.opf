@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">336</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">732ab63f-a199-4939-8a52-bf6912d134c3</dc:identifier>
+        <dc:title>Python Machine Learning Cookbook: Practical Solutions From Preprocessing to Deep Learning</dc:title>
+        <dc:creator opf:file-as="Albon, Chris" opf:role="aut">Chris Albon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This practical guide provides nearly 200 self-contained recipes to help you solve machine learning challenges you may encounter in your daily work. If you’re comfortable with Python and its libraries, including pandas and scikit-learn, you’ll be able to address specific problems such as loading data, handling text or numerical data, model selection, and dimensionality reduction and many other topics.&lt;/p&gt;
+&lt;p&gt;Each recipe includes code that you can copy and paste into a toy dataset to ensure that it actually works. From there, you can insert, combine, or adapt the code to help construct your application. Recipes also include a discussion that explains the solution and provides meaningful context. This cookbook takes you beyond theory and concepts by providing the nuts and bolts you need to construct working machine learning applications.&lt;/p&gt;
+&lt;p&gt;You’ll find recipes for:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Vectors, matrices, and arrays&lt;/li&gt;
+&lt;li&gt;Handling numerical and categorical data, text, images, and dates and times&lt;/li&gt;
+&lt;li&gt;Dimensionality reduction using feature extraction or feature selection&lt;/li&gt;
+&lt;li&gt;Model evaluation and selection&lt;/li&gt;
+&lt;li&gt;Linear and logical regression, trees and forests, and k-nearest neighbors&lt;/li&gt;
+&lt;li&gt;Support vector machines (SVM), naïve Bayes, clustering, and neural networks&lt;/li&gt;
+&lt;li&gt;Saving and loading trained models&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781491989388</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1491989386</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">VucltAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Chris Albon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-14T05:02:33.731442+00:00"/>
+        <meta name="calibre:title_sort" content="Python Machine Learning Cookbook: Practical Solutions From Preprocessing to Deep Learning"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
