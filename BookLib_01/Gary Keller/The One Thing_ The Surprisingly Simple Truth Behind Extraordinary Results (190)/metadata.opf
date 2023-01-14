@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">190</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b9b456c-fda6-45da-b1c9-9ebac26b07f3</dc:identifier>
+        <dc:title>The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results</dc:title>
+        <dc:creator opf:file-as="Keller, Gary &amp; Papasan, Jay" opf:role="aut">Gary Keller</dc:creator>
+        <dc:creator opf:file-as="Keller, Gary &amp; Papasan, Jay" opf:role="aut">Jay Papasan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;What's your ONE thing? People are using this simple, powerful concept to focus on what matters most in their personal and work lives. Companies are helping their employees be more productive with study groups, training, and coaching. Sales teams are boosting sales. Churches are conducting classes and recommending for their members. By focusing their energy on one thing at a time people are living more rewarding lives by building their careers, strengthening their finances, losing weight and getting in shape, deepening their faith, and nurturing stronger marriages and personal relationships. YOU WANT LESS. You want fewer distractions and less on your plate. The daily barrage of e-mails, texts, tweets, messages, and meetings distract you and stress you out. The simultaneous demands of work and family are taking a toll. And what's the cost? Second-rate work, missed deadlines, smaller paychecks, fewer promotions--and lots of stress. AND YOU WANT MORE. You want more productivity from your work. More income for a better lifestyle. You want more satisfaction from life, and more time for yourself, your family, and your friends. NOW YOU CAN HAVE BOTH ― LESS AND MORE. In The ONE Thing, you'll learn to: cut through the clutter achieve better results in less time build momentum toward your goal dial down the stress overcome that overwhelmed feeling revive your energy stay on track master what matters to you The book has: Made on more than 575 appearances on national bestseller lists Been #1 Wall Street Journal bestseller, New York Times bestseller, and USA Today bestseller Been translated into 40 languages Won 12 book awards Voted Top 100 Business Book of All Time on Goodreads The ONE Thing delivers extraordinary results in every area of your life--work, personal, family, and spiritual. WHAT'S YOUR ONE THING?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bard Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781885167774</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">94ScMQEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>Personal Success</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>self-improvement</dc:subject>
+        <dc:subject>productivity</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gary Keller&quot;: &quot;&quot;, &quot;Jay Papasan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-08T05:19:11+00:00"/>
+        <meta name="calibre:title_sort" content="One Thing: The Surprisingly Simple Truth Behind Extraordinary Results, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

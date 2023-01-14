@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">245</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a4fa253-ebfa-44c9-ac6c-410f2f370996</dc:identifier>
+        <dc:title>Introducing GitHub: A Non-Technical Guide</dc:title>
+        <dc:creator opf:file-as="Bell, Peter &amp; Beer, Brent" opf:role="aut">Peter Bell</dc:creator>
+        <dc:creator opf:file-as="Bell, Peter &amp; Beer, Brent" opf:role="aut">Brent Beer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-11T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;If you’re new to GitHub, this concise book shows you just what you need to get started and no more. It’s perfect for project and product managers, stakeholders, and other team members who want to collaborate on a development project—whether it’s to review and comment on work in progress or to contribute specific changes. It’s also great for developers just learning GitHub. &lt;/p&gt;
+&lt;p&gt;GitHub has rapidly become the default platform for software development, but it’s also ideal for other text-based documents, from contracts to screenplays. This hands-on book shows you how to use GitHub’s web interface to view projects and collaborate effectively with your team. &lt;/p&gt;
+&lt;p&gt;Learn how and why people use GitHub to collaborateView the status of a project—recent changes, outstanding work, and historic changesCreate and edit files through GitHub without learning GitSuggest changes to projects you don’t have permission to edit directlyUse tools like issues, pull requests, and branches to specify and collaborate on changesCreate a new GitHub repository to control who has access to your project&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781491949832</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">OhdOBQAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <dc:subject>Project Management</dc:subject>
+        <dc:subject>Tools</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Web Services &amp; APIs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Peter Bell&quot;: &quot;&quot;, &quot;Brent Beer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-13T06:41:21+00:00"/>
+        <meta name="calibre:title_sort" content="Introducing GitHub: A Non-Technical Guide"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

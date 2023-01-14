@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">202</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6dafafe6-3c1e-4c1b-86e3-880f4de9e9ec</dc:identifier>
+        <dc:title>Learning Python for Forensics: Leverage the Power of Python in Forensic Investigations, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Miller, Preston &amp; Bryce, Chapin" opf:role="aut">Preston Miller</dc:creator>
+        <dc:creator opf:file-as="Miller, Preston &amp; Bryce, Chapin" opf:role="aut">Chapin Bryce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-31T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Design, develop, and deploy innovative forensic solutions using PythonKey FeaturesDiscover how to develop Python scripts for effective digital forensic analysisMaster the skills of parsing complex data structures with Python librariesSolve forensic challenges through the development of practical Python scriptsBook DescriptionDigital forensics plays an integral role in solving complex cybercrimes and helping organizations make sense of cybersecurity incidents. This second edition of Learning Python for Forensics illustrates how Python can be used to support these digital investigations and permits the examiner to automate the parsing of forensic artifacts to spend more time examining actionable data. &lt;/p&gt;
+&lt;p&gt;The second edition of Learning Python for Forensics will illustrate how to develop Python scripts using an iterative design. Further, it demonstrates how to leverage the various built-in and community-sourced forensics scripts and libraries available for Python today. This book will help strengthen your analysis skills and efficiency as you creatively solve real-world problems through instruction-based tutorials. &lt;/p&gt;
+&lt;p&gt;By the end of this book, you will build a collection of Python scripts capable of investigating an array of forensic artifacts and master the skills of extracting metadata and parsing complex data structures into actionable reports. Most importantly, you will have developed a foundation upon which to build as you continue to learn Python and enhance your efficacy as an investigator. &lt;/p&gt;
+&lt;p&gt;What you will learnLearn how to develop Python scripts to solve complex forensic problemsBuild scripts using an iterative designDesign code to accommodate present and future hurdlesLeverage built-in and community-sourced librariesUnderstand the best practices in forensic programmingLearn how to transform raw data into customized reports and visualizationsCreate forensic frameworks to automate analysis of multiple forensic artifactsConduct effective and efficient investigations through programmatic processingWho this book is forIf you are a forensics student, hobbyist, or professional seeking to increase your understanding in forensics through the use of a programming language, then Learning Python for Forensics is for you. You are not required to have previous experience in programming to learn and master the content within this book. This material, created by forensic professionals, was written with a unique perspective and understanding for examiners who wish to learn programming.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781789342765</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">bGSGDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Security</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Viruses &amp; Malware</dc:subject>
+        <dc:subject>Network Security</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Preston Miller&quot;: &quot;&quot;, &quot;Chapin Bryce&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-08T22:08:46+00:00"/>
+        <meta name="calibre:title_sort" content="Learning Python for Forensics: Leverage the Power of Python in Forensic Investigations, 2nd Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

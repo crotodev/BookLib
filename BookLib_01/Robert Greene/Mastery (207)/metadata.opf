@@ -5,12 +5,32 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f7aa24f2-4534-4277-931d-53cb3125ac47</dc:identifier>
         <dc:title>Mastery</dc:title>
         <dc:creator opf:file-as="Greene, Robert" opf:role="aut">Robert Greene</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-11-12T23:00:00+00:00</dc:date>
-        <dc:publisher>Penguin Publishing Group</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781101601020</dc:identifier>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-13T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;From the bestselling author of&lt;/strong&gt; The 48 Laws of Power &lt;strong&gt;and&lt;/strong&gt; The Laws of Human Nature, **a vital work revealing that the secret to mastery is already within you. &lt;/p&gt;
+&lt;p&gt;**Each one of us has within us the potential to be a Master. Learn the secrets of the field you have chosen, submit to a rigorous apprenticeship, absorb the hidden knowledge possessed by those with years of experience, surge past competitors to surpass them in brilliance, and explode established patterns from within. Study the behaviors of Albert Einstein, Charles Darwin, Leonardo da Vinci and the nine contemporary Masters interviewed for this book. &lt;/p&gt;
+&lt;p&gt;The bestseller author of &lt;em&gt;The 48 Laws of Power&lt;/em&gt; , &lt;em&gt;The Art of Seduction&lt;/em&gt; , and &lt;em&gt;The 33 Strategies of War&lt;/em&gt; , ** Robert Greene has spent a lifetime studying the laws of power. Now, he shares the secret path to greatness. With this seminal text as a guide, readers will learn how to unlock the passion within and become masters.&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"Greene’s specialty is analyzing the lives and philosophies of historical figures like Sun Tzu and Napoleon, and extracting from them tips on how to manipulate people and situations—a cutthroat worldview that has earned him a devoted following among a like-minded readership of rappers, drug dealers and corporate executives."—The New York Times &lt;/p&gt;
+&lt;p&gt;"Compelling."—Forbes &lt;/p&gt;
+&lt;p&gt;"Illuminating."—The Guardian&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Robert Greene&lt;/strong&gt; has a degree in classical studies and is the author of several bestselling books, including &lt;em&gt;The 48 Laws of Power, The 33 Strategies of War&lt;/em&gt; , &lt;em&gt;The Art of Seduction&lt;/em&gt; , and &lt;em&gt;Mastery&lt;/em&gt;. He lives in Los Angeles.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780143124177</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">014312417X</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">LxZiUSuVIgcC</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Motivational &amp; Inspirational</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Motivational</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Robert Greene&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-09T04:00:12+00:00"/>
         <meta name="calibre:title_sort" content="Mastery"/>
     </metadata>
