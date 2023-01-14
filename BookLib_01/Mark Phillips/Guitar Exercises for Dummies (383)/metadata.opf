@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">383</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fef02199-4449-439f-91c6-bd3063c63c16</dc:identifier>
+        <dc:title>Guitar Exercises for Dummies</dc:title>
+        <dc:creator opf:file-as="Phillips, Mark &amp; Chappell, Jon" opf:role="aut">Mark Phillips</dc:creator>
+        <dc:creator opf:file-as="Phillips, Mark &amp; Chappell, Jon" opf:role="aut">Jon Chappell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-10T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;Guitar Exercises For Dummies&lt;/em&gt; includes over 300 exercises along with lots of technique-building practice opportunities. It starts off with warm-up exercises (on and off-instrument) and then logically transitions to scales, scale sequences, arpeggios, arpeggio sequences, and chords, with a focus on building strength and consistency as well as refining technique.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;
+&lt;h3&gt;Amazon.com Review&lt;/h3&gt;
+&lt;h4 style="font-size: medium"&gt;More to Explore: See More Guitar Guides&lt;/h4&gt;
+&lt;h2&gt;|&lt;/h2&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt; | | | | &lt;br&gt;---|---|---|---|---&lt;br&gt;&lt;span style="font-weight: bold; font-style: italic"&gt;Guitar For Dummies, with DVD&lt;/span&gt; | &lt;span style="font-weight: bold; font-style: italic"&gt;Guitar Exercises For Dummies&lt;/span&gt; | &lt;span style="font-weight: bold; font-style: italic"&gt;Guitar Chords For Dummies&lt;/span&gt; | &lt;span style="font-weight: bold; font-style: italic"&gt;Guitar Theory For Dummies&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Guide Type&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Music Instruction &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Music Workbook &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Quick Reference &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Audience Level&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Beginner to Intermediate &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;All Player Levels &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;All Player Levels &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Intermediate to Advanced &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Pages&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;408 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;240 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;384 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;312 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;List Price&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;$24.99 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;$22.99 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;$16.99 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;$24.99 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Publication Date&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;October, 2012 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;December, 2008 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;June, 2010 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;October, 2013 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Author(s)&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Phillips and Chappell &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Phillips and Chappell &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Polin &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Serna &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Imprint&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;For Dummies &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;For Dummies &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;For Dummies &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;For Dummies &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Print Book&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;1118115546 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;0470387661 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;047066603X &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;1118646770 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Kindle Book&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;B008KPM31Q &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;B00B9UORG8 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Not Available - Request Kindle Version&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;B00EFB447U &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Edition&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;3rd &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;1st &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;1st &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;1st &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Brief Description&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;A step-by-step guide to guitar basics &amp;amp; beyond. Includes photo-illustrated exercises, and play along audio and video on the DVD. &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;A practice-oriented playbook with hands-on technique builders, warm-up exercises, scales arpeggios, chords, and much more. &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Includes simple &amp;amp; complex chords. Over 600 illustrated &amp;amp; photographed chords of finger positions on a string. Handy &amp;amp; portable. &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Everything needed to improve improvisational &amp;amp; compositional skills. Plus, get access to audio tracks and video instruction online. &lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Train your fingers to become a lean, mean guitar-playing machine!&lt;/p&gt;
+&lt;p&gt;Want to sharpen your guitar-playing skills? This practice-oriented playbook is packed with hands-on technique builders, from warm-up exercises and scales to arpeggios, chords, and much more. You'll see how to apply your technique with performance pieces at the end of each chapter.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Review basic guitar fundamentals — posture, holding the guitar, sitting and standing with the guitar&lt;/li&gt;
+&lt;li&gt;Brush up on guitar notation — decoding tablature, comprehending chord diagrams, interpreting neck diagrams, recognizing rhythm slashes&lt;/li&gt;
+&lt;li&gt;Warm up away from the guitar — release tension, improve breathing, prepare your mind and body to play&lt;/li&gt;
+&lt;li&gt;Wake up those fingers — limber up your fingers by playing simple exercises&lt;/li&gt;
+&lt;li&gt;Develop strength, speed, and independence — play single-note patterns and chord progressions&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Open the book and find:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;More than 300 exercises in various keys, positions, and rhythms&lt;/li&gt;
+&lt;li&gt;Drills &amp;amp; tips to perfect your playing and maximize your practice time&lt;/li&gt;
+&lt;li&gt;Technique building opportunities&lt;/li&gt;
+&lt;li&gt;Scales, scale sequences, arpeggios, arpeggio sequences, and chords&lt;/li&gt;
+&lt;li&gt;Full-length pieces to play along with&lt;/li&gt;
+&lt;li&gt;Ways to improve your musicianship&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Bonus CD Includes&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Selected exercises from each chapter&lt;/li&gt;
+&lt;li&gt;Every performance piece&lt;/li&gt;
+&lt;li&gt;Open string tuning notes&lt;/li&gt;
+&lt;li&gt;Metronome tracks of different tempos&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>For Dummies</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780470387665</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0470387661</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Mark Phillips&quot;: &quot;&quot;, &quot;Jon Chappell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-14T10:12:37.232589+00:00"/>
+        <meta name="calibre:title_sort" content="Guitar Exercises for Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
