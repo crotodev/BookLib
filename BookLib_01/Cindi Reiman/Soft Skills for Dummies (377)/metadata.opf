@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">377</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f12f89d-e676-446b-b535-bd90614406ff</dc:identifier>
+        <dc:title>Soft Skills for Dummies</dc:title>
+        <dc:creator opf:file-as="Reiman, Cindi" opf:role="aut">Cindi Reiman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-22T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Soft skills make the hard skills work! Soft skills are the personal qualities that make you a great communicator, problem solver, and leader on the job—and in your personal life. Soft Skills For Dummies helps you hone in on the traits you already have—or fine tune the ones that may need some extra attention—to market yourself as a workplace leader who’s in touch with what today’s employers are looking for: people who can lead and inspire through interpersonal communication, cultural awareness, time management, teamwork, critical thinking, and problem solving. • Sharpen the skills you need for a successful career • Improve your ability to work with others • Become a more confident job seeker and leader • Grasp the concept of soft skills through real-world applications, inspirational stories, and industry spotlights With content based on a time-tested curriculum designed to prepare you for work and life success, this book is packed with everything you need to build your soft skills to make the strongest impact possible.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119906568</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">CY6dEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Personal Success</dc:subject>
+        <dc:subject>Skills</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Communication &amp; Social Skills</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Sociology</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cindi Reiman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-14T09:50:41.323766+00:00"/>
+        <meta name="calibre:title_sort" content="Soft Skills for Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

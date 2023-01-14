@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">366</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1ed7575-b473-472a-a4a4-d4c18f7695e6</dc:identifier>
+        <dc:title>Anxiety and Depression Workbook for Dummies</dc:title>
+        <dc:creator opf:file-as="Foreman, Elaine Iljon &amp; Elliot, Charles H. &amp; Smith, Laura L." opf:role="aut">Elaine Iljon Foreman</dc:creator>
+        <dc:creator opf:file-as="Foreman, Elaine Iljon &amp; Elliot, Charles H. &amp; Smith, Laura L." opf:role="aut">Charles H. Elliot</dc:creator>
+        <dc:creator opf:file-as="Foreman, Elaine Iljon &amp; Elliot, Charles H. &amp; Smith, Laura L." opf:role="aut">Laura L. Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-19T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Anxiety and depression affect over 10 per cent of the population. They can become debilitating conditions if not managed carefully so there are thousands of people looking for advice on how to keep their symptoms under control. This workbook provides readers with practical exercises and worksheets to help them analyse their thinking patterns and overcome the issues that are holding them back. "Anxiety &amp;amp; Depression Workbook For Dummies, UK Edition" covers topics such as: recognising and recording anxiety and depression; understanding your thinking; behaviour therapy and healing the body; revitalising relationships; and, life beyond anxiety and depression. The author Elaine Iljon Foreman BA (Hons), M.Sc., AFBPsS, is a Chartered Clinical Psychologist, specialising in anxiety related problems. She offers workshops both nationally and internationally to professional and self-help audiences and her professional views are regularly sought by TV and Radio. &lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;From identifying your triggers to improving your relationships — manage your emotional wellbeing &lt;/p&gt;
+&lt;p&gt;Struggling to cope with anxiety and/or depression? Have no fear — this hands-on guide focuses on helping you pinpoint the root of your problems and find relief from your symptoms in a detailed, step-by-step manner. With concise, eye-opening exercises, you'll understand how to assess your current situation, remove the roadblocks to change, face your fears, and improve your view of yourself and the world around you. You'll see how to take direct action to alter negative or distorted thinking, lift your moods, and adopt positive habits that will lead you toward a more joyful, meaningful, and connected life! &lt;/p&gt;
+&lt;p&gt;Discover &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;How to improve the way you feel about yourself&lt;/li&gt;
+&lt;li&gt;Skills to face and overcome what makes you anxious or depressed&lt;/li&gt;
+&lt;li&gt;How to determine whether medication is an option for you&lt;/li&gt;
+&lt;li&gt;Practical ways to prepare for and deal with setbacks&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780470742006</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0470742003</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Health; Mind &amp; Body</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Parenting &amp; Families</dc:subject>
+        <dc:subject>Family Health</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elaine Iljon Foreman&quot;: &quot;&quot;, &quot;Charles H. Elliot&quot;: &quot;&quot;, &quot;Laura L. Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-14T09:06:46.427647+00:00"/>
+        <meta name="calibre:title_sort" content="Anxiety and Depression Workbook for Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

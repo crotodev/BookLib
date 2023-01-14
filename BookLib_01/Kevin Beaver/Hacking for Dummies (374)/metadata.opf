@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">374</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b060611e-6444-4770-9e52-c1799d02809a</dc:identifier>
+        <dc:title>Hacking for Dummies</dc:title>
+        <dc:creator opf:file-as="Beaver, Kevin" opf:role="aut">Kevin Beaver</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-29T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Updated for Windows 8 and the latest version of Linux&lt;/p&gt;
+&lt;p&gt;The best way to stay safe online is to stop hackers before they attack - first, by understanding their thinking and second, by ethically hacking your own site to measure the effectiveness of your security. This practical, top-selling guide will help you do both. Fully updated for Windows 8 and the latest version of Linux, &lt;em&gt;Hacking For Dummies, 4th Edition&lt;/em&gt; explores the malicious hacker's mindset and helps you develop an ethical hacking plan (also known as penetration testing) using the newest tools and techniques.&lt;/p&gt;
+&lt;p&gt;More timely than ever, this must-have book covers the very latest threats, including web app hacks, database hacks, VoIP hacks, and hacking of mobile devices.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Guides you through the techniques and tools you need to stop hackers before they hack you&lt;/li&gt;
+&lt;li&gt;Completely updated to examine the latest hacks to Windows 8 and the newest version of Linux&lt;/li&gt;
+&lt;li&gt;Explores the malicious hackers's mindset so that you can counteract or avoid attacks completely&lt;/li&gt;
+&lt;li&gt;Suggests ways to report vulnerabilities to upper management, manage security changes, and put anti-hacking policies and procedures in place&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;If you're responsible for security or penetration testing in your organization, or want to beef up your current system through ethical hacking, make sure you get &lt;em&gt;Hacking For Dummies, 4th Edition&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781118380932</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1118380932</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Kevin Beaver&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-14T09:34:47.502778+00:00"/>
+        <meta name="calibre:title_sort" content="Hacking for Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

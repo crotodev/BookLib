@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">375</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0718f297-9eba-4ee3-878a-6787a2df6cff</dc:identifier>
+        <dc:title>Networking All-In-One for Dummies</dc:title>
+        <dc:creator opf:file-as="Lowe, Doug" opf:role="aut">Doug Lowe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-06T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Your ultimate one-stop networking reference Designed to replace that groaning shelf-load of dull networking books you’d otherwise have to buy and house, Networking All-in-One For Dummies covers all the basic and not-so-basic information you need to get a network up and running. It also helps you keep it running as it grows more complicated, develops bugs, and encounters all the fun sorts of trouble you expect from a complex system. Ideal both as a starter for newbie administrators and as a handy quick reference for pros, this book is built for speed, allowing you to get past all the basics—like installing and configuring hardware and software, planning your network design, and managing cloud services—so you can get on with what your network is actually intended to do. In a friendly, jargon-free style, Doug Lowe—an experienced IT Director and prolific tech author—covers the essential, up-to-date information for networking in systems such as Linux and Windows 10 and clues you in on best practices for security, mobile, and more. Each of the nine minibooks demystifies the basics of one key area of network management. Plan and administrate your network Implement virtualization Get your head around networking in the Cloud Lock down your security protocols The best thing about this book? You don’t have to read it all at once to get things done; once you’ve solved the specific issue at hand, you can put it down again and get on with your life. And the next time you need it, it’ll have you covered.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119689058</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">q9QnEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Networking</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Doug Lowe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-14T09:39:56.776248+00:00"/>
+        <meta name="calibre:title_sort" content="Networking All-In-One for Dummies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
