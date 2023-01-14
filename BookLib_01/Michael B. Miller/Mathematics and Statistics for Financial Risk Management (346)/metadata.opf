@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">346</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6feb2cd0-4f2c-4ca5-96a0-d393684b4624</dc:identifier>
+        <dc:title>Mathematics and Statistics for Financial Risk Management</dc:title>
+        <dc:creator opf:file-as="Miller, Michael B." opf:role="aut">Michael B. Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-12T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;Mathematics and Statistics for Financial Risk Management&lt;/em&gt; is a practical guide to modern financial risk management for bothpractitioners and academics.&lt;/p&gt;
+&lt;p&gt;Now in its second edition with more topics, more sample problemsand more real world examples, this popular guide to financial riskmanagement introduces readers to practical quantitative techniquesfor analyzing and managing financial risk.&lt;/p&gt;
+&lt;p&gt;In a concise and easy-to-read style, each chapter introduces adifferent topic in mathematics or statistics. As differenttechniques are introduced, sample problems and application sectionsdemonstrate how these techniques can be applied to actual riskmanagement problems. Exercises at the end of each chapter and theaccompanying solutions at the end of the book allow readers topractice the techniques they are learning and monitor theirprogress. A companion Web site includes interactive Excelspreadsheet examples and templates.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Mathematics and Statistics for Financial Risk Management&lt;/em&gt; is an indispensable reference for today’s financial riskprofessional.&lt;/p&gt;
+&lt;h3&gt;Amazon.com Review&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;More to Explore: See More Risk Management Resources &lt;/p&gt;
+&lt;h2&gt;|&lt;/h2&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt; | | | | &lt;br&gt;---|---|---|---|---&lt;br&gt;&lt;span style="font-weight: bold; font-style: italic"&gt;Risk Management and&lt;br&gt;Financial Institutions&lt;/span&gt; | &lt;span style="font-weight: bold; font-style: italic"&gt;Financial Risk Management&lt;/span&gt; | &lt;span style="font-weight: bold; font-style: italic"&gt;Financial Risk Manager&lt;br&gt;Handbook&lt;/span&gt; | &lt;span style="font-weight: bold; font-style: italic"&gt;Mathematics and Statistics&lt;br&gt;for Financial Risk Management&lt;/span&gt;&lt;br&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Guide Type&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Text&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Professional&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Professional Certification&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Advanced Professional &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Pages&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;664&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;772&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;800&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;291 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;List Price&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;$95.00&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;$95.00&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;$175.00&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;$85.00 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Author(s)&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Hull &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Malz &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Jorion / GARP &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Miller &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Publication Date&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;May 2012&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;October 2011&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;December 2010&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;March 2012 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Imprint&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Wiley&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Wiley&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Wiley&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Wiley &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Print Book&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;1118269039&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;0470481803&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;0470904011&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;1118170628 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Kindle Book&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;B007U2ZQKU&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;B005N8EY8I&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;B004I6DDFG&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;B0072LWTWC &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Edition&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;1&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;6&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;1 &lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Brief Description&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Fundamental coverage after Dodd-Frank, Basel III, &amp;amp; other global developments from top teaching academic.&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Comprehensive book on cutting-edge tools and techniques to identify risks of all types, and manage them effectively.&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;Core reference for GARP's FRM® Exam and risk professionals looking to stay current on best practices.&lt;/p&gt;
+&lt;p&gt;| &lt;/p&gt;
+&lt;p&gt;A practitioners guide to quantitative risk management; many sample problems and application sections. &lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"At every turn this book shows the relevance of mathematical and statistical concepts to risk management. They are no longer the desiccated notions found in most textbooks but assume a sense of vibrancy. So, if you're trying to hone your skills, this book is a great place to start." ( &lt;em&gt;SeekingAlpha&lt;/em&gt; , April 2012) &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B00HB4IJ56</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Money</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Insurance</dc:subject>
+        <dc:subject>Risk Management</dc:subject>
+        <dc:subject>Skills</dc:subject>
+        <dc:subject>Business Mathematics</dc:subject>
+        <dc:subject>Industries</dc:subject>
+        <dc:subject>Professional &amp; Technical</dc:subject>
+        <dc:subject>Accounting &amp; Finance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael B. Miller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-14T05:27:35.447441+00:00"/>
+        <meta name="calibre:title_sort" content="Mathematics and Statistics for Financial Risk Management"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

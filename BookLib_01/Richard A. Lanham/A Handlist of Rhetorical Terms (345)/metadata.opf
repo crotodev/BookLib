@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">345</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84c9493c-85f7-4731-a57f-445523189223</dc:identifier>
+        <dc:title>A Handlist of Rhetorical Terms</dc:title>
+        <dc:creator opf:file-as="Lanham, Richard A." opf:role="aut">Richard A. Lanham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-01-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;With a unique combination of alphabetical and descriptive lists, A Handlist of Rhetorical Terms provides in one convenient, accessible volume all the rhetorical terms--mostly Greek and Latin--that students of Western literature and rhetoric are likely to come across in their reading or will find useful in their writing. The Second Edition of this widely used work offers new features that will make it even more useful: * A completely revised alphabetical listing that defines nearly 1,000 terms used by scholars of formal rhetoric from classical Greece to the present day* A revised system of cross-references between terms* Many new examples and new, extended entries for central terms* A revised Terms-by-Type listing to identify unknown terms* A new typographical design for easier access&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>University of California Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780520273689</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">nLx-NAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Irish</dc:subject>
+        <dc:subject>Scottish</dc:subject>
+        <dc:subject>Welsh</dc:subject>
+        <dc:subject>European</dc:subject>
+        <dc:subject>Literary Criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard A. Lanham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-14T05:26:00.748305+00:00"/>
+        <meta name="calibre:title_sort" content="Handlist of Rhetorical Terms, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
