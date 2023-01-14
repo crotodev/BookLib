@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">72a77102-c34f-42b1-a246-5df52d5497ef</dc:identifier>
         <dc:title>Git for Programmers: Master Git for Effective Implementation of Version Control for Your Programming Projects</dc:title>
         <dc:creator opf:file-as="Liberty, Jesse" opf:role="aut">Jesse Liberty</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-06-28T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Learn to track, branch, merge, and manage code revisions for real-world development scenarios&lt;/p&gt;

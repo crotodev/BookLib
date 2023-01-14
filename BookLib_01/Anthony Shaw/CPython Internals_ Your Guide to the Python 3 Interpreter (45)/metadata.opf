@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2bfb227f-0575-497a-81cd-2d86c24969b9</dc:identifier>
         <dc:title>CPython Internals: Your Guide to the Python 3 Interpreter</dc:title>
         <dc:creator opf:file-as="Shaw, Anthony" opf:role="aut">Anthony Shaw</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-05-29T17:54:42+00:00</dc:date>
         <dc:language>eng</dc:language>
         <dc:subject>Python</dc:subject>

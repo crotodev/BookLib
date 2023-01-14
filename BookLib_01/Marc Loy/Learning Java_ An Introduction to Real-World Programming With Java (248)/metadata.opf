@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Loy, Marc &amp; Niemeyer, Patrick &amp; Leuck, Daniel" opf:role="aut">Marc Loy</dc:creator>
         <dc:creator opf:file-as="Loy, Marc &amp; Niemeyer, Patrick &amp; Leuck, Daniel" opf:role="aut">Patrick Niemeyer</dc:creator>
         <dc:creator opf:file-as="Loy, Marc &amp; Niemeyer, Patrick &amp; Leuck, Daniel" opf:role="aut">Daniel Leuck</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-03-30T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;If you’re new to Java—or new to programming—this best-selling book will guide you through the language features and APIs of Java 11. With fun, compelling, and realistic examples, authors Marc Loy, Patrick Niemeyer, and Daniel Leuck introduce you to Java fundamentals—including its class libraries, programming techniques, and idioms—with an eye toward building real applications. &lt;/p&gt;

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">41aa2148-2103-471a-9931-4619a4da0870</dc:identifier>
         <dc:title>Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python</dc:title>
         <dc:creator opf:file-as="Gedeck, Peter" opf:role="aut">Peter Gedeck</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-04-10T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Statistical methods are a key part of data science, yet few data scientists have formal statistical training. Courses and books on basic statistics rarely cover the topic from a data science perspective. The second edition of this popular guide adds comprehensive examples in Python, provides practical guidance on applying statistical methods to data science, tells you how to avoid their misuse, and gives you advice on what’s important and what’s not.&lt;/p&gt;

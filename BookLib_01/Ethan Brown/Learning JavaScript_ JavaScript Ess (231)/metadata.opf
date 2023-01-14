@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">947d39eb-aafb-4e2b-a9f5-98c4d595a828</dc:identifier>
         <dc:title>Learning JavaScript: JavaScript Essentials for Modern Application Development</dc:title>
         <dc:creator opf:file-as="Brown, Ethan" opf:role="aut">Ethan Brown</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-02-17T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This is an exciting time to learn JavaScript. Now that the latest JavaScript specification—ECMAScript 6.0 (ES6)—has been finalized, learning how to develop high-quality applications with this language is easier and more satisfying than ever. This practical book takes programmers (amateurs and pros alike) on a no-nonsense tour of ES6, along with some related tools and techniques. &lt;/p&gt;

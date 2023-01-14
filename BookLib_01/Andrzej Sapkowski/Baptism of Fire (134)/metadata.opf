@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d043e74c-63e6-4f86-8236-392797d9e96b</dc:identifier>
         <dc:title>Baptism of Fire</dc:title>
         <dc:creator opf:file-as="Sapkowski, Andrzej" opf:role="aut">Andrzej Sapkowski</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-11-26T05:00:00+00:00</dc:date>
         <dc:identifier opf:scheme="MOBI-ASIN">f7210ebc-c191-4fc2-bebb-bdb6c07c7440</dc:identifier>
         <dc:language>eng</dc:language>

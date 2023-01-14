@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d1e874aa-8d01-4c9a-95e9-852ed5f1999e</dc:identifier>
         <dc:title>Cracking Codes with Python: An Introduction to Building and Breaking Ciphers</dc:title>
         <dc:creator opf:file-as="Sweigart, Al" opf:role="aut">Al Sweigart</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-01-23T05:00:00+00:00</dc:date>
         <dc:publisher>No Starch Press</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">B0713P1Q8X</dc:identifier>

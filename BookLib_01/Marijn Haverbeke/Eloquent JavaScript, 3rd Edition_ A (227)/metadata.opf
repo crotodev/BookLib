@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1dda0e61-0a30-4893-927f-a061d57b73ca</dc:identifier>
         <dc:title>Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming</dc:title>
         <dc:creator opf:file-as="Haverbeke, Marijn" opf:role="aut">Marijn Haverbeke</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-12-04T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Completely revised and updated, this best-selling introduction to programming in JavaScript focuses on writing real applications. &lt;/p&gt;

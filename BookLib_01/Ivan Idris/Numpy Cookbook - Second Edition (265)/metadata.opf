@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">fa2a70de-4f54-4e87-93d0-95a313ef30e0</dc:identifier>
         <dc:title>Numpy Cookbook - Second Edition</dc:title>
         <dc:creator opf:file-as="Idris, Ivan" opf:role="aut">Ivan Idris</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-04-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;NumPy has the ability to give you speed and high productivity. High performance calculations can be done easily with clean and efficient code, and it allows you to execute complex algebraic and mathematical computations in no time. This book will give you a solid foundation in NumPy arrays and universal functions. Starting with the installation and configuration of IPython, you'll learn about advanced indexing and array concepts along with commonly used yet effective functions. You will then cover practical concepts such as image processing, special arrays, and universal functions. You will also learn about plotting with Matplotlib and the related SciPy project with the help of examples. At the end of the book, you will study how to explore atmospheric pressure and its related techniques. By the time you finish this book, you'll be able to write clean and fast code with NumPy.&lt;/p&gt;&lt;/div&gt;</dc:description>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f7fb8313-13fe-4304-8e28-3f95c49c37bb</dc:identifier>
         <dc:title>PySpark in Action Python data analysis at scale MEAP V06</dc:title>
         <dc:creator opf:file-as="Rioux, Jonathan" opf:role="aut">Jonathan Rioux</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold; font-family: 'Helvetica Neue'"&gt;d&lt;/p&gt;

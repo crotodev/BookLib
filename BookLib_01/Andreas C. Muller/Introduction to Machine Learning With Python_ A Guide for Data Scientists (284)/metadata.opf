@@ -6,7 +6,7 @@
         <dc:title>Introduction to Machine Learning With Python: A Guide for Data Scientists</dc:title>
         <dc:creator opf:file-as="Müller, Andreas C. &amp; Guido, Sarah" opf:role="aut">Andreas C. Müller</dc:creator>
         <dc:creator opf:file-as="Müller, Andreas C. &amp; Guido, Sarah" opf:role="aut">Sarah Guido</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-09-26T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Machine learning has become an integral part of many commercial applications and research projects, but this field is not exclusive to large companies with extensive research teams. If you use Python, even as a beginner, this book will teach you practical ways to build your own machine learning solutions. With all the data available today, machine learning applications are limited only by your imagination. &lt;/p&gt;

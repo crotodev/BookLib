@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c60d3ff7-45ad-4d5a-b320-5def064e4ddf</dc:identifier>
         <dc:title>Rich Dad Poor Dad</dc:title>
         <dc:creator opf:file-as="Kiyosaki, Robert T." opf:role="aut">Robert T. Kiyosaki</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-03-20T00:00:00+00:00</dc:date>
         <dc:publisher>Perseus Books, LLC</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781612680163</dc:identifier>

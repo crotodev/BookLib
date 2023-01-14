@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">26dcb9ef-6a38-4444-aef5-6eebe807c050</dc:identifier>
         <dc:title>Beginning Ethical Hacking With Python</dc:title>
         <dc:creator opf:file-as="Sinha, Sanjib" opf:role="aut">Sanjib Sinha</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-12-25T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Learn the basics of ethical hacking and gain insights into the logic, algorithms, and syntax of Python. This book will set you up with a foundation that will help you understand the advanced concepts of hacking in the future. Learn Ethical Hacking with Python 3 touches the core issues of cyber security: in the modern world of interconnected computers and the Internet, security is increasingly becoming one of the most important features of programming. Ethical hacking is closely related to Python. For this reason this book is organized in three parts. The first part deals with the basics of ethical hacking; the second part deals with Python 3; and the third part deals with more advanced features of ethical hacking. &lt;/p&gt;

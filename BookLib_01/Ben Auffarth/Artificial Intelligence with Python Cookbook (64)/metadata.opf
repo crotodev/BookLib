@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b8cc12f1-0d33-45c8-8e9e-493773332d48</dc:identifier>
         <dc:title>Artificial Intelligence with Python Cookbook</dc:title>
         <dc:creator opf:file-as="Auffarth, Ben" opf:role="aut">Ben Auffarth</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-10-29T12:06:51+00:00</dc:date>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:language>eng</dc:language>

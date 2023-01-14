@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">fa3f4b2f-4086-47f8-85d2-443df442e033</dc:identifier>
         <dc:title>Python GUI Programming With Tkinter: Design and Build Functional and User-Friendly GUI Applications, 2nd Edition</dc:title>
         <dc:creator opf:file-as="Moore, Alan D." opf:role="aut">Alan D. Moore</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-10-28T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Transform your evolving user requirements into feature-rich Tkinter applications&lt;/p&gt;

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3d48d1bd-8082-49aa-8028-f7b79322acfd</dc:identifier>
         <dc:title>The Art of Clean Code: Best Practices to Eliminate Complexity and Simplify Your Life</dc:title>
         <dc:creator opf:file-as="Mayer, Christian" opf:role="aut">Christian Mayer</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-08-02T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;

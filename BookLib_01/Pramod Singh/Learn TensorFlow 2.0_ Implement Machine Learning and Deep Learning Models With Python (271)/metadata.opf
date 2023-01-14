@@ -6,7 +6,7 @@
         <dc:title>Learn TensorFlow 2.0: Implement Machine Learning and Deep Learning Models With Python</dc:title>
         <dc:creator opf:file-as="Singh, Pramod &amp; Manure, Avinash" opf:role="aut">Pramod Singh</dc:creator>
         <dc:creator opf:file-as="Singh, Pramod &amp; Manure, Avinash" opf:role="aut">Avinash Manure</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-12-17T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Learn how to use TensorFlow 2.0 to build machine learning and deep learning models with complete examples. The book begins with introducing TensorFlow 2.0 framework and the major changes from its last release. Next, it focuses on building Supervised Machine Learning models using TensorFlow 2.0. It also demonstrates how to build models using customer estimators. Further, it explains how to use TensorFlow 2.0 API to build machine learning and deep learning models for image classification using the standard as well as custom parameters. You'll review sequence predictions, saving, serving, deploying, and standardized datasets, and then deploy these models to production. All the code presented in the book will be available in the form of executable scripts at Github which allows you to try out the examples and extend them in interesting ways. &lt;/p&gt;
