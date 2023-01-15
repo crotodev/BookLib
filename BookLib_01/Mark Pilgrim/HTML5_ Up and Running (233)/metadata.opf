@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">83356ad6-8cbd-43bf-b015-b6ed22f21119</dc:identifier>
         <dc:title>HTML5: Up and Running</dc:title>
         <dc:creator opf:file-as="Pilgrim, Mark" opf:role="aut">Mark Pilgrim</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-08-06T04:00:00+00:00</dc:date>
         <dc:description>&lt;p&gt;If you don't know about the new features available in HTML5, now's the time to find out. This book provides practical information about how and why the latest version of this markup language will significantly change the way you develop for the Web. &lt;i&gt;HTML5: Up &amp;amp; Running&lt;/i&gt; carefully guides you though the important changes in this version with lots of hands-on examples, including markup, graphics, and screenshots. You'll learn how to use HTML5 markup to add video, offline capabilities, and more -- and you&amp;#8217;ll be able to put that functionality to work right away.&lt;/p&gt;</dc:description>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
