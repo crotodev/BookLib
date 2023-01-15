@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">282</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec470526-9e4e-40aa-b168-88190b3f1c70</dc:identifier>
+        <dc:title>Hands-On Unsupervised Learning With Python: Implement Machine Learning and Deep Learning Models Using Scikit-Learn, TensorFlow, and More</dc:title>
+        <dc:creator opf:file-as="Bonaccorso, Giuseppe" opf:role="aut">Giuseppe Bonaccorso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-27T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Discover the skill-sets required to implement various approaches to Machine Learning with Python&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Explore unsupervised learning with clustering, autoencoders, restricted Boltzmann machines, and more &lt;/li&gt;
+&lt;li&gt;Build your own neural network models using modern Python libraries &lt;/li&gt;
+&lt;li&gt;Practical examples show you how to implement different machine learning and deep learning techniques &lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Unsupervised learning is about making use of raw, untagged data and applying learning algorithms to it to help a machine predict its outcome. With this book, you will explore the concept of unsupervised learning to cluster large sets of data and analyze them repeatedly until the desired outcome is found using Python. &lt;/p&gt;
+&lt;p&gt;This book starts with the key differences between supervised, unsupervised, and semi-supervised learning. You will be introduced to the best-used libraries and frameworks from the Python ecosystem and address unsupervised learning in both the machine learning and deep learning domains. You will explore various algorithms, techniques that are used to implement unsupervised learning in real-world use cases. You will learn a variety of unsupervised learning approaches, including randomized optimization, clustering, feature selection and transformation, and information theory. You will get hands-on experience with how neural networks can be employed in unsupervised scenarios. You will also explore the steps involved in building and training a GAN in order to process images. &lt;/p&gt;
+&lt;p&gt;By the end of this book, you will have learned the art of unsupervised learning for different real-world challenges.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Use cluster algorithms to identify and optimize natural groups of data &lt;/li&gt;
+&lt;li&gt;Explore advanced non-linear and hierarchical clustering in action &lt;/li&gt;
+&lt;li&gt;Soft label assignments for fuzzy c-means and Gaussian mixture models &lt;/li&gt;
+&lt;li&gt;Detect anomalies through density estimation &lt;/li&gt;
+&lt;li&gt;Perform principal component analysis using neural network models &lt;/li&gt;
+&lt;li&gt;Create unsupervised models using GANs&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is intended for statisticians, data scientists, machine learning developers, and deep learning practitioners who want to build smart applications by implementing key building block unsupervised learning, and master all the new techniques and algorithms offered in machine learning and deep learning using real-world examples. Some prior knowledge of machine learning concepts and statistics is desirable.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Getting Started with Unsupervised Learning&lt;/li&gt;
+&lt;li&gt;Clustering Fundamentals&lt;/li&gt;
+&lt;li&gt;Advanced Clustering&lt;/li&gt;
+&lt;li&gt;Hierarchical Clustering in Action&lt;/li&gt;
+&lt;li&gt;Soft Clustering and Gaussian Mixture Models&lt;/li&gt;
+&lt;li&gt;Anomaly Detection&lt;/li&gt;
+&lt;li&gt;Dimensionality Reduction and Component Analysis&lt;/li&gt;
+&lt;li&gt;Unsupervised Neural Network Models&lt;/li&gt;
+&lt;li&gt;Generative Adversarial Networks and SOMs&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1789348277</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781789348279</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Giuseppe Bonaccorso&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:51:04+00:00"/>
+        <meta name="calibre:title_sort" content="Hands-On Unsupervised Learning With Python: Implement Machine Learning and Deep Learning Models Using Scikit-Learn, TensorFlow, and More"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

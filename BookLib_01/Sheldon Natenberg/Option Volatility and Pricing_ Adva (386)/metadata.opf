@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">386</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae99d0a6-e257-4298-9926-448dd8d8f125</dc:identifier>
+        <dc:title>Option Volatility and Pricing: Advanced Trading Strategies and Techniques, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Natenberg, Sheldon" opf:role="aut">Sheldon Natenberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-21T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h4 style="font-size: medium"&gt;WHAT EVERY OPTION TRADER NEEDS TO KNOW. THE ONE BOOK EVERY TRADER SHOULD OWN.&lt;/h4&gt;
+&lt;p&gt;The bestselling &lt;em&gt;Option Volatility &amp;amp; Pricing&lt;/em&gt; has made Sheldon Natenberg a widely recognized authority in the option industry. At firms around the world, the text is often the first book that new professional traders are given to learn the trading strategies and risk management techniques required for success in option markets. Now, in this revised, updated, and expanded second edition, this thirty-year trading professional presents the most comprehensive guide to advanced trading strategies and techniques now in print. Covering a wide range of topics as diverse and exciting as the market itself, this text enables both new and experienced traders to delve in detail into the many aspects of option markets, including: * The foundations of option theory * Dynamic hedging * Volatility and directional trading strategies * Risk analysis * Position management * Stock index futures and options * Volatility contracts&lt;/p&gt;
+&lt;p&gt;Clear, concise, and comprehensive, the second edition of &lt;em&gt;Option Volatility &amp;amp; Pricing&lt;/em&gt; is sure to be an important addition to every option trader's library--as invaluable as Natenberg's acclaimed seminars at the world's largest derivatives exchanges and trading firms. You'll learn how professional option traders approach the market, including the trading strategies and risk management techniques necessary for success. You'll gain a fuller understanding of how theoretical pricing models work. And, best of all, you'll learn how to apply the principles of option evaluation to create strategies that, given a trader's assessment of market conditions and trends, have the greatest chance of success. Option trading is both a science and an art. This book shows how to apply both to maximum effect. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>McGraw-Hill Education</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">cb8c697d-7fad-4fbf-a15c-b7e8878e188e</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780071818773</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">_X3TnQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0071818774</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Futures</dc:subject>
+        <dc:subject>Investing</dc:subject>
+        <dc:subject>Non-Fiction</dc:subject>
+        <dc:subject>Options</dc:subject>
+        <dc:subject>Personal Finance</dc:subject>
+        <dc:subject>Public Finance</dc:subject>
+        <dc:subject>Stocks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sheldon Natenberg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-15T16:32:21.455001+00:00"/>
+        <meta name="calibre:title_sort" content="Option Volatility and Pricing: Advanced Trading Strategies and Techniques, 2nd Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

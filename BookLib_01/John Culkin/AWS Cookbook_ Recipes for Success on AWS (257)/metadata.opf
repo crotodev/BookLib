@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Culkin, John &amp; Zazon, Mike &amp; Ferguson, James" opf:role="aut">John Culkin</dc:creator>
         <dc:creator opf:file-as="Culkin, John &amp; Zazon, Mike &amp; Ferguson, James" opf:role="aut">Mike Zazon</dc:creator>
         <dc:creator opf:file-as="Culkin, John &amp; Zazon, Mike &amp; Ferguson, James" opf:role="aut">James Ferguson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-12-28T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This practical guide provides over 70 self-contained recipes to help you creatively solve common AWS challenges you'll encounter on your cloud journey. If you're comfortable with rudimentary scripting and general cloud concepts, this cookbook provides what you need to address foundational tasks and create high-level capabilities.&lt;/p&gt;
@@ -24,13 +24,15 @@
         <dc:identifier opf:scheme="AMAZON">1492092606</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">dOt4zgEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>Computers</dc:subject>
         <dc:subject>Business &amp; Productivity Software</dc:subject>
         <dc:subject>Business Intelligence</dc:subject>
+        <dc:subject>Cloud Computing</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Distributed Systems</dc:subject>
         <dc:subject>Internet</dc:subject>
         <dc:subject>Web Programming</dc:subject>
-        <dc:subject>Distributed Systems</dc:subject>
-        <dc:subject>Cloud Computing</dc:subject>
+        <dc:subject>AWS</dc:subject>
+        <dc:subject>Cookbook</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;John Culkin&quot;: &quot;&quot;, &quot;Mike Zazon&quot;: &quot;&quot;, &quot;James Ferguson&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-13T06:58:28+00:00"/>

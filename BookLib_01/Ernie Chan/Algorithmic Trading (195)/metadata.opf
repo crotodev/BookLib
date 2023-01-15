@@ -5,13 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">cf35fef1-af89-4714-aec5-2a7b675b60cd</dc:identifier>
         <dc:title>Algorithmic Trading</dc:title>
         <dc:creator opf:file-as="Chan, Ernie" opf:role="aut">Ernie Chan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-04-29T06:02:29+00:00</dc:date>
         <dc:description>John Wiley &amp; Sons, Inc.</dc:description>
         <dc:publisher>John Wiley &amp; Sons</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781118460146</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>algorithmic trading</dc:subject>
+        <dc:subject>Algorithmic Trading</dc:subject>
         <dc:subject>Algorithms</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Ernie Chan&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Wiley Trading"/>

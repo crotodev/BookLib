@@ -5,12 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7d514c4f-a571-46ab-9f4a-a93056a4a130</dc:identifier>
         <dc:title>The Art of Seduction</dc:title>
         <dc:creator opf:file-as="Greene, Robert" opf:role="aut">Robert Greene</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-12-13T05:00:00+00:00</dc:date>
         <dc:description>&lt;p&gt;This mesmerizing exploration of the most subtle, elusive, and effective form of power is a masterful analysis of civilization's greatest seducers, from Cleopatra to JFK, as well as the classic literature of seduction from Freud to Kierkegaard and Ovid to Casanova. Robert Greene once again identifies the rules of a timeless, amoral game and explores how to cast a spell, break down resistance, and, ultimately, compel a target to surrender. Presenting the timeless profiles of each type of seducer and the twenty-four maneuvers that will guide you step by step in the game of seduction, &lt;I&gt;The Art of Seduction&lt;/I&gt; is an indispensable primer of persuasion that reveals the timeless power of this age-old art.</dc:description>
         <dc:publisher>Penguin Publishing Group</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781101175293</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>Communication &amp; Social Skills</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Robert Greene&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-09T04:00:50+00:00"/>
         <meta name="calibre:title_sort" content="Art of Seduction, The"/>
