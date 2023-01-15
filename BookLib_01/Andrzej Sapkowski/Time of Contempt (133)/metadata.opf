@@ -5,17 +5,17 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">92ca46b6-1abb-4fab-9dc0-dd583141838e</dc:identifier>
         <dc:title>Time of Contempt</dc:title>
         <dc:creator opf:file-as="Sapkowski, Andrzej" opf:role="aut">Andrzej Sapkowski</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-06-27T06:00:00+00:00</dc:date>
         <dc:publisher>Orion</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">B00BJ5ADLQ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780575088436</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>action</dc:subject>
-        <dc:subject>adventure</dc:subject>
-        <dc:subject>fantasy</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
         <dc:subject>the witcher</dc:subject>
-        <dc:subject>fiction</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Andrzej Sapkowski&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="The Witcher Saga"/>
         <meta name="calibre:series_index" content="2"/>

@@ -5,17 +5,17 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">aa38e436-8d19-4ad7-9d79-0126dbc07e68</dc:identifier>
         <dc:title>The Tower of Swallows</dc:title>
         <dc:creator opf:file-as="Sapkowski, Andrzej" opf:role="aut">Andrzej Sapkowski</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-05-17T07:00:00+00:00</dc:date>
         <dc:description>The Witcher returns in this action-packed sequel to Untitled Andrzej Sapkowski #1, in the series that inspired The Witcher video games.</dc:description>
         <dc:publisher>Orbit</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">B01C3LHS1C</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>action</dc:subject>
-        <dc:subject>adventure</dc:subject>
-        <dc:subject>fantasy</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
         <dc:subject>the witcher</dc:subject>
-        <dc:subject>fiction</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Andrzej Sapkowski&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="The Witcher Saga"/>
         <meta name="calibre:series_index" content="4"/>

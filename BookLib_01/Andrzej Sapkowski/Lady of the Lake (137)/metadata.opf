@@ -5,18 +5,18 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">92eca387-b058-4eed-8343-313fa8ebecf2</dc:identifier>
         <dc:title>Lady of the Lake</dc:title>
         <dc:creator opf:file-as="Sapkowski, Andrzej" opf:role="aut">Andrzej Sapkowski</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1999-01-15T05:00:00+00:00</dc:date>
         <dc:description>After walking through the portal in Tor Zireael while narrowly escaping death, Ciri finds herself in a completely different world... an Elven world. She is trapped there with no apparent way out. Time does not seem to exist and there are no obvious borders or portals to cross back into her home world. But this is still Ciri! And she must get away!!! Get away to finally rejoin Geralt and Yennefer and also to try to conquer her worst nightmare - Leo Bonhart.</dc:description>
         <dc:publisher>SuperNowa</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9788375780697</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">PogNogEACAAJ</dc:identifier>
         <dc:language>pol</dc:language>
-        <dc:subject>action</dc:subject>
-        <dc:subject>adventure</dc:subject>
-        <dc:subject>fantasy</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
         <dc:subject>the witcher</dc:subject>
-        <dc:subject>fiction</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Andrzej Sapkowski&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="The Witcher Saga"/>
         <meta name="calibre:series_index" content="5"/>
