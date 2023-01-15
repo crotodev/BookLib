@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ec470526-9e4e-40aa-b168-88190b3f1c70</dc:identifier>
         <dc:title>Hands-On Unsupervised Learning With Python: Implement Machine Learning and Deep Learning Models Using Scikit-Learn, TensorFlow, and More</dc:title>
         <dc:creator opf:file-as="Bonaccorso, Giuseppe" opf:role="aut">Giuseppe Bonaccorso</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-27T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Discover the skill-sets required to implement various approaches to Machine Learning with Python&lt;/p&gt;
