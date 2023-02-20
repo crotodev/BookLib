@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">749</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">367211cb-8244-4276-b948-5d751252c09c</dc:identifier>
+        <dc:title>The Art of Everyday Assertiveness: Speak Up. Set Boundaries. Say No. Take Back Control. Get What You Want</dc:title>
+        <dc:creator opf:file-as="King, Patrick" opf:role="aut">Patrick King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-22T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Stand your ground without guilt, fear, or awkward tension. Finally get what you deserve and stop "letting it slide". Who is making your daily choices for you? Is it you? Make sure you possess the everyday assertiveness to get what you want and resist the pressure to reject what you don't want. You've put yourself last your entire life. It's time for that to change. Stop enabling, sacrificing your needs, people pleasing, and being so "agreeable. &lt;/p&gt;
+&lt;p&gt;" The Art of Everyday Assertiveness is a guide for the chronically "nice," "overwhelmed," and "accommodating". It is a deep psychological dive into the beliefs that makes us lack assertiveness, and how to systematically combat and replace compulsions with healthy mindsets. This is a book that stands apart from others because of the plethora of real life examples and solutions. If your problem is assertiveness, you'll find the step by step answer in this book - included is an Assertiveness Action Plan unlike any other. Gain respect, set boundaries, and ask for what you really want. Patrick King is an internationally bestselling author and social skills coach. His writing draws of a variety of sources, from research, academic experience, coaching, and real life experience. He's also a recovering people pleaser who knows exactly how it feels to feel unable to speak his mind. How to decisively say NO and reclaim your time and energy Stop putting others first and being taken advantage of. -A wide variety of ways to say no - without tension or awkwardness. -Beating the subconscious beliefs that make you a compliant doormat. -How to set healthy boundaries and protect yourself from others. -How to ask for exactly what you want, when you want it. -The instinct to over-apologize and how to fix it. Stop being a "helpaholic" and start treating yourself better. Assertiveness is the first step to creating the life you want - not the life someone else wants for you, or taking care of someone else's to-do list. You're not responsible for other people's happiness. But you are responsible for yours. What makes you happy? Do that. What makes you unhappy? Avoid that. If other people interfere with this simple credo, assertiveness is what will save the day.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>PKCS Media, Incorporated</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">gjM4ywEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781647432003</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B078Q463RB</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Patrick King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-12T21:37:36+00:00"/>
+        <meta name="calibre:title_sort" content="Art of Everyday Assertiveness: Speak Up. Set Boundaries. Say No. Take Back Control. Get What You Want, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
