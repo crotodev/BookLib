@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">757</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a332a9f7-8423-4c82-b416-2567d30350d2</dc:identifier>
+        <dc:title>The Art of War</dc:title>
+        <dc:creator opf:file-as="Tzu, Sun" opf:role="aut">Sun Tzu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-02-11T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The definitive translation of Sun-tzu's timeless classic of military strategy, Art of WarArt of War is almost certainly the most famous study of strategy ever written and has had an extraordinary influence on the history of warfare. The principles Sun-tzu expounded were utilized brilliantly by such great Asian war leaders as Mao Tse-tung, Giap, and Yamamoto. First translated two hundred years ago by a French missionary, Sun-tzu's Art of War has been credited with influencing Napoleon, the German General Staff, and even the planning for Desert Storm. Many Japanese companies make this book required reading for their key executives. And increasingly, Western businesspeople and others are turning to the Art of War for inspiration and advice on how to succeed in competitive situations of all kinds. Unlike most editions of Sun-tzu currently available (many simply retreads of older, flawed translations), this superb translation makes use of the best available classical Chinese manuscripts, including the ancient "tomb text" version discovered by archaeologists at Linyi, China. Ralph Sawyer, an outstanding Western scholar of ancient Chinese warfare and a successful businessman in his own right, places this classic work of strategy in its proper historical context. Sawyer supplies a portrait of Sun-tzu's era and outlines several battles of the period that may have either influenced Sun-tzu or been conducted by him. While appreciative of the philosophical richness of the Art of War, this edition stresses Sun-tzu's practical origins and presents a translation that is both accurate and accessible.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">y1vqObzzIF8C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780813319513</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/132</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Ancient</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Asia</dc:subject>
+        <dc:subject>China</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Strategy</dc:subject>
+        <dc:subject>Weapons</dc:subject>
+        <dc:subject>Wars &amp; Conflicts</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Eastern</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sun Tzu&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-12T20:34:04+00:00"/>
+        <meta name="calibre:title_sort" content="Art of War, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
