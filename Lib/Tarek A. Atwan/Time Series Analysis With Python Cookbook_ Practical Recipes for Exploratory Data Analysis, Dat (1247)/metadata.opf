@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1247</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72f6c268-6528-45ef-8a1c-354ee55b971a</dc:identifier>
+        <dc:title>Time Series Analysis With Python Cookbook: Practical Recipes for Exploratory Data Analysis, Data Preparation, Forecasting, and Model Evaluation</dc:title>
+        <dc:creator opf:file-as="Atwan, Tarek A." opf:role="aut">Tarek A. Atwan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Perform time series analysis and forecasting confidently with this Python code bank and reference manual&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Explore forecasting and anomaly detection techniques using statistical, machine learning, and deep learning algorithms&lt;/li&gt;
+&lt;li&gt;Learn different techniques for evaluating, diagnosing, and optimizing your models&lt;/li&gt;
+&lt;li&gt;Work with a variety of complex data with trends, multiple seasonal patterns, and irregularities&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Time series data is everywhere, available at a high frequency and volume. It is complex and can contain noise, irregularities, and multiple patterns, making it crucial to be well-versed with the techniques covered in this book for data preparation, analysis, and forecasting.&lt;/p&gt;
+&lt;p&gt;This book covers practical techniques for working with time series data, starting with ingesting time series data from various sources and formats, whether in private cloud storage, relational databases, non-relational databases, or specialized time series databases such as InfluxDB. Next, you'll learn strategies for handling missing data, dealing with time zones and custom business days, and detecting anomalies using intuitive statistical methods, followed by more advanced unsupervised ML models. The book will also explore forecasting using classical statistical models such as Holt-Winters, SARIMA, and VAR. The recipes will present practical techniques for handling non-stationary data, using power transforms, ACF and PACF plots, and decomposing time series data with multiple seasonal patterns. Later, you'll work with ML and DL models using TensorFlow and PyTorch.&lt;/p&gt;
+&lt;p&gt;Finally, you'll learn how to evaluate, compare, optimize models, and more using the recipes covered in the book.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand what makes time series data different from other data&lt;/li&gt;
+&lt;li&gt;Apply various imputation and interpolation strategies for missing data&lt;/li&gt;
+&lt;li&gt;Implement different models for univariate and multivariate time series&lt;/li&gt;
+&lt;li&gt;Use different deep learning libraries such as TensorFlow, Keras, and PyTorch&lt;/li&gt;
+&lt;li&gt;Plot interactive time series visualizations using hvPlot&lt;/li&gt;
+&lt;li&gt;Explore state-space models and the unobserved components model (UCM)&lt;/li&gt;
+&lt;li&gt;Detect anomalies using statistical and machine learning methods&lt;/li&gt;
+&lt;li&gt;Forecast complex time series with multiple seasonal patterns&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is for data analysts, business analysts, data scientists, data engineers, or Python developers who want practical Python recipes for time series analysis and forecasting techniques. Fundamental knowledge of Python programming is required. Although having a basic math and statistics background will be beneficial, it is not necessary. Prior experience working with time series data to solve business problems will also help you to better utilize and apply the different recipes in this book.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Getting Started with Time Series Analysis&lt;/li&gt;
+&lt;li&gt;Reading Time Series Data from Files&lt;/li&gt;
+&lt;li&gt;Reading Time Series Data from Databases&lt;/li&gt;
+&lt;li&gt;Persisting Time Series Data to Files&lt;/li&gt;
+&lt;li&gt;Persisting Time Series Data to Databases&lt;/li&gt;
+&lt;li&gt;Working with Date and Time in Python&lt;/li&gt;
+&lt;li&gt;Handling Missing Data&lt;/li&gt;
+&lt;li&gt;Outlier Detection Using Statistical Methods&lt;/li&gt;
+&lt;li&gt;Exploratory Data Analysis and Diagnosis&lt;/li&gt;
+&lt;li&gt;Building Univariate Time Series Models Using Statistical Methods&lt;/li&gt;
+&lt;li&gt;Additional Statistical Modeling Techniques for Time Series&lt;/li&gt;
+&lt;li&gt;Forecasting Using Supervised Machine Learning&lt;/li&gt;
+&lt;li&gt;Deep Learning for Time Series Forecasting&lt;/li&gt;
+&lt;li&gt;Outlier Detection Using Unsupervised Machine Learning&lt;/li&gt;
+&lt;li&gt;Advanced Techniques for Complex Time Series&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"There are so many use cases when we need to deal with time series data – demand forecasting, predictive maintenance, and energy consumption, to name a few – and so every data scientist must be skilled in time series analysis.&lt;/p&gt;
+&lt;p&gt;Time series analysis is very difficult to master. That’s why I enjoyed Tarek A. Atwan’s book. I believe that by reading it, every data scientist will learn something new from the Python snippets dealing with time and date in Python (which is never as easy as it seems), running EDA, handling missing values, detecting outliers, and forecasting with statistical, machine learning, and deep learning models."&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Adam Votava, Interim Chief Data and Analytics Officer at DataDiligence&lt;/p&gt;
+&lt;p&gt;"The book covers all the necessary details for time series data preparation, analysis, and forecasting, including how time series data is different from other data, how to ingest data from various sources and databases, how to deal with different time zones and custom business days, how to detect anomalies using statistical methods and visualizations, followed by developing advanced deep learning models for forecasting."&lt;/p&gt;
+&lt;p&gt;Overall, this is a great reference book for data science practitioners to get up to speed quickly on state-of-the-art time series data analysis and forecasting techniques!&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Sadid Hasan, AI Lead at Microsoft&lt;/p&gt;
+&lt;p&gt;"I recommend reading this book to anyone at any level. The book has extensive chapters on how to read and write time series data using various technologies. This is a gap for most academically trained or MOOC-trained data analysts/ scientists. The book then describes statistical methodologies to handle time series forecasting. What I enjoyed is the pace at which the author gives enough background on a topic while also showing the reader how things are done practically. Later chapters describe the ML-based modeling of time series data.&lt;/p&gt;
+&lt;p&gt;I found this book to be a treasure trove of information on a set of very diverse approaches and topics. The more curious reader can later pick up a book on any of these chapters’ topics.&lt;/p&gt;
+&lt;p&gt;Highly recommended for newbies and veterans alike."&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Shobeir Seddington, Principal Data Scientist at Gopuff &amp;amp; Harvard Business Review Advisor at Harvard Business Review&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Tarek A. Atwan is a data analytics expert with over 16 years of international consulting experience, providing subject matter expertise in data science, machine learning operations, data engineering, and business intelligence. He has taught multiple hands-on coding boot camps, courses, and workshops on various topics, including data science, data visualization, Python programming, time series forecasting, and blockchain at different universities in the United States. He is regarded as an industry mentor and advisor, working with executive leaders in various industries to solve complex problems using a data-driven approach.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781801075541</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1801075549</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Tarek A. Atwan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-02-22T07:09:00.759217+00:00"/>
+        <meta name="calibre:title_sort" content="Time Series Analysis With Python Cookbook: Practical Recipes for Exploratory Data Analysis, Data Preparation, Forecasting, and Model Evaluation"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

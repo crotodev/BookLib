@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1243</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c78db052-2c53-4dad-9304-c746cb620f30</dc:identifier>
+        <dc:title>Investor sentiment, style investing, and momentum</dc:title>
+        <dc:creator opf:file-as="Ashour, Samar &amp; Hao, Grace Qing &amp; Harper, Adam" opf:role="aut">Samar Ashour</dc:creator>
+        <dc:creator opf:file-as="Ashour, Samar &amp; Hao, Grace Qing &amp; Harper, Adam" opf:role="aut">Grace Qing Hao</dc:creator>
+        <dc:creator opf:file-as="Ashour, Samar &amp; Hao, Grace Qing &amp; Harper, Adam" opf:role="aut">Adam Harper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-07T15:01:49+00:00</dc:date>
+        <dc:description>Journal of Financial Markets, 62 (2023) 100755. doi:10.1016/j.finmar.2022.100755</dc:description>
+        <dc:publisher>Elsevier B.V.</dc:publisher>
+        <dc:identifier opf:scheme="DOI">10.1016/j.finmar.2022.100755</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Investor sentiment</dc:subject>
+        <dc:subject>Style investing</dc:subject>
+        <dc:subject>Comovement</dc:subject>
+        <dc:subject>Momentum</dc:subject>
+        <dc:subject>Return predictability</dc:subject>
+        <dc:subject>Behavioral finance</dc:subject>
+        <dc:subject>Research</dc:subject>
+        <dc:subject>Research Article</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Quantitative Finance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samar Ashour&quot;: &quot;&quot;, &quot;Grace Qing Hao&quot;: &quot;&quot;, &quot;Adam Harper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-22T02:39:49.603415+00:00"/>
+        <meta name="calibre:title_sort" content="Investor sentiment, style investing, and momentum"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

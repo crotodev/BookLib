@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1238</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf322002-2bc6-4a2b-88a0-4d429d0fe3bf</dc:identifier>
+        <dc:title>RabbitMQ in Depth</dc:title>
+        <dc:creator opf:file-as="Roy, Gavin M." opf:role="aut">Gavin M. Roy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-27T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Summary &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;RabbitMQ in Depth&lt;/em&gt; is a practical guide to building and maintaining message-based applications. This book provides detailed coverage of RabbitMQ with an emphasis on why it works the way it does. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the Technology &lt;/p&gt;
+&lt;p&gt;At the heart of most modern distributed applications is a queue that buffers, prioritizes, and routes message traffic. RabbitMQ is a high-performance message broker based on the Advanced Message Queueing Protocol. It?s battle tested, ultrafast, and powerful enough to handle anything you can throw at it. It requires a few simple setup steps, and you can instantly start using it to manage low-level service communication, application integration, and distributed system message routing. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the Book &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;RabbitMQ in Depth&lt;/em&gt; is a practical guide to building and maintaining message-based applications. This book provides detailed coverage of RabbitMQ with an emphasis on why it works the way it does. You'll find examples and detailed explanations based in real-world systems ranging from simple networked services to complex distributed designs. You'll also find the insights you need to make core architectural choices and develop procedures for effective operational management. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What's Inside &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AMQP, the Advanced Message Queueing Protocol&lt;/li&gt;
+&lt;li&gt;Communicating via MQTT, Stomp, and HTTP&lt;/li&gt;
+&lt;li&gt;Valuable troubleshooting techniques&lt;/li&gt;
+&lt;li&gt;Database integration&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;About the Reader &lt;/p&gt;
+&lt;p&gt;Written for programmers with a basic understanding of messaging-oriented systems. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the Author &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gavin M. Roy&lt;/strong&gt; is an active, open source evangelist and advocate who has been working with internet and enterprise technologies since the mid-90s. Technical editor &lt;strong&gt;James Titcumb&lt;/strong&gt; is a freelance developer, trainer, speaker, and active contributor to open source projects. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Table of Contents &lt;/p&gt;
+&lt;ol&gt;
+&lt;li style="font-size: medium; font-weight: bold"&gt;&lt;span style="font-size: medium"&gt;PART 1 - RABBITMQ AND APPLICATION ARCHITECTURE&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Foundational RabbitMQ &lt;/li&gt;
+&lt;li&gt;How to speak Rabbit: the AMQ Protocol &lt;/li&gt;
+&lt;li&gt;An in-depth tour of message properties &lt;/li&gt;
+&lt;li&gt;Performance trade-offs in publishing &lt;/li&gt;
+&lt;li&gt;Don't get messages; consume them &lt;/li&gt;
+&lt;li&gt;Message patterns via exchange routing &lt;/li&gt;
+&lt;li style="font-size: medium; font-weight: bold"&gt;&lt;span style="font-size: medium"&gt;PART 2 - MANAGING RABBITMQ IN THE DATA CENTER OR THE CLOUD&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Scaling RabbitMQ with clusters &lt;/li&gt;
+&lt;li&gt;Cross-cluster message distribution &lt;/li&gt;
+&lt;li style="font-size: medium; font-weight: bold"&gt;&lt;span style="font-size: medium"&gt;PART 3 - INTEGRATIONS AND CUSTOMIZATION&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Using alternative protocols &lt;/li&gt;
+&lt;li&gt;Database integrations&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Gavin M. Roy&lt;/strong&gt; is an active, open source evangelist and advocate who has been working with internet and enterprise technologies since the mid-90s. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781617291005</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1617291005</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Gavin M. Roy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-02-21T16:39:24.556572+00:00"/>
+        <meta name="calibre:title_sort" content="RabbitMQ in Depth"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

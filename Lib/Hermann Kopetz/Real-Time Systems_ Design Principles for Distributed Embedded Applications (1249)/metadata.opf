@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1249</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ab16366-5c75-40ca-bf81-1676ba5a7690</dc:identifier>
+        <dc:title>Real-Time Systems: Design Principles for Distributed Embedded Applications</dc:title>
+        <dc:creator opf:file-as="Kopetz, Hermann" opf:role="aut">Hermann Kopetz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;"This book is a comprehensive text for the design of safety critical, hard real-time embedded systems. It offers a splendid example for the balanced, integrated treatment of systems and software engineering, helping readers tackle the hardest problems of advanced real-time system design, such as determinism, compositionality, timing and fault management. This book is an essential reading for advanced undergraduates and graduate students in a wide range of disciplines impacted by embedded computing and software. Its conceptual clarity, the style of explanations and the examples make the abstract concepts accessible for a wide audience."&lt;br&gt;Janos Sztipanovits, Director&lt;br&gt;E. Bronson Ingram Distinguished Professor of Engineering&lt;br&gt;Institute for Software Integrated Systems&lt;br&gt;Vanderbilt University&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Real-Time Systems&lt;/em&gt; focuses on hard real-time systems, which are computing systems that must meet their temporal specification in all anticipated load and fault scenarios. The book stresses the system aspects of distributed real-time applications, treating the issues of real-time, distribution and fault-tolerance from an integral point of view. A unique cross-fertilization of ideas and concepts between the academic and industrial worlds has led to the inclusion of many insightful examples from industry to explain the fundamental scientific concepts in a real-world setting. Compared to the first edition, new developments in complexity management, energy and power management, dependability, security, and the internet of things, are addressed. &lt;/p&gt;
+&lt;p&gt;The book is written as a standard textbook for a high-level undergraduate or graduate course on real-time embedded systems or cyber-physical systems. Its practical approach to solving real-time problems, along with numerous summary exercises, makes it an excellent choice for researchers and practitioners alike.&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;From the reviews of the second edition:&lt;/p&gt;
+&lt;p&gt;“The book includes new chapters on simplicity, energy awareness, and the Internet, and, more importantly, some of the original chapters have been substantially revised. The book was designed to be a textbook. Its audience includes graduate and senior-level undergraduate students in real-time systems courses, as well as practitioners. … Overall, this is a very good book.” (Janusz Zalewski, ACM Computing Reviews, January, 2012)&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Hermann Kopetz received his PhD in physics "sub auspiciis praesidentis" from the University of Vienna, Austria in 1968. After eight years in Industry he accepted in 1978 an appointment as a Professor for Computer Process Control at the Technical University of West-Berlin, moving to the Technical University of Vienna in 1992. Kopetz is a full member of the Austrian Academy of Science, Fellow of the IEEE, and is a member of the Information Society Advisory Group (ISTAG), advising the European Commission in Brussels in the domain of information technology since 2008. In June 2007 he received the honorary degree of Dr. honoris causa from the University Paul Sabatier in Toulouse, France. Kopetz is the chief architect of the time-triggered technology for dependable embedded Systems and a co-founder of the company TTTech. The time-triggered technology is deployed in leading automotive and aerospace applications and has been selected by NASA for the Orion Spacecraft.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Springer</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781441982360</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1441982361</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">180232</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">oJZsvEawlAMC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>Expert Systems</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Electronics</dc:subject>
+        <dc:subject>Circuits</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Hardware</dc:subject>
+        <dc:subject>Cell Phones &amp; Devices</dc:subject>
+        <dc:subject>Networking</dc:subject>
+        <dc:subject>Computer Architecture</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Systems Analysis &amp; Design</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hermann Kopetz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-02-22T07:11:24.246081+00:00"/>
+        <meta name="calibre:title_sort" content="Real-Time Systems: Design Principles for Distributed Embedded Applications"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

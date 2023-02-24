@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">659</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2c859ba-e0d4-403b-8786-3b97e8e54ea4</dc:identifier>
+        <dc:title>Quant Job Interview Questions and Answers</dc:title>
+        <dc:creator opf:file-as="Joshi, Mark Suresh &amp; Denson, Nick &amp; Downes, Andrew" opf:role="aut">Mark Suresh Joshi</dc:creator>
+        <dc:creator opf:file-as="Joshi, Mark Suresh &amp; Denson, Nick &amp; Downes, Andrew" opf:role="aut">Nick Denson</dc:creator>
+        <dc:creator opf:file-as="Joshi, Mark Suresh &amp; Denson, Nick &amp; Downes, Andrew" opf:role="aut">Andrew Downes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Designed to get you a job in quantitative finance, this book contains over 225 interview questions taken from actual interviews in the City and Wall Street. Each question comes with a full detailed solution, discussion of what the interviewer is seeking and possible follow-up questions. Topics covered include option pricing, probability, mathematics, numerical algorithms and C++, as well as a discussion of the interview process and the non-technical interview. Mark Joshi wrote the popular introductory textbooks "the Concepts and Practice of Mathematical Finance" and "C++ Design Patterns and Derivatives Pricing. &lt;/p&gt;
+&lt;p&gt;" He also worked as a senior quant in industry for many years and has plenty of interview experience from both sides of the desk.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>CreateSpace Independent Publishing Platform</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">143821703X</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781438217031</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">5675575</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">y7qEOgAACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Quantitative Finance</dc:subject>
+        <dc:subject>Interviewing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mark Suresh Joshi&quot;: &quot;&quot;, &quot;Nick Denson&quot;: &quot;&quot;, &quot;Andrew Downes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-02-20T00:07:40+00:00"/>
+        <meta name="calibre:title_sort" content="Quant Job Interview Questions and Answers"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
