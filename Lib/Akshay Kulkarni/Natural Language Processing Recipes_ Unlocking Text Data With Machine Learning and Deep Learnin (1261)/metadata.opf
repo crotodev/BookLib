@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1261</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38c2151e-030a-4d6a-88d5-c9049ab51377</dc:identifier>
+        <dc:title>Natural Language Processing Recipes: Unlocking Text Data With Machine Learning and Deep Learning Using Python</dc:title>
+        <dc:creator opf:file-as="Kulkarni, Akshay &amp; Shivananda, Adarsha" opf:role="aut">Akshay Kulkarni</dc:creator>
+        <dc:creator opf:file-as="Kulkarni, Akshay &amp; Shivananda, Adarsha" opf:role="aut">Adarsha Shivananda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-29T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Implement natural language processing applications with Python using a problem-solution approach. This book has numerous coding exercises that will help you to quickly deploy natural language processing techniques, such as text classification, parts of speech identification, topic modeling, text summarization, text generation, entity extraction, and sentiment analysis. Natural Language Processing Recipes starts by offering solutions for cleaning and preprocessing text data and ways to analyze it with advanced algorithms. You’ll see practical applications of the semantic as well as syntactic analysis of text, as well as complex natural language processing approaches that involve text normalization, advanced preprocessing, POS tagging, and sentiment analysis. You will also learn various applications of machine learning and deep learning in natural language processing. &lt;/p&gt;
+&lt;p&gt;By using the recipes in this book, you will have a toolbox of solutions to apply to your own projects in the real world, making your development time quicker and more efficient. What You Will LearnApply NLP techniques using Python libraries such as NLTK, TextBlob, spaCy, Stanford CoreNLP, and many moreImplement the concepts of information retrieval, text summarization, sentiment analysis, and other advanced natural language processing techniques. &lt;/p&gt;
+&lt;p&gt;Identify machine learning and deep learning techniques for natural language processing and natural language generation problemsWho This Book Is ForData scientists who want to refresh and learn various concepts of natural language processing through coding exercises.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484242674</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">bM6FDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Akshay Kulkarni&quot;: &quot;&quot;, &quot;Adarsha Shivananda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-24T23:40:53.658808+00:00"/>
+        <meta name="calibre:title_sort" content="Natural Language Processing Recipes: Unlocking Text Data With Machine Learning and Deep Learning Using Python"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -17,6 +17,14 @@
   ],
   "gui_view_history": [
     [
+      654,
+      "Heard on the Street: Quantitative Questions From Wall Street Job Interviews"
+    ],
+    [
+      659,
+      "Quant Job Interview Questions and Answers"
+    ],
+    [
       637,
       "Captivate"
     ],
@@ -67,14 +75,6 @@
     [
       590,
       "Python for Finance and Algorithmic Trading : Machine Learning, Deep Learning, Time Series Analysis, Risk and Portfolio Management for MetaTrader\u21225 Live Trading"
-    ],
-    [
-      497,
-      "Practical Web Scraping for Data Science: Best Practices and Examples With Python"
-    ],
-    [
-      392,
-      "Deep Learning Pipeline: Building a Deep Learning Model With TensorFlow"
     ]
   ],
   "library_view books view state": {
@@ -959,14 +959,16 @@
     "Equity Research": "tags:\"=Equity Research\"",
     "Finance": "tags:\"=Machine Learning\" or tags:\"=Quantitative Finance\"",
     "ITAL 199-S01": "tags:\"=ITAL 199-S01\"",
-    "Quantitative Finance": "tags:=\"Quantitative Finance\" and tags:=\"Research Article\" or tags:=\"Finance\" and tags:=\"Research Article\"",
+    "Quant": "tags:=\"Quantitative Finance\"",
+    "Quantitative Finance Articles": "tags:=\"Quantitative Finance\" and tags:=\"Research Article\" or tags:=\"Finance\" and tags:=\"Research Article\"",
     "REL 144-01": "tags:\"=REL 144-01\""
   },
   "update_all_last_mod_dates_on_start": false,
   "virt_libs_hidden": [
     "Finance",
     "REL 144-01",
-    "Equity Research"
+    "Equity Research",
+    "ITAL 199-S01"
   ],
   "namespaced:FindDuplicatesPlugin:settings": {
     "SchemaVersion": 1.7,
