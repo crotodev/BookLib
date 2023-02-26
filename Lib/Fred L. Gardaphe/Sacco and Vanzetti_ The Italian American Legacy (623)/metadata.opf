@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">623</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0aec3765-ea3f-49e3-af0d-884014d8c39f</dc:identifier>
+        <dc:title>Sacco and Vanzetti: The Italian American Legacy</dc:title>
+        <dc:creator opf:file-as="Gardaphé, Fred L." opf:role="aut">Fred L. Gardaphé</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-09T01:03:17+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>ITAL 199-S01</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fred L. Gardaphé&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-07T15:08:42+00:00"/>
+        <meta name="calibre:title_sort" content="Sacco and Vanzetti: The Italian American Legacy"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

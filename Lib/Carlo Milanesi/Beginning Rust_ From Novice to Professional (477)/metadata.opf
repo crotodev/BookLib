@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">477</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cdcb2a92-260b-4fa9-a71d-349881f48411</dc:identifier>
+        <dc:title>Beginning Rust: From Novice to Professional</dc:title>
+        <dc:creator opf:file-as="Milanesi, Carlo" opf:role="aut">Carlo Milanesi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-22T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Learn to program with Rust in an easy, step-by-step manner on Unix, Linux shell, macOS and the Windows command line. As you read this book, you’ll build on the knowledge you gained in previous chapters and see what Rust has to offer. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Beginning Rust&lt;/em&gt; starts with the basics of Rust, including how to name objects, control execution flow, and handle primitive types. You’ll see how to do arithmetic, allocate memory, use iterators, and handle input/output. Once you have mastered these core skills, you’ll work on handling errors and using the object-oriented features of Rust to build robust Rust applications in no time.&lt;/p&gt;
+&lt;p&gt;Only a basic knowledge of programming is required, preferably in C or C++. To understand this book, it's enough to know what integers and floating-point numbers are, and to distinguish identifiers from string literals. &lt;/p&gt;
+&lt;p&gt;After reading this book, you'll be ready to build Rust applications. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You'll Learn&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Get started programming with Rust &lt;/li&gt;
+&lt;li&gt;Understand heterogeneous data structures and data sequences &lt;/li&gt;
+&lt;li&gt;Define functions, generic functions, structs, and more &lt;/li&gt;
+&lt;li&gt;Work with closures, changeable strings, ranges and slices &lt;/li&gt;
+&lt;li&gt;Use traits and learn about lifetimes &lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For&lt;/p&gt;
+&lt;p&gt;Those who are new to Rust and who have at least some prior experience with programming in general: some C/C++ is recommended particularly.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">LM5SDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">37707089</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484234677</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484234686</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carlo Milanesi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-21T10:01:27+00:00"/>
+        <meta name="calibre:title_sort" content="Beginning Rust: From Novice to Professional"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

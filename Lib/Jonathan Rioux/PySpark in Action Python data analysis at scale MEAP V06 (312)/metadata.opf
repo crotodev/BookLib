@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">312</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7fb8313-13fe-4304-8e28-3f95c49c37bb</dc:identifier>
+        <dc:title>PySpark in Action Python data analysis at scale MEAP V06</dc:title>
+        <dc:creator opf:file-as="Rioux, Jonathan" opf:role="aut">Jonathan Rioux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold; font-family: 'Helvetica Neue'"&gt;d&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="font-weight: bold; font-family: 'Helvetica Neue'"&gt;Think big about your data! PySpark brings the powerful Spark big data processing engine to the Python ecosystem, letting you seamlessly scale up your data tasks and create lightning-fast pipelines.&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;In &lt;em&gt;Data Analysis with Python and PySpark&lt;/em&gt; you will learn how to:&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;    Manage your data as it scales across multiple machines&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;    Scale up your data programs with full confidence&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;    Read and write data to and from a variety of sources and formats&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;    Deal with messy data with PySpark’s data manipulation functionality&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;    Discover new data sets and perform exploratory data analysis&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;    Build automated data pipelines that transform, summarize, and get insights from data&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;    Troubleshoot common PySpark errors&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;    Creating reliable long-running jobs&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;&lt;em&gt;Data Analysis with Python and PySpark&lt;/em&gt; is your guide to delivering successful Python-driven data projects. Packed with relevant examples and essential techniques, this practical book teaches you to build pipelines for reporting, machine learning, and other data-centric tasks. Quick exercises in every chapter help you practice what you’ve learned, and rapidly start implementing PySpark into your data systems. No previous knowledge of Spark is required.&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;About the technology&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;The Spark data processing engine is an amazing analytics factory: raw data comes in, insight comes out. PySpark wraps Spark’s core engine with a Python-based API. It helps simplify Spark’s steep learning curve and makes this powerful tool available to anyone working in the Python data ecosystem.&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;About the book&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;&lt;em&gt;Data Analysis with Python and PySpark&lt;/em&gt; helps you solve the daily challenges of data science with PySpark. You’ll learn how to scale your processing capabilities across multiple machines while ingesting data from any source—whether that’s Hadoop clusters, cloud data storage, or local data files. Once you’ve covered the fundamentals, you’ll explore the full versatility of PySpark by building machine learning pipelines, and blending Python, pandas, and PySpark code.&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;What's inside&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;    Organizing your PySpark code&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;    Managing your data, no matter the size&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;    Scale up your data programs with full confidence&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;    Troubleshooting common data pipeline problems&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;    Creating reliable long-running jobs&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;About the reader&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;Written for data scientists and data engineers comfortable with Python.&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;About the author&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;As a ML director for a data-driven software company, &lt;strong&gt;Jonathan Rioux&lt;/strong&gt; uses PySpark daily. He teaches the software to data scientists, engineers, and data-savvy business analysts.&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;Table of Contents&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt; &lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;1 Introduction&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;PART 1 GET ACQUAINTED: FIRST STEPS IN PYSPARK&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;2 Your first data program in PySpark&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;3 Submitting and scaling your first PySpark program&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;4 Analyzing tabular data with pyspark.sql&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;5 Data frame gymnastics: Joining and grouping&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;PART 2 GET PROFICIENT: TRANSLATE YOUR IDEAS INTO CODE&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;6 Multidimensional data frames: Using PySpark with JSON data&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;7 Bilingual PySpark: Blending Python and SQL code&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;8 Extending PySpark with Python: RDD and UDFs&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;9 Big data is just a lot of small data: Using pandas UDFs&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;10 Your data under a different lens: Window functions&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;11 Faster PySpark: Understanding Spark’s query planning&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;PART 3 GET CONFIDENT: USING MACHINE LEARNING WITH PYSPARK&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;12 Setting the stage: Preparing features for machine learning&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;13 Robust machine learning with ML Pipelines&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;14 Building custom ML transformers and estimators &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jonathan Rioux&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-13T17:14:09+00:00"/>
+        <meta name="calibre:title_sort" content="PySpark in Action Python data analysis at scale MEAP V06"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

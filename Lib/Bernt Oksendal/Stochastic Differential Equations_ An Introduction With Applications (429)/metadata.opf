@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">429</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc5ced8d-a17e-4970-942a-636a38aafc02</dc:identifier>
+        <dc:title>Stochastic Differential Equations: An Introduction With Applications</dc:title>
+        <dc:creator opf:file-as="Oksendal, Bernt" opf:role="aut">Bernt Oksendal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-07-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;An introduction to the basic theory of stochastic calculus and its applications. Examples are given throughout the text, in order to motivate and illustrate the theory and show its importance for many applications in e.g. economics, biology and physics. The basic idea of the presentation is to start from some basic results (without proofs) of the easier cases and develop the theory from there, and to concentrate on the proofs of the easier case in order to quickly progress to the parts of the theory that are most important for the applications. For the 6th edition the author has added further exercises and, for the first time, solutions to many of the exercises are provided.&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;From the reviews of the fifth edition:&lt;/p&gt;
+&lt;p&gt;"This is a highly readable and refreshingly rigorous introduction to stochastic calculus. … This is not a watered-down treatment. It is a serious introduction that starts with fundamental measure-theoretic concepts and ends, coincidentally, with the Black-Scholes formula as one of several examples of applications. This is the best single resource for learning the stochastic calculus … ." (riskbook.com, 2002)&lt;/p&gt;
+&lt;p&gt;From the reviews of the sixth edition:&lt;/p&gt;
+&lt;p&gt;"The book … has evolved from a 200-page typewritten booklet to a modern classic. Part of its charm and success is the fact that the author does not bother too much with the (for the novice) cumbersome rigorous theory … . This does not mean that the book is not rigorous, it is just the timing and dosage of mathematical rigour … that is palatable for undergraduates … . a highly readable account, suitable for self-study and for use in the classroom." (René L. Schilling, The Mathematical Gazette, March, 2005)&lt;/p&gt;
+&lt;p&gt;"This is the sixth edition of the classical and excellent book on stochastic differential equations. The main difference with the next to last edition is the addition of detailed solutions of selected exercises … . This is certainly an excellent idea in view to test its ability of applications of the concepts … . certainly one of the best books on the subject, it will be very helpful to any graduate students and also very valuable for any analysts of financial market." (Stéphane Métens, Physicalia, Vol. 26 (1), 2004)&lt;/p&gt;
+&lt;p&gt;"This is now the sixth edition of the excellent book on stochastic differential equations and related topics. … the presentation is successfully balanced between being easily accessible for a broad audience and being mathematically rigorous. The book is a first choice for courses at graduate level in applied stochastic differential equations. The inclusion of detailed solutions to many of the exercises in this edition also makes it very useful for self-study." (Evelyn Buckwar, Zentralblatt MATH, Vol. 1025, 2003)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Springer</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783540047582</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">3540047581</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Bernt Oksendal&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-19T03:07:33+00:00"/>
+        <meta name="calibre:title_sort" content="Stochastic Differential Equations: An Introduction With Applications"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -32,10 +32,10 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Marco Peixeiro&lt;/strong&gt; is a seasoned data science instructor who has worked as a senior data scientist for one of Canada's largest banks. He is also a published researcher, blogger and online instructor at Data Science with Marco.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">4H6HEAAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781617299889</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">161729988X</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">60071007</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">4H6HEAAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Data Science</dc:subject>
@@ -44,7 +44,7 @@
         <dc:subject>Machine Learning</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Marco Peixeiro&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-02-22T07:10:53.697846+00:00"/>
+        <meta name="calibre:timestamp" content="2023-02-22T07:10:53+00:00"/>
         <meta name="calibre:title_sort" content="Time Series Forecasting in Python"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

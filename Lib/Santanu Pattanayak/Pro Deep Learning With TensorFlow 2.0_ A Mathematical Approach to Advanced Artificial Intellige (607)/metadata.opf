@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">781fbb60-240e-44e0-aac9-f83e67f14bc7</dc:identifier>
+        <dc:title>Pro Deep Learning With TensorFlow 2.0: A Mathematical Approach to Advanced Artificial Intelligence in Python</dc:title>
+        <dc:creator opf:file-as="Pattanayak, Santanu" opf:role="aut">Santanu Pattanayak</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;This book builds upon the foundations established in its first edition, with updated chapters and the latest code implementations to bring it up to date with Tensorflow 2.0.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Pro Deep Learning with TensorFlow 2.0&lt;/em&gt; begins with the mathematical and core technical foundations of deep learning. Next, you will learn about convolutional neural networks, including new convolutional methods such as dilated convolution, depth-wise separable convolution, and their implementation. You’ll then gain an understanding of natural language processing in advanced network architectures such as transformers and various attention mechanisms relevant to natural language processing and neural networks in general. As you progress through the book, you’ll explore unsupervised learning frameworks that reflect the current state of deep learning methods, such as autoencoders and variational autoencoders. The final chapter covers the advanced topic of generative adversarial networks and their variants, such as cycle consistency GANs and graph neural network techniques such as graph attention networks and GraphSAGE.&lt;/p&gt;
+&lt;p&gt;Upon completing this book, you will understand the mathematical foundations and concepts of deep learning, and be able to use the prototypes demonstrated to build new deep learning applications.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Will Learn&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Understand full-stack deep learning using TensorFlow 2.0&lt;/li&gt;
+&lt;li&gt;Gain an understanding of the mathematical foundations of deep learning &lt;/li&gt;
+&lt;li&gt;Deploy complex deep learning solutions in production using TensorFlow 2.0&lt;/li&gt;
+&lt;li&gt;Understand generative adversarial networks, graph attention networks, and GraphSAGE&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For:&lt;/p&gt;
+&lt;p&gt;Data scientists and machine learning professionals, software developers, graduate students, and open source enthusiasts.&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;This book builds upon the foundations established in its first edition, with updated chapters and the latest code implementations to bring it up to date with Tensorflow 2.0.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Pro Deep Learning with TensorFlow 2.0&lt;/em&gt; begins with the mathematical and core technical foundations of deep learning. Next, you will learn about convolutional neural networks, including new convolutional methods such as dilated convolution, depth-wise separable convolution, and their implementation. You’ll then gain an understanding of natural language processing in advanced network architectures such as transformers and various attention mechanisms relevant to natural language processing and neural networks in general. As you progress through the book, you’ll explore unsupervised learning frameworks that reflect the current state of deep learning methods, such as autoencoders and variational autoencoders. The final chapter covers the advanced topic of generative adversarial networks and their variants, such as cycle consistency GANs and graph neural network techniques such as Node2Vec, GCN, GraphSAGE, and graph attention networks.&lt;/p&gt;
+&lt;p&gt;Upon completing this book, you will understand the mathematical foundations and concepts of deep learning, and be able to use the prototypes demonstrated to build new deep learning applications.&lt;/p&gt;
+&lt;p&gt;You will:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Understand full-stack deep learning using TensorFlow 2.0&lt;/li&gt;
+&lt;li&gt;Gain an understanding of the mathematical foundations of deep learning&lt;/li&gt;
+&lt;li&gt;Deploy complex deep learning solutions in production using TensorFlow 2.0&lt;/li&gt;
+&lt;li&gt;Understand generative adversarial networks, graph attention networks, and GraphSAGE&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Santanu Pattanayak&lt;/strong&gt; works as a Senior Staff Machine Learning Specialist at Qualcomm Corp R&amp;amp;D and is the author of &lt;em&gt;Quantum Machine Learning with Python&lt;/em&gt; , published by Apress. He has more than 16 years of experience, having worked at GE, Capgemini, and IBM before joining Qualcomm. He graduated with a degree in electrical engineering from Jadavpur University, Kolkata and is an avid math enthusiast. Santanu has a master’s degree in data science from the Indian Institute of Technology (IIT), Hyderabad. He also participates in Kaggle competitions in his spare time, where he ranks in the top 500. Currently, he resides in Bangalore with his wife.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">62939919</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484289303</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484289307</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">OWlgzwEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <dc:subject>Deep Learning</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Santanu Pattanayak&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-30T19:47:10+00:00"/>
+        <meta name="calibre:title_sort" content="Pro Deep Learning With TensorFlow 2.0: A Mathematical Approach to Advanced Artificial Intelligence in Python"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

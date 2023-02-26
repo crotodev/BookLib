@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">197</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09114227-ad53-45c2-a40f-ccda45055578</dc:identifier>
+        <dc:title>Mastering Python for Finance</dc:title>
+        <dc:creator opf:file-as="Weiming, James Ma" opf:role="aut">James Ma Weiming</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Understand, design, and implement state-of-the-art mathematical and statistical applications used in finance with Python&lt;/p&gt;
+&lt;h2&gt;About This Book&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;Explore financial models used by the industry and ways of solving them with this guide&lt;/li&gt;
+&lt;li&gt;Discover the various features that Python provides for scientific computing and harness them to enhance your financial applications&lt;/li&gt;
+&lt;li&gt;Build state-of-the-art infrastructure for critical aspects such as modeling, trading, pricing, and analytics&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;Who This Book Is For&lt;/h2&gt;
+&lt;p&gt;If you are an undergraduate or graduate student, a beginner to algorithmic development and research, or a software developer in the financial industry who is interested in using Python for quantitative methods in finance, this is the book for you. It would be helpful to have a bit of familiarity with basic Python usage, but no prior experience is required.&lt;/p&gt;
+&lt;h2&gt;What You Will Learn&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;Perform interactive computing with IPython Notebook&lt;/li&gt;
+&lt;li&gt;Solve linear equations of financial models and perform ordinary least squares regression&lt;/li&gt;
+&lt;li&gt;Explore nonlinear modeling and solutions for optimum points using root-finding algorithms and solvers&lt;/li&gt;
+&lt;li&gt;Discover different types of numerical procedures used in pricing options&lt;/li&gt;
+&lt;li&gt;Model fixed-income instruments with bonds and interest rates&lt;/li&gt;
+&lt;li&gt;Manage big data with NoSQL and perform analytics with Hadoop&lt;/li&gt;
+&lt;li&gt;Build a high-frequency algorithmic trading platform with Python&lt;/li&gt;
+&lt;li&gt;Create an event-driven backtesting tool and measure your strategies&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;In Detail&lt;/h2&gt;
+&lt;p&gt;Built initially for scientific computing, Python quickly found its place in finance. Its flexibility and robustness can be easily incorporated into applications for mathematical studies, research, and software development.&lt;/p&gt;
+&lt;p&gt;With this book, you will learn about all the tools you need to successfully perform research studies and modeling, improve your trading strategies, and effectively manage risks. You will explore the various tools and techniques used in solving complex problems commonly faced in finance.&lt;/p&gt;
+&lt;p&gt;You will learn how to price financial instruments such as stocks, options, interest rate derivatives, and futures using computational methods. Also, you will learn how you can perform data analytics on market indexes and use NoSQL to store tick data.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;James Ma Weiming is a software engineer based in Singapore. His studies and research are focused on financial technology, machine learning, data sciences, and computational finance. James started his career in financial services working with treasury fixed income and foreign exchange products, and fund distribution. His interests in derivatives led him to Chicago, where he worked with veteran traders of the Chicago Board of Trade to devise high-frequency, low-latency strategies to game the market. He holds an MS degree in finance from Illinois Tech's Stuart School of Business in the United States and a bachelor's degree in computer engineering from Nanyang Technological University.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1784394513</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">_DplrgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781784394516</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Ma Weiming&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-08T19:27:57+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering Python for Finance"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">448</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81426e33-3559-4c20-a7ad-6f6565491a88</dc:identifier>
+        <dc:title>Rails, Angular, Postgres, and Bootstrap: Powerful, Effective, Efficient, Full-Stack Web Development</dc:title>
+        <dc:creator opf:file-as="Copeland, David" opf:role="aut">David Copeland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-02T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Achieve awesome user experiences and performance with simple, maintainable code! Embrace the full stack of web development, from styling with Bootstrap, building an interactive user interface with Angular 4, to storing data quickly and reliably in PostgreSQL. With this fully revised new edition, take a holistic view of full-stack development to create usable, high-performing applications with Rails 5.1.&lt;/p&gt;
+&lt;p&gt;Rails is a great tool for building web applications, but it's not the best at everything. Embrace the features built into your database. Learn how to use front-end frameworks. Seize the power of the application stack through Angular 4, Bootstrap, and PostgreSQL. When used together, these powerful and easy-to-use tools will open you to a new world of possibilities. This second edition is updated to cover Angular - a completely reworked front-end framework - and dives into new Postgres 9.6 features such as UPSERT. Also new is Webpack coverage, to develop the front-end code for your Rails application.&lt;/p&gt;
+&lt;p&gt;Create a usable and attractive login form using Bootstrap's styles, while ensuring the database table backing it is secure using Postgres' check constraints. See how creating an advanced Postgres index for a case-insensitive search speeds up your back end - enabling you to create a dynamic user experience using Angular 4. Create reusable components that bring Bootstrap and Angular together and effectively use materialized views for caching within Postgres. Get your front end working with Webpack, use Postgres' features from migrations, and write unit tests for all of it. All of this within Rails 5.1.&lt;/p&gt;
+&lt;p&gt;You'll gain the confidence to work at every level of the application stack, bringing the right solution to every problem.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Need: &lt;/p&gt;
+&lt;p&gt;This book covers Postgres 9.5, Rails 5, and Ruby 2.3. You should have some experience with basic Rails concepts and a cursory understanding of JavaScript, CSS, and SQL, but by no means need to be an expert. You'll learn how to install Postgres on your computer or use a free version of it in the cloud.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;David Bryant Copeland is a programmer and author. He wrote &lt;em&gt;The Senior Software Engineer&lt;/em&gt; and &lt;em&gt;Build Awesome Command-Line Applications in Ruby 2&lt;/em&gt; , and has been a professional programmer since 1995. He's worked at LivingSocial and Opower, and is the director of engineering at fashion start-up Stitch Fix.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pragmatic Bookshelf</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1680502204</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781680502206</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Postgres</dc:subject>
+        <dc:subject>Postgres Database Admin</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <dc:subject>Databases</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <dc:subject>Ruby on Rails</dc:subject>
+        <dc:subject>Rails 6</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Copeland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-19T16:45:16+00:00"/>
+        <meta name="calibre:title_sort" content="Rails, Angular, Postgres, and Bootstrap: Powerful, Effective, Efficient, Full-Stack Web Development"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

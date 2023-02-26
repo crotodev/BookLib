@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">236</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">235b7fab-4249-4a0d-bcc7-95e1ab7bb636</dc:identifier>
+        <dc:title>The Little Black Book of Stock Market Secrets</dc:title>
+        <dc:creator opf:file-as="Kratter, Matthew R." opf:role="aut">Matthew R. Kratter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-02T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h2&gt;Tired of losing money?&lt;/h2&gt;
+&lt;h2&gt;Ready to learn how the stock market really works?&lt;/h2&gt;
+&lt;p&gt;The stock market is the biggest opportunity machine ever created.&lt;/p&gt;
+&lt;p&gt;But most people don't know how to harness it for profits.&lt;/p&gt;
+&lt;p&gt;It took me over a decade to figure it out, and &lt;strong&gt;now I'm ready to share everything that I've learned.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is exactly the book that I wish I'd had when I was first learning how to trade.&lt;/p&gt;
+&lt;h2&gt;Don't be the sucker that Wall Street leaves holding the bag.&lt;/h2&gt;
+&lt;h3&gt;In this book, you will learn:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;The one thing you must never do if a stock gaps to new highs&lt;/li&gt;
+&lt;li&gt;The simplest ways to make money in the stock market&lt;/li&gt;
+&lt;li&gt;How to tell when you are in a bull market, or a bear market&lt;/li&gt;
+&lt;li&gt;How to identify which stocks are "market leaders"&lt;/li&gt;
+&lt;li&gt;10 ways to develop a winning trader's mindset&lt;/li&gt;
+&lt;li&gt;The secrets to trading in a bear market&lt;/li&gt;
+&lt;li&gt;How to use the RSI and Stochastics in different market environments&lt;/li&gt;
+&lt;li&gt;How to run your trading like a business&lt;/li&gt;
+&lt;li&gt;And much, much more!&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Join the thousands of smart traders who have improved their trading by reading this book.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Amazon best-selling author&lt;/strong&gt; and retired hedge fund manager, Matthew Kratter will teach you the secrets that he has used to trade profitably for the last 20 years.&lt;/p&gt;
+&lt;p&gt;And if you ever get stuck, you can always reach out to him by email (provided inside of the book), and he will help you.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Independently published</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1520736576</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ab2bswEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781520736570</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B06XF886DH</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Matthew R. Kratter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-13T00:31:10+00:00"/>
+        <meta name="calibre:title_sort" content="Little Black Book of Stock Market Secrets, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

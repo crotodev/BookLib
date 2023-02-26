@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">570</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb26d461-62ca-4b96-97fd-301fff5458b3</dc:identifier>
+        <dc:title>The New Oxford Annotated Bible: An Ecumenical Study Bible</dc:title>
+        <dc:creator opf:file-as="Coogan, Michael David &amp; Brettler, Marc Zvi &amp; Newsom, Carol Ann" opf:role="aut">Michael David Coogan</dc:creator>
+        <dc:creator opf:file-as="Coogan, Michael David &amp; Brettler, Marc Zvi &amp; Newsom, Carol Ann" opf:role="aut">Marc Zvi Brettler</dc:creator>
+        <dc:creator opf:file-as="Coogan, Michael David &amp; Brettler, Marc Zvi &amp; Newsom, Carol Ann" opf:role="aut">Carol Ann Newsom</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The premier study Bible used by scholars, pastors, undergraduate and graduate students, The New Oxford Annotated Bible offers a vast range of information, including extensive notes by experts in their fields; in-text maps, charts, and diagrams; supplementary essays on translation, biblical interpretation, cultural and historical background, and other general topics. Extensively revised--half of the material is brand new--featuring a new design to enhance readability, and brand-new color maps, the Annotated Fourth Edition adds to the established reputation of this essential biblical studies resource. Many new and revised maps, charts, and diagrams further clarify information found in the Scripture text. In addition, section introductions have been expanded and the book introductions present their information in a standard format so that students can find what they need to know. Of course, the Fourth Edition retains the features prized by students, including single column annotations at the foot of the pages, in-text charts, and maps, a page number-keyed index of all the study materials in the volume, and Oxford's renowned Bible maps. This timely edition maintains and extends the excellence the Annotated's users have come to expect, bringing still more insights, information, and perspectives to bear upon the understanding of the biblical text. · The renowned New Revised Standard Version Bible translation, the scholarly standard for study of the Bible· Wholly revised, and greatly expanded book introductions and annotations.· Annotations in a single column across the page bottom, paragraphed according to their boldface topical headings. · In-text background essays on the major divisions of the biblical text.· Essays on the history of the formation of the biblical canon for Jews and various Christian churches.· More detailed explanations of the historical background of the text. · More in-depth treatment of the history and varieties of biblical criticism. · A timeline of major events in the ancient Near East.· A full index to all of the study materials, keyed to the page numbers on which they occur.· A full glossary of scholarly and critical terms.· 36-page section of full color New Oxford Bible Maps, approximately 40 in-text line drawing maps and diagrams. Classic but not stodgy, up-to-date but not trendy, The New Oxford Annotated Bible: 4th Edition is ready to serve new generations of students, teachers, and general readers.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">_ZwbQgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780195289503</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bibles</dc:subject>
+        <dc:subject>New Revised Standard Version</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael David Coogan&quot;: &quot;&quot;, &quot;Marc Zvi Brettler&quot;: &quot;&quot;, &quot;Carol Ann Newsom&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-25T17:27:46+00:00"/>
+        <meta name="calibre:title_sort" content="New Oxford Annotated Bible: An Ecumenical Study Bible, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

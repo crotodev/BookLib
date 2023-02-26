@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">95</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4fbddf43-9cd1-4e6a-a8fe-986c9c1cade7</dc:identifier>
+        <dc:title>Study Skills for Dummies</dc:title>
+        <dc:creator opf:file-as="Boulay, Doreen Du" opf:role="aut">Doreen Du Boulay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-08T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Students need to learn to manage their time, organise their studies, understand, learn, and convey a lot of information – and they need to learn to do it quickly. Whether you’re fresh out of school, or a mature student returning to education, you now don’t need to feel alone! With Study Skills For Dummies, you'll be given the know-how and confidence to achieve consistent results every time – and a lack of preparation will become a thing of the past. Discover how to excel at: Note-taking, speed-reading and essay-writing Improving your memory, critical thinking and analysis Using the internet to supplement study Exam skills and developing the best learning strategy to fit your specific needs and abilities&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">7Cjgn3-YsjEC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781119997733</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Higher</dc:subject>
+        <dc:subject>Levels</dc:subject>
+        <dc:subject>School</dc:subject>
+        <dc:subject>Schools</dc:subject>
+        <dc:subject>Studying</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Doreen Du Boulay&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-26T06:32:42+00:00"/>
+        <meta name="calibre:title_sort" content="Study Skills for Dummies"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

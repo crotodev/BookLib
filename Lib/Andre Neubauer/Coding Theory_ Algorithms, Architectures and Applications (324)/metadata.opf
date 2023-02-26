@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">324</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34e83f27-bac6-4831-a599-6d697fde5084</dc:identifier>
+        <dc:title>Coding Theory: Algorithms, Architectures and Applications</dc:title>
+        <dc:creator opf:file-as="Neubauer, Andre &amp; Freudenberger, Jurgen &amp; Kuhn, Volker" opf:role="aut">Andre Neubauer</dc:creator>
+        <dc:creator opf:file-as="Neubauer, Andre &amp; Freudenberger, Jurgen &amp; Kuhn, Volker" opf:role="aut">Jurgen Freudenberger</dc:creator>
+        <dc:creator opf:file-as="Neubauer, Andre &amp; Freudenberger, Jurgen &amp; Kuhn, Volker" opf:role="aut">Volker Kuhn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-12T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;One of the most important key technologies for digital communication systems as well as storage media is coding theory. It provides a means to transmit information across time and space over noisy and unreliable communication channels.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Coding Theory: Algorithms, Architectures and Applications&lt;/em&gt; provides a concise overview of channel coding theory and practice, as well as the accompanying signal processing architectures. The book is unique in presenting algorithms, architectures, and applications of coding theory in a unified framework. It covers the basics of coding theory before moving on to discuss algebraic linear block and cyclic codes, turbo codes and low density parity check codes and space-time codes. Coding Theory provides algorithms and architectures used for implementing coding and decoding strategies as well as coding schemes used in practice especially in communication systems.&lt;/p&gt;
+&lt;p&gt;Feature of the book include:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Unique presentation-like style for summarising main aspects&lt;/li&gt;
+&lt;li&gt;Practical issues for implementation of coding techniques&lt;/li&gt;
+&lt;li&gt;Sound theoretical approach to practical, relevant coding methodologies&lt;/li&gt;
+&lt;li&gt;Covers standard coding schemes such as block and convolutional codes, coding schemes such as Turbo and LDPC codes, and space time codes currently in research, all covered in a common framework with respect to their applications.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;This book is ideal for postgraduate and undergraduate students of communication and information engineering, as well as computer science students. It will also be of use to engineers working in the industry who want to know more about the theoretical basics of coding theory and their application in currently relevant communication systems&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"This text provides a unified framework for presenting coding-theory algorithms, signal-processing architectures, and accompanying applications." ( &lt;em&gt;Computing Reviews&lt;/em&gt; , June 16, 2008)&lt;/p&gt;
+&lt;p&gt;"This book should provide a concise overview of channel coding and applications." ( &lt;em&gt;Zentralblatt MATH&lt;/em&gt; , 2008) &lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;One of the most important key technologies for digital communication systems as well as storage media is coding theory. It provides a means to transmit information across time and space over noisy and unreliable communication channels.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Coding Theory: Algorithms, Architectures and Applications&lt;/em&gt; provides a concise overview of channel coding theory and practice, as well as the accompanying signal processing architectures. The book is unique in presenting algorithms, architectures, and applications of coding theory in a unified framework. It covers the basics of coding theory before moving on to discuss algebraic linear block and cyclic codes, turbo codes and low density parity check codes and space-time codes. Coding Theory provides algorithms and architectures used for implementing coding and decoding strategies as well as coding schemes used in practice especially in communication systems.&lt;/p&gt;
+&lt;p&gt;Feature of the book include:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Unique presentation-like style for summarising main aspects &lt;/li&gt;
+&lt;li&gt;Practical issues for implementation of coding techniques&lt;/li&gt;
+&lt;li&gt;Sound theoretical approach to practical, relevant coding methodologies&lt;/li&gt;
+&lt;li&gt;Covers standard coding schemes such as block and convolutional codes, coding schemes such as Turbo and LDPC codes, and space time codes currently in research, all covered in a common framework with respect to their applications.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;This book is ideal for postgraduate and undergraduate students of communication and information engineering, as well as computer science students. It will also be of use to engineers working in the industry who want to know more about the theoretical basics of coding theory and their application in currently relevant communication systems. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780470028612</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0470028610</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers &amp; Technology</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Professional &amp; Technical</dc:subject>
+        <dc:subject>Engineering</dc:subject>
+        <dc:subject>Telecommunications</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Andre Neubauer&quot;: &quot;&quot;, &quot;Jurgen Freudenberger&quot;: &quot;&quot;, &quot;Volker Kuhn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-13T17:38:47+00:00"/>
+        <meta name="calibre:title_sort" content="Coding Theory: Algorithms, Architectures and Applications"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

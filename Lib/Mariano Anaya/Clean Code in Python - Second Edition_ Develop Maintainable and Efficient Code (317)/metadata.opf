@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">317</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86710245-83c4-4e65-855f-a58e9f38fbdb</dc:identifier>
+        <dc:title>Clean Code in Python - Second Edition: Develop Maintainable and Efficient Code</dc:title>
+        <dc:creator opf:file-as="Anaya, Mariano" opf:role="aut">Mariano Anaya</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-06T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Tackle inefficiencies and errors the Pythonic wayKey Features: Enhance your coding skills using the new features introduced in Python 3.9Implement the refactoring techniques and SOLID principles in PythonApply microservices to your legacy systems by implementing practical techniquesBook Description: Experienced professionals in every field face several instances of disorganization, poor readability, and testability due to unstructured code. &lt;/p&gt;
+&lt;p&gt;With updated code and revised content aligned to the new features of Python 3.9, this second edition of Clean Code in Python will provide you with all the tools you need to overcome these obstacles and manage your projects successfully. &lt;/p&gt;
+&lt;p&gt;The book begins by describing the basic elements of writing clean code and how it plays a key role in Python programming. You will learn about writing efficient and readable code using the Python standard library and best practices for software design. &lt;/p&gt;
+&lt;p&gt;The book discusses object-oriented programming in Python and shows you how to use objects with descriptors and generators. It will also show you the design principles of software testing and how to resolve problems by implementing software design patterns in your code. In the concluding chapter, we break down a monolithic application into a microservices-based one starting from the code as the basis for a solid platform. &lt;/p&gt;
+&lt;p&gt;By the end of this clean code book, you will be proficient in applying industry-approved coding practices to design clean, sustainable, and readable real-world Python code. &lt;/p&gt;
+&lt;p&gt;What You Will Learn: Set up a productive development environment by leveraging automatic toolsLeverage the magic methods in Python to write better code, abstracting complexity away and encapsulating detailsCreate advanced object-oriented designs using unique features of Python, such as descriptorsEliminate duplicated code by creating powerful abstractions using software engineering principles of object-oriented designCreate Python-specific solutions using decorators and descriptorsRefactor code effectively with the help of unit testsBuild the foundations for solid architecture with a clean code base as its cornerstoneWho this Book is for: This book is designed to benefit new as well as experienced programmers. It will appeal to team leads, software architects and senior software engineers who would like to write Pythonic code to save on costs and improve efficiency. The book assumes that you have a strong understanding of programming&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781800560215</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ftUhzgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Productivity Software</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mariano Anaya&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-13T17:29:20+00:00"/>
+        <meta name="calibre:title_sort" content="Clean Code in Python - Second Edition: Develop Maintainable and Efficient Code"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

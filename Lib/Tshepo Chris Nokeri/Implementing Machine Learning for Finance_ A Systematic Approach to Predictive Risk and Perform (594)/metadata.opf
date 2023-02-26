@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">594</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e9e8ddf-3002-438c-8699-e9e533d1d66f</dc:identifier>
+        <dc:title>Implementing Machine Learning for Finance: A Systematic Approach to Predictive Risk and Performance Analysis for Investment Portfolios</dc:title>
+        <dc:creator opf:file-as="Nokeri, Tshepo Chris" opf:role="aut">Tshepo Chris Nokeri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-27T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Bring together machine learning (ML) and deep learning (DL) in financial trading, with an emphasis on investment management. This book explains systematic approaches to investment portfolio management, risk analysis, and performance analysis, including predictive analytics using data science procedures.&lt;br&gt;The book introduces pattern recognition and future price forecasting that exerts effects on time series analysis models, such as the Autoregressive Integrated Moving Average (ARIMA) model, Seasonal ARIMA (SARIMA) model, and Additive model, and it covers the Least Squares model and the Long Short-Term Memory (LSTM) model. It presents hidden pattern recognition and market regime prediction applying the Gaussian Hidden Markov Model. The book covers the practical application of the K-Means model in stock clustering. It establishes the practical application of the Variance-Covariance method and Simulation method (using Monte Carlo Simulation) for value at risk estimation. It also includes market direction classification using both the Logistic classifier and the Multilayer Perceptron classifier. Finally, the book presents performance and risk analysis for investment portfolios.&lt;br&gt;By the end of this book, you should be able to explain how algorithmic trading works and its practical application in the real world, and know how to apply supervised and unsupervised ML and DL models to bolster investment decision making and implement and optimize investment strategies and systems. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Will Learn&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Understand the fundamentals of the financial market and algorithmic trading, as well as supervised and unsupervised learning models that are appropriate for systematic investment portfolio management&lt;/li&gt;
+&lt;li&gt;Know the concepts of feature engineering, data visualization, and hyperparameter optimization&lt;/li&gt;
+&lt;li&gt;Design, build, and test supervised and unsupervised ML and DL models&lt;/li&gt;
+&lt;li&gt;Discover seasonality, trends, and market regimes, simulating a change in the market and investment strategy problems and predicting market direction and prices&lt;/li&gt;
+&lt;li&gt;Structure and optimize an investment portfolio with preeminent asset classes and measure the underlying risk&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Who This Book Is For&lt;/strong&gt;&lt;br&gt;Beginning and intermediate data scientists, machine learning engineers, business executives, and finance professionals (such as investment analysts and traders)&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Bring together machine learning ()ML) and deep learning (DL) in financial trading, with an emphasis on investment management. This book explains systematic approaches to investment portfolio management, risk analysis, and performance analysis, including predictive analytics using data science procedures.&lt;br&gt;The book introduces pattern recognition and future price forecasting that exerts effects on time series analysis models, such as the Autoregressive Integrated Moving Average (ARIMA) model, Seasonal ARIMA (SARIMA) model, and Additive model, and it covers the Least Squares model and the Long Short-Term Memory (LSTM) model. It presents hidden pattern recognition and market regime prediction applying the Gaussian Hidden Markov Model. The book covers the practical application of the K-Means model in stock clustering. It establishes the practical application of the Variance-Covariance method and Simulation method (using Monte Carlo Simulation) for value at risk estimation. It also includes market direction classification using both the Logistic classifier and the Multilayer Perceptron classifier. Finally, the book presents performance and risk analysis for investment portfolios.&lt;br&gt;By the end of this book, you should be able to explain how algorithmic trading works and its practical application in the real world, and know how to apply supervised and unsupervised ML and DL models to bolster investment decision making and implement and optimize investment strategies and systems.&lt;br&gt;You will:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Understand the fundamentals of the financial market and algorithmic trading, as well as supervised and unsupervised learning models that are appropriate for systematic investment portfolio management&lt;/li&gt;
+&lt;li&gt;Know the concepts of feature engineering, data visualization, and hyperparameter optimization&lt;/li&gt;
+&lt;li&gt;Design, build, and test supervised and unsupervised ML and DL models&lt;/li&gt;
+&lt;li&gt;Discover seasonality, trends, and market regimes, simulating a change in the market and investment strategy problems and predicting market direction and prices&lt;/li&gt;
+&lt;li&gt;Structure and optimize an investment portfolio with preeminent asset classes and measure the underlying risk&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Tshepo Chris Nokeri&lt;/strong&gt; harnesses big data, advanced analytics, and artificial intelligence to foster innovation and optimize business performance. In his functional work, he has delivered complex solutions to companies in the mining, petroleum, and manufacturing industries. He initially completed a bachelor’s degree in information management. He then graduated with an honors degree in business science at the University of the Witwatersrand on a TATA Prestigious Scholarship and a Wits Postgraduate Merit Award. They unanimously awarded him the Oxford University Press Prize. He has authored the Apress book &lt;em&gt;Data Science Revealed: With Feature Engineering, Data Visualization, Pipeline Development, and Hyperparameter Tuning&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">57635260</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B095Y2NHWY</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ayJezgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484271094</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Financial Engineering</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tshepo Chris Nokeri&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-30T04:05:26+00:00"/>
+        <meta name="calibre:title_sort" content="Implementing Machine Learning for Finance: A Systematic Approach to Predictive Risk and Performance Analysis for Investment Portfolios"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

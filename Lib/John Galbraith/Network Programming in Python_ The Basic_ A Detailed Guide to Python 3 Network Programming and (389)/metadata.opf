@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">389</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">104641de-f9d3-4122-8f9b-7242345b1cf2</dc:identifier>
+        <dc:title>Network Programming in Python: The Basic: A Detailed Guide to Python 3 Network Programming and Management</dc:title>
+        <dc:creator opf:file-as="Galbraith, John" opf:role="aut">John Galbraith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-03T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;For programmers who need to use Python for network-related activities and apps&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Key Features&lt;/p&gt;
+&lt;p&gt;● Comprehensive coverage of Python 3's improved SSL support.&lt;/p&gt;
+&lt;p&gt;● Create an asynchronous I/O loop on your own.&lt;/p&gt;
+&lt;p&gt;● A look at the "asyncio" framework, which is included with Python 3.4.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Description&lt;/p&gt;
+&lt;p&gt;This book includes revisions for Python 3 as well as all of the classic topics covered, such as network protocols, network data and errors, email, server architecture, and HTTP and web applications. &lt;/p&gt;
+&lt;p&gt;● Comprehensive coverage of Python 3's improved SSL support&lt;/p&gt;
+&lt;p&gt;● How to create an asynchronous I/O loop on your own.&lt;/p&gt;
+&lt;p&gt;● A look at the "asyncio" framework, which is included with Python 3.4.&lt;/p&gt;
+&lt;p&gt;● The Flask web framework's URL-to-Python code connection.&lt;/p&gt;
+&lt;p&gt;● How to safeguard your website from cross-site scripting and cross-site request forgery attacks.&lt;/p&gt;
+&lt;p&gt;● How Django, a full-stack web framework, can automate the round journey from your database to the screen and back.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What you will learn&lt;/p&gt;
+&lt;p&gt;● Asynchronous models and socket-based networks&lt;/p&gt;
+&lt;p&gt;● Monitor distant systems using Telnet and SSH connections&lt;/p&gt;
+&lt;p&gt;● Interact with websites using XML-RPC, SOAP, and REST APIs&lt;/p&gt;
+&lt;p&gt;● Configure virtual networks in various deployment scenarios&lt;/p&gt;
+&lt;p&gt;● Analyze security weaknesses in a network&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Who this book is for&lt;/p&gt;
+&lt;p&gt;This book is for Python programmers who need a thorough understanding of how to use Python for network-related activities and applications. This book covers all you need to know about web application development, systems integration, and system administration.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Table of Contents&lt;/p&gt;
+&lt;p&gt;1. Client- Server Networking: An Overview&lt;/p&gt;
+&lt;p&gt;2. UDP(User Datagram Protocol)&lt;/p&gt;
+&lt;p&gt;3. Transmission control protocol (TCP)&lt;/p&gt;
+&lt;p&gt;4. Domain name system &amp;amp; socket names&lt;/p&gt;
+&lt;p&gt;5. Data and Errors on the Internet&lt;/p&gt;
+&lt;p&gt;6. SSL/TLS&lt;/p&gt;
+&lt;p&gt;7. Architecture of the Server&lt;/p&gt;
+&lt;p&gt;8. Message Queues and Caches&lt;/p&gt;
+&lt;p&gt;9. HTTP Clients&lt;/p&gt;
+&lt;p&gt;10. Servers that handle HTTP&lt;/p&gt;
+&lt;p&gt;11. www (world wide web)&lt;/p&gt;
+&lt;p&gt;12. E-mail Construction And Parsing&lt;/p&gt;
+&lt;p&gt;13.Simple Mail Transfer Protocol(SMTP)&lt;/p&gt;
+&lt;p&gt;14. Post Office Protocol (POP)&lt;/p&gt;
+&lt;p&gt;15. Internet Message Access Protocol (IMAP)&lt;/p&gt;
+&lt;p&gt;16. SSH and Telnet&lt;/p&gt;
+&lt;p&gt;17. File Transfer Protocol (FTP)&lt;/p&gt;
+&lt;p&gt;18. Remote Procedure Call (RPC)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>BPB Publications</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789355512574</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">9355512570</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">0uBtEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Machine Learning</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Neural Networks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Galbraith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-15T21:28:22+00:00"/>
+        <meta name="calibre:title_sort" content="Network Programming in Python: The Basic: A Detailed Guide to Python 3 Network Programming and Management"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

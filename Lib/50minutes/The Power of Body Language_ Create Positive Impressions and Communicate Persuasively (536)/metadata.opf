@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">536</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22fea5b4-d395-4501-af07-2f4bb7cea069</dc:identifier>
+        <dc:title>The Power of Body Language: Create Positive Impressions and Communicate Persuasively</dc:title>
+        <dc:creator opf:file-as="50minutes" opf:role="aut">50minutes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-10T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ready to take your career to the next level? Find out everything you need to know about effective body language with this practical guide. &lt;/p&gt;
+&lt;p&gt;In our interactions with colleagues and customers, our actions often speak louder than our words: regardless of what we are saying, our movements and gestures may betray our true feelings and get in the way of the message we want to convey. Consequently, if you want to develop strong professional relationships and communicate persuasively, you must learn to understand, interpret and control your body language. &lt;/p&gt;
+&lt;p&gt;In 50 minutes you will be able to:• Identify the body language that is holding you back at work• Control your nonverbal communication to project confidence, interest and sincerity• Interpret the body language of the people you are speaking to in order to understand their intentions and motivationsABOUT 50MINUTES.COM| COACHING The Coaching series from the 50Minutes collection is aimed at all those who, at any stage in their careers, are looking to acquire personal or professional skills, adapt to new situations or simply re-evaluate their work-life balance. The concise and effective style of our guides enables you to gain an in-depth understanding of a broad range of concepts, combining theory, constructive examples and practical exercises to enhance your learning.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>50Minutes.com</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782806288790</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">67mkDgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Professional Development</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Body Language &amp; Nonverbal Communication</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Communication &amp; Social Skills</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Business Communication</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Study Aids</dc:subject>
+        <dc:subject>Professional</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Careers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;50minutes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-24T17:42:48+00:00"/>
+        <meta name="calibre:title_sort" content="Power of Body Language: Create Positive Impressions and Communicate Persuasively, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

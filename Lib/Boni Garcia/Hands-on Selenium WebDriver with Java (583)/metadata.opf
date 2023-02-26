@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">583</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">821d673b-69ba-45fc-9e9c-ca680e9a00a3</dc:identifier>
+        <dc:title>Hands-on Selenium WebDriver with Java</dc:title>
+        <dc:creator opf:file-as="García, Boni" opf:role="aut">Boni García</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-25T04:00:00+00:00</dc:date>
+        <dc:description>&lt;span&gt;&lt;div&gt;&lt;p&gt;Get started with Selenium WebDriver, the open source library for automating tests to ensure your web application performs as expected. In this practical hands-on book, author Boni Garcia takes Java developers through Selenium's main features for automating web navigation, browser manipulation, web element interaction, and more, with ready-to-be-executed test examples.&lt;/p&gt;&lt;p&gt;You'll start by learning the core features of the Selenium framework (composed by WebDriver, Grid, and IDE) and its ecosystem. Discover why Selenium is the de facto framework for developing end-to-end tests on your web application. You'll explore ways to use advanced Selenium WebDriver features, including using web browsers in Docker containers or the DevTools protocol. Selenium WebDriver examples in this book are available on GitHub.&lt;/p&gt;&lt;p&gt;With this book, you'll learn how to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Set up a Java project containing end-to-end tests that use Selenium WebDriver&lt;/li&gt;&lt;li&gt;Conduct automated interaction with web applications&lt;/li&gt;&lt;li&gt;Use strategies for managing browser-specific capabilities and cross-browser testing&lt;/li&gt;&lt;li&gt;Interact with web forms, manage pop-up messages, and execute JavaScript&lt;/li&gt;&lt;li&gt;Control remote browsers and use advanced browser infrastructure for Selenium WebDriver tests in the cloud&lt;/li&gt;&lt;li&gt;Model web pages using object-oriented classes to ease test maintenance and reduce code duplication&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781098109981</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Boni García&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-28T16:19:40+00:00"/>
+        <meta name="calibre:title_sort" content="Hands-on Selenium WebDriver with Java"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

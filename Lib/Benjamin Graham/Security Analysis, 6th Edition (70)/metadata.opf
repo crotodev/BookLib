@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">70</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e078cada-fe4e-47f1-97bf-3bab8b80aa67</dc:identifier>
+        <dc:title>Security Analysis, 6th Edition</dc:title>
+        <dc:creator opf:file-as="Graham, Benjamin &amp; Dodd, David" opf:role="aut">Benjamin Graham</dc:creator>
+        <dc:creator opf:file-as="Graham, Benjamin &amp; Dodd, David" opf:role="aut">David Dodd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-25T04:00:00+00:00</dc:date>
+        <dc:publisher>McGraw-Hill Education</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0037JO5J8</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Investing</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Financial Analysis</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Benjamin Graham&quot;: &quot;&quot;, &quot;David Dodd&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-23T00:14:18+00:00"/>
+        <meta name="calibre:title_sort" content="Security Analysis, 6th Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">553</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd3cb8cb-d2f6-4592-93df-f6ff6a62504a</dc:identifier>
+        <dc:title>Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI &amp; Computer-Vision Projects Using Python, Keras &amp; TensorFlow</dc:title>
+        <dc:creator opf:file-as="Koul, Anirudh &amp; Ganju, Siddha &amp; Kasam, Meher" opf:role="aut">Anirudh Koul</dc:creator>
+        <dc:creator opf:file-as="Koul, Anirudh &amp; Ganju, Siddha &amp; Kasam, Meher" opf:role="aut">Siddha Ganju</dc:creator>
+        <dc:creator opf:file-as="Koul, Anirudh &amp; Ganju, Siddha &amp; Kasam, Meher" opf:role="aut">Meher Kasam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-14T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Featured as a learning resource on the official Keras website &lt;/p&gt;
+&lt;p&gt;Whether you're a software engineer aspiring to enter the world of deep learning, a veteran data scientist, or a hobbyist with a simple dream of making the next viral AI app, you might have wondered where to begin. This step-by-step guide teaches you how to build practical deep learning applications for the cloud, mobile, browsers, and edge devices using a hands-on approach. If your goal is to build something creative, useful, scalable, or just plain cool, this book is for you.&lt;br&gt;Relying on decades of combined industry experience transforming deep learning research into award-winning applications, Anirudh Koul, Siddha Ganju, and Meher Kasam guide you through the process of converting an idea into something that people in the real world can use. &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Train, tune, and deploy computer vision models with Keras, TensorFlow, Core ML, and TensorFlow Lite.&lt;/li&gt;
+&lt;li&gt;Develop AI for a range of devices including Raspberry Pi, Jetson Nano, and Google Coral.&lt;/li&gt;
+&lt;li&gt;Explore fun projects, from Silicon Valley's Not Hotdog app to 40+ industry case studies.&lt;/li&gt;
+&lt;li&gt;Simulate an autonomous car in a video game environment and build a miniature version with reinforcement learning.&lt;/li&gt;
+&lt;li&gt;Use transfer learning to train models in minutes.&lt;/li&gt;
+&lt;li&gt;Discover 50+ practical tips for maximizing model accuracy and speed, debugging, and scaling to millions of users.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07Z7957PL</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07Z7957PL</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Deep Learning</dc:subject>
+        <dc:subject>Tensorflow</dc:subject>
+        <dc:subject>Keras</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anirudh Koul&quot;: &quot;&quot;, &quot;Siddha Ganju&quot;: &quot;&quot;, &quot;Meher Kasam&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-24T21:57:02+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI &amp; Computer-Vision Projects Using Python, Keras &amp; TensorFlow"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

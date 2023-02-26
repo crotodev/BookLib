@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">650</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2cddba72-4008-47ac-b4ba-13a4ddc724af</dc:identifier>
+        <dc:title>Python for Unix and Linux System Administration</dc:title>
+        <dc:creator opf:file-as="Gift, Noah &amp; Jones, Jeremy M." opf:role="aut">Noah Gift</dc:creator>
+        <dc:creator opf:file-as="Gift, Noah &amp; Jones, Jeremy M." opf:role="aut">Jeremy M. Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-22T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Python is an ideal language for solving problems, especially in Linux and Unix networks. With this pragmatic book, administrators can review various tasks that often occur in the management of these systems, and learn how Python can provide a more efficient and less painful way to handle them. &lt;/p&gt;
+&lt;p&gt;Each chapter in Python for Unix and Linux System Administration presents a particular administrative issue, such as concurrency or data backup, and presents Python solutions through hands-on examples. Once you finish this book, you'll be able to develop your own set of command-line utilities with Python to tackle a wide range of problems. Discover how this language can help you:Read text files and extract informationRun tasks concurrently using the threading and forking optionsGet information from one process to another using network facilitiesCreate clickable GUIs to handle large and complex utilitiesMonitor large clusters of machines by interacting with SNMP programmaticallyMaster the IPython Interactive Python shell to replace or augment Bash, Korn, or Z-ShellIntegrate Cloud Computing into your infrastructure, and learn to write a Google App Engine ApplicationSolve unique data backup challenges with customized scriptsInteract with MySQL, SQLite, Oracle, Postgres, Django ORM, and SQLAlchemyWith this book, you'll learn how to package and deploy your Python applications and libraries, and write code that runs equally well on multiple Unix platforms. You'll also learn about several Python-related technologies that will make your life much easier.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781449367183</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">jitqZQiiRqQC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Networking</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Intranets &amp; Extranets</dc:subject>
+        <dc:subject>Operating Systems</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>JavaScript</dc:subject>
+        <dc:subject>COMPUTERS / Networking / General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Noah Gift&quot;: &quot;&quot;, &quot;Jeremy M. Jones&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-17T22:27:26+00:00"/>
+        <meta name="calibre:title_sort" content="Python for Unix and Linux System Administration"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

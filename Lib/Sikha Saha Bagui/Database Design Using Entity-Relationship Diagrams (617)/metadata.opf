@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">617</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">756e1520-d5d8-421b-b452-6244cf45efb7</dc:identifier>
+        <dc:title>Database Design Using Entity-Relationship Diagrams</dc:title>
+        <dc:creator opf:file-as="Bagui, Sikha Saha &amp; Earp, Richard Walsh" opf:role="aut">Sikha Saha Bagui</dc:creator>
+        <dc:creator opf:file-as="Bagui, Sikha Saha &amp; Earp, Richard Walsh" opf:role="aut">Richard Walsh Earp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-01T04:00:00+00:00</dc:date>
+        <dc:description>Essential to database design, entity-relationship (ER) diagrams are known for their usefulness in data modeling and mapping out clear database designs. They are also well-known for being difficult to master. With Database Design Using Entity-Relationship Diagrams, Third Edition, database designers, developers, and students preparing to enter the field can quickly learn the ins and outs of data modeling through ER diagramming. Building on the success of the bestselling first and second editions, this accessible text includes a new chapter on the relational model and functional dependencies. It also includes expanded chapters on Enhanced Entity-Relationship (EER) diagrams and reverse mapping. It uses cutting-edge case studies and examples to help readers master database development basics and defines ER and EER diagramming in terms of requirements (end user requests) and specifications (designer feedback to those requests), facilitating agile database development. This book Describes a step-by-step approach for producing an ER diagram and developing a relational database from it Contains exercises, examples, case studies, bibliographies, and summaries in each chapter Details the rules for mapping ER diagrams to relational databases Explains how to reverse engineer a relational database back to an entity-relationship model Includes grammar for the ER diagrams that can be presented back to the user, facilitating agile database development The updated exercises and chapter summaries provide the real-world understanding needed to develop ER and EER diagrams, map them to relational databases, and test the resulting relational database. Complete with a wealth of additional exercises and examples throughout, this edition should be a basic component of any database course. Its comprehensive nature and easy-to-navigate structure make it a resource that students and professionals will turn to throughout their careers.</dc:description>
+        <dc:publisher>CRC Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">5qJ5EAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">73337026</dc:identifier>
+        <dc:identifier opf:scheme="DOI">9781003314455</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781000642704</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Software Engineering</dc:subject>
+        <dc:subject>Relational Databases</dc:subject>
+        <dc:subject>ER Diagrams</dc:subject>
+        <dc:subject>Normal Forms</dc:subject>
+        <dc:subject>Data Modeling</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Database Design</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sikha Saha Bagui&quot;: &quot;&quot;, &quot;Richard Walsh Earp&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-05T22:02:59+00:00"/>
+        <meta name="calibre:title_sort" content="Database Design Using Entity-Relationship Diagrams"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

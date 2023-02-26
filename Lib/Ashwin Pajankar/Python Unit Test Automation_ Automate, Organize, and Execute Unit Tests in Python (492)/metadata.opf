@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">492</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4fd8256f-0c51-43e7-9be8-07b3442f4e22</dc:identifier>
+        <dc:title>Python Unit Test Automation: Automate, Organize, and Execute Unit Tests in Python</dc:title>
+        <dc:creator opf:file-as="Pajankar, Ashwin" opf:role="aut">Ashwin Pajankar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-03T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Learn how to automate unit tests of Python 3 with automation libraries, such as doctest, unittest, nose, nose2, pytest, and selenium. This book explores important concepts in software test automation and demonstrates how to automate, organize, and execute unit tests with Python. It also introduces readers to the concepts of web browser automation and logging. &lt;/p&gt;
+&lt;p&gt;This new edition starts with an introduction to Python 3. Next, it covers doctest and pydoc. This is followed by a discussion on unittest, a framework that comes packaged with Python 3 itself. There is a dedicated section on creating test suites, followed by an explanation of how nose2 provides automatic test module discovery. Moving forward, you will learn about pytest, the most popular third-party library and testrunner for Python. You will see how to write and execute tests with pytest. You’ll also learn to discover tests automatically with pytest. &lt;/p&gt;
+&lt;p&gt;This edition features two brand new chapters, the first of which focuses on the basics of web browser automation with Selenium. You’ll learn how to use Selenium with unittest to write test cases for browser automation and use the Selenium IDE with web browsers such as Chrome and Firefox. You’ll then explore logging frameworks such as Python’s built-in logger and the third-party framework loguru. &lt;/p&gt;
+&lt;p&gt;The book concludes with an exploration of test-driven development with pytest, during which you will execute a small project using TDD methodology. &lt;/p&gt;
+&lt;p&gt;What You Will LearnStart testing with doctest and unittestUnderstand the idea of unit testingGet started with nose 2 and pytestLearn how to use logger and loguruWork with Selenium and test driven development Who This Book Is ForPython developers, software testers, open source enthusiasts, and contributors to the Python community.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">0lutzgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09N167KT3</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">77811156</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484278536</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ashwin Pajankar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-21T16:12:37+00:00"/>
+        <meta name="calibre:title_sort" content="Python Unit Test Automation: Automate, Organize, and Execute Unit Tests in Python"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

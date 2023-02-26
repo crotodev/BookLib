@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">613</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">685fcf44-60ac-462e-b52d-88c401985a49</dc:identifier>
+        <dc:title>Introduction to Transformers for NLP: With the Hugging Face Library and Models to Solve Problems</dc:title>
+        <dc:creator opf:file-as="Jain, Shashank Mohan" opf:role="aut">Shashank Mohan Jain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-21T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Get a hands-on introduction to Transformer architecture using the Hugging Face library. This book explains how Transformers are changing the AI domain, particularly in the area of natural language processing.&lt;/p&gt;
+&lt;p&gt;This book covers Transformer architecture and its relevance in natural language processing (NLP). It starts with an introduction to NLP and a progression of language models from n-grams to a Transformer-based architecture. Next, it offers some basic Transformers examples using the Google colab engine. Then, it introduces the Hugging Face ecosystem and the different libraries and models provided by it. Moving forward, it explains language models such as Google BERT with some examples before providing a deep dive into Hugging Face API using different language models to address tasks such as sentence classification, sentiment analysis, summarization, and text generation.&lt;/p&gt;
+&lt;p&gt;After completing &lt;em&gt;Introduction to Transformers for NLP&lt;/em&gt; , you will understand Transformer concepts and be able to solve problems using the Hugging Face library.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Will Learn&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Understand language models and their importance in NLP and NLU (Natural Language Understanding)&lt;/li&gt;
+&lt;li&gt;Master Transformer architecture through practical examples&lt;/li&gt;
+&lt;li&gt;Use the Hugging Face library in Transformer-based language models&lt;/li&gt;
+&lt;li&gt;Create a simple code generator in Python based on Transformer architecture&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Who This Book Is For&lt;/strong&gt; Data Scientists and software developers interested in developing their skills in NLP and NLU (Natural Language Understanding) &lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Get a hands-on introduction to Transformer architecture using the Hugging Face library. This book explains how Transformers are changing the AI domain, particularly in the area of natural language processing.&lt;/p&gt;
+&lt;p&gt;This book covers Transformer architecture and its relevance in natural language processing (NLP). It starts with an introduction to NLP and a progression of language models from n-grams to a Transformer-based architecture. Next, it offers some basic Transformers examples using the Google colab engine. Then, it introduces the Hugging Face ecosystem and the different libraries and models provided by it. Moving forward, it explains language models such as Google BERT with some examples before providing a deep dive into Hugging Face API using different language models to address tasks such as sentence classification, sentiment analysis, summarization, and text generation.&lt;/p&gt;
+&lt;p&gt;After completing &lt;em&gt;Introduction to Transformers for NLP&lt;/em&gt; , you will understand Transformer concepts and be able to solve problems using the Hugging Face library.&lt;/p&gt;
+&lt;p&gt;You will:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Understand language models and their importance in NLP and NLU (Natural Language Understanding)&lt;/li&gt;
+&lt;li&gt;Master Transformer architecture through practical examples&lt;/li&gt;
+&lt;li&gt;Use the Hugging Face library in Transformer-based language models&lt;/li&gt;
+&lt;li&gt;Create a simple code generator in Python based on Transformer architecture&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Shashank Mohan Jain has been working in the IT industry for around 20 years mainly in the areas of cloud computing, machine learning and distributed systems. He has keen interests in virtualization techniques, security, and complex systems. Shashank has software patents to his name in the area of cloud computing, IoT, and machine learning. He is a speaker at multiple reputed cloud conferences. Shashank holds Sun, Microsoft, and Linux kernel certifications.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">8zBVzwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">66143249</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484288436</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484288432</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Information Theory</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shashank Mohan Jain&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-31T07:32:58+00:00"/>
+        <meta name="calibre:title_sort" content="Introduction to Transformers for NLP: With the Hugging Face Library and Models to Solve Problems"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

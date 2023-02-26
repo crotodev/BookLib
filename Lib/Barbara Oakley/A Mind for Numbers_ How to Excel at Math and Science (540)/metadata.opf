@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">540</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c1aa7bb-ce85-4be9-bb48-a2f785c460d3</dc:identifier>
+        <dc:title>A Mind for Numbers: How to Excel at Math and Science</dc:title>
+        <dc:creator opf:file-as="Oakley, Barbara" opf:role="aut">Barbara Oakley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-01T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;The companion book to COURSERA®'s wildly popular massive open online course "Learning How to Learn" &lt;/p&gt;
+&lt;p&gt;Whether you are a student struggling to fulfill a math or science requirement, or you are embarking on a career change that requires a new skill set, &lt;em&gt;A Mind for Numbers&lt;/em&gt; offers the tools you need to get a better grasp of that intimidating material. Engineering professor Barbara Oakley knows firsthand how it feels to struggle with math. She flunked her way through high school math and science courses, before enlisting in the army immediately after graduation. When she saw how her lack of mathematical and technical savvy severely limited her options—both to rise in the military and to explore other careers—she returned to school with a newfound determination to re-tool her brain to master the very subjects that had given her so much trouble throughout her entire life. &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;A Mind for Numbers&lt;/em&gt; , Dr. Oakley lets us in on the secrets to learning effectively—secrets that even dedicated and successful students wish they’d known earlier. Contrary to popular belief, math requires creative, as well as analytical, thinking. Most people think that there’s only one way to do a problem, when in actuality, there are often a number of different solutions—you just need the creativity to see them. For example, there are more than three hundred different known proofs of the Pythagorean Theorem. In short, studying a problem in a laser-focused way until you reach a solution is not an effective way to learn. Rather, it involves taking the time to step away from a problem and allow the more relaxed and creative part of the brain to take over. The learning strategies in this book apply not only to math and science, but to any subject in which we struggle. We all have what it takes to excel in areas that don't seem to come naturally to us at first, and learning them does not have to be as painful as we might think.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>TarcherPerigee</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780399165245</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00G3L19ZU</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">18693655</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Self Help</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Business</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Barbara Oakley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-24T18:09:14+00:00"/>
+        <meta name="calibre:title_sort" content="Mind for Numbers: How to Excel at Math and Science, A"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

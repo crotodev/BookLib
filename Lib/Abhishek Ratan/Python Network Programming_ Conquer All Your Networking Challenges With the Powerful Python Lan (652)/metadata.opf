@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">652</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34040cac-0831-497b-a333-8063f130c152</dc:identifier>
+        <dc:title>Python Network Programming: Conquer All Your Networking Challenges With the Powerful Python Language</dc:title>
+        <dc:creator opf:file-as="Ratan, Abhishek &amp; Chou, Eric &amp; Kathiravelu, Pradeeban &amp; Sarker, M. O. Faruque" opf:role="aut">Abhishek Ratan</dc:creator>
+        <dc:creator opf:file-as="Ratan, Abhishek &amp; Chou, Eric &amp; Kathiravelu, Pradeeban &amp; Sarker, M. O. Faruque" opf:role="aut">Eric Chou</dc:creator>
+        <dc:creator opf:file-as="Ratan, Abhishek &amp; Chou, Eric &amp; Kathiravelu, Pradeeban &amp; Sarker, M. O. Faruque" opf:role="aut">Pradeeban Kathiravelu</dc:creator>
+        <dc:creator opf:file-as="Ratan, Abhishek &amp; Chou, Eric &amp; Kathiravelu, Pradeeban &amp; Sarker, M. O. Faruque" opf:role="aut">Dr. M. O. Faruque Sarker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-31T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Power up your network applications with Python programmingKey FeaturesMaster Python skills to develop powerful network applicationsGrasp the fundamentals and functionalities of SDNDesign multi-threaded, event-driven architectures for echo and chat serversBook DescriptionThis Learning Path highlights major aspects of Python network programming such as writing simple networking clients, creating and deploying SDN and NFV systems, and extending your network with Mininet. You’ll also learn how to automate legacy and the latest network devices. As you progress through the chapters, you’ll use Python for DevOps and open source tools to test, secure, and analyze your network. Toward the end, you'll develop client-side applications, such as web API clients, email clients, SSH, and FTP, using socket programming. &lt;/p&gt;
+&lt;p&gt;By the end of this Learning Path, you will have learned how to analyze a network's security vulnerabilities using advanced network packet capture and analysis techniques. This Learning Path includes content from the following Packt products:Practical Network Automation by Abhishek Ratan Mastering Python Networking by Eric ChouPython Network Programming Cookbook, Second Edition by Pradeeban Kathiravelu, Dr. M. O. Faruque SarkerWhat you will learnCreate socket-based networks with asynchronous modelsDevelop client apps for web APIs, including S3 Amazon and TwitterTalk to email and remote network servers with different protocolsIntegrate Python with Cisco, Juniper, and Arista eAPI for automationUse Telnet and SSH connections for remote system monitoringInteract with websites via XML-RPC, SOAP, and REST APIsBuild networks with Ryu, OpenDaylight, Floodlight, ONOS, and POXConfigure virtual networks in different deployment environmentsWho this book is forIf you are a Python developer or a system administrator who wants to start network programming, this Learning Path gets you a step closer to your goal. IT professionals and DevOps engineers who are new to managing network devices or those with minimal experience looking to expand their knowledge and skills in Python will also find this Learning Path useful. Although prior knowledge of networking is not required, some experience in Python programming will be helpful for a better understanding of the concepts in the Learning Path.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781788830232</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">yYKGDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Networking</dc:subject>
+        <dc:subject>Security</dc:subject>
+        <dc:subject>Network Security</dc:subject>
+        <dc:subject>COM051360 - COMPUTERS / Programming Languages / Python</dc:subject>
+        <dc:subject>COM043050 - COMPUTERS / Security / Networking</dc:subject>
+        <dc:subject>COM043000 - COMPUTERS / Networking / General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Abhishek Ratan&quot;: &quot;&quot;, &quot;Eric Chou&quot;: &quot;&quot;, &quot;Pradeeban Kathiravelu&quot;: &quot;&quot;, &quot;Dr. M. O. Faruque Sarker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-17T22:29:29+00:00"/>
+        <meta name="calibre:title_sort" content="Python Network Programming: Conquer All Your Networking Challenges With the Powerful Python Language"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

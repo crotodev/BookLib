@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">370</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c1ddded-1ce2-40d3-8beb-f414af8e3492</dc:identifier>
+        <dc:title>Nutrition for Sport, Exercise and Performance: A Practical Guide for Students, Sports Enthusiasts and Professionals</dc:title>
+        <dc:creator opf:file-as="Belski, Regina &amp; Forsyth, Adrienne &amp; Mantzioris, Evangeline" opf:role="aut">Regina Belski</dc:creator>
+        <dc:creator opf:file-as="Belski, Regina &amp; Forsyth, Adrienne &amp; Mantzioris, Evangeline" opf:role="aut">Adrienne Forsyth</dc:creator>
+        <dc:creator opf:file-as="Belski, Regina &amp; Forsyth, Adrienne &amp; Mantzioris, Evangeline" opf:role="aut">Evangeline Mantzioris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-31T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Nutrition before, during and after training or a sporting event can improve the comfort, energy and performance of athletes of all levels, from elite to recreational, as well as providing long-term health benefits. Nutrition for Sport, Exercise and Performance offers a clear, practical and accessible guide to the fundamentals of sport and exercise nutrition. The expert authors begin by explaining key principles, including understanding energy systems, exercise physiology and metabolism. They cover the basics of digestion, absorption and nutrition; examine the key macronutrients and micronutrients essential for performance; and discuss the process of dietary assessment. Part 2 goes on to explore in detail nutrition for pre- and post-training, hydration, the use of supplements and body composition, and provides guidance on developing plans for both individual athletes and teams. The final component examines specific nutrition issues and special needs, including working with elite athletes, strength-and-power athletes, young, older and disabled athletes, endurance sports, GI disturbances and rehabilitation issues. Cultural issues are also explored, including diets for vegan and vegetarian athletes, and religious perspectives and requirements. Featuring contributions from a range of sport and exercise nutrition professionals and including practical diet plans, diagrams and the latest research and evidence throughout, this is a core reference for undergraduates, nutritionists and trainers.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Taylor &amp; Francis Group</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">g_UxzgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780367718824</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nutrition</dc:subject>
+        <dc:subject>Fitness</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Regina Belski&quot;: &quot;&quot;, &quot;Adrienne Forsyth&quot;: &quot;&quot;, &quot;Evangeline Mantzioris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-14T09:15:38+00:00"/>
+        <meta name="calibre:title_sort" content="Nutrition for Sport, Exercise and Performance: A Practical Guide for Students, Sports Enthusiasts and Professionals"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

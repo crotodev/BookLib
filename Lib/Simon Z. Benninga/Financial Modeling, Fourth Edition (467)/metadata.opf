@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">467</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f261d38a-febc-4190-8bd0-07de4c1ae4ed</dc:identifier>
+        <dc:title>Financial Modeling, Fourth Edition</dc:title>
+        <dc:creator opf:file-as="Benninga, Simon Z." opf:role="aut">Simon Z. Benninga</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-09-18T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A substantially revised edition of a bestselling text combining explanation and implementation using Excel; for classroom use or as a reference for finance practitioners. Financial Modeling is now the standard text for explaining the implementation of financial models in Excel. This long-awaited fourth edition maintains the “cookbook” features and Excel dependence that have made the previous editions so popular. As in previous editions, basic and advanced models in the areas of corporate finance, portfolio management, options, and bonds are explained with detailed Excel spreadsheets. Sections on technical aspects of Excel and on the use of Visual Basic for Applications (VBA) round out the book to make Financial Modeling a complete guide for the financial modeler. &lt;/p&gt;
+&lt;p&gt;The new edition of Financial Modeling includes a number of innovations. A new section explains the principles of Monte Carlo methods and their application to portfolio management and exotic option valuation. A new chapter discusses term structure modeling, with special emphasis on the Nelson-Siegel model. The discussion of corporate valuation using pro forma models has been rounded out with the introduction of a new, simple model for corporate valuation based on accounting data and a minimal number of valuation parameters. &lt;/p&gt;
+&lt;p&gt;New print copies of this book include a card affixed to the inside back cover with a unique access code. Access codes are required to download Excel worksheets and solutions to end-of-chapter exercises. If you have a used copy of this book, you may purchase a digitally-delivered access code separately via the Supplemental Material link on this page. If you purchased an e-book, you may obtain a unique access code by emailing digitalproducts-cs@mit.edu or calling 617-253-2889 or 800-207-8354 (toll-free in the U.S. and Canada). &lt;/p&gt;
+&lt;p&gt;Praise for earlier editions“Financial Modeling belongs on the desk of every finance professional. Its no-nonsense, hands-on approach makes it an indispensable tool.”—Hal R. Varian, Dean, School of Information Management and Systems, University of California, Berkeley“Financial Modeling is highly recommended to readers who are interested in an introduction to basic, traditional approaches to financial modeling and analysis, as well as to those who want to learn more about applying spreadsheet software to financial analysis. &lt;/p&gt;
+&lt;p&gt;"—Edward Weiss, Journal of Computational Intelligence in Finance“Benninga has a clear writing style and uses numerous illustrations, which make this book one of the best texts on using Excel for finance that I've seen.”—Ed McCarthy, Ticker Magazine&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>MIT Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">qRxWAwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0262027283</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">18699244</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780262027281</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Simon Z. Benninga&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-21T09:40:44+00:00"/>
+        <meta name="calibre:title_sort" content="Financial Modeling, Fourth Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

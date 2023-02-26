@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">444</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6abdb28b-2970-4b9c-b700-6ba0d8273b73</dc:identifier>
+        <dc:title>Entries &amp; Exits: Visits to 16 Trading Rooms</dc:title>
+        <dc:creator opf:file-as="Elder, Alexander" opf:role="aut">Alexander Elder</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-28T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Come behind closed doors and see real trades made by realtraders.&lt;/p&gt;
+&lt;p&gt;Dr. Alexander Elder leads you into 16 trading rooms where youmeet traders who open up their diaries and show you their trades.Some of them manage money, others trade for themselves; some tradefor a living, others are on the semi-professional level. All aretotally serious and honest in sharing their trades with those whowould like to learn. You will meet American and internationaltraders who trade stocks, futures, and options using a variety ofmethods. All are normally very private, but now, thanks to theirrelationships with Dr. Elder, you can see exactly how these tradersdecide to enter and exit trades. Each chapter illustrates an entryand an exit for two trades, with comments by Dr. Elder. With thisbook as your guide, you can get closer to mastering the key themesof trading—psychology, tactics, risk control, record keeping,and the decision-making process.&lt;/p&gt;
+&lt;p&gt;The companion Study Guide is filled with striking insights andpractical advice allowing you to test your knowledge and reinforcethe principles outlined in &lt;strong&gt;Entries &amp;amp; Exits.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780471678052</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0471678058</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Investing</dc:subject>
+        <dc:subject>Investing Strategies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexander Elder&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-19T05:26:30+00:00"/>
+        <meta name="calibre:title_sort" content="Entries &amp; Exits: Visits to 16 Trading Rooms"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

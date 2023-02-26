@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">546</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">135f5a16-6400-4e6d-9441-6079d7300484</dc:identifier>
+        <dc:title>Python Natural Language Processing Cookbook Over 50 recipes to understand analyze and generate text for implementing</dc:title>
+        <dc:creator opf:file-as="Antić, Zhenya" opf:role="aut">Zhenya Antić</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-19T04:56:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold; font-family: 'Helvetica Neue'"&gt;Get to grips with solving real-world NLP problems, such as dependency parsing, information extraction, topic modeling, and text data visualization&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt; &lt;/p&gt;
+&lt;p style="font-weight: bold; font-family: 'Helvetica Neue'"&gt;Key Features&lt;/p&gt;
+&lt;ul style="font-family: 'Helvetica Neue'"&gt;&lt;li&gt;Analyze varying complexities of text using popular Python packages such as NLTK, spaCy, sklearn, and gensim&lt;/li&gt;
+&lt;li&gt;Implement common and not-so-common linguistic processing tasks using Python libraries&lt;/li&gt;
+&lt;li&gt;Overcome the common challenges faced while implementing NLP pipelines&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt; &lt;/p&gt;
+&lt;p style="font-weight: bold; font-family: 'Helvetica Neue'"&gt;Book Description&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;Python is the most widely used language for natural language processing (NLP) thanks to its extensive tools and libraries for analyzing text and extracting computer-usable data. This book will take you through a range of techniques for text processing, from basics such as parsing the parts of speech to complex topics such as topic modeling, text classification, and visualization.&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt; &lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;Starting with an overview of NLP, the book presents recipes for dividing text into sentences, stemming and lemmatization, removing stopwords, and parts of speech tagging to help you to prepare your data. You'll then learn ways of extracting and representing grammatical information, such as dependency parsing and anaphora resolution, discover different ways of representing the semantics using bag-of-words, TF-IDF, word embeddings, and BERT, and develop skills for text classification using keywords, SVMs, LSTMs, and other techniques. As you advance, you'll also see how to extract information from text, implement unsupervised and supervised techniques for topic modeling, and perform topic modeling of short texts, such as tweets. Additionally, the book shows you how to develop chatbots using NLTK and Rasa and visualize text data.&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;By the end of this NLP book, you'll have developed the skills to use a powerful set of tools for text processing.&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="font-weight: bold; font-family: 'Helvetica Neue'"&gt;What you will learn&lt;/p&gt;
+&lt;ul style="font-family: 'Helvetica Neue'"&gt;&lt;li&gt;Become well-versed with basic and advanced NLP techniques in Python&lt;/li&gt;
+&lt;li&gt;Represent grammatical information in text using spaCy, and semantic information using bag-of-words, TF-IDF, and word embeddings&lt;/li&gt;
+&lt;li&gt;Perform text classification using different methods, including SVMs and LSTMs&lt;/li&gt;
+&lt;li&gt;Explore different techniques for topic modeling such as K-means, LDA, NMF, and BERT&lt;/li&gt;
+&lt;li&gt;Work with visualization techniques such as NER and word clouds for different NLP tools&lt;/li&gt;
+&lt;li&gt;Build a basic chatbot using NLTK and Rasa&lt;/li&gt;
+&lt;li&gt;Extract information from text using regular expression techniques and statistical and deep learning tools&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold; font-family: 'Helvetica Neue'"&gt;Who this book is for&lt;/p&gt;
+&lt;p style="font-family: 'Helvetica Neue'"&gt;This book is for data scientists and professionals who want to learn how to work with text. Intermediate knowledge of Python will help you to make the most out of this book. If you are an NLP practitioner, this book will serve as a code reference when working on your projects.&lt;/p&gt;
+&lt;p style="font-weight: bold; font-family: 'Helvetica Neue'"&gt;Table of Contents&lt;/p&gt;
+&lt;ol style="font-family: 'Helvetica Neue'"&gt;&lt;li&gt;Learning NLP Basics&lt;/li&gt;
+&lt;li&gt;Playing with Grammar&lt;/li&gt;
+&lt;li&gt;Representing text - capturing semantics&lt;/li&gt;
+&lt;li&gt;Classifying Texts&lt;/li&gt;
+&lt;li&gt;Getting started with information extraction&lt;/li&gt;
+&lt;li&gt;Topic modeling&lt;/li&gt;
+&lt;li&gt;Building Chatbots&lt;/li&gt;
+&lt;li&gt;Visualizing text data &lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">9781838987312</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Zhenya Antić&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-24T21:44:05+00:00"/>
+        <meta name="calibre:title_sort" content="Python Natural Language Processing Cookbook Over 50 recipes to understand analyze and generate text for implementing"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

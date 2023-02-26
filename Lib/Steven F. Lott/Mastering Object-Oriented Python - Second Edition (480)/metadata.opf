@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">480</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5bcb0883-f5c5-425d-962f-a691ff471321</dc:identifier>
+        <dc:title>Mastering Object-Oriented Python - Second Edition</dc:title>
+        <dc:creator opf:file-as="Lott, Steven F." opf:role="aut">Steven F. Lott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-14T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Gain comprehensive insights into programming practices, and code portability and reuse to build flexible and maintainable apps using object-oriented principles&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Extend core OOP techniques to increase integration of classes created with Python &lt;/li&gt;
+&lt;li&gt;Explore various Python libraries for handling persistence and object serialization &lt;/li&gt;
+&lt;li&gt;Learn alternative approaches for solving programming problems, with different attributes to address your problem domain &lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Object-oriented programming (OOP) is a relatively complex discipline to master, and it can be difficult to see how general principles apply to each language's unique features. With the help of the latest edition of Mastering Objected-Oriented Python, you'll be shown how to effectively implement OOP in Python, and even explore Python 3.x. &lt;/p&gt;
+&lt;p&gt;Complete with practical examples, the book guides you through the advanced concepts of OOP in Python, and demonstrates how you can apply them to solve complex problems in OOP. You will learn how to create high-quality Python programs by exploring design alternatives and determining which design offers the best performance. Next, you'll work through special methods for handling simple object conversions and also learn about hashing and comparison of objects. As you cover later chapters, you'll discover how essential it is to locate the best algorithms and optimal data structures for developing robust solutions to programming problems with minimal computer processing. Finally, the book will assist you in leveraging various Python features by implementing object-oriented designs in your programs. &lt;/p&gt;
+&lt;p&gt;By the end of this book, you will have learned a number of alternate approaches with different attributes to confidently solve programming problems in Python.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Explore a variety of different design patterns for the &lt;strong&gt;init&lt;/strong&gt;() method &lt;/li&gt;
+&lt;li&gt;Learn to use Flask to build a RESTful web service &lt;/li&gt;
+&lt;li&gt;Discover SOLID design patterns and principles &lt;/li&gt;
+&lt;li&gt;Use the features of Python 3's abstract base &lt;/li&gt;
+&lt;li&gt;Create classes for your own applications &lt;/li&gt;
+&lt;li&gt;Design testable code using pytest and fixtures &lt;/li&gt;
+&lt;li&gt;Understand how to design context managers that leverage the 'with' statement &lt;/li&gt;
+&lt;li&gt;Create a new type of collection using standard library and design techniques &lt;/li&gt;
+&lt;li&gt;Develop new number types above and beyond the built-in classes of numbers&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is for developers who want to use Python to create efficient programs. A good understanding of Python programming is required to make the most out of this book. Knowledge of concepts related to object-oriented design patterns will also be useful.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Preliminaries, Tools, and Techniques&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;init&lt;/strong&gt;() Method&lt;/li&gt;
+&lt;li&gt;Integrating Seamlessly - Basic Special Methods&lt;/li&gt;
+&lt;li&gt;Attribute Access, Properties, and Descriptors&lt;/li&gt;
+&lt;li&gt;The ABCs of Consistent Design&lt;/li&gt;
+&lt;li&gt;Using Callables and Contexts&lt;/li&gt;
+&lt;li&gt;Creating Containers and Collections&lt;/li&gt;
+&lt;li&gt;Creating Numbers&lt;/li&gt;
+&lt;li&gt;Decorators and Mixins - Cross-cutting Aspects&lt;/li&gt;
+&lt;li&gt;Serializing and Saving - JSON, YAML, Pickle, CSV, and XML&lt;/li&gt;
+&lt;li&gt;Storing and Retrieving Objects via Shelve&lt;/li&gt;
+&lt;li&gt;Storing and Retrieving Objects via SQLite&lt;/li&gt;
+&lt;li&gt;Transmitting and Sharing Objects&lt;/li&gt;
+&lt;li&gt;Configuration Files and Persistence&lt;/li&gt;
+&lt;li&gt;Design Principles and Patterns&lt;/li&gt;
+&lt;li&gt;The Logging and Warning Modules&lt;/li&gt;
+&lt;li&gt;Designing for Testability&lt;/li&gt;
+&lt;li&gt;Coping With the Command Line&lt;/li&gt;
+&lt;li&gt;Module and Package Design&lt;/li&gt;
+&lt;li&gt;Quality and Documentation&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781789531367</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">GF6exgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1789531365</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>COM051360 - COMPUTERS / Programming Languages / Python</dc:subject>
+        <dc:subject>COM051210 - COMPUTERS / Programming / Object Oriented</dc:subject>
+        <dc:subject>COM059000 - COMPUTERS / Computer Engineering</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Steven F. Lott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-21T10:24:15+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering Object-Oriented Python - Second Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

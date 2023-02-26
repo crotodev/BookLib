@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">183</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b29a7959-07d8-4818-8f2d-60aa21893516</dc:identifier>
+        <dc:title>Mindset: The New Psychology of Success</dc:title>
+        <dc:creator opf:file-as="Dweck, Carol S." opf:role="aut">Carol S. Dweck</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-27T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;Now updated with new research&amp;#8212;the book that has changed millions of lives&lt;/b&gt;&lt;br&gt; After decades of research, world-renowned Stanford University psychologist Carol S. Dweck, Ph.D., discovered a simple but groundbreaking idea: the power of mindset. In this brilliant book, she shows how success in school, work, sports, the arts, and almost every area of human endeavor can be dramatically influenced by how we think about our talents and abilities. People with a &lt;i&gt;fixed mindset&lt;/i&gt;&amp;#8212;those who believe that abilities are fixed&amp;#8212;are less likely to flourish than those with a &lt;i&gt;growth mindset&lt;/i&gt;&amp;#8212;those who believe that abilities can be developed. &lt;i&gt;Mindset&lt;/i&gt; reveals how great parents, teachers, managers, and athletes can put this idea to use to foster outstanding accomplishment.&lt;br&gt; &lt;br&gt; In this edition, Dweck offers new insights into her now famous and broadly embraced concept. She introduces a phenomenon she calls false growth mindset and guides people toward...</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Carol S. Dweck&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-08T04:54:33+00:00"/>
+        <meta name="calibre:title_sort" content="Mindset: The New Psychology of Success"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

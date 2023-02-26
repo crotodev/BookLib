@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">475</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a00e153-896c-4799-803d-3e67a0cbee5d</dc:identifier>
+        <dc:title>Think Like a Programmer: An Introduction to Creative Problem Solving</dc:title>
+        <dc:creator opf:file-as="Spraul, V. Anton" opf:role="aut">V. Anton Spraul</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;The real challenge of programming isn't learning a language's syntax—it's learning to creatively solve problems so you can build something great. In this one-of-a-kind text, author V. Anton Spraul breaks down the ways that programmers solve problems and teaches you what other introductory books often ignore: how to &lt;em&gt;Think Like a Programmer&lt;/em&gt;. Each chapter tackles a single programming concept, like classes, pointers, and recursion, and open-ended exercises throughout challenge you to apply your knowledge. &lt;/p&gt;
+&lt;p&gt;You'll also learn how to:&lt;br&gt;–Split problems into discrete components to make them easier to solve&lt;br&gt;–Make the most of code reuse with functions, classes, and libraries&lt;br&gt;–Pick the perfect data structure for a particular job&lt;br&gt;–Master more advanced programming tools like recursion and dynamic memory&lt;br&gt;–Organize your thoughts and develop strategies to tackle particular types of problems &lt;/p&gt;
+&lt;p&gt;Although the book's examples are written in C++, the creative problem-solving concepts they illustrate go beyond any particular language; in fact, they often reach outside the realm of computer science. As the most skillful programmers know, writing great code is a creative art—and the first step in creating your masterpiece is learning to &lt;em&gt;Think Like a Programmer&lt;/em&gt;.&lt;/p&gt;
+&lt;h3&gt;Amazon.com Review&lt;/h3&gt;
+&lt;h3&gt;A Message From Author V. Anton Spraul&lt;/h3&gt;
+&lt;p&gt;“Over the past 15 years, I've taught programming to countless students from every sort of background. A few of them were naturals, but most struggled, even the ones who would eventually turn into excellent programmers. However, they weren't struggling with the syntax of the programming language, but rather with applying it to solve the assigned problems.&lt;/p&gt;
+&lt;p&gt;Knowing how to read a program is very different from knowing how to write one. While typical books or training courses are often effective at explaining the individual elements of programming, they tend to offer little advice on combining these elements to solve particular problems. That's where &lt;em&gt;Think Like a Programmer&lt;/em&gt; comes in.”&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;V. Anton Spraul&lt;/strong&gt; has taught introductory programming and computer science for more than 15 years. He is the author of &lt;em&gt;Computer Science Made Simple&lt;/em&gt; (Broadway) and &lt;em&gt;How Software Works&lt;/em&gt; (No Starch Press). He offers advice for beginning programmers in his series "Learning to Program: A Guide" on his website (http://www.vantonspraul.com).&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">13590009</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781593274245</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1593274246</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">MD-QEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;V. Anton Spraul&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-21T09:57:49+00:00"/>
+        <meta name="calibre:title_sort" content="Think Like a Programmer: An Introduction to Creative Problem Solving"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

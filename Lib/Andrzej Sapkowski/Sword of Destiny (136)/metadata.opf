@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">136</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae78abc3-8bc1-473a-9301-9442005715c4</dc:identifier>
+        <dc:title>Sword of Destiny</dc:title>
+        <dc:creator opf:file-as="Sapkowski, Andrzej &amp; French, David" opf:role="aut">Andrzej Sapkowski</dc:creator>
+        <dc:creator opf:file-as="Sapkowski, Andrzej &amp; French, David" opf:role="aut">David French</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-02T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Geralt the Witcher battles monsters, demons and prejudices alike in &lt;em&gt;Sword of Destiny&lt;/em&gt; , the second collection of adventures in Andrzej Sapkowski’s groundbreaking epic fantasy series that inspired the Netflix show and the hit video games. &lt;/p&gt;
+&lt;p&gt;Geralt is a Witcher, a man whose magic powers, enhanced by long training and a mysterious elixir, have made him a brilliant fighter and a merciless hunter. Yet he is no ordinary killer: his targets are the multifarious monsters and vile fiends that ravage the land and attack the innocent. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sword of Destiny&lt;/em&gt; is the follow up to &lt;em&gt;The Last Wish&lt;/em&gt; , and together they are the perfect introduction to a one of a kind fantasy world. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Witcher collections&lt;/strong&gt;&lt;br&gt;&lt;em&gt;The Last Wish&lt;br&gt;Sword of Destiny&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Witcher novels&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Blood of Elves&lt;br&gt;The Time of Contempt&lt;br&gt;Baptism of Fire &lt;br&gt;The Tower of Swallows&lt;br&gt;Lady of the Lake&lt;br&gt;Season of Storms&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hussite Trilogy&lt;/strong&gt;&lt;br&gt;&lt;em&gt;The Tower of Fools&lt;br&gt;Warriors of God&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;Translated from original Polish by David French&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Orbit</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316389709</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0316389706</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Andrzej Sapkowski&quot;: &quot;&quot;, &quot;David French&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-12-29T21:06:51+00:00"/>
+        <meta name="calibre:title_sort" content="Sword of Destiny"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

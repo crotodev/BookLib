@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">420</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">391c58c1-913f-49bb-8fa6-86ba88f0b7e7</dc:identifier>
+        <dc:title>The Mastering Engineer's Handbook 4th Edition</dc:title>
+        <dc:creator opf:file-as="Owsinski, Bobby" opf:role="aut">Bobby Owsinski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Audio mastering is the final step in the audio production process, polishing the recording's final mix and prepping it for release and distribution. This fourth edition of Bobby Owsinski's classic The Mastering Engineer's Handbook is a thoroughly updated and comprehensive manual on the art and science of creating well-mastered recordings. Today's musicians and engineers have many high quality and low cost software-based mastering tools available to them, but the challenge is to understand those tools and learn to use them wisely. Redesigned and updated to reflect both the latest in technology and recent changes in the marketplace, this new edition shows you both the fundamentals, and the advanced aspects of both self-mastering, and prepping your mix for mastering by a pro. Topics covered include: Techniques for making a hot-level master A comprehensive look at mastering for vinyl including the format's latest technology improvements Mastering techniques for the best sounding online streams An overview of the tools required for successful self-mastering The book also features interviews with a number of legendary mastering engineers discussing their techniques and tips that will help you master your own music with style and technical know-how. Give your music the benefit of the expertise you'll find with The Mastering Engineer's Handbook, Fourth Edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bobby Owsinski Media Group</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">M8QyMQAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780998503325</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01MYC4RV7</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Arts &amp; Entertainment</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bobby Owsinski&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T21:38:14+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering Engineer's Handbook 4th Edition, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

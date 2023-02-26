@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">526</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1ac4b91-75fc-4e8a-a947-b3f5be3e6dc5</dc:identifier>
+        <dc:title>Data Science Fundamentals for Python and MongoDB</dc:title>
+        <dc:creator opf:file-as="Paper, David" opf:role="aut">David Paper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-10T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Build the foundational data science skills necessary to work with and better understand complex data science algorithms. This example-driven book provides complete Python coding examples to complement and clarify data science concepts, and enrich the learning experience. Coding examples include visualizations whenever appropriate. The book is a necessary precursor to applying and implementing machine learning algorithms. &lt;br&gt;The book is self-contained. All of the math, statistics, stochastic, and programming skills required to master the content are covered. In-depth knowledge of object-oriented programming isn't required because complete examples are provided and explained.&lt;br&gt;&lt;em&gt;Data Science Fundamentals with Python and MongoDB&lt;/em&gt; is an excellent starting point for those interested in pursuing a career in data science. Like any science, the fundamentals of data science are a prerequisite to competency. Without proficiency in mathematics, statistics, data manipulation, and coding, the path to success is "rocky" at best. The coding examples in this book are concise, accurate, and complete, and perfectly complement the data science concepts introduced. &lt;br&gt;&lt;strong&gt;What You'll Learn&lt;/strong&gt;&lt;br&gt;Prepare for a career in data science &lt;/p&gt;
+&lt;p&gt;Work with complex data structures in Python &lt;/p&gt;
+&lt;p&gt;Simulate with Monte Carlo and Stochastic algorithms &lt;/p&gt;
+&lt;p&gt;Apply linear algebra using vectors and matrices &lt;/p&gt;
+&lt;p&gt;Utilize complex algorithms such as gradient descent and principal component analysis &lt;/p&gt;
+&lt;p&gt;Wrangle, cleanse, visualize, and problem solve with data &lt;/p&gt;
+&lt;p&gt;Use MongoDB and JSON to work with data &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For &lt;/p&gt;
+&lt;p&gt;The novice yearning to break into the data science world, and the enthusiast looking to enrich, deepen, and develop data science skills through mastering the underlying fundamentals that are sometimes skipped over in the rush to be productive. Some knowledge of object-oriented programming will make learning easier. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1484235967</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">38642206</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484235966</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">L3haDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Databases</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Networking</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Paper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-24T16:37:15+00:00"/>
+        <meta name="calibre:title_sort" content="Data Science Fundamentals for Python and MongoDB"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

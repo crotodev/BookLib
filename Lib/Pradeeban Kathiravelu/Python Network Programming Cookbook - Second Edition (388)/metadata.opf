@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">388</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99a7eec4-0914-4414-9cda-e7dc8529a8c5</dc:identifier>
+        <dc:title>Python Network Programming Cookbook - Second Edition</dc:title>
+        <dc:creator opf:file-as="Kathiravelu, Pradeeban &amp; Sarker, M. O. Faruque" opf:role="aut">Pradeeban Kathiravelu</dc:creator>
+        <dc:creator opf:file-as="Kathiravelu, Pradeeban &amp; Sarker, M. O. Faruque" opf:role="aut">M. O. Faruque Sarker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-09T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Discover practical solutions for a wide range of real-world network programming tasksAbout This Book* Solve real-world tasks in the area of network programming, system/networking administration, network monitoring, and more.* Familiarize yourself with the fundamentals and functionalities of SDN* Improve your skills to become the next-gen network engineer by learning the various facets of Python programmingWho This Book Is ForThis book is for network engineers, system/network administrators, network programmers, and even web application developers who want to solve everyday network-related problems. If you are a novice, you will develop an understanding of the concepts as you progress with this book. &lt;/p&gt;
+&lt;p&gt;What You Will Learn* Develop TCP/IP networking client/server applications* Administer local machines' IPv4/IPv6 network interfaces* Write multi-purpose efficient web clients for HTTP and HTTPS protocols* Perform remote system administration tasks over Telnet and SSH connections* Interact with popular websites via web services such as XML-RPC, SOAP, and REST APIs* Monitor and analyze major common network security vulnerabilities* Develop Software-Defined Networks with Ryu, OpenDaylight, Floodlight, ONOS, and POX Controllers* Emulate simple and complex networks with Mininet and its extensions for network and systems emulations* Learn to configure and build network systems and Virtual Network Functions (VNF) in heterogeneous deployment environments* Explore various Python modules to program the InternetIn DetailPython Network Programming Cookbook - Second Edition highlights the major aspects of network programming in Python, starting from writing simple networking clients to developing and deploying complex Software-Defined Networking (SDN) and Network Functions Virtualization (NFV) systems. It creates the building blocks for many practical web and networking applications that rely on various networking protocols. It presents the power and beauty of Python to solve numerous real-world tasks in the area of network programming, network and system administration, network monitoring, and web-application development. &lt;/p&gt;
+&lt;p&gt;In this edition, you will also be introduced to network modelling to build your own cloud network. You will learn about the concepts and fundamentals of SDN and then extend your network with Mininet. Next, you'll find recipes on Authentication, Authorization, and Accounting (AAA) and open and proprietary SDN approaches and frameworks. You will also learn to configure the Linux Foundation networking ecosystem and deploy and automate your networks with Python in the cloud and the Internet scale. &lt;/p&gt;
+&lt;p&gt;By the end of this book, you will be able to analyze your network security vulnerabilities using advanced network packet capture and analysis techniques. &lt;/p&gt;
+&lt;p&gt;Style and approachThis book follows a practical approach and covers major aspects of network programming in Python. It provides hands-on recipes combined with short and concise explanations on code snippets. This book will serve as a supplementary material to develop hands-on skills in any academic course on network programming. This book further elaborates network softwarization, including Software-Defined Networking (SDN), Network Functions Virtualization (NFV), and orchestration. We learn to configure and deploy enterprise network platforms, develop applications on top of them with Python.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781786463999</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">gqHIswEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>COM043000 - COMPUTERS / Networking / General</dc:subject>
+        <dc:subject>COM051000 - COMPUTERS / Programming / General</dc:subject>
+        <dc:subject>COM051360 - COMPUTERS / Programming Languages / Python</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pradeeban Kathiravelu&quot;: &quot;&quot;, &quot;M. O. Faruque Sarker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-15T21:28:13+00:00"/>
+        <meta name="calibre:title_sort" content="Python Network Programming Cookbook - Second Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

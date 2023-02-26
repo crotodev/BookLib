@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8edc80a-e10b-46a6-ba44-d219dd18e890</dc:identifier>
+        <dc:title>Nutrition for Dummies</dc:title>
+        <dc:creator opf:file-as="Rinzler, Carol Ann" opf:role="aut">Carol Ann Rinzler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-06T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Updated with the latest available research and the new 2020-2025 Dietary Guidelines It's a scientific fact: You really are what you eat. Good nutrition is your meal-ticket to staying sleek, healthy, and strong—both physically and mentally. Nutrition For Dummies, 7th Edition is a complete guide that shows you how to maintain a healthy weight, promote health, and prevent chronic disease. This book gives you the know-how to put together a shopping list, prepare healthy foods, and easily cut calories. Along the way, there's up-to-the-minute guidance for building a nutritious diet at every stage of life from toddler time to your Golden Years. Enjoy!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119724025</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">29QnEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Health &amp; Fitness</dc:subject>
+        <dc:subject>Diet &amp; Nutrition</dc:subject>
+        <dc:subject>Nutrition</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Medical</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carol Ann Rinzler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-14T09:14:47+00:00"/>
+        <meta name="calibre:title_sort" content="Nutrition for Dummies"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">158</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5288f04e-7fd8-4cb2-a41a-bdc3cb027816</dc:identifier>
+        <dc:title>CompTIA A+ Certification All-in-One Exam Guide, Eleventh Edition (Exams 220-1101 &amp; 220-1102), 11th Edition</dc:title>
+        <dc:creator opf:file-as="Meyers, Mike" opf:role="aut">Mike Meyers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-16T05:00:00+00:00</dc:date>
+        <dc:description>&lt;span&gt;&lt;p&gt;&lt;b&gt;This bestselling on-the-job reference and test preparation guide has been fully revised for new 2022 exam objectives&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This highly effective self-study exam guide has been thoroughly updated to cover 100% of the topics covered on the latest version of the exam. This new edition includes expanded coverage of mobile computing, cloud and virtualization services, Windows 10, Linux, enhanced security, and advanced software troubleshooting procedures.&lt;/p&gt;&lt;p&gt;&lt;i&gt;CompTIA A+ Certification All-in-One Exam Guide, Eleventh Edition (Exam 220-1101 &amp;amp; 220-1102)&lt;/i&gt; enables you to take the test with complete confidence. In keeping with the All-In-One philosophy, the book serves both as an exam guide and as a practical reference for IT support and technical personnel. Online content includes 200 accurate practice questions, sample Mike Meyers training videos, sample TotalSim interactive lab simulations, Mike’s favorite PC hardware Cool Tools, and a searchable PDF glossary.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Online content includes 200 practice questions, sample video training featuring Mike Meyers, sample Total Sim interactive lab simulations, and a searchable PDF glossary&lt;/li&gt;&lt;li&gt;Contains a coupon for 10% off of the exam fee—a $46 value&lt;/li&gt;&lt;li&gt;Written by experienced trainer Scott Jernigan and edited by training guru Mike Meyers&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;br/&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>McGraw-Hill</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781264610150</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>CompTIA</dc:subject>
+        <dc:subject>Certification Guides</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mike Meyers&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-02T15:20:10+00:00"/>
+        <meta name="calibre:title_sort" content="CompTIA A+ Certification All-in-One Exam Guide, Eleventh Edition (Exams 220-1101 &amp; 220-1102), 11th Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

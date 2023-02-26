@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">405</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5fa9c5c6-0d3c-4d3c-bc0b-37399ec0fcc5</dc:identifier>
+        <dc:title>Python for Finance: Mastering Data-Driven Finance</dc:title>
+        <dc:creator opf:file-as="Hilpisch, Yves" opf:role="aut">Yves Hilpisch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-05T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;The financial industry has recently adopted Python at a tremendous rate, with some of the largest investment banks and hedge funds using it to build core trading and risk management systems. Updated for Python 3, the second edition of this hands on book helps you get started with the language, guiding developers and quantitative analysts through Python libraries and tools for building financial applications and interactive financial analytics.&lt;/p&gt;
+&lt;p&gt;Using practical examples throughout the book, author Yves Hilpisch also shows you how to develop a full fledged framework for Monte Carlo simulation based derivatives and risk analytics, based on a large, realistic case study. Much of the book uses interactive IPython Notebooks.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Dr. Yves J. Hilpisch is founder and managing partner of The Python Quants (http://tpq.io), a group that focuses on the use of open source technologies for financial data science, algorithmic trading and computational finance. He is the author of the books Python for Finance (O'Reilly, 2014), Derivatives Analytics with Python (Wiley, 2015) and Listed Volatility and Variance Derivatives (Wiley, 2017). Yves lectures on computational finance at the CQF Program (http://cqf.com), on data science at htw saar University of Applied Sciences (http://htwsaar.de), and is the director for the online training program leading to the first Python for Finance University Certificate (awarded by htw saar).&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781492024330</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">2qd9DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1492024333</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07L8NMW2P</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yves Hilpisch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-18T06:38:53+00:00"/>
+        <meta name="calibre:title_sort" content="Python for Finance: Mastering Data-Driven Finance"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

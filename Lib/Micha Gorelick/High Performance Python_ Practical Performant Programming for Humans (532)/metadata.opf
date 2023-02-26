@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">532</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5c71845-071a-4d09-8e68-6221f090df0f</dc:identifier>
+        <dc:title>High Performance Python: Practical Performant Programming for Humans</dc:title>
+        <dc:creator opf:file-as="Gorelick, Micha &amp; Ozsvald, Ian" opf:role="aut">Micha Gorelick</dc:creator>
+        <dc:creator opf:file-as="Gorelick, Micha &amp; Ozsvald, Ian" opf:role="aut">Ian Ozsvald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-22T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Your Python code may run correctly, but you need it to run faster. By exploring the fundamental theory behind design choices, the updated edition of this practical guide, expanded and enhanced for Python 3, helps you gain a deeper understanding of Python's implementation. You'll learn how to locate performance bottlenecks and significantly speed up your code in high-data-volume programs. &lt;/p&gt;
+&lt;p&gt;How can you take advantage of multicore architectures or clusters? Or build a system that can scale up and down without losing reliability? Experienced Python programmers and students alike will learn concrete solutions to these and other issues, along with war stories from companies that use high-performance Python for social media analytics, productionized machine learning, and other situations. &lt;/p&gt;
+&lt;p&gt;Get a better grasp of NumPy, Cython, and profilersLearn how Python abstracts the underlying computer architectureUnderstand performant pandasUse profiling to find bottlenecks in CPU time and memory usageWrite efficient programs by choosing appropriate data structuresSpeed up matrix, vector, and even tensor computationsUse tools to compile Python down to machine code, on CPUs and GPUsManage multiple I/O and computational operations concurrentlyConvert multiprocessing code to run on a local or remote clusterDeploy code faster using tools like DockerSolve large problems while using less RAMGet real-life stories and lessons from Python programmers&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1492055026</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">GMyzyQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">49828191</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781492055020</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Reference</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Micha Gorelick&quot;: &quot;&quot;, &quot;Ian Ozsvald&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-24T16:47:43+00:00"/>
+        <meta name="calibre:title_sort" content="High Performance Python: Practical Performant Programming for Humans"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

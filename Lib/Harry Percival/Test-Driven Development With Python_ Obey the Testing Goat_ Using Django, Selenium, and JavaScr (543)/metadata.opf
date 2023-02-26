@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">543</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f92af12-5cc1-4249-ad2c-912e4536f0ed</dc:identifier>
+        <dc:title>Test-Driven Development With Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript</dc:title>
+        <dc:creator opf:file-as="Percival, Harry" opf:role="aut">Harry Percival</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;By taking you through the development of a real web application from beginning to end, the second edition of this hands-on guide demonstrates the practical advantages of test-driven development (TDD) with Python. You’ll learn how to write and run tests &lt;em&gt;before&lt;/em&gt; building each part of your app, and then develop the minimum amount of code required to pass those tests. The result? Clean code that works.&lt;/p&gt;
+&lt;p&gt;In the process, you’ll learn the basics of Django, Selenium, Git, jQuery, and Mock, along with current web development techniques. If you’re ready to take your Python skills to the next level, this book—updated for Python 3.6—clearly demonstrates how TDD encourages simple designs and inspires confidence.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Dive into the TDD workflow, including the unit test/code cycle and refactoring&lt;/li&gt;
+&lt;li&gt;Use unit tests for classes and functions, and functional tests for user interactions within the browser&lt;/li&gt;
+&lt;li&gt;Learn when and how to use mock objects, and the pros and cons of isolated vs. integrated tests&lt;/li&gt;
+&lt;li&gt;Test and automate your deployments with a staging server&lt;/li&gt;
+&lt;li&gt;Apply tests to the third-party plugins you integrate into your site&lt;/li&gt;
+&lt;li&gt;Run tests automatically by using a Continuous Integration environment&lt;/li&gt;
+&lt;li&gt;Use TDD to build a REST API with a front-end Ajax interface&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;After an idyllic childhood spent playing with BASIC on French 8-bitcomputers like the Thomson T-07 whose keys go "boop" when you press them, Harry went on to study Economics and Philosophy at Cambridge University. He then spent a few years being deeply unhappy as a management consultant. Soon he rediscovered his true geek nature, and was lucky enough to fall in with a bunch of XP fanatics, working on the pioneering but sadly defunct Resolver One spreadsheet. He now works at PythonAnywhere LLP, and spreads the gospel of TDD world-wide at talks, workshops and conferences, with all the passion and enthusiasm of a recent convert.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1491958707</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">nFyWvgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781491958704</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Percival&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-24T21:40:37+00:00"/>
+        <meta name="calibre:title_sort" content="Test-Driven Development With Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

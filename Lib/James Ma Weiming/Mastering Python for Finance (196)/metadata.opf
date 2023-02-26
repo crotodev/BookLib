@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8cbcc991-ded3-41a4-84c5-81dfd3edd2f0</dc:identifier>
+        <dc:title>Mastering Python for Finance</dc:title>
+        <dc:creator opf:file-as="Weiming, James Ma" opf:role="aut">James Ma Weiming</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Take your financial skills to the next level by mastering cutting-edge mathematical and statistical financial applications&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Explore advanced financial models used by the industry and ways of solving them using Python &lt;/li&gt;
+&lt;li&gt;Build state-of-the-art infrastructure for modeling, visualization, trading, and more &lt;/li&gt;
+&lt;li&gt;Empower your financial applications by applying machine learning and deep learning&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;The second edition of Mastering Python for Finance will guide you through carrying out complex financial calculations practiced in the industry of finance by using next-generation methodologies. You will master the Python ecosystem by leveraging publicly available tools to successfully perform research studies and modeling, and learn to manage risks with the help of advanced examples. &lt;/p&gt;
+&lt;p&gt;You will start by setting up your Jupyter notebook to implement the tasks throughout the book. You will learn to make efficient and powerful data-driven financial decisions using popular libraries such as TensorFlow, Keras, Numpy, SciPy, and sklearn. You will also learn how to build financial applications by mastering concepts such as stocks, options, interest rates and their derivatives, and risk analytics using computational methods. With these foundations, you will learn to apply statistical analysis to time series data, and understand how time series data is useful for implementing an event-driven backtesting system and for working with high-frequency data in building an algorithmic trading platform. Finally, you will explore machine learning and deep learning techniques that are applied in finance. &lt;/p&gt;
+&lt;p&gt;By the end of this book, you will be able to apply Python to different paradigms in the financial industry and perform efficient data analysis.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Solve linear and nonlinear models representing various financial problems &lt;/li&gt;
+&lt;li&gt;Perform principal component analysis on the DOW index and its components &lt;/li&gt;
+&lt;li&gt;Analyze, predict, and forecast stationary and non-stationary time series processes &lt;/li&gt;
+&lt;li&gt;Create an event-driven backtesting tool and measure your strategies &lt;/li&gt;
+&lt;li&gt;Build a high-frequency algorithmic trading platform with Python &lt;/li&gt;
+&lt;li&gt;Replicate the CBOT VIX index with SPX options for studying VIX-based strategies &lt;/li&gt;
+&lt;li&gt;Perform regression-based and classification-based machine learning tasks for prediction &lt;/li&gt;
+&lt;li&gt;Use TensorFlow and Keras in deep learning neural network architecture&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;If you are a financial or data analyst or a software developer in the financial industry who is interested in using advanced Python techniques for quantitative methods in finance, this is the book you need! You will also find this book useful if you want to extend the functionalities of your existing financial applications by using smart machine learning techniques. Prior experience in Python is required.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Overview of Financial Analysis with Python&lt;/li&gt;
+&lt;li&gt;The Importance of Linearity in Finance&lt;/li&gt;
+&lt;li&gt;Nonlinearity in Finance&lt;/li&gt;
+&lt;li&gt;Numerical Methods for Pricing Options&lt;/li&gt;
+&lt;li&gt;Modeling Interest Rates and Derivates&lt;/li&gt;
+&lt;li&gt;Statistical Analysis of Time Series Data&lt;/li&gt;
+&lt;li&gt;Interactive Financial Analytics with VIX&lt;/li&gt;
+&lt;li&gt;Building an Algorithmic Trading Platform&lt;/li&gt;
+&lt;li&gt;Implementing a Backtesting System&lt;/li&gt;
+&lt;li&gt;Machine Learning for Finance&lt;/li&gt;
+&lt;li&gt;Deep Learning for Finance&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;James Ma Weiming&lt;/strong&gt; is a software engineer based in Singapore. His studies and research are focused on financial technology, machine learning, data sciences, and computational finance. James started his career in financial services working with treasury fixed income and foreign exchange products, and fund distribution. His interests in derivatives led him to Chicago, where he worked with veteran traders of the Chicago Board of Trade to devise high-frequency, low-latency strategies to game the market. He holds an MS degree in finance from Illinois Tech's Stuart School of Business in the United States and a bachelor's degree in computer engineering from Nanyang Technological University.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781789346466</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">rjDdwQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1789346460</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Ma Weiming&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-08T19:26:34+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering Python for Finance"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;local&quot;, &quot;user&quot;: &quot;viewer&quot;, &quot;annotation&quot;: {&quot;title&quot;: &quot;A minimization example with integer programming #1&quot;, &quot;pos_type&quot;: &quot;epubcfi&quot;, &quot;pos&quot;: &quot;epubcfi(/118/2/4/2[sbo-rt-content]/2/4/2/2/2/1:314)&quot;, &quot;timestamp&quot;: &quot;2023-01-13T02:43:57.207565+00:00&quot;, &quot;type&quot;: &quot;bookmark&quot;}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

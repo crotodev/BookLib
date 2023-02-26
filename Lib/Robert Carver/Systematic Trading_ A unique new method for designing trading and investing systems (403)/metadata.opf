@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">403</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">558c0daa-2b18-4f57-bc5d-1c1d9fd19f6c</dc:identifier>
+        <dc:title>Systematic Trading: A unique new method for designing trading and investing systems</dc:title>
+        <dc:creator opf:file-as="Carver, Robert" opf:role="aut">Robert Carver</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-14T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"The days of Richard Dennis and his "turtles" with their alleged 100% per year profit are long gone... Robert Carver is more modest--and more realistic. At the same time he has more to offer the investor or trader who has a spark of creativity and intellectual curiosity. .... (Carver) isn't just some ordinary Joe with a computer and a bunch of back-testing software. He has clearly thought about what makes a good systematic trader and a good systematically-driven portfolio. We can be grateful that he decided to share his insights with us. " &lt;em&gt;Brenda Jubin, Reading the markets&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;This is not just another book with yet another trading system. This is a complete guide to developing your own systems to help you make and execute trading and investing decisions. It is intended for everyone who wishes to systematise their financial decision making, either completely or to some degree. &lt;/p&gt;
+&lt;p&gt;Author Robert Carver draws on financial theory, his experience managing systematic hedge fund strategies and his own in-depth research to explain why systematic trading makes sense and demonstrates how it can be done safely and profitably. Every aspect, from creating trading rules to position sizing, is thoroughly explained. The framework described here can be used with all assets, including equities, bonds, forex and commodities. &lt;/p&gt;
+&lt;p&gt;There is no magic formula that will guarantee success, but cutting out simple mistakes will improve your performance. You'll learn how to avoid common pitfalls such as over-complicating your strategy, being too optimistic about likely returns, taking excessive risks and trading too frequently. &lt;/p&gt;
+&lt;p&gt;Important features include: &lt;/p&gt;
+&lt;p&gt;- The theory behind systematic trading: why and when it works, and when it doesn't.&lt;br&gt;- Simple and effective ways to design effective strategies.&lt;br&gt;- A complete position management framework which can be adapted for your needs.&lt;br&gt;- How fully systematic traders can create or adapt trading rules to forecast prices.&lt;br&gt;- Making discretionary trading decisions within a systematic framework for position management.&lt;br&gt;- Why traditional long only investors should use systems to ensure proper diversification, and avoid costly and unnecessary portfolio churn.&lt;br&gt;- Adapting strategies depending on the cost of trading and how much capital is being used.&lt;br&gt;- Practical examples from UK, US and international markets showing how the framework can be used. &lt;/p&gt;
+&lt;p&gt;Systematic Trading is detailed, comprehensive and full of practical advice. It provides a unique new approach to system development and a must for anyone considering using systems to make some, or all, of their investment decisions.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Robert Carver is an independent investor, trader and writer. He spent over a decade working in the City of London before retiring from the industry in 2013. Robert initially traded exotic derivative products for Barclays Investment Bank and then worked as a portfolio manager for AHL – one of the world’s largest hedge funds – before, during and after the global financial meltdown of 2008. He was responsible for the creation of AHL’s fundamental global macro strategy, and then managed the fund’s multi-billion dollar fixed income portfolio. &lt;/p&gt;
+&lt;p&gt;Robert has Bachelors and Masters degrees in Economics, and is a visiting lecturer at Queen Mary, University of London. He manages his own portfolio of equities, funds and futures using the methods you can find in his books. &lt;/p&gt;
+&lt;p&gt;Rob's website is: www.systematicmoney.org &lt;/p&gt;
+&lt;p&gt;You can read his blog at qoppac.blogspot.com and follow him on twitter @investingidiocy&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harriman House</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780857194459</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0857194453</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">y3dxCgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Investments &amp; Securities</dc:subject>
+        <dc:subject>Analysis &amp; Trading Strategies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Carver&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-18T06:19:59+00:00"/>
+        <meta name="calibre:title_sort" content="Systematic Trading: A unique new method for designing trading and investing systems"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

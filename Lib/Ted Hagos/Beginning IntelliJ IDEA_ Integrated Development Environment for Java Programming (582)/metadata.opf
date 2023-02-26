@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">582</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">091f30fc-0ac6-4891-8d43-760652284711</dc:identifier>
+        <dc:title>Beginning IntelliJ IDEA: Integrated Development Environment for Java Programming</dc:title>
+        <dc:creator opf:file-as="Hagos, Ted" opf:role="aut">Ted Hagos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-16T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Get started quickly with IntelliJ, from installation to configuration to working with the source code and more. This tutorial will show you how to leverage IntelliJ’s tools to develop clean, efficient Java applications.&lt;/p&gt;
+&lt;p&gt;Author &lt;strong&gt;Ted Hagos&lt;/strong&gt; will first walk you through buidling your first Java applications using IntelliJ. Then, he’ll show you how to analyze your application, top to bottom; using version control and tools that allow you expand your application for big data or data science applications and more. You'll also learn some of the IDE’s advanced features to fully maximize your application's capabilities. &lt;/p&gt;
+&lt;p&gt;The last portion of the book focuses on application testing and deployment, and language- and framework- specific guidelines. After reading this book and working through its freely available source code, you'll be up to speed with this powerful IDE for today's Java development. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Will Learn&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Use IntelliJ IDEA to build Java applications&lt;/li&gt;
+&lt;li&gt;Set up your IDE and project&lt;/li&gt;
+&lt;li&gt;Work with source code&lt;/li&gt;
+&lt;li&gt;Extend your Java application to data science and other kinds of applications&lt;/li&gt;
+&lt;li&gt;Test and deploy your application and much more&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For&lt;/p&gt;
+&lt;p&gt;Programmers new to IntelliJ IDEA who may have some prior exposure to Java programming. &lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Get started quickly with IntelliJ, from installation to configuration to working with the source code and more. This tutorial will show you how to leverage IntelliJ’s tools to develop clean, efficient Java applications.&lt;/p&gt;
+&lt;p&gt;Author &lt;strong&gt;Ted Hagos&lt;/strong&gt; will first walk you through buidling your first Java applications using IntelliJ. Then, he’ll show you how to analyze your application, top to bottom; using version control and tools that allow you expand your application for big data or data science applications and more. You'll also learn some of the IDE’s advanced features to fully maximize your application's capabilities. &lt;/p&gt;
+&lt;p&gt;The last portion of the book focuses on application testing and deployment, and language- and framework- specific guidelines. After reading this book and working through its freely available source code, you'll be up to speed with this powerful IDE for today's Java development. &lt;/p&gt;
+&lt;p&gt;You will:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Use IntelliJ IDEA to build Java applications&lt;/li&gt;
+&lt;li&gt;Set up your IDE and project&lt;/li&gt;
+&lt;li&gt;Work with source code&lt;/li&gt;
+&lt;li&gt;Extend your Java application to data science and other kinds of applications&lt;/li&gt;
+&lt;li&gt;Test and deploy your application and much more&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Ted Hagos is a software developer by trade; at the moment, he’s Chief Technology Officer and Data Protection Officer of RenditionDigital International, a software development company based out of Dublin. He wore many hats in his 20+ years in software development e.g. team lead, project manager, architect and director for development. He also spent time as a trainer for IBM Advanced Career Education, Ateneo ITI and Asia Pacific College. He wrote a couple of books for Apress.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B09LY3JXZ3</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484274453</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">80562732</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">J8aazgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ted Hagos&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-01-28T16:17:40+00:00"/>
+        <meta name="calibre:title_sort" content="Beginning IntelliJ IDEA: Integrated Development Environment for Java Programming"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

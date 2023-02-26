@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82b80a65-51f0-434a-b26c-a632f6a041df</dc:identifier>
+        <dc:title>Advanced Algorithms and Data Structures</dc:title>
+        <dc:creator opf:file-as="Rocca, Marcello La" opf:role="aut">Marcello La Rocca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Advanced Algorithms and Data Structures &lt;strong&gt;introduces a collection of algorithms for complex programming challenges in data analysis, machine learning, and graph computing.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;br&gt;As a software engineer, you’ll encounter countless programming challenges that initially seem confusing, difficult, or even impossible. Don’t despair! Many of these “new” problems already have well-established solutions. &lt;em&gt;Advanced Algorithms and Data Structures&lt;/em&gt; teaches you powerful approaches to a wide range of tricky coding challenges that you can adapt and apply to your own applications. Providing a balanced blend of classic, advanced, and new algorithms, this practical guide upgrades your programming toolbox with new perspectives and hands-on techniques. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the technology&lt;/strong&gt;&lt;br&gt;Can you improve the speed and efficiency of your applications without investing in new hardware? Well, yes, you can: Innovations in algorithms and data structures have led to huge advances in application performance. Pick up this book to discover a collection of advanced algorithms that will make you a more effective developer. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the book&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Advanced Algorithms and Data Structures&lt;/em&gt; introduces a collection of algorithms for complex programming challenges in data analysis, machine learning, and graph computing. You’ll discover cutting-edge approaches to a variety of tricky scenarios. You’ll even learn to design your own data structures for projects that require a custom solution. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What's inside&lt;/strong&gt;&lt;br&gt;Build on basic data structures you already know&lt;br&gt;Profile your algorithms to speed up application&lt;br&gt;Store and query strings efficiently&lt;br&gt;Distribute clustering algorithms with MapReduce&lt;br&gt;Solve logistics problems using graphs and optimization algorithms &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the reader&lt;/strong&gt;&lt;br&gt;For intermediate programmers. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the author&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Marcello La Rocca&lt;/strong&gt; is a research scientist and a full-stack engineer. His focus is on optimization algorithms, genetic algorithms, machine learning, and quantum computing. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Table of Contents &lt;/p&gt;
+&lt;p&gt;1 Introducing data structures&lt;br&gt;PART 1 IMPROVING OVER BASIC DATA STRUCTURES&lt;br&gt;2 Improving priority queues: d-way heaps&lt;br&gt;3 Treaps: Using randomization to balance binary search trees&lt;br&gt;4 Bloom filters: Reducing the memory for tracking content&lt;br&gt;5 Disjoint sets: Sub-linear time processing&lt;br&gt;6 Trie, radix trie: Efficient string search&lt;br&gt;7 Use case: LRU cache&lt;br&gt;PART 2 MULTIDEMENSIONAL QUERIES&lt;br&gt;8 Nearest neighbors search&lt;br&gt;9 K-d trees: Multidimensional data indexing&lt;br&gt;10 Similarity Search Trees: Approximate nearest neighbors search for image retrieval&lt;br&gt;11 Applications of nearest neighbor search&lt;br&gt;12 Clustering&lt;br&gt;13 Parallel clustering: MapReduce and canopy clustering&lt;br&gt;PART 3 PLANAR GRAPHS AND MINIMUM CROSSING NUMBER&lt;br&gt;14 An introduction to graphs: Finding paths of minimum distance&lt;br&gt;15 Graph embeddings and planarity: Drawing graphs with minimal edge intersections&lt;br&gt;16 Gradient descent: Optimization problems (not just) on graphs&lt;br&gt;17 Simulated annealing: Optimization beyond local minima&lt;br&gt;18 Genetic algorithms: Biologically inspired, fast-converging optimization&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"An accessible introduction to the fundamental algorithms used torun the world." &lt;strong&gt;--Richard Vaughan, Purple Monkey Collective&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;"Easy to follow and filled with practical examples, this book is afantastic introduction to data structures and algorithms." &lt;strong&gt;--Zachary Fleischmann, Hawthorne Interactive&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;"Look no further if you're looking for a rich book to bridge thestuff of computer science courses and the pragmatic world ofsoftware development." &lt;strong&gt;--George Thomas, Manhattan Associates&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;"Teaches how to modify algorithms and data structures to solvepractical problems." &lt;strong&gt;--Maciej Jurkowski, Grupa Pracuj&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Marcello La Rocca&lt;/strong&gt; is a research scientist and a full-stack engineer. His focus is on optimization algorithms, genetic algorithms, machine learning, and quantum computing.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1617295485</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">sYUxEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781617295485</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Data Structures</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>JavaScript</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marcello La Rocca&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-12-22T07:51:08+00:00"/>
+        <meta name="calibre:title_sort" content="Advanced Algorithms and Data Structures"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">423</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9cd831ba-1a14-4def-95ca-265daaa0b723</dc:identifier>
+        <dc:title>The Mixing Engineer's Handbook</dc:title>
+        <dc:creator opf:file-as="Owsinski, Bobby" opf:role="aut">Bobby Owsinski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Thanks to the revolution in affordable recording and mixing technology, more music is being written, produced, and mixed today than ever before. The mixer's art is now a unique blend of time-tested principles and skillful technique using the latest high-tech tools. If you're ready to learn today's art of mixing, this is the book for you. THE MIXING ENGINEER'S HANDBOOK, 3RD EDITION, is the latest update of the most popular book on audio mixing ever written (more than 150,000 copies sold). Popular producer/engineer, author, and teacher Bobby Owsinski covers all the fundamentals, breaking the mixing process down into easily understandable elements. He covers the things you need to know most, including the variety of mixing styles, the six elements of a mix, the rules for arrangement, and how to build a mix. You'll also learn the secrets of equalization and "magic frequencies," along with easy-to-grasp methods for adding effects, EQ'ing reverbs, sonic layering, calculating delay time, and much more. In addition to the solid instruction in today's mixing principles, you'll also find great advice in Bobby's interviews with top mixing engineers and producers. Getting a great mix is no accident; it requires a thorough knowledge of the fundamentals of the art. Read THE MIXING ENGINEER'S HANDBOOK to learn how it's done.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Course Technology</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781285420875</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00CLCPNSY</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">L55xMQEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Music</dc:subject>
+        <dc:subject>Recording &amp; Reproduction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bobby Owsinski&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T21:48:25+00:00"/>
+        <meta name="calibre:title_sort" content="Mixing Engineer's Handbook, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

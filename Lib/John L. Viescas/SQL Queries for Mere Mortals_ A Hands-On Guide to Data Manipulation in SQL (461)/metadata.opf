@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">461</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5bdce63c-008a-4425-a71f-0c11aa07a3f3</dc:identifier>
+        <dc:title>SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL</dc:title>
+        <dc:creator opf:file-as="Viescas, John L." opf:role="aut">John L. Viescas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;The #1 Easy, Common-Sense Guide to SQL Queries―Updated with More Advanced Techniques and Solutions &lt;/p&gt;
+&lt;p style="font-style: italic"&gt;Foreword by Keith W. Hare, Vice Chair, USA SQL Standards Committee &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SQL Queries for Mere Mortals&lt;/strong&gt; has earned worldwide praise as the clearest, simplest tutorial on writing effective queries with the latest SQL standards and database applications. Now, author John L. Viescas has updated this hands-on classic with even more advanced and valuable techniques. &lt;/p&gt;
+&lt;p&gt;Step by step, Viescas guides you through creating reliable queries for virtually any current SQL-based database. He demystifies all aspects of SQL query writing, from simple data selection and filtering to joining multiple tables and modifying sets of data. &lt;/p&gt;
+&lt;p&gt;Building on the basics, Viescas shows how to solve challenging real-world problems, including applying multiple complex conditions on one table, performing sophisticated logical evaluations, and using unlinked tables to think “outside the box.” &lt;/p&gt;
+&lt;p&gt;In two brand-new chapters, you learn how to perform complex calculations on groups for sophisticated reporting, and how to partition data into windows for more flexible aggregation. &lt;/p&gt;
+&lt;p&gt;Practice all you want with downloadable sample databases for today’s versions of Microsoft Office Access, Microsoft SQL Server, and the open source MySQL and PostgreSQL databases. Whether you’re a DBA, developer, user, or student, there’s no better way to master SQL. &lt;/p&gt;
+&lt;p&gt;Coverage includes: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Getting started: understanding what relational databases are, and ensuring that your database structures are sound&lt;/li&gt;
+&lt;li&gt;SQL basics: using SELECT statements, creating expressions, sorting information with ORDER BY, and filtering data using WHERE&lt;/li&gt;
+&lt;li&gt;Summarizing and grouping data with GROUP BY and HAVING clauses&lt;/li&gt;
+&lt;li&gt;Drawing data from multiple tables: using INNER JOIN, OUTER JOIN, and UNION operators, and working with subqueries&lt;/li&gt;
+&lt;li&gt;Modifying data sets with UPDATE, INSERT, and DELETE statements&lt;/li&gt;
+&lt;li&gt;Advanced queries: complex NOT and AND, conditions, if-then-else using CASE, unlinked tables, driver tables, and more&lt;/li&gt;
+&lt;li&gt;NEW! Using advanced GROUP BY keywords to create subtotals, roll-ups, and more&lt;/li&gt;
+&lt;li&gt;NEW! Applying window functions to answer more sophisticated questions, and gain deeper insight into your data&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Software-Independent Approach!&lt;/strong&gt; &lt;br&gt;If you work with database software such as Access, MS SQL Server, Oracle, DB2, MySQL, Ingres, or any other SQL-based program, this book could save you hours of time and aggravation―before you write a single query! &lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;John L. Viescas&lt;/strong&gt; is an independent database consultant with more than 50 years of experience. He began his career as a systems analyst, designing large database applications for IBM mainframe systems. He spent 6 years at Applied Data Research in Dallas, Texas, where he directed a staff of more than 30 people and was responsible for research, product development, and customer support of database products for IBM mainframe computers. While working at Applied Data Research, John completed a degree in business finance at the University of Texas at Dallas, graduating cum laude. &lt;/p&gt;
+&lt;p&gt;John joined Tandem Computers, Inc., in 1988, where he was responsible for the development and implementation of database marketing programs in Tandem’s U.S. Western Sales region. He developed and delivered technical seminars on Tandem’s relational database management system, NonStop SQL. John wrote his first book, &lt;em&gt;A Quick Reference Guide to SQL&lt;/em&gt; (Microsoft Press, 1989), as a research project to document the similarities in the syntax among the ANSI-86 SQL standard, IBM’s DB2, Microsoft’s SQL Server, Oracle Corporation’s Oracle, and Tandem’s NonStop SQL. He wrote the first edition of &lt;em&gt;Running Microsoft Access&lt;/em&gt; (Microsoft Press, 1992) while on sabbatical from Tandem. He has since written four editions of &lt;em&gt;Running&lt;/em&gt; , three editions of &lt;em&gt;Microsoft Office Access Inside Out&lt;/em&gt; (Microsoft Press, 2003, 2007, and 2010–the successor to the &lt;em&gt;Running&lt;/em&gt; series), &lt;em&gt;Building Microsoft Access Applications&lt;/em&gt; (Microsoft Press, 2005), and &lt;em&gt;Effective SQL&lt;/em&gt; (Addison-Wesley, 2017). &lt;/p&gt;
+&lt;p&gt;John formed his own company in 1993. He provides information systems management consulting for a variety of small to large businesses around the world, with a specialty in the Microsoft Access and SQL Server database management products. He maintains offices in Nashua, New Hampshire, and Paris, France. He was recognized as a “Most Valuable Professional” (MVP) from 1993 to 2015 by Microsoft Product Support Services for his assistance with technical questions on public support forums. He set a landmark 20 consecutive years as an MVP in 2013. &lt;br&gt;You can visit John’s Web site at www.viescas.com. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Addison-Wesley</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">2LhpswEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0134858336</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780134858333</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Computer Graphics</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Sql</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John L. Viescas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-20T17:42:41+00:00"/>
+        <meta name="calibre:title_sort" content="SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

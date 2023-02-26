@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">157</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">399871a7-92a0-4281-95af-ecc2abad94c9</dc:identifier>
+        <dc:title>CompTIA Advanced Security Practitioner</dc:title>
+        <dc:creator opf:file-as="McMillan, Troy" opf:role="aut">Troy McMillan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;This is the eBook edition of the&lt;/strong&gt; CompTIA Advanced Security Practitioner (CASP+) CAS-004 Cert Guide &lt;strong&gt;. This eBook does not include access to the Pearson Test Prep practice exams that comes with the print edition.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Learn, prepare, and practice for CompTIA Advanced Security Practitioner (CASP+) CAS-004 exam success with this &lt;em&gt;CompTIA Advanced Security Practitioner (CASP+) CAS-004 Cert Guide&lt;/em&gt; from Pearson IT Certification, a leader in IT Certification learning. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CompTIA Advanced Security Practitioner (CASP+) CAS-004 Cert Guide&lt;/em&gt; presents you with an organized test preparation routine through the use of proven series elements and techniques. Exam topic lists make referencing easy. Chapter-ending Exam Preparation Tasks help you drill on key concepts you must know thoroughly. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CompTIA Advanced Security Practitioner (CASP+) CAS-004 Cert Guide&lt;/em&gt; focuses specifically on the objectives for the CompTIA Advanced Security Practitioner (CASP+) CAS-004 exam. Leading expert Troy McMillan shares preparation hints and test-taking tips, helping you identify areas of weakness and improve both your conceptual knowledge and hands-on skills. Material is presented in a concise manner, focusing on increasing your understanding and retention of exam topics. &lt;/p&gt;
+&lt;p&gt;This complete study package includes &lt;br&gt;&lt;em&gt;A test-preparation routine proven to help you pass the exams &lt;br&gt;&lt;/em&gt;Chapter-ending exercises, which help you drill on key concepts you must know thoroughly &lt;br&gt;&lt;em&gt;An online interactive Flash Cards application to help you drill on Key Terms by chapter &lt;br&gt;&lt;/em&gt;A final preparation chapter, which guides you through tools and resources to help you craft your review and test-taking strategies &lt;br&gt;* Study plan suggestions and templates to help you organize and optimize your study time &lt;/p&gt;
+&lt;p&gt;Well regarded for its level of detail, assessment features, and challenging review questions and exercises, this official study guide helps you master the concepts and techniques that ensure your exam success. &lt;/p&gt;
+&lt;p&gt;This study guide helps you master all the topics on the CompTIA Advanced Security Practitioner (CASP+) CAS-004 exam, including &lt;br&gt;&lt;em&gt;Ensuring a secure network architecture &lt;br&gt;&lt;/em&gt;Determining the proper infrastructure security design &lt;br&gt;&lt;em&gt;Implementing secure cloud and virtualization solutions &lt;br&gt;&lt;/em&gt;Performing threat and vulnerability management activities &lt;br&gt;&lt;em&gt;Implementing appropriate incident response &lt;br&gt;&lt;/em&gt;Applying secure configurations to enterprise mobility &lt;br&gt;&lt;em&gt;Configuring and implementing endpoint security controls &lt;br&gt;&lt;/em&gt;Troubleshooting issues with cryptographic implementations &lt;br&gt;* Applying appropriate risk strategies &lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Troy McMillan,&lt;/strong&gt; CASP, is a product developer and technical editor for CyberVista as well as a full-time trainer. He became a professional trainer more than 20 years ago, teaching Cisco, Microsoft, CompTIA, and wireless classes. His recent work includes &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Author of &lt;em&gt;CompTIA CySA+ CS0-002 Cert Guide&lt;/em&gt; (Pearson IT Certification) &lt;/li&gt;
+&lt;li&gt;Author of &lt;em&gt;CompTIA A+ Complete Review Guide&lt;/em&gt; (Sybex) &lt;/li&gt;
+&lt;li&gt;Author of &lt;em&gt;CompTIA Server + Study Guide&lt;/em&gt; (Sybex) &lt;/li&gt;
+&lt;li&gt;Contributing subject matter expert for &lt;em&gt;CCNA Cisco Certified Network Associate Certification Exam Preparation Guide&lt;/em&gt; (Kaplan) &lt;/li&gt;
+&lt;li&gt;Prep test question writer for &lt;em&gt;Network+ Study Guide&lt;/em&gt; (Sybex) &lt;/li&gt;
+&lt;li&gt;Technical editor for &lt;em&gt;Windows 7 Study Guide&lt;/em&gt; (Sybex) &lt;/li&gt;
+&lt;li&gt;Contributing author for &lt;em&gt;CCNA-Wireless Study Guide&lt;/em&gt; (Sybex) &lt;/li&gt;
+&lt;li&gt;Technical editor for &lt;em&gt;CCNA Study Guide, Revision 7&lt;/em&gt; (Sybex) &lt;/li&gt;
+&lt;li&gt;Author of &lt;em&gt;VCP VMware Certified Professional on vSphere 4 Review Guide: Exam VCP-410&lt;/em&gt; and associated instructional materials (Sybex) &lt;/li&gt;
+&lt;li&gt;Author of &lt;em&gt;Cisco Essentials&lt;/em&gt; (Sybex) &lt;/li&gt;
+&lt;li&gt;Co-author of &lt;em&gt;CISSP Cert Guide&lt;/em&gt; (Pearson IT Certification) &lt;/li&gt;
+&lt;li&gt;Prep test question writer for &lt;em&gt;CCNA Wireless 640-722&lt;/em&gt; (Cisco Press) &lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;He also has appeared in the following training videos for OnCourse Learning: Security+; Network+; Microsoft 70-410, 411, and 412 exam prep; ICND 1; ICND 2; and Cloud+. &lt;/p&gt;
+&lt;p&gt;He now creates certification practice tests and study guides and online courses for Cybervista. Troy lives in Asheville, North Carolina, with his wife, Heike. &lt;/p&gt;
+&lt;p&gt;--This text refers to the hardcover edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pearson</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B09QPD56CR</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Certification Guides</dc:subject>
+        <dc:subject>CASP+</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Troy McMillan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-02T14:24:18+00:00"/>
+        <meta name="calibre:title_sort" content="CompTIA Advanced Security Practitioner"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">397</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ad2bff0-50a0-49ee-b1a4-b1a6e1b566e7</dc:identifier>
+        <dc:title>Python for Finance Cookbook: Over 80 Powerful Recipes for Effective Financial Data Analysis, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Lewinson, Eryk" opf:role="aut">Eryk Lewinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-30T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Use modern Python libraries such as pandas, NumPy, and scikit-learn and popular machine learning and deep learning methods to solve financial modeling problems&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Purchase of the print or Kindle book includes a free eBook in the PDF format&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Explore unique recipes for financial data processing and analysis with Python&lt;/li&gt;
+&lt;li&gt;Apply classical and machine learning approaches to financial time series analysis&lt;/li&gt;
+&lt;li&gt;Calculate various technical analysis indicators and backtest trading strategies&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Python is one of the most popular programming languages in the financial industry, with a huge collection of accompanying libraries. In this new edition of the Python for Finance Cookbook, you will explore classical quantitative finance approaches to data modeling, such as GARCH, CAPM, factor models, as well as modern machine learning and deep learning solutions.&lt;/p&gt;
+&lt;p&gt;You will use popular Python libraries that, in a few lines of code, provide the means to quickly process, analyze, and draw conclusions from financial data. In this new edition, more emphasis was put on exploratory data analysis to help you visualize and better understand financial data. While doing so, you will also learn how to use Streamlit to create elegant, interactive web applications to present the results of technical analyses.&lt;/p&gt;
+&lt;p&gt;Using the recipes in this book, you will become proficient in financial data analysis, be it for personal or professional projects. You will also understand which potential issues to expect with such analyses and, more importantly, how to overcome them.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Preprocess, analyze, and visualize financial data&lt;/li&gt;
+&lt;li&gt;Explore time series modeling with statistical (exponential smoothing, ARIMA) and machine learning models&lt;/li&gt;
+&lt;li&gt;Uncover advanced time series forecasting algorithms such as Meta's Prophet&lt;/li&gt;
+&lt;li&gt;Use Monte Carlo simulations for derivatives valuation and risk assessment&lt;/li&gt;
+&lt;li&gt;Explore volatility modeling using univariate and multivariate GARCH models&lt;/li&gt;
+&lt;li&gt;Investigate various approaches to asset allocation&lt;/li&gt;
+&lt;li&gt;Learn how to approach ML-projects using an example of default prediction&lt;/li&gt;
+&lt;li&gt;Explore modern deep learning models such as Google's TabNet, Amazon's DeepAR and NeuralProphet&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is intended for financial analysts, data analysts and scientists, and Python developers with a familiarity with financial concepts. You'll learn how to correctly use advanced approaches for analysis, avoid potential pitfalls and common mistakes, and reach correct conclusions for a broad range of finance problems.&lt;/p&gt;
+&lt;p&gt;Working knowledge of the Python programming language (particularly libraries such as pandas and NumPy) is necessary.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Acquiring Financial Data&lt;/li&gt;
+&lt;li&gt;Data Preprocessing&lt;/li&gt;
+&lt;li&gt;Visualizing Financial Time Series&lt;/li&gt;
+&lt;li&gt;Exploring Financial Time Series Data&lt;/li&gt;
+&lt;li&gt;Technical Analysis and Building Interactive Dashboards&lt;/li&gt;
+&lt;li&gt;Time Series Analysis and Forecasting&lt;/li&gt;
+&lt;li&gt;Machine Learning-Based Approaches to Time Series Forecasting&lt;/li&gt;
+&lt;li&gt;Multi-Factor Models&lt;/li&gt;
+&lt;li&gt;Modelling Volatility with GARCH Class Models&lt;/li&gt;
+&lt;li&gt;Monte Carlo Simulations in Finance&lt;/li&gt;
+&lt;li&gt;Asset Allocation&lt;/li&gt;
+&lt;li&gt;Backtesting Trading Strategies&lt;/li&gt;
+&lt;li&gt;Applied Machine Learning: Identifying Credit Default&lt;/li&gt;
+&lt;li&gt;Advanced Concepts for Machine Learning Projects&lt;/li&gt;
+&lt;li&gt;Deep Learning in Finance&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Eryk Lewinson received his master's degree in Quantitative Finance from Erasmus University Rotterdam. In his professional career, he has gained experience in the practical application of data science methods while working in risk management and data science departments of two ""big 4"" companies, a Dutch neo-broker and most recently the Netherlands' largest online retailer.&lt;/p&gt;
+&lt;p&gt;Outside of work, he has written over a hundred articles about topics related to data science, which have been viewed more than 3 million times. In his free time, he enjoys playing video games, reading books, and traveling with his girlfriend.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1803243198</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781803243191</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eryk Lewinson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-18T01:03:32+00:00"/>
+        <meta name="calibre:title_sort" content="Python for Finance Cookbook: Over 80 Powerful Recipes for Effective Financial Data Analysis, 2nd Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

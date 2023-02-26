@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">390</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13040dd4-cb27-4fbd-a1ed-d88e589e9fa2</dc:identifier>
+        <dc:title>Mastering Python for Networking and Security: Leverage the Scripts and Libraries of Python Version 3.7 and Beyond to Overcome Networking and Security Issues, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Ortega, José Manuel" opf:role="aut">José Manuel Ortega</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-04T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Tackle security and networking issues using Python libraries such as Nmap, requests, asyncio, and scapy&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Enhance your Python programming skills in securing systems and executing networking tasks&lt;/li&gt;
+&lt;li&gt;Explore Python scripts to debug and secure complex networks&lt;/li&gt;
+&lt;li&gt;Learn to avoid common cyber events with modern Python scripting&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;It's now more apparent than ever that security is a critical aspect of IT infrastructure, and that devastating data breaches can occur from simple network line hacks. As shown in this book, combining the latest version of Python with an increased focus on network security can help you to level up your defenses against cyber attacks and cyber threats.&lt;/p&gt;
+&lt;p&gt;Python is being used for increasingly advanced tasks, with the latest update introducing new libraries and packages featured in the Python 3.7.4 recommended version. Moreover, most scripts are compatible with the latest versions of Python and can also be executed in a virtual environment.&lt;/p&gt;
+&lt;p&gt;This book will guide you through using these updated packages to build a secure network with the help of Python scripting. You'll cover a range of topics, from building a network to the procedures you need to follow to secure it. Starting by exploring different packages and libraries, you'll learn about various ways to build a network and connect with the Tor network through Python scripting. You will also learn how to assess a network's vulnerabilities using Python security scripting. Later, you'll learn how to achieve endpoint protection by leveraging Python packages, along with writing forensic scripts.&lt;/p&gt;
+&lt;p&gt;By the end of this Python book, you'll be able to use Python to build secure apps using cryptography and steganography techniques.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Create scripts in Python to automate security and pentesting tasks&lt;/li&gt;
+&lt;li&gt;Explore Python programming tools that are used in network security processes&lt;/li&gt;
+&lt;li&gt;Automate tasks such as analyzing and extracting information from servers&lt;/li&gt;
+&lt;li&gt;Understand how to detect server vulnerabilities and analyze security modules&lt;/li&gt;
+&lt;li&gt;Discover ways to connect to and get information from the Tor network&lt;/li&gt;
+&lt;li&gt;Focus on how to extract information with Python forensics tools&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This Python network security book is for network engineers, system administrators, or any security professional looking to overcome networking and security challenges. You will also find this book useful if you're a programmer with prior experience in Python. A basic understanding of general programming structures and the Python programming language is required before getting started.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Working with Python Scripting&lt;/li&gt;
+&lt;li&gt;System Programming Packages&lt;/li&gt;
+&lt;li&gt;Socket Programming&lt;/li&gt;
+&lt;li&gt;HTTP Programming&lt;/li&gt;
+&lt;li&gt;Connecting to the Tor Network and Discovering Hidden Services&lt;/li&gt;
+&lt;li&gt;Gathering Information from Servers&lt;/li&gt;
+&lt;li&gt;Interacting with FTP, SFTP and SSH Servers&lt;/li&gt;
+&lt;li&gt;Working with Nmap Scanner&lt;/li&gt;
+&lt;li&gt;Interacting with Vulnerability Scanners&lt;/li&gt;
+&lt;li&gt;Identifying Server Vulnerabilities in Web Applications&lt;/li&gt;
+&lt;li&gt;Security and Vulnerabilities in Python Modules&lt;/li&gt;
+&lt;li&gt;Python Tools for Forensics Analysis&lt;/li&gt;
+&lt;li&gt;Extracting Geolocation and Metadata from Documents, Images, and Browsers&lt;/li&gt;
+&lt;li&gt;Cryptography and Steganography&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;José Manuel Ortega&lt;/strong&gt; has been working as a Software Engineer and Security Researcher with focus on new technologies, open source, security and testing. His career target has been to specialize in Python and DevOps security projects with Docker. Currently he is working as a security tester engineer and his functions in the project are analysis and testing the security of applications both web and mobile environments.&lt;/p&gt;
+&lt;p&gt;He has collaborated with universities and with the official college of computer engineers presenting articles and holding some conferences. He has also been a speaker at various conferences both national and international and is very enthusiastic to learn about new technologies and loves to share his knowledge with the developers community.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781839217166</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1839217162</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;José Manuel Ortega&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-15T21:43:38+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering Python for Networking and Security: Leverage the Scripts and Libraries of Python Version 3.7 and Beyond to Overcome Networking and Security Issues, 2nd Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

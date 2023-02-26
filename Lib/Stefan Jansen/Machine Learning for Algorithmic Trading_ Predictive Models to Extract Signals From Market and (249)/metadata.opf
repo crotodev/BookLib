@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">249</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b30ffea2-3a22-4ab4-a4b2-41826affa18b</dc:identifier>
+        <dc:title>Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals From Market and Alternative Data for Systematic Trading Strategies With Python, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Jansen, Stefan" opf:role="aut">Stefan Jansen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-30T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Leverage machine learning to design and back-test automated trading strategies for real-world markets using pandas, TA-Lib, scikit-learn, LightGBM, SpaCy, Gensim, TensorFlow 2, Zipline, backtrader, Alphalens, and pyfolio.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Design, train, and evaluate machine learning algorithms that underpin automated trading strategies&lt;/li&gt;
+&lt;li&gt;Create a research and strategy development process to apply predictive modeling to trading decisions&lt;/li&gt;
+&lt;li&gt;Leverage NLP and deep learning to extract tradeable signals from market and alternative data&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;The explosive growth of digital data has boosted the demand for expertise in trading strategies that use machine learning (ML). This revised and expanded second edition enables you to build and evaluate sophisticated supervised, unsupervised, and reinforcement learning models.&lt;/p&gt;
+&lt;p&gt;This book introduces end-to-end machine learning for the trading workflow, from the idea and feature engineering to model optimization, strategy design, and backtesting. It illustrates this by using examples ranging from linear models and tree-based ensembles to deep-learning techniques from cutting edge research.&lt;/p&gt;
+&lt;p&gt;This edition shows how to work with market, fundamental, and alternative data, such as tick data, minute and daily bars, SEC filings, earnings call transcripts, financial news, or satellite images to generate tradeable signals. It illustrates how to engineer financial features or alpha factors that enable an ML model to predict returns from price data for US and international stocks and ETFs. It also shows how to assess the signal content of new features using Alphalens and SHAP values and includes a new appendix with over one hundred alpha factor examples.&lt;/p&gt;
+&lt;p&gt;By the end, you will be proficient in translating ML model predictions into a trading strategy that operates at daily or intraday horizons, and in evaluating its performance.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Leverage market, fundamental, and alternative text and image data&lt;/li&gt;
+&lt;li&gt;Research and evaluate alpha factors using statistics, Alphalens, and SHAP values&lt;/li&gt;
+&lt;li&gt;Implement machine learning techniques to solve investment and trading problems&lt;/li&gt;
+&lt;li&gt;Backtest and evaluate trading strategies based on machine learning using Zipline and Backtrader&lt;/li&gt;
+&lt;li&gt;Optimize portfolio risk and performance analysis using pandas, NumPy, and pyfolio&lt;/li&gt;
+&lt;li&gt;Create a pairs trading strategy based on cointegration for US equities and ETFs&lt;/li&gt;
+&lt;li&gt;Train a gradient boosting model to predict intraday returns using AlgoSeek's high-quality trades and quotes data&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;If you are a data analyst, data scientist, Python developer, investment analyst, or portfolio manager interested in getting hands-on machine learning knowledge for trading, this book is for you. This book is for you if you want to learn how to extract value from a diverse set of data sources using machine learning to design your own systematic trading strategies.&lt;/p&gt;
+&lt;p&gt;Some understanding of Python and machine learning techniques is required.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Machine Learning for Trading – From Idea to Execution&lt;/li&gt;
+&lt;li&gt;Market and Fundamental Data – Sources and Techniques&lt;/li&gt;
+&lt;li&gt;Alternative Data for Finance – Categories and Use Cases&lt;/li&gt;
+&lt;li&gt;Financial Feature Engineering – How to Research Alpha Factors&lt;/li&gt;
+&lt;li&gt;Portfolio Optimization and Performance Evaluation&lt;/li&gt;
+&lt;li&gt;The Machine Learning Process&lt;/li&gt;
+&lt;li&gt;Linear Models – From Risk Factors to Return Forecasts&lt;/li&gt;
+&lt;li&gt;The ML4T Workflow – From Model to Strategy Backtesting&lt;/li&gt;
+&lt;li&gt;Time-Series Models for Volatility Forecasts and Statistical Arbitrage&lt;/li&gt;
+&lt;li&gt;Bayesian ML – Dynamic Sharpe Ratios and Pairs Trading&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;(N.B. Please use the Look Inside option to see further chapters)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781839217715</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1839217715</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Stefan Jansen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-13T06:47:27+00:00"/>
+        <meta name="calibre:title_sort" content="Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals From Market and Alternative Data for Systematic Trading Strategies With Python, 2nd Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

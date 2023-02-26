@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">339</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b73b270-90fe-46b4-a990-19ddf9ab99db</dc:identifier>
+        <dc:title>Learn C the Hard Way: Practical Exercises on the Computational Subjects You Keep Avoiding</dc:title>
+        <dc:creator opf:file-as="Shaw, Zed" opf:role="aut">Zed Shaw</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-04T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;You Will Learn C!&lt;/p&gt;
+&lt;p&gt;Zed Shaw has crafted the perfect course for the beginning C programmer eager to advance their skills in any language. Follow it and you will learn the many skills early and junior programmers need to succeed–just like the hundreds of thousands of programmers Zed has taught to date! You bring discipline, commitment, persistence, and experience with any programming language; the author supplies everything else.&lt;/p&gt;
+&lt;p&gt;In Learn C the Hard Way, you’ll learn C by working through 52 brilliantly crafted exercises. Watch Zed Shaw’s teaching video and read the exercise. Type his code precisely. (No copying and pasting!) Fix your mistakes. Watch the programs run. As you do, you’ll learn what good, modern C programs look like; how to think more effectively about code; and how to find and fix mistakes far more efficiently. Most importantly, you’ll master rigorous defensive programming techniques, so you can use any language to create software that protects itself from malicious activity and defects.&lt;/p&gt;
+&lt;p&gt;Through practical projects you’ll apply what you learn to build confidence in your new skills. Shaw teaches the key skills you need to start writing excellent C software, including&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Setting up a C environment&lt;/li&gt;
+&lt;li&gt;Basic syntax and idioms&lt;/li&gt;
+&lt;li&gt;Compilation, make files, and linkers&lt;/li&gt;
+&lt;li&gt;Operators, variables, and data types&lt;/li&gt;
+&lt;li&gt;Program control&lt;/li&gt;
+&lt;li&gt;Arrays and strings&lt;/li&gt;
+&lt;li&gt;Functions, pointers, and structs&lt;/li&gt;
+&lt;li&gt;Memory allocation&lt;/li&gt;
+&lt;li&gt;I/O and files&lt;/li&gt;
+&lt;li&gt;Libraries&lt;/li&gt;
+&lt;li&gt;Data structures, including linked lists, sort, and search&lt;/li&gt;
+&lt;li&gt;Stacks and queues&lt;/li&gt;
+&lt;li&gt;Debugging, defensive coding, and automated testing&lt;/li&gt;
+&lt;li&gt;Fixing stack overflows, illegal memory access, and more&lt;/li&gt;
+&lt;li&gt;Breaking and hacking your own C code&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;It’ll Be Hard at First. But Soon, You’ll Just Get It–And That Will Feel Great!&lt;/p&gt;
+&lt;p&gt;This tutorial will reward you for every minute you put into it. Soon, you’ll know one of the world’s most powerful programming languages. You’ll be a C programmer.&lt;/p&gt;
+&lt;p&gt;Watch Zed, too! The accompanying DVD contains 5+ hours of passionate, powerful teaching: a complete C video course! If you purchase the digital edition, be sure to read "Where Are the Companion Content Files" at the end of the eBook to learn how to access the videos. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0321884922</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780321884923</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Zed Shaw&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-14T05:08:53+00:00"/>
+        <meta name="calibre:title_sort" content="Learn C the Hard Way: Practical Exercises on the Computational Subjects You Keep Avoiding"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

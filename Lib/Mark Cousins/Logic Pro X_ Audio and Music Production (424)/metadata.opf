@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">424</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0c06257-4e16-45f7-9bb5-0952d4b74e4d</dc:identifier>
+        <dc:title>Logic Pro X: Audio and Music Production</dc:title>
+        <dc:creator opf:file-as="Cousins, Mark &amp; Hepworth-Sawyer, Russ" opf:role="aut">Mark Cousins</dc:creator>
+        <dc:creator opf:file-as="Cousins, Mark &amp; Hepworth-Sawyer, Russ" opf:role="aut">Russ Hepworth-Sawyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-18T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;From initial demos to mixing and mastering, seasoned authors Mark Cousins and Russ Hepworth-Sawyer show you how to get the most from Logic Pro X. By exploring the essential workflow and the creative possibilities offered by Logic's virtual instruments and effects, Logic Pro X: Audio and Music Production leads you through the music creation and production process, giving you all the tips and tricks used by the pros to create release-quality recordings. Using full color screenshots throughout, alongside related boxouts that expand on the key concepts, Logic Pro X: Audio and Music Production is an informative and easy-to-read guide to using Logic Pro X. Key features include: Production FAQs - Instructional Walkthroughs and Knowledgebases present information clearly and answer common production-specific problems. Methods - Professional techniques for recording and editing in Logic Pro X - whether you're dealing with real musicians or cutting-edge virtual instruments. Workflow - Use Logic Pro X's tools and functions in an optimal way. Website - Access audio examples, samples (Apple Loops), Logic projects, sampler instruments, and instrument patches at www.focalpress.com/cw/cousins Logic Pro X: Audio and Music Production covers more than just the software; it will help you make the most out of every recording session and will illuminate and inspire your creative and sonic endeavors&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Routledge</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781138357471</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">iGwZwQEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Mark Cousins&quot;: &quot;&quot;, &quot;Russ Hepworth-Sawyer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-19T00:59:21+00:00"/>
+        <meta name="calibre:title_sort" content="Logic Pro X: Audio and Music Production"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

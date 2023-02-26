@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">267</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d372f877-7c88-4ec1-a981-69c6a17b345e</dc:identifier>
+        <dc:title>Personal Finance for Seniors for Dummies</dc:title>
+        <dc:creator opf:file-as="Tyson, Eric &amp; Carlson, Robert C." opf:role="aut">Eric Tyson</dc:creator>
+        <dc:creator opf:file-as="Tyson, Eric &amp; Carlson, Robert C." opf:role="aut">Robert C. Carlson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-03T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The fast and easy way for Baby Boomers to protect their financial futureAre you nearing (or already basking in) retirement? This helpful guide addresses the unique financial opportunities and challenges you'll face as you enter your golden years. &lt;/p&gt;
+&lt;p&gt;Personal Finance For Seniors For Dummies empowers you to chart your financial course for the decades to come, guiding you through the basics of creating a budget for retirement, investing accrued assets, taking advantage of governmental and nongovernmental benefits and planning for your family's future. You'll get trusted, practical information on reexamining investment strategies and rebalancing a portfolio, long-term care options, pension plans and social security, health care, Medicare, and prescription drug costs, and so much more. &lt;/p&gt;
+&lt;p&gt;Advice on how to invest, spend, and protect your wealthGuidance on wills and trustsOther titles by Tyson: Personal Finance For Dummies, Investing For Dummies, and Home Buying For DummiesPersonal Finance For Seniors For Dummies is basic enough to help novices get their arms around thorny financial issues, while also challenging advanced readers to identify areas for improvement.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">A_BWngEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780470548769</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Personal Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Money Management</dc:subject>
+        <dc:subject>Retirement Planning</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eric Tyson&quot;: &quot;&quot;, &quot;Robert C. Carlson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:09:02+00:00"/>
+        <meta name="calibre:title_sort" content="Personal Finance for Seniors for Dummies"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

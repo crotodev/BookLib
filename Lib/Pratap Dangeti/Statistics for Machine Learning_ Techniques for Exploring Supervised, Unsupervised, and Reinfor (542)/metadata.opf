@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">542</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d10c4168-39af-4702-b633-3ff90487fdbd</dc:identifier>
+        <dc:title>Statistics for Machine Learning: Techniques for Exploring Supervised, Unsupervised, and Reinforcement Learning Models With Python and R</dc:title>
+        <dc:creator opf:file-as="Dangeti, Pratap" opf:role="aut">Pratap Dangeti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-21T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Build machine learning models with a clear statistical understanding&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Learn about the statistics behind powerful predictive models using p-value, ANOVA, and F-statistics&lt;/li&gt;
+&lt;li&gt;Implement statistical computations programmatically for supervised and unsupervised learning through K-means clustering&lt;/li&gt;
+&lt;li&gt;Get to grips with the statistical aspects of machine learning with the help of this example-rich guide to R and Python&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Complex statistics in machine learning worry a lot of developers. Developing an accurate understanding of statistics will help you build robust machine learning models that are optimized for a given problem statement.&lt;/p&gt;
+&lt;p&gt;This book will teach you everything you need to perform the complex statistical computations required for machine learning. You will learn about the statistics behind supervised learning, unsupervised learning, and reinforcement learning. The book will then take you through real-world examples that discuss the statistical side of machine learning to familiarize you with it. You will come across programs for performing tasks such as modeling, parameter fitting, regression, classification, density collection, working with vectors, matrices, and more.&lt;/p&gt;
+&lt;p&gt;By the end of this machine learning book, you’ll be well-versed with the statistics required for machine learning and will be able to apply your new skills to tackle problems related to this technology.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Grasp the statistical and machine learning fundamentals necessary to build models&lt;/li&gt;
+&lt;li&gt;Understand the major differences and parallels between the statistical way and the machine learning way to solve problems&lt;/li&gt;
+&lt;li&gt;Discover how to prepare data and feed models using appropriate machine learning algorithms from R and Python packages&lt;/li&gt;
+&lt;li&gt;Analyze the results and tune the model appropriately to your own predictive goals&lt;/li&gt;
+&lt;li&gt;Acquaint yourself with the necessary fundamentals required for building supervised and unsupervised deep learning models&lt;/li&gt;
+&lt;li&gt;Delve into reinforcement learning and its application in the artificial intelligence domain&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is for developers with little to no background in statistics who want to implement machine learning in their systems. Some knowledge of R programming or Python programming will be useful.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Journey from Statistics to Machine Learning&lt;/li&gt;
+&lt;li&gt;Parallelism of Statistics and Machine Learning&lt;/li&gt;
+&lt;li&gt;Logistic Regression vs. Random Forest&lt;/li&gt;
+&lt;li&gt;Tree-Based Machine Learning models&lt;/li&gt;
+&lt;li&gt;K-Nearest Neighbors &amp;amp; Naive Bayes&lt;/li&gt;
+&lt;li&gt;Support Vector Machines &amp;amp; Neural Networks&lt;/li&gt;
+&lt;li&gt;Recommendation Engines&lt;/li&gt;
+&lt;li&gt;Unsupervised Learning&lt;/li&gt;
+&lt;li&gt;Reinforcement Learning&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Pratap Dangeti develops machine learning and deep learning solutions for structured, image, and text data at TCS, analytics and insights, innovation lab in Bangalore. He has acquired a lot of experience in both analytics and data science. He received his master's degree from IIT Bombay in its industrial engineering and operations research program. He is an artificial intelligence enthusiast. When not working, he likes to read about next-gen technologies and innovative methodologies.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781788295758</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">36117746</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B071YW2RKP</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Pratap Dangeti&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-24T21:39:41+00:00"/>
+        <meta name="calibre:title_sort" content="Statistics for Machine Learning: Techniques for Exploring Supervised, Unsupervised, and Reinforcement Learning Models With Python and R"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

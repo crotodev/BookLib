@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">558</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c09340ba-edc1-449c-8527-bc3125b6f6e7</dc:identifier>
+        <dc:title>The Fitness Mindset: Eat for Energy, Train for Tension, Manage Your Mindset, Reap the Results</dc:title>
+        <dc:creator opf:file-as="Keane, Brian" opf:role="aut">Brian Keane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;HOW WOULD IT FEEL TO HAVE THE BODY YOU’VE ALWAYS WANTED, A HUGE BOOST IN ENERGY, AND THE MINDSET TO KEEP IT FOREVER? &lt;/p&gt;
+&lt;p&gt;Have you ever felt frustrated about not getting the results you want? Do you feel you are eating the right foods and doing the correct workouts but your body still isn’t changing as quickly as you want? Are you grinding through your workday with low energy levels, praying for the next day off so you can sleep in? If this sounds familiar, then The Fitness Mindset is the book for you. &lt;/p&gt;
+&lt;p&gt;The Fitness Mindset gives you everything you need to get the body you’ve always dreamed of, ramp your energy levels through the roof and develop the mindset to keep it forever. &lt;/p&gt;
+&lt;p&gt;WHEN YOU READ THIS BOOK AND IMPLEMENT BRIAN’S PROVEN STRATEGIES, YOU WILL: &lt;/p&gt;
+&lt;p&gt;• Know exactly what foods work best for you and how to eat to increase energy, lose fat and build lean muscle &lt;br&gt;• Learn how to combine tension-style workouts and High Intensity Interval Training (HIIT) to build the body you’ve always wanted &lt;br&gt;• Build better habits and find your ‘why’ so you never lose motivation again &lt;br&gt;• Develop strategies to minimise stress, anxiety and the fear of rebounding so you can create a bulletproof body and mind &lt;br&gt;• Finally get into the best physical and mental shape of your life. &lt;/p&gt;
+&lt;p&gt;About the author: &lt;br&gt;In less than five years, Brian Keane went from a full time primary school teacher in London to one of the top online fitness coaches in Ireland and the UK, transforming thousands of lives and physiques in the process. From playing top level inter-county football as a teenager to travelling the world as a professional fitness model in his twenties, Brian reveals what he has learned in his 16 years of training, nutrition and personal development. Learn more at www.briankeanefitness.com &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Rethink Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1781332525</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781781332528</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B073PJQQC5</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">36118495</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">0EfNswEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Health</dc:subject>
+        <dc:subject>Self Help</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brian Keane&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-24T22:57:37+00:00"/>
+        <meta name="calibre:title_sort" content="Fitness Mindset: Eat for Energy, Train for Tension, Manage Your Mindset, Reap the Results, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

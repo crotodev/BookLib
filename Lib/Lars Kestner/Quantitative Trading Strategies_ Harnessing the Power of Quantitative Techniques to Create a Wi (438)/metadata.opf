@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">438</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10cf3d6a-30fd-487c-a7d9-277375691ae7</dc:identifier>
+        <dc:title>Quantitative Trading Strategies: Harnessing the Power of Quantitative Techniques to Create a Winning Trading Program</dc:title>
+        <dc:creator opf:file-as="Kestner, Lars" opf:role="aut">Lars Kestner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-07-22T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Harnessing the Power of Quantitative Techniques to Create a Winning Trading Program &lt;em&gt;Lars Kestner Quantitative Trading Strategies&lt;/em&gt; takes readers through the development and evaluation stages of today's most popular and market-proven technical trading strategies. Quantifying every subjective decision in the trading process, this analytical book evaluates the work of well-known "quants" from John Henry to Monroe Trout and introduces 12 all-new trading strategies. It debunks numerous popular misconceptions, and is certain to make waves--and change minds--in the world of technical analysis and trading.&lt;/p&gt;
+&lt;h3&gt;From the Publisher&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Lars Kestner&lt;/strong&gt; is a founding partner of proprietary trading firm Sabre II LLC and the former vice president of equity derivatives trading at Salomon Smith Barney.&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;An In-Depth Look at Today's Top Technical Trading Strategies--And How You Can Incorporate Them into Your Personal Trading Program&lt;/p&gt;
+&lt;p&gt;By combining historical market performance with modern-day technology, technical traders often exhibit uncanny, seemingly intuitive abilities to control money-draining losses while letting profits run. &lt;em&gt;Quantitative Trading Strategies&lt;/em&gt; reviews today's most popular and effective methods, and explains how to incorporate their quantitative strengths into your own trading system to dramatically improve both your entry and exit timing and risk management.&lt;/p&gt;
+&lt;p&gt;Exploring a wide range of systematic trading techniques and strategies for risk and money management, &lt;em&gt;Quantitative Trading Strategies&lt;/em&gt; examines every vital aspect of today's technical trading arena to provide you with:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Performance summaries of specific trading strategies &lt;/li&gt;
+&lt;li&gt;All-new money management approaches based on optimal leverage &lt;/li&gt;
+&lt;li&gt;Step-by-step directions for creating a system built around your own trading style &lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;For decades, millions of successful traders have relied on technical analysis to not only improve the timing of their entries and exits but also to see and avoid dangerous trades and situations. Let &lt;em&gt;Quantitative Trading Strategies&lt;/em&gt; introduce you to the best-of-the-best, and provide you with the knowledge and tools you need to create and implement a trading methodology designed to fit your trading strengths--and improve your performance in virtually any market environment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;"First and foremost, this book explores the ability of quantitative trading strategies to time the markets. My goal in writing it is to set the record straight with time tested statistics--not untested theories and market lore passed down through the ages."&lt;/strong&gt; -- &lt;strong&gt;From the Prologue&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Technical traders study--and build their trading programs around--aspects of market and investor behavior that lead to regularly occurring patterns in stock prices. These patterns can help traders dramatically improve the timing of when, and when not to, place buys and sells. And while there is never a guarantee whether a given trade will generate a profit or a loss, quantitative tools can show technicians how to identify, measure, and act upon opportunities for both reward and risk.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Quantitative Trading Strategies&lt;/em&gt; examines today's most popular and proven technical trading strategies, explaining their pluses and minuses while providing the necessary data and research findings for determining which will work best for you. Drawing on current market research as well as strategies that are both statistically sound and rigorously backtested to determine their accuracy and effectiveness, this results-focused book features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;11 new techniques for trading stocks, futures, and the newly popular relative value markets &lt;/li&gt;
+&lt;li&gt;Money management guidelines that can mean the difference between prospering--and going broke &lt;/li&gt;
+&lt;li&gt;Methods for creating and implementing your own technical trading strategies &lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Technical traders know that what has occurred before is destined to occur again, and they use this knowledge to enhance their trading performance across the board. &lt;em&gt;Quantitative Trading Strategies&lt;/em&gt; takes you through the development and evaluation stages of today's most popular technical trading techniques and--requiring nothing more than average market knowledge and math background--shows you how to accurately detect and exploit profitable patterns.&lt;/p&gt;
+&lt;p&gt;From deciding which markets to trade to developing personalized trading strategies and money management plans, &lt;em&gt;Quantitative Trading Strategies&lt;/em&gt; will give you the quantitative foundation you need to accurately buy and sell financial assets while controlling the risk associated with those assets. Along the way, it debunks numerous myths and misconceptions, and provides a clear understanding of the many profitable benefits quantitative analysis can provide traders and investors in today's technically driven marketplace.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Lars Kestner&lt;/strong&gt; is a founding partner of proprietary trading firm Sabre II LLC and the former vice president of equity derivatives trading at Salomon Smith Barney.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>McGraw Hill</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780071412391</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">zZDr-3DRMqcC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0071412395</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Public Finance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lars Kestner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-01-19T05:04:45+00:00"/>
+        <meta name="calibre:title_sort" content="Quantitative Trading Strategies: Harnessing the Power of Quantitative Techniques to Create a Winning Trading Program"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">478</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b1407cb-9afb-4be7-b18f-ece4a60622c5</dc:identifier>
+        <dc:title>How to Write a Lot: A Practical Guide to Productive Academic Writing</dc:title>
+        <dc:creator opf:file-as="Silvia, Paul J." opf:role="aut">Paul J. Silvia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;All academics need to write, but many struggle to finish their dissertations, articles, books, or grant proposals. Writing is hard work and can be difficult to wedge into a frenetic academic schedule. How can we write it all while still having a life? &lt;/p&gt;
+&lt;p&gt;In this second edition of his popular guidebook, Paul Silvia offers fresh advice to help you overcome barriers to writing and use your time more productively. After addressing some common excuses and bad habits, he provides practical strategies to motivate students, professors, researchers, and other academics to become better and more prolific writers. Silvia draws from his own experience in psychology to explain how to write, submit, and revise academic work, from journal articles to books, all without sacrificing evenings, weekends, and vacations. The tips and strategies in this second edition have been updated to apply to academic writing in most disciplines. Also new to this edition is a chapter on writing grant and fellowship proposals.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>APA LifeTools</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781433829734</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">39874447</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07HNMJV57</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">I-fetQEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Writing</dc:subject>
+        <dc:subject>Self Help</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paul J. Silvia&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-21T10:02:42+00:00"/>
+        <meta name="calibre:title_sort" content="How to Write a Lot: A Practical Guide to Productive Academic Writing"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

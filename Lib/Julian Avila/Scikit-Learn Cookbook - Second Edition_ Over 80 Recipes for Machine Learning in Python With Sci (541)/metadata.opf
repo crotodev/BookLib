@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">541</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">692cdb1e-fe4b-4451-8ee0-d37c9d5d7312</dc:identifier>
+        <dc:title>Scikit-Learn Cookbook - Second Edition: Over 80 Recipes for Machine Learning in Python With Scikit-Learn</dc:title>
+        <dc:creator opf:file-as="Avila, Julian" opf:role="aut">Julian Avila</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-16T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Learn to use scikit-learn operations and functions for Machine Learning and deep learning applications.&lt;/p&gt;
+&lt;h2&gt;About This Book&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;Handle a variety of machine learning tasks effortlessly by leveraging the power of scikit-learn&lt;/li&gt;
+&lt;li&gt;Perform supervised and unsupervised learning with ease, and evaluate the performance of your model&lt;/li&gt;
+&lt;li&gt;Practical, easy to understand recipes aimed at helping you choose the right machine learning algorithm&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;Who This Book Is For&lt;/h2&gt;
+&lt;p&gt;Data Analysts already familiar with Python but not so much with scikit-learn, who want quick solutions to the common machine learning problems will find this book to be very useful. If you are a Python programmer who wants to take a dive into the world of machine learning in a practical manner, this book will help you too.&lt;/p&gt;
+&lt;h2&gt;What You Will Learn&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;Build predictive models in minutes by using scikit-learn&lt;/li&gt;
+&lt;li&gt;Understand the differences and relationships between Classification and Regression, two types of Supervised Learning.&lt;/li&gt;
+&lt;li&gt;Use distance metrics to predict in Clustering, a type of Unsupervised Learning&lt;/li&gt;
+&lt;li&gt;Find points with similar characteristics with Nearest Neighbors.&lt;/li&gt;
+&lt;li&gt;Use automation and cross-validation to find a best model and focus on it for a data product&lt;/li&gt;
+&lt;li&gt;Choose among the best algorithm of many or use them together in an ensemble.&lt;/li&gt;
+&lt;li&gt;Create your own estimator with the simple syntax of sklearn&lt;/li&gt;
+&lt;li&gt;Explore the feed-forward neural networks available in scikit-learn&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;In Detail&lt;/h2&gt;
+&lt;p&gt;Python is quickly becoming the go-to language for analysts and data scientists due to its simplicity and flexibility, and within the Python data space, scikit-learn is the unequivocal choice for machine learning. This book includes walk throughs and solutions to the common as well as the not-so-common problems in machine learning, and how scikit-learn can be leveraged to perform various machine learning tasks effectively.&lt;/p&gt;
+&lt;p&gt;The second edition begins with taking you through recipes on evaluating the statistical properties of data and generates synthetic data for machine learning modelling. As you progress through the chapters, you will comes across recipes that will teach you to implement techniques like data pre-processing, linear regression, logistic regression, K-NN, Naïve Bayes, classification, decision trees, Ensembles and much more. Furthermore, you’ll learn to optimize your models with multi-class classification, cross validation, model evaluation and dive deeper in to implementing deep learning with scikit-learn. Along with covering the enhanced features on model section, API and new features like classifiers, regressors and estimators the book also contains recipes on evaluating and fine-tuning the performance of your model.&lt;/p&gt;
+&lt;p&gt;By the end of this book, you will have explored plethora of features offered by scikit-learn for Python to solve any machine learning problem you come across.&lt;/p&gt;
+&lt;h2&gt;Style and Approach&lt;/h2&gt;
+&lt;p&gt;This book consists of practical recipes on scikit-learn that target novices as well as intermediate users. It goes deep into the technical issues, covers additional protocols, and many more real-live examples so that you are able to implement it in your daily life scenarios.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Julian Avila&lt;/strong&gt; is a programmer and data scientist in the fields of finance and computer vision. He graduated from the Massachusetts Institute of Technology (MIT) in mathematics, where he researched quantum mechanical computation, a field involving physics, math, and computer science. While at MIT, Julian first picked up classical and flamenco guitar, machine learning, and artificial intelligence through discussions with friends in the CSAIL lab.&lt;/p&gt;
+&lt;p&gt;He started programming in middle school, including games and geometrically artistic animations. He competed successfully in math and programming and worked for several groups at MIT. Julian has written complete software projects in elegant Python with just-in-time compilation. Some memorable projects of his include a large-scale facial recognition system for videos with neural networks on GPUs, recognizing parts of neurons within pictures, and stock market trading programs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trent Hauck&lt;/strong&gt; is a data scientist living and working in the Seattle area. He grew up in Wichita, Kansas and received his undergraduate and graduate degrees from the University of Kansas.&lt;/p&gt;
+&lt;p&gt;He is the author of the book Instant Data Intensive Apps with pandas How-to, by Packt Publishing-a book that can get you up to speed quickly with pandas and other associated technologies.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781787286382</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">178728638X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Julian Avila&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-24T21:38:41+00:00"/>
+        <meta name="calibre:title_sort" content="Scikit-Learn Cookbook - Second Edition: Over 80 Recipes for Machine Learning in Python With Scikit-Learn"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

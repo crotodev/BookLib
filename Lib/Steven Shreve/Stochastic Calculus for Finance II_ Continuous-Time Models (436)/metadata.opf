@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">436</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c283a49-68a7-4eeb-87b1-a762f3bc9863</dc:identifier>
+        <dc:title>Stochastic Calculus for Finance II: Continuous-Time Models</dc:title>
+        <dc:creator opf:file-as="Shreve, Steven" opf:role="aut">Steven Shreve</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-02T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;"A wonderful display of the use of mathematical probability to derive a large set of results from a small set of assumptions. In summary, this is a well-written text that treats the key classical models of finance through an applied probability approach....It should serve as an excellent introduction for anyone studying the mathematics of the classical theory of finance." --SIAM&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;From the reviews of the first edition:&lt;/p&gt;
+&lt;p&gt;"Steven Shreve’s comprehensive two-volume Stochastic Calculus for Finance may well be the last word, at least for a while, in the flood of Master’s level books.... a detailed and authoritative reference for "quants” (formerly known as "rocket scientists”). The books are derived from lecture notes that have been available on the Web for years and that have developed a huge cult following among students, instructors, and practitioners. The key ideas presented in these works involve the mathematical theory of securities pricing based upon the ideas of classical finance.&lt;br&gt;...the beauty of mathematics is partly in the fact that it is self-contained and allows us to explore the logical implications of our hypotheses. The material of this volume of Shreve’s text is a wonderful display of the use of mathematical probability to derive a large set of results from a small set of assumptions.&lt;br&gt;In summary, this is a well-written text that treats the key classical models of finance through an applied probability approach. It is accessible to a broad audience and has been developed after years of teaching the subject. It should serve as an excellent introduction for anyone studying the mathematics of the classical theory of finance." &lt;em&gt;(SIAM, 2005)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"The contents of the book have been used successfully with students whose mathematics background consists of calculus and calculus-based probability. The text gives both precise Statements of results, plausibility arguments, and even some proofs. But more importantly, intuitive explanations, developed and refine through classroom experience with this material are provided throughout the book." &lt;em&gt;(Finanz Betrieb, 7:5, 2005)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"The origin of this two volume textbook are the well-known lecture notes on Stochastic Calculus … . The first volume contains the binomial asset pricing model. … The second volume covers continuous-time models … . This book continues the series of publications by Steven Shreve of highest quality on the one hand and accessibility on the other end. It is a must for anybody who wants to get into mathematical finance and a pleasure for experts … ." &lt;em&gt;(www.mathfinance.de, 2004)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"This is the latter of the two-volume series evolving from the author’s mathematics courses in M.Sc. Computational Finance program at Carnegie Mellon University (USA). The content of this book is organized such as to give the reader precise statements of results, plausibility arguments, mathematical proofs and, more importantly, the intuitive explanations of the financial and economic phenomena. Each chapter concludes with summary of the discussed matter, bibliographic notes, and a set of really useful exercises." (Neculai Curteanu, Zentralblatt MATH, Vol. 1068, 2005)&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Stochastic Calculus for Finance evolved from the first ten years of the Carnegie Mellon Professional Master's program in Computational Finance. The content of this book has been used successfully with students whose mathematics background consists of calculus and calculus-based probability. The text gives both precise statements of results, plausibility arguments, and even some proofs, but more importantly intuitive explanations developed and refine through classroom experience with this material are provided. The book includes a self-contained treatment of the probability theory needed for stochastic calculus, including Brownian motion and its properties. Advanced topics include foreign exchange models, forward measures, and jump-diffusion processes.&lt;/p&gt;
+&lt;p&gt;This book is being published in two volumes. This second volume develops stochastic calculus, martingales, risk-neutral pricing, exotic options and term structure models, all in continuous time.&lt;/p&gt;
+&lt;p&gt;Masters level students and researchers in mathematical finance and financial engineering will find this book useful.&lt;/p&gt;
+&lt;p&gt;Steven E. Shreve is Co-Founder of the Carnegie Mellon MS Program in Computational Finance and winner of the Carnegie Mellon Doherty Prize for sustained contributions to education. &lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Steven E. Shreve is Co-Founder of the Carnegie Mellon MS Program in Computational Finance and winner of the Carnegie Mellon Doherty Prize for sustained contributions to education. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Springer</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781441923110</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">144192311X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Steven Shreve&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-19T04:06:49+00:00"/>
+        <meta name="calibre:title_sort" content="Stochastic Calculus for Finance II: Continuous-Time Models"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

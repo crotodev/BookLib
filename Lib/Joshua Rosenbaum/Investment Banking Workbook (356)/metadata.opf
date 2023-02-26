@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">356</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c732c27b-e0d3-415c-bc3f-9c37f6ddfaf2</dc:identifier>
+        <dc:title>Investment Banking Workbook</dc:title>
+        <dc:creator opf:file-as="Rosenbaum, Joshua &amp; Pearl, Joshua" opf:role="aut">Joshua Rosenbaum</dc:creator>
+        <dc:creator opf:file-as="Rosenbaum, Joshua &amp; Pearl, Joshua" opf:role="aut">Joshua Pearl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-24T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;Investment&lt;/em&gt; &lt;em&gt;Banking WORKBOOK&lt;/em&gt; is the ideal complement to &lt;em&gt;Investment Banking, Valuation, Leveraged Buyouts, and Mergers &amp;amp; Acquisitions, Second Edition&lt;/em&gt;, enabling you to truly master and refine the core skills at the center of the world of finance. This comprehensive study guide provides an invaluable opportunity to explore your understanding of the strategies and techniques covered in the main text, before putting them to work in real-world situations.&lt;br&gt;The &lt;em&gt;WORKBOOK&lt;/em&gt; --which parallels the main book chapter by chapter--contains over 400 problem-solving exercises and multiple-choice questions.&lt;br&gt;Topics reviewed include: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Valuation and its various forms of analysis, including comparable companies, precedent transactions and discounted cash flow analysis &lt;/li&gt;
+&lt;li&gt;Leveraged buyouts--from the fundamentals of LBO economics and structure to detailed modeling and valuation&lt;/li&gt;
+&lt;li&gt;M&amp;amp;A sell-side tools and techniques, including an overview of an organized M&amp;amp;A sale process&lt;/li&gt;
+&lt;li&gt;M&amp;amp;A buy-side strategy and analysis, including a comprehensive merger consequences analysis that includes accretion/(dilution) and balance sheet effects &lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;The lessons found within will help you successfully navigate the dynamic world of investment banking and professional investing. &lt;em&gt;Investment Banking WORKBOOK&lt;/em&gt; will enable you to take your learning to the next level in terms of understanding and applying the critical financial tools necessary to be an effective finance professional.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;The ideal companion to&lt;/em&gt; &lt;strong&gt;Investment Banking&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: bold; font-style: italic"&gt;Investment Banking WORKBOOK&lt;/span&gt; is the ideal complement to &lt;span style="font-weight: bold; font-style: italic"&gt;Investment Banking: Valuation, Leveraged Buyouts, and Mergers &amp;amp; Acquisitions, Second Edition&lt;/span&gt;—enabling you to truly master and refine the core skills at the center of the world of finance. This comprehensive study guide provides an invaluable opportunity to explore your understanding of the strategies and techniques covered in the main text before putting them to work in real-world situations.&lt;/p&gt;
+&lt;p&gt;The &lt;span style="font-weight: bold; font-style: italic"&gt;WORKBOOK&lt;/span&gt; , which parallels the main book chapter by chapter, contains over 400 problem-solving exercises and multiple-choice questions.&lt;/p&gt;
+&lt;p&gt;Topics reviewed include:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Valuation and its various forms of analysis, including comparable companies, precedent transactions, and DCF analysis&lt;/li&gt;
+&lt;li&gt;Leveraged buyouts—from the fundamentals of LBO economics and structure to detailed modeling and valuation&lt;/li&gt;
+&lt;li&gt;M&amp;amp;A sell-side tools and techniques, including an overview of an organized M&amp;amp;A sale process&lt;/li&gt;
+&lt;li&gt;M&amp;amp;A buy-side strategy and analysis, including a comprehensive merger consequences analysis that includes accretion/(dilution) and balance sheet effects&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;The lessons found within will help you successfully navigate the dynamic world of investment banking, LBOs, and professional investing. &lt;span style="font-weight: bold; font-style: italic"&gt;Investment Banking WORKBOOK&lt;/span&gt; will enable you to take your learning to the next level in terms of understanding and applying the critical financial tools necessary to be an effective finance professional.&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: bold; font-style: italic"&gt;Investment Banking FOCUS NOTES&lt;/span&gt; is available for purchase for further self-study&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Joshua Rosenbaum&lt;/strong&gt; is a Managing Director at UBS Investment Bank in the Global Industrial Group. He originates, structures, and advises on M&amp;amp;A, corporate finance, and capital markets transactions. Previously, he worked at the International Finance Corporation, the direct investment division of the World Bank. He received his AB from Harvard and his MBA with Baker Scholar honors from Harvard Business School.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Joshua Pearl&lt;/strong&gt; is an investment analyst at Brahman Capital Corp. Previously, he structured and executed leveraged loan and high yield bond financings, as well as leveraged buyouts and restructurings as a Director at UBS Investment Bank in Leveraged Finance. Prior to UBS, he worked at Moelis &amp;amp; Company and Deutsche Bank. He received his BS in Business from Indiana University's Kelley School of Business.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1118456114</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781118456118</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">pEbHwAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Mergers &amp; Acquisitions</dc:subject>
+        <dc:subject>Banks &amp; Banking</dc:subject>
+        <dc:subject>EBC Converted</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joshua Rosenbaum&quot;: &quot;&quot;, &quot;Joshua Pearl&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-14T05:42:58+00:00"/>
+        <meta name="calibre:title_sort" content="Investment Banking Workbook"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

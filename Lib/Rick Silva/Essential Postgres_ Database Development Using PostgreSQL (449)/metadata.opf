@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">449</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">106e89e0-d2a6-45da-be87-b75bc63720cc</dc:identifier>
+        <dc:title>Essential Postgres: Database Development Using PostgreSQL</dc:title>
+        <dc:creator opf:file-as="Silva, Rick" opf:role="aut">Rick Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-03T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;If you want to learn the basics of Postgres development, Essential Postgres is for you. This book gets right to the point, and gives you exposure to the most used – and useful – parts of database development using Postgres version 15. Writing SQL statements, creating tables, functions, triggers, views, as well as data integrity are explained. Tips and insights that the author has picked up over his years of working with Postgres are included. &lt;/p&gt;
+&lt;p&gt;PostgreSQL, also known as Postgres, is a popular free and open source relational database management system. Postgres is a great technology to learn. It is a powerful, secure, and fast relational database system that is growing in popularity. It is a mature, stable database that has been around for over 30 years. Postgres runs on a wide variety of operating systems, including Linux, Windows, macOS, and it even runs in the cloud. Postgres helps you to maintain the integrity of your data. It has a robust set of features, and is even extensible if you ever need to do something unconventional that it doesn’t already do. &lt;/p&gt;
+&lt;p&gt;The book includes a set of online scripts that contain the SQL commands shown in the book. &lt;/p&gt;
+&lt;p&gt;■ Learn to write SQL queries&lt;br&gt;■ Learn to create, drop, and change database tables&lt;br&gt;■ Explore Postgres data types for text, integers, dates, and booleans&lt;br&gt;■ Join database tables using inner joins, outer joins, cross joins, and self-joins&lt;br&gt;■ Explore ways to compare values in your SQL queries&lt;br&gt;■ Find out how to order your query results and to group like data&lt;br&gt;■ Call Postgres built-in functions and write your own&lt;br&gt;■ Create views, materialized views, sequences, procedures, and triggers &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Independently published</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9798687854184</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08KH136G4</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Postgres</dc:subject>
+        <dc:subject>Postgres Database Admin</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rick Silva&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-19T16:46:28+00:00"/>
+        <meta name="calibre:title_sort" content="Essential Postgres: Database Development Using PostgreSQL"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">398</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1434126-1b11-4b5b-93f5-ee2244368640</dc:identifier>
+        <dc:title>Hands-On Financial Trading With Python: A Practical Guide to Using Zipline and Other Python Libraries for Backtesting Trading Strategies</dc:title>
+        <dc:creator opf:file-as="Pik, Jiri &amp; Ghosh, Sourav" opf:role="aut">Jiri Pik</dc:creator>
+        <dc:creator opf:file-as="Pik, Jiri &amp; Ghosh, Sourav" opf:role="aut">Sourav Ghosh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Discover how to build and backtest algorithmic trading strategies with ZiplineKey Features: Get to grips with market data and stock analysis and visualize data to gain quality insightsFind out how to systematically approach quantitative research and strategy generation/backtesting in algorithmic tradingLearn how to navigate the different features in Python's data analysis librariesBook Description: Algorithmic trading helps you stay ahead of the markets by devising strategies in quantitative analysis to gain profits and cut losses. &lt;/p&gt;
+&lt;p&gt;The book starts by introducing you to algorithmic trading and explaining why Python is the best platform for developing trading strategies. You'll then cover quantitative analysis using Python, and learn how to build algorithmic trading strategies with Zipline using various market data sources. Using Zipline as the backtesting library allows access to complimentary US historical daily market data until 2018. As you advance, you will gain an in-depth understanding of Python libraries such as NumPy and pandas for analyzing financial datasets, and explore Matplotlib, statsmodels, and scikit-learn libraries for advanced analytics. You'll also focus on time series forecasting, covering pmdarima and Facebook Prophet. &lt;/p&gt;
+&lt;p&gt;By the end of this trading book, you will be able to build predictive trading signals, adopt basic and advanced algorithmic trading strategies, and perform portfolio optimization. &lt;/p&gt;
+&lt;p&gt;What You Will Learn: Discover how quantitative analysis works by covering financial statistics and ARIMAUse core Python libraries to perform quantitative research and strategy development using real datasetsUnderstand how to access financial and economic data in PythonImplement effective data visualization with MatplotlibApply scientific computing and data visualization with popular Python librariesBuild and deploy backtesting algorithmic trading strategiesWho this book is for: This book is for data analysts and financial traders who want to explore how to design algorithmic trading strategies using Python's core libraries. If you are looking for a practical guide to backtesting algorithmic trading strategies and building your own strategies, then this book is for you. Beginner-level working knowledge of Python programming and statistics will be helpful.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781838982881</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ZzE2zgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Financial Analysis</dc:subject>
+        <dc:subject>Trading</dc:subject>
+        <dc:subject>Investing</dc:subject>
+        <dc:subject>Investing Strategies</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jiri Pik&quot;: &quot;&quot;, &quot;Sourav Ghosh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-18T04:59:10+00:00"/>
+        <meta name="calibre:title_sort" content="Hands-On Financial Trading With Python: A Practical Guide to Using Zipline and Other Python Libraries for Backtesting Trading Strategies"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

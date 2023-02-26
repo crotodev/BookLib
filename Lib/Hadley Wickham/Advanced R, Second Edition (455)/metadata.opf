@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">455</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2ad694a-3518-456f-9e68-46cbda98895b</dc:identifier>
+        <dc:title>Advanced R, Second Edition</dc:title>
+        <dc:creator opf:file-as="Wickham, Hadley" opf:role="aut">Hadley Wickham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-24T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Advanced R&lt;/strong&gt; helps you understand how R works at a fundamental level. It is designed for R programmers who want to deepen their understanding of the language, and programmers experienced in other languages who want to understand what makes R different and special. &lt;/p&gt;
+&lt;p&gt;This book will teach you the foundations of R; three fundamental programming paradigms (functional, object-oriented, and metaprogramming); and powerful techniques for debugging and optimising&lt;br&gt;your code. &lt;/p&gt;
+&lt;p&gt;By reading this book, you will learn: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;The difference between an object and its name, and why the distinction is important&lt;/li&gt;
+&lt;li&gt;The important vector data structures, how they fit together, and how you can pull them apart using subsetting &lt;/li&gt;
+&lt;li&gt;The fine details of functions and environments &lt;/li&gt;
+&lt;li&gt;The condition system, which powers messages, warnings, and errors&lt;/li&gt;
+&lt;li&gt;The powerful functional programming paradigm, which can replace many for loops&lt;/li&gt;
+&lt;li&gt;The three most important OO systems: S3, S4, and R6&lt;/li&gt;
+&lt;li&gt;The tidy eval toolkit for metaprogramming, which allows you to manipulate code and control evaluation&lt;/li&gt;
+&lt;li&gt;Effective debugging techniques that you can deploy, regardless of how your code is run&lt;/li&gt;
+&lt;li&gt;How to find and remove performance bottlenecks&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;The second edition is a comprehensive update: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;New foundational chapters: "Names and values," "Control flow," and "Conditions" &lt;/li&gt;
+&lt;li&gt;comprehensive coverage of object oriented programming with chapters on S3, S4, R6, and how to choose between them&lt;/li&gt;
+&lt;li&gt;Much deeper coverage of metaprogramming, including the new tidy evaluation framework&lt;/li&gt;
+&lt;li&gt;use of new package like rlang (http://rlang.r-lib.org), which provides a clean interface to low-level operations, and purr (http://purrr.tidyverse.org/) for functional programming&lt;/li&gt;
+&lt;li&gt;Use of color in code chunks and figures &lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Hadley Wickham&lt;/strong&gt; is Chief Scientist at RStudio, an Adjunct Professor at Stanford University and the University of Auckland, and a member of the R Foundation. He is the lead developer of the tidyverse, a collection of R packages, including ggplot2 and dplyr, designed to support data science. He is also the author of &lt;em&gt;R for Data Science&lt;/em&gt; (with Garrett Grolemund), &lt;em&gt;R Packages&lt;/em&gt; , and &lt;em&gt;ggplot2: Elegant Graphics for Data Analysis&lt;/em&gt;. &lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"The development of progressive data analysis tools that are technically excellent creates a superior opportunity for us as data science users. The concepts of this book can enhance the overall user experience and increase the likelihood that the developed tools become preferred tools accomplishing the desired purpose. Learning from Wickham's vast experience in R coding improves tools that provide targeted users the ability to be more efficient, clearer R analysis code writers, better debuggers of their own syntax errors, and positioned to enjoy faster performance time. These are many of the advantages I have enjoyed using tidyverse developed by Wickham with the " &lt;em&gt;Advanced R&lt;/em&gt; " philosophy." ~ &lt;em&gt;Technometrics&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"The book is packed with a ton of information, insights, and knowledge drawn from the author's own experience. The approach will be appreciated by the right audience – the audience that is looking for a deeper understanding of the R language. At times, the writing style reveals a personal reflection of how the author's knowledge of the language has evolved. This is beautiful."&lt;br&gt;&lt;em&gt;~ISCB News&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Hadley Wickham&lt;/strong&gt; is Chief Scientist at RStudio, an Adjunct Professor at Stanford University and the University of Auckland, and a member of the R Foundation. He is the lead developer of the tidyverse, a collection of R packages, including ggplot2 and dplyr, designed to support data science. He is also the author of &lt;em&gt;R for Data Science&lt;/em&gt; (with Garrett Grolemund), &lt;em&gt;R Packages&lt;/em&gt; , and &lt;em&gt;ggplot2: elegant graphics for data analysis&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>CRC Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0367255375</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780367255374</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">JAOaDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hadley Wickham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-20T17:17:19+00:00"/>
+        <meta name="calibre:title_sort" content="Advanced R, Second Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">288</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ccb493ad-6a2c-4d08-b764-d969a87be49b</dc:identifier>
+        <dc:title>Python Machine Learning: Machine Learning and Deep Learning With Python, Scikit-Learn, and TensorFlow</dc:title>
+        <dc:creator opf:file-as="Raschka, Sebastian &amp; Mirjalili, Vahid" opf:role="aut">Sebastian Raschka</dc:creator>
+        <dc:creator opf:file-as="Raschka, Sebastian &amp; Mirjalili, Vahid" opf:role="aut">Vahid Mirjalili</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-23T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Key Features A practical approach to the frameworks of data science, machine learning, and deep learning Use the most powerful Python libraries to implement machine learning and deep learning Learn best practices to improve and optimize your machine learning systems and algorithms Book Description &lt;/p&gt;
+&lt;p&gt;Machine learning is eating the software world, and now deep learning is extending machine learning. This book is for developers and data scientists who want to master the world of artificial intelligence, with a practical approach to understanding and implementing machine learning, and how to apply the power of deep learning with Python.&lt;/p&gt;
+&lt;p&gt;This Second Edition of Sebastian Raschka’s Python Machine Learning is thoroughly updated to use the most powerful and modern Python open-source libraries, so that you can understand and work at the cutting-edge of machine learning, neural networks, and deep learning.&lt;/p&gt;
+&lt;p&gt;Written for developers and data scientists who want to create practical machine learning code, the authors have extended and modernized this best-selling book, to now include the influential TensorFlow library, and the Keras Python neural network library. The Scikit-learn code has also been fully updated to include recent innovations. The result is a new edition of this classic book at the cutting edge of machine learning.&lt;/p&gt;
+&lt;p&gt;Readers new to machine learning will find this classic book offers the practical knowledge and rich techniques they need to create and contribute to machine learning, deep learning, and modern data analysis. Raschka and Mirjalili introduce you to machine learning and deep learning algorithms, and show you how to apply them to practical industry challenges. By the end of the book, you’ll be ready to meet the new data analysis opportunities in today’s world .&lt;/p&gt;
+&lt;p&gt;Readers of the first edition will be delighted to find a new balance of classical ideas and modern insights into machine learning. Every chapter has been critically updated, and there are new chapters on key technologies. Readers can learn and work with TensorFlow more deeply than ever before, and essential coverage of the Keras neural network library has been added, along with the most recent updates to Scikit-learn. Raschka and Mirjalili have updated this book to meet the most modern areas of machine learning, to give developers and data scientists a fresh and practical Python journey into machine learning.&lt;/p&gt;
+&lt;p&gt;What you will learn Use the key frameworks of data science, machine learning, and deep learning Ask new questions of your data through machine learning models and neural networks Work with the most powerful Python open-source libraries in machine learning Build deep learning applications using Keras and TensorFlow Embed your machine learning model in accessible web applications Predict continuous target outcomes using regression analysis Uncover hidden patterns and structures in data with clustering Analyze images using deep learning techniques Use sentiment analysis to delve deeper into textual and social media data &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0742K7HYF</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">35911519</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sebastian Raschka&quot;: &quot;&quot;, &quot;Vahid Mirjalili&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-13T07:57:23+00:00"/>
+        <meta name="calibre:title_sort" content="Python Machine Learning: Machine Learning and Deep Learning With Python, Scikit-Learn, and TensorFlow"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

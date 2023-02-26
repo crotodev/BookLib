@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">591</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2cdca689-889b-4e3e-a049-bc1b6dd9fa27</dc:identifier>
+        <dc:title>Machine Learning for Economics and Finance in Tensorflow 2: Deep Learning Models for Research and Industry</dc:title>
+        <dc:creator opf:file-as="Hull, Isaiah" opf:role="aut">Isaiah Hull</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-26T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Machine learning has taken time to move into the space of academic economics. This is because empirical research in economics is concentrated on the identification of causal relationships in parsimonious statistical models; whereas machine learning is oriented towards prediction and is generally uninterested in either causality or parsimony. That leaves a gap for students, academics, and professionals who lack a standard reference on machine learning for economics and finance. &lt;/p&gt;
+&lt;p&gt;This book focuses on economic and financial problems with an empirical dimension, where machine learning methods may offer something of value. This includes coverage of a variety of discriminative deep learning models (DNNs, CNNs, LSTMs, and DQNs), generative machine learning models (GANs and VAEs), and tree-based models. It also covers the intersection of empirical methods in economics and machine learning, including regression analysis, natural language processing, and dimensionality reduction. &lt;/p&gt;
+&lt;p&gt;TensorFlow offers a toolset that can be used to define and solve any graph-based model, including those commonly used in economics. This book is structured to teach through a sequence of complete examples, each framed in terms of a specific economic problem of interest or topic. This simplifies otherwise complicated concepts, enabling the reader to solve workhorse theoretical models in economics and finance using TensorFlow. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You'll Learn&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Define, train, and evaluate machine learning models in TensorFlow 2&lt;/li&gt;
+&lt;li&gt;Apply fundamental concepts in machine learning, such as deep learning and natural language processing, to economic and financial problems &lt;/li&gt;
+&lt;li&gt;Solve theoretical models in economics&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Who This Book Is For&lt;/strong&gt; &lt;strong&gt;&lt;br&gt;&lt;/strong&gt;Students, data scientists working in economics and finance, public and private sector economists, and academic social scientists&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Machine learning has taken time to move into the space of academic economics. This is because empirical research in economics is concentrated on the identification of causal relationships in parsimonious statistical models; whereas machine learning is oriented towards prediction and is generally uninterested in either causality or parsimony. That leaves a gap for students, academics, and professionals who lack a standard reference on machine learning for economics and finance.&lt;br&gt;This book focuses on economic and financial problems with an empirical dimension, where machine learning methods may offer something of value. This includes coverage of a variety of discriminative deep learning models (DNNs, CNNs, LSTMs, and DQNs), generative machine learning models (GANs and VAEs), and tree-based models. It also covers the intersection of empirical methods in economics and machine learning, including regression analysis, natural language processing, and dimensionality reduction.&lt;br&gt;TensorFlow offers a toolset that can be used to define and solve any graph-based model, including those commonly used in economics. This book is structured to teach through a sequence of complete examples, each framed in terms of a specific economic problem of interest or topic. This simplifies otherwise complicated concepts, enabling the reader to solve workhorse theoretical models in economics and finance using TensorFlow.&lt;br&gt;&lt;strong&gt;You will:&lt;/strong&gt; • Define, train, and evaluate machine learning models in TensorFlow 2• Apply fundamental concepts in machine learning, such as deep learning and natural language processing, to economic and financial problems • Solve theoretical models in economics &lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Isaiah Hull&lt;/strong&gt; received his PhD in Economics from Boston College in 2013 and has since worked in the Research Division at Sweden’s Central Bank. He has published numerous articles in academic journals primarily concentrated in computational economics with applications in macroeconomics, finance, and housing. Most of his recent work makes use of techniques from machine learning. He also regularly presents at conferences on machine learning and big data in economics. And Isaiah is an accomplished teacher with experience teaching TensorFlow 2.0. Currently, he’s working on a project to introduce quantum computing to economists.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1484263723</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">55841732</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">T0TAzQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484263723</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <dc:subject>Deep Learning</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Isaiah Hull&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-30T03:59:17+00:00"/>
+        <meta name="calibre:title_sort" content="Machine Learning for Economics and Finance in Tensorflow 2: Deep Learning Models for Research and Industry"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">112</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f1f6940-b1be-4def-b674-75359259e357</dc:identifier>
+        <dc:title>Detecting Regime Change in Computational Finance: Data Science, Machine Learning and Algorithmic Trading</dc:title>
+        <dc:creator opf:file-as="Chen, Jun" opf:role="aut">Jun Chen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Based on interdisciplinary research into "Directional Change", a new data-driven approach to financial data analysis, Detecting Regime Change in Computational Finance: Data Science, Machine Learning and Algorithmic Trading applies machine learning to financial market monitoring and algorithmic trading. Directional Change is a new way of summarising price changes in the market. Instead of sampling prices at fixed intervals (such as daily closing in time series), it samples prices when the market changes direction ("zigzags"). By sampling data in a different way, this book lays out concepts which enable the extraction of information that other market participants may not be able to see. The book includes a Foreword by Richard Olsen and explores the following topics:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Data science: as an alternative to time series, price movements in a market can be summarised as directional changes&lt;/li&gt;
+&lt;li&gt;Machine learning for regime change detection: historical regime changes in a market can be discovered by a Hidden Markov Model&lt;/li&gt;
+&lt;li&gt;Regime characterisation: normal and abnormal regimes in historical data can be characterised using indicators defined under Directional Change&lt;/li&gt;
+&lt;li&gt;Market Monitoring: by using historical characteristics of normal and abnormal regimes, one can monitor the market to detect whether the market regime has changed&lt;/li&gt;
+&lt;li&gt;Algorithmic trading: regime tracking information can help us to design trading algorithms&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;It will be of great interest to researchers in computational finance, machine learning and data science.&lt;/p&gt;
+&lt;p&gt;About the Authors&lt;/p&gt;
+&lt;p&gt;Jun Chen received his PhD in computational finance from the Centre for Computational Finance and Economic Agents, University of Essex in 2019.&lt;/p&gt;
+&lt;p&gt;Edward P K Tsang is an Emeritus Professor at the University of Essex, where he co-founded the Centre for Computational Finance and Economic Agents in 2002.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Chapman and Hall/CRC</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780367536282</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0367536285</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Algorithmic Trading</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Financial Analysis</dc:subject>
+        <dc:subject>Financial Engineering</dc:subject>
+        <dc:subject>Financial Modeling</dc:subject>
+        <dc:subject>Machine Learning</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jun Chen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-12-26T19:13:50+00:00"/>
+        <meta name="calibre:title_sort" content="Detecting Regime Change in Computational Finance: Data Science, Machine Learning and Algorithmic Trading"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

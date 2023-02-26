@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">355</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95843b58-3c93-4c6c-954c-ef5d2413add8</dc:identifier>
+        <dc:title>Lessons in Corporate Finance: A Case Studies Approach to Financial Tools, Financial Policies, and Valuation</dc:title>
+        <dc:creator opf:file-as="Asquith, Paul &amp; Weiss, Lawrence A." opf:role="aut">Paul Asquith</dc:creator>
+        <dc:creator opf:file-as="Asquith, Paul &amp; Weiss, Lawrence A." opf:role="aut">Lawrence A. Weiss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-26T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;An intuitive introduction to fundamental corporate finance concepts and methods Lessons in Corporate Finance, Second Edition offers a comprehensive introduction to the subject, using a unique interactive question and answer-based approach. Asking a series of increasingly difficult questions, this text provides both conceptual insight and specific numerical examples. Detailed case studies encourage class discussion and provide real-world context for financial concepts. The book provides a thorough coverage of corporate finance including ratio and pro forma analysis, capital structure theory, investment and financial policy decisions, and valuation and cash flows provides a solid foundational knowledge of essential topics. This revised and updated second edition includes new coverage of the U.S. Tax Cuts and Jobs Act of 2017 and its implications for corporate finance valuation. Written by acclaimed professors from MIT and Tufts University, this innovative text integrates academic research with practical application to provide an in-depth learning experience. Chapter summaries and appendices increase student comprehension. Material is presented from the perspective of real-world chief financial officers making decisions about how firms obtain and allocate capital, including how to: Manage cash flow and make good investment and financing decisions Understand the five essential valuation methods and their sub-families Execute leveraged buyouts, private equity financing, and mergers and acquisitions Apply basic corporate finance tools, techniques, and policies Lessons in Corporate Finance, Second Edition provides an accessible and engaging introduction to the basic methods and principles of corporate finance. From determining a firm’s financial health to valuation nuances, this text provides the essential groundwork for independent investigation and advanced study.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">a_GKDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781119537830</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Corporate Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paul Asquith&quot;: &quot;&quot;, &quot;Lawrence A. Weiss&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-14T05:41:34+00:00"/>
+        <meta name="calibre:title_sort" content="Lessons in Corporate Finance: A Case Studies Approach to Financial Tools, Financial Policies, and Valuation"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

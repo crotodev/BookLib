@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">502</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ea7b21d-835d-4d9a-bac6-a8632e2a1872</dc:identifier>
+        <dc:title>Investment Banking for Dummies</dc:title>
+        <dc:creator opf:file-as="Johnson, Robert" opf:role="aut">Robert Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-10T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Enrich your career with a review of investment banking basics&lt;/p&gt;
+&lt;p&gt;One of the most lucrative fields in business, investment banking frequently perplexes even banking professionals working within its complex laws. &lt;em&gt;Investment Banking For Dummies&lt;/em&gt; remedies common misconceptions with a straightforward assessment of banking fundamentals. Written by experts in stock market proceedings, this book runs parallel to an introductory course in investment banking. It clearly outlines strategies for risk management, key investment banking operations, the latest information on competition and government regulations, and relationships between leveraged buyout funds, hedge funds, and corporate and institutional clients. With this reference, you can ace investment banking courses and grasp the radical changes that have revamped the stock market since the financial crisis.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Thoroughly addresses the dramatic financial changes that have occurred in recent years&lt;/li&gt;
+&lt;li&gt;Outlines expectations to prepare you for the future&lt;/li&gt;
+&lt;li&gt;Teaches the practical aspects of finance and investment banking, how to value a company, and how to construct a financial model&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;No serious business student or banking professional should be without the basic knowledge of issuing bonds, stocks, and other financial products outlined in this excellent resource.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>For Dummies</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1118615778</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781118615775</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Johnson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-21T16:24:39+00:00"/>
+        <meta name="calibre:title_sort" content="Investment Banking for Dummies"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">537</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3df0df91-b728-4a1d-a4be-4443eb690436</dc:identifier>
+        <dc:title>The Definitive Book of Body Language</dc:title>
+        <dc:creator opf:file-as="Pease, Barbara &amp; Pease, Allan" opf:role="aut">Barbara Pease</dc:creator>
+        <dc:creator opf:file-as="Pease, Barbara &amp; Pease, Allan" opf:role="aut">Allan Pease</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Available for the first time in the United States, this international bestseller reveals the secrets of nonverbal communication to give you confidence and control in any face-to-face encounter–from making a great first impression and acing a job interview to finding the right partner. &lt;/p&gt;
+&lt;p&gt;It is a scientific fact that people’s gestures give away their true intentions. Yet most of us don’t know how to read body language–and don’t realize how our own physical movements speak to others. Now the world’s foremost experts on the subject share their techniques for reading body language signals to achieve success in every area of life. &lt;/p&gt;
+&lt;p&gt;Drawing upon more than thirty years in the field, as well as cutting-edge research from evolutionary biology, psychology, and medical technologies that demonstrate what happens in the brain, the authors examine each component of body language and give you the basic vocabulary to read attitudes and emotions through behavior. &lt;/p&gt;
+&lt;p&gt;Discover:&lt;br&gt;• How palms and handshakes are used to gain control&lt;br&gt;• The most common gestures of liars&lt;br&gt;• How the legs reveal what the mind wants to do&lt;br&gt;• The most common male and female courtship gestures and signals&lt;br&gt;• The secret signals of cigarettes, glasses, and makeup&lt;br&gt;• The magic of smiles–including smiling advice for women&lt;br&gt;• How to use nonverbal cues and signals to communicate more effectively and get the reactions you want &lt;/p&gt;
+&lt;p&gt;Filled with fascinating insights, humorous observations, and simple strategies that you can apply to any situation, this intriguing book will enrich your communication with and understanding of others–as well as yourself.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bantam</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553804720</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">gftvDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0553804723</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">262731</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Self Help</dc:subject>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Barbara Pease&quot;: &quot;&quot;, &quot;Allan Pease&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-24T17:43:26+00:00"/>
+        <meta name="calibre:title_sort" content="Definitive Book of Body Language, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

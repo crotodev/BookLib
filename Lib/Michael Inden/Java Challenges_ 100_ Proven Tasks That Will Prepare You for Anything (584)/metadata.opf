@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">584</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31a802c8-83f5-4286-bf23-2d27e0c53cba</dc:identifier>
+        <dc:title>Java Challenges: 100+ Proven Tasks That Will Prepare You for Anything</dc:title>
+        <dc:creator opf:file-as="Inden, Michael" opf:role="aut">Michael Inden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-04T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Expand your knowledge of Java with this entertaining learning guide, which features 100+ exercises and programming challenges. &lt;em&gt;Java Challenges&lt;/em&gt; will prepare you for your next exam or job interview, and covers many practical topics, such as strings, arrays, data structures, recursion, and date and time. The APIs and other material included in this book are Java 17 compatible.&lt;/p&gt;
+&lt;p&gt;Each topic is addressed in its own separate chapter, starting with an introduction to the basics and followed by multiple exercises of varying degrees of difficulty, helping you to improve your programming skills effectively. Detailed sample solutions, including the algorithms used for all tasks, are included to maximize your understanding of each area. &lt;/p&gt;
+&lt;p&gt;Author &lt;strong&gt;Michael Inden&lt;/strong&gt; also describes alternative solutions and analyzes possible pitfalls and typical errors. Three appendices round out the book: one covering JShell, which is often helpful for trying out the code snippets and examples in the book, followed by an introduction to JUnit 5 for unit testing and verifying solutions, while the final appendix explains O-notation for estimating performance.&lt;/p&gt;
+&lt;p&gt;After reading this book, you'll be prepared to take the next step in your career or tackle your next personal project. All source code is freely available for download via the Apress website.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Will Learn&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Improve your Java knowledge by solving enjoyable but challenging programming puzzles&lt;/li&gt;
+&lt;li&gt;Solve mathematical problems, recursions, strings, arrays and more&lt;/li&gt;
+&lt;li&gt;Manage data processing and data structures like lists, sets, maps&lt;/li&gt;
+&lt;li&gt;Handle advanced recursion as well as binary trees, sorting and searching&lt;/li&gt;
+&lt;li&gt;Gamify key fundamentals for fun and easier reinforcement&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For&lt;/p&gt;
+&lt;p&gt;Professional software developers, makers, as well as computer science teachers and students. At least some prior experience with Java programming is recommended. &lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Expand your knowledge of Java with this entertaining learning guide, which features 100+ exercises and programming challenges. &lt;em&gt;Java Challenges&lt;/em&gt; will prepare you for your next exam or job interview, and covers many practical topics, such as strings, arrays, data structures, recursion, and date and time. The APIs and other material included in this book are Java 17 compatible.&lt;/p&gt;
+&lt;p&gt;Each topic is addressed in its own separate chapter, starting with an introduction to the basics and followed by multiple exercises of varying degrees of difficulty, helping you to improve your programming skills effectively. Detailed sample solutions, including the algorithms used for all tasks, are included to maximize your understanding of each area. &lt;/p&gt;
+&lt;p&gt;Author &lt;strong&gt;Michael Inden&lt;/strong&gt; also describes alternative solutions and analyzes possible pitfalls and typical errors. Three appendices round out the book: one covering JShell, which is often helpful for trying out the code snippets and examples in the book, followed by an introduction to JUnit 5 for unit testing and verifying solutions, while the final appendix explains O-notation for estimating performance.&lt;/p&gt;
+&lt;p&gt;After reading this book, you'll be prepared to take the next step in your career or tackle your next personal project. All source code is freely available for download via the Apress website.&lt;/p&gt;
+&lt;p&gt;You will:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Improve your Java knowledge by solving enjoyable but challenging programming puzzles&lt;/li&gt;
+&lt;li&gt;Solve mathematical problems, recursions, strings, arrays and more&lt;/li&gt;
+&lt;li&gt;Manage data processing and data structures like lists, sets, maps&lt;/li&gt;
+&lt;li&gt;Handle advanced recursion as well as binary trees, sorting and searching&lt;/li&gt;
+&lt;li&gt;Gamify key fundamentals for fun and easier reinforcement&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Michael Inden is an Oracle-certified Java developer with over 20 years of professional experience designing complex software systems for international companies. There, he has worked in various roles such as SW developer, SW architect, consultant, team leader, CTO, head of academy, and trainer. Currently, he is working as a freelancer. &lt;br&gt;His special interests are creating high-quality applications with ergonomic GUIs, developing and solving programming puzzles, and coaching. He likes to pass on his knowledge and has led various courses and talks, both internally and externally, as well as at conferences such as JAX/W-JAX, JAX London, and Oracle Code One. &lt;br&gt;Besides, he is also an author of technical books. His german books, among others "Der Weg zum Java-Profi", Java Challenge", "Python Challenge" are all published by dpunkt.verlag. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484273944</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">148427394X</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">HHSQzgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Study Aids</dc:subject>
+        <dc:subject>Study &amp; Test-Taking Skills</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Inden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-28T16:24:43+00:00"/>
+        <meta name="calibre:title_sort" content="Java Challenges: 100+ Proven Tasks That Will Prepare You for Anything"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

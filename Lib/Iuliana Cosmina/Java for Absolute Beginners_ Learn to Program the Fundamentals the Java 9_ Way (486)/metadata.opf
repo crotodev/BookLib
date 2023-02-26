@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">486</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2c5b038-3360-4913-bb09-57b5eb43549f</dc:identifier>
+        <dc:title>Java for Absolute Beginners: Learn to Program the Fundamentals the Java 9+ Way</dc:title>
+        <dc:creator opf:file-as="Cosmina, Iuliana" opf:role="aut">Iuliana Cosmina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-05T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Write your first code in Java using simple, step-by-step examples that model real-word objects and events, making learning easy. With this book you’ll be able to pick up the concepts without fuss. &lt;em&gt;Java for Absolute Beginners&lt;/em&gt; teaches Java development in language anyone can understand, giving you the best possible start. You’ll see clear code descriptions and layout so that you can get your code running as soon as possible. After reading this book, you'll come away with the basics to get started writing programs in Java.&lt;/p&gt;
+&lt;p&gt;Author Iuliana Cosmina focuses on practical knowledge and getting up to speed quickly―all the bits and pieces a novice needs to get started programming in Java. First, you’ll discover how Java is executed, what type of language it is, and what it is good for. With the theory out of the way, you’ll install Java, choose an editor such as IntelliJ IDEA, and write your first simple Java program. Along the way you’ll compile and execute this program so it can run on any platform that supports Java. As part of this tutorial you’ll see how to write high-quality code by following conventions and respecting well-known programming principles, making your projects more professional and efficient.&lt;/p&gt;
+&lt;p&gt;Finally, alongside the core features of Java, you’ll learn skills in some of the newest and most exciting features of the language: Generics, Lambda expressions, modular organization, local-variable type inference, and local variable syntax for Lambda expressions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Java for Absolute Beginners&lt;/em&gt; gives you all you need to start your Java 9+ programming journey. No experience necessary.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You'll Learn&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Use data types, operators, and the new stream API &lt;/li&gt;
+&lt;li&gt;Install and use a build tool such as Gradle &lt;/li&gt;
+&lt;li&gt;Build interactive Java applications with JavaFX &lt;/li&gt;
+&lt;li&gt;Exchange data using the new JSON APIs &lt;/li&gt;
+&lt;li&gt;Play with images using multi-resolution APIs &lt;/li&gt;
+&lt;li&gt;Use the publish-subscribe framework &lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For&lt;/p&gt;
+&lt;p&gt;Those who are new to programming and who want to start with Java.&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Iuliana Cosmina&lt;/strong&gt; is currently a Software Engineer for NCR Edinburgh. She has been writing Java code since 2002 and contributed to various types of applications such as experimental search engines, ERPs, track and trace, and banking. During her career, she has been a teacher, a team leader, software architect, DevOps professional and software manager. &lt;/p&gt;
+&lt;p&gt;She is a Spring-certified Professional, as defined by Pivotal, the makers of Spring Framework, Boot, and other tools, and considers Spring the best Java framework to work with.&lt;/p&gt;
+&lt;p&gt;When she is not programming, she spends her time reading, blogging, learning to play piano, travelling, hiking or biking.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">urd9DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484237786</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">40277000</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484237773</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Iuliana Cosmina&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-21T16:07:16+00:00"/>
+        <meta name="calibre:title_sort" content="Java for Absolute Beginners: Learn to Program the Fundamentals the Java 9+ Way"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">556</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfaf1799-98e3-47fb-86f3-6d7827529d9e</dc:identifier>
+        <dc:title>Python Artificial Intelligence Projects for Beginners: Get Up and Running With Artificial Intelligence Using 8 Smart and Exciting AI Applications</dc:title>
+        <dc:creator opf:file-as="Eckroth, Joshua" opf:role="aut">Joshua Eckroth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-31T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Build smart applications by implementing real-world artificial intelligence projectsKey Features: Explore a variety of AI projects with PythonGet well-versed with different types of neural networks and popular deep learning algorithmsLeverage popular Python deep learning libraries for your AI projectsBook Description: Artificial Intelligence (AI) is the newest technology that's being employed among varied businesses, industries, and sectors. Python Artificial Intelligence Projects for Beginners demonstrates AI projects in Python, covering modern techniques that make up the world of Artificial Intelligence. &lt;/p&gt;
+&lt;p&gt;This book begins with helping you to build your first prediction model using the popular Python library, scikit-learn. You will understand how to build a classifier using an effective machine learning technique, random forest, and decision trees. With exciting projects on predicting bird species, analyzing student performance data, song genre identification, and spam detection, you will learn the fundamentals and various algorithms and techniques that foster the development of these smart applications. In the concluding chapters, you will also understand deep learning and neural network mechanisms through these projects with the help of the Keras library. &lt;/p&gt;
+&lt;p&gt;By the end of this book, you will be confident in building your own AI projects with Python and be ready to take on more advanced projects as you progressWhat You Will Learn: Build a prediction model using decision trees and random forestUse neural networks, decision trees, and random forests for classificationDetect YouTube comment spam with a bag-of-words and random forestsIdentify handwritten mathematical symbols with convolutional neural networksRevise the bird species identifier to use imagesLearn to detect positive and negative sentiment in user reviewsWho this book is for: Python Artificial Intelligence Projects for Beginners is for Python developers who want to take their first step into the world of Artificial Intelligence using easy-to-follow projects. Basic working knowledge of Python programming is expected so that you're able to play around with code&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">41219996</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781789539462</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">itzVuQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07G47PJKB</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Joshua Eckroth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-24T22:00:31+00:00"/>
+        <meta name="calibre:title_sort" content="Python Artificial Intelligence Projects for Beginners: Get Up and Running With Artificial Intelligence Using 8 Smart and Exciting AI Applications"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

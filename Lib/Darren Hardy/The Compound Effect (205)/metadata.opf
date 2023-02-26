@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">205</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3cd97bfe-8985-40d3-943b-2410b1a34217</dc:identifier>
+        <dc:title>The Compound Effect</dc:title>
+        <dc:creator opf:file-as="Hardy, Darren" opf:role="aut">Darren Hardy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-02T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;No gimmicks. No Hyperbole. No Magic Bullet. &lt;em&gt;The Compound Effect&lt;/em&gt; is based on the principle that decisions shape your destiny. Little, everyday decisions will either take you to the life you desire or to disaster by default. Darren Hardy, publisher of &lt;em&gt;Success Magazine&lt;/em&gt; , presents &lt;em&gt;The Compound Effect&lt;/em&gt; , a distillation of the fundamental principles that have guided the most phenomenal achievements in business, relationships, and beyond. This easy-to-use, step-by-step operating system allows you to multiply your success, chart your progress, and achieve any desire. If you’re serious about living an extraordinary life, use the power of &lt;em&gt;The Compound Effect&lt;/em&gt; to create the success you want.&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;“Darren Hardy has written a new ‘bible’ for the self-improvement space. If you are looking for the ‘real deal,’ a real program, with real tools that can change your life and make your dreams a reality, &lt;em&gt;The Compound Effect&lt;/em&gt; is it!”&lt;br&gt;&lt;strong&gt;—David Bach, financial expert and bestselling author of T&lt;/strong&gt; he Automatic Millionaire &lt;/p&gt;
+&lt;p&gt;“Simple, direct, and to the point—these are the principles that have guided my life and every top business leader I know. This book will show you the way to your own greater success, happiness, and fulfillment.”&lt;br&gt;&lt;strong&gt;—Donny Deutsch, TV host and chairman of Deutsch, Inc.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;“Einstein said, ‘Compounding is the eighth wonder of the world.’ To compound your successes, read, apprehend, comprehend, and fully use my friend Darren Hardy’s brilliance to realize all your dreams, hopes, and desires.”&lt;br&gt;&lt;strong&gt;—Mark Victor Hansen, co-creator of the #1&lt;/strong&gt; New York Times &lt;strong&gt;bestselling series&lt;/strong&gt; Chicken Soup for the Soul &lt;/p&gt;
+&lt;p&gt;“A treasure chest of ideas for achieving greater success than you ever thought possible!”&lt;br&gt;&lt;strong&gt;—Brian Tracy, speaker and author of&lt;/strong&gt; Maximum Achievement &lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Darren Hardy is the visionary force behind SUCCESS magazine as its Publisher and Founding Editor. As a business leader in the success industry for two decades, Darren has had unique and unfettered access to the most successful people on the planet, including Richard Branson, Steve Jobs, Warren Buffet, Donald Trump, Howard Schultz, Charles Schwab, Jeff Bezos and many more. He has uncovered the secrets to their success and now reveals them to over 2 million people each month through the pages of SUCCESS, his blog, Twitter, Facebook, and before live audiences of entrepreneurs across the country. Darren distills the best of the best information and strategies available, mixing in his own street-tested principles of success. &lt;/p&gt;
+&lt;p&gt;Darren also mentors many of today's high-performing CEOs, advises many large corporations and sits on the board of several companies and non-profit organizations. &lt;/p&gt;
+&lt;p&gt;Darren is also a highly sought after keynote speaker and media contributor. Darren lives in San Diego, California with his wife Georgia and his two canine children LucyLu and Tex. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hachette Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781593157241</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">159315724X</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">g5pytAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Personal Success</dc:subject>
+        <dc:subject>Mentoring &amp; Coaching</dc:subject>
+        <dc:subject>Motivational</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Darren Hardy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-09T03:56:51+00:00"/>
+        <meta name="calibre:title_sort" content="Compound Effect, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
