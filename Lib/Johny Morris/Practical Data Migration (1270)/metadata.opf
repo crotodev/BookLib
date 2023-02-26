@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1270</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">371f11d0-687b-4b1e-8d72-accb107d891d</dc:identifier>
+        <dc:title>Practical Data Migration</dc:title>
+        <dc:creator opf:file-as="Morris, Johny" opf:role="aut">Johny Morris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This book is for executives, practitioners, and project managers who are tasked with the movement of data from old systems to a new repository. It is designed as a teach yourself guide and uses a series of steps developed in real life situations that will get you from an empty new system to one that is populated, working and backed by the user population. The first edition of this book was the first to provide a non-proprietary methodology for data migration. It quickly became the primary text on the subject. This new edition is updated to take account of changes in technology and the maturing of the market for Data Migration services. It guarantees to get the dirty old data out of your legacy systems and transform it into clean new data. The most recent figures suggest that nearly 40% of Data Migration projects are over time, over budget or fail entirely. Various studies have shown that using a proven methodology greatly increases the chances of on time, on budget, and zero defect migrations. Stick with Practical Data Migration and you will have vastly increased the chance of still having a career at the end of the project!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>BCS, The Chartered Institute</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781906124847</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">AZKMrGyZGTcC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Project Management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Johny Morris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-26T05:11:02.877979+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Data Migration"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

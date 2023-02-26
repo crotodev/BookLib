@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1267</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f1f511bd-3cc2-4f0f-9ff4-33b60fe7123f</dc:identifier>
+        <dc:title>Streaming Data: Understanding the Real-Time Pipeline</dc:title>
+        <dc:creator opf:file-as="Psaltis, Andrew" opf:role="aut">Andrew Psaltis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-22T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Summary &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Streaming Data&lt;/em&gt; introduces the concepts and requirements of streaming and real-time data systems. The book is an idea-rich tutorial that teaches you to think about how to efficiently interact with fast-flowing data. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the Technology &lt;/p&gt;
+&lt;p&gt;As humans, we're constantly filtering and deciphering the information streaming toward us. In the same way, streaming data applications can accomplish amazing tasks like reading live location data to recommend nearby services, tracking faults with machinery in real time, and sending digital receipts before your customers leave the shop. Recent advances in streaming data technology and techniques make it possible for any developer to build these applications if they have the right mindset. This book will let you join them. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the Book &lt;/p&gt;
+&lt;p&gt;Streaming Data is an idea-rich tutorial that teaches you to think about efficiently interacting with fast-flowing data. Through relevant examples and illustrated use cases, you'll explore designs for applications that read, analyze, share, and store streaming data. Along the way, you'll discover the roles of key technologies like Spark, Storm, Kafka, Flink, RabbitMQ, and more. This book offers the perfect balance between big-picture thinking and implementation details. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What's Inside &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The right way to collect real-time data&lt;/li&gt;
+&lt;li&gt;Architecting a streaming pipeline&lt;/li&gt;
+&lt;li&gt;Analyzing the data&lt;/li&gt;
+&lt;li&gt;Which technologies to use and when&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;About the Reader &lt;/p&gt;
+&lt;p&gt;Written for developers familiar with relational database concepts. No experience with streaming or real-time applications required. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the Author &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Andrew Psaltis&lt;/strong&gt; is a software engineer focused on massively scalable real-time analytics. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Table of Contents &lt;/p&gt;
+&lt;ol&gt;
+&lt;li style="font-size: medium; font-weight: bold"&gt;&lt;span style="font-size: medium"&gt;PART 1 - A NEW HOLISTIC APPROACH&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Introducing streaming data&lt;/li&gt;
+&lt;li&gt;Getting data from clients: data ingestion&lt;/li&gt;
+&lt;li&gt;Transporting the data from collection tier: decoupling the data pipeline&lt;/li&gt;
+&lt;li&gt;Analyzing streaming data&lt;/li&gt;
+&lt;li&gt;Algorithms for data analysis&lt;/li&gt;
+&lt;li&gt;Storing the analyzed or collected data&lt;/li&gt;
+&lt;li&gt;Making the data available&lt;/li&gt;
+&lt;li&gt;Consumer device capabilities and limitations accessing the data&lt;/li&gt;
+&lt;li style="font-size: medium; font-weight: bold"&gt;&lt;span style="font-size: medium"&gt;PART 2 - TAKING IT REAL WORLD&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Analyzing Meetup RSVPs in real time &lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Andrew Psaltis&lt;/strong&gt; is a software engineer and architect focused full time on building massively scalable real-time analytics systems using Spark, Kafka, Storm, Hadoop, and WebSockets.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781617292286</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1617292281</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">22892595</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">1yCxDAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Data Transmission Systems</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <dc:subject>Mobile Devices</dc:subject>
+        <dc:subject>Podcasting &amp; Webcasting</dc:subject>
+        <dc:subject>Social Media</dc:subject>
+        <dc:subject>User-Generated Content</dc:subject>
+        <dc:subject>Web Services &amp; APIs</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Processing</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Andrew Psaltis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-02-26T01:43:31.336707+00:00"/>
+        <meta name="calibre:title_sort" content="Streaming Data: Understanding the Real-Time Pipeline"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

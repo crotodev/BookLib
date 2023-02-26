@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1271</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4f64ecf-d3ae-4121-b3a0-61574ca76979</dc:identifier>
+        <dc:title>Data Engineering With Python: Work With Massive Datasets to Design Data Models and Automate Data Pipelines Using Python</dc:title>
+        <dc:creator opf:file-as="Crickard, Paul" opf:role="aut">Paul Crickard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-23T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Build, monitor, and manage real-time data pipelines to create data engineering infrastructure efficiently using open-source Apache projects&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Become well-versed in data architectures, data preparation, and data optimization skills with the help of practical examples&lt;/li&gt;
+&lt;li&gt;Design data models and learn how to extract, transform, and load (ETL) data using Python&lt;/li&gt;
+&lt;li&gt;Schedule, automate, and monitor complex data pipelines in production&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Data engineering provides the foundation for data science and analytics, and forms an important part of all businesses. This book will help you to explore various tools and methods that are used for understanding the data engineering process using Python.&lt;/p&gt;
+&lt;p&gt;The book will show you how to tackle challenges commonly faced in different aspects of data engineering. You'll start with an introduction to the basics of data engineering, along with the technologies and frameworks required to build data pipelines to work with large datasets. You'll learn how to transform and clean data and perform analytics to get the most out of your data. As you advance, you'll discover how to work with big data of varying complexity and production databases, and build data pipelines. Using real-world examples, you'll build architectures on which you'll learn how to deploy data pipelines.&lt;/p&gt;
+&lt;p&gt;By the end of this Python book, you'll have gained a clear understanding of data modeling techniques, and will be able to confidently build data engineering pipelines for tracking data, running quality checks, and making necessary changes in production.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand how data engineering supports data science workflows&lt;/li&gt;
+&lt;li&gt;Discover how to extract data from files and databases and then clean, transform, and enrich it&lt;/li&gt;
+&lt;li&gt;Configure processors for handling different file formats as well as both relational and NoSQL databases&lt;/li&gt;
+&lt;li&gt;Find out how to implement a data pipeline and dashboard to visualize results&lt;/li&gt;
+&lt;li&gt;Use staging and validation to check data before landing in the warehouse&lt;/li&gt;
+&lt;li&gt;Build real-time pipelines with staging areas that perform validation and handle failures&lt;/li&gt;
+&lt;li&gt;Get to grips with deploying pipelines in the production environment&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is for data analysts, ETL developers, and anyone looking to get started with or transition to the field of data engineering or refresh their knowledge of data engineering using Python. This book will also be useful for students planning to build a career in data engineering or IT professionals preparing for a transition. No previous knowledge of data engineering is required.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;What is Data Engineering?&lt;/li&gt;
+&lt;li&gt;Building Our Data Engineering Infrastructure&lt;/li&gt;
+&lt;li&gt;Reading and Writing Files&lt;/li&gt;
+&lt;li&gt;Working with Databases&lt;/li&gt;
+&lt;li&gt;Cleaning, Transforming, and Enriching Data&lt;/li&gt;
+&lt;li&gt;Building a 311 Data Pipeline&lt;/li&gt;
+&lt;li&gt;Features of a Production Pipeline&lt;/li&gt;
+&lt;li&gt;Version Control Using the NiFi Registry&lt;/li&gt;
+&lt;li&gt;Monitoring and Logging Pipelines&lt;/li&gt;
+&lt;li&gt;Deploying your Pipelines&lt;/li&gt;
+&lt;li&gt;Building a Production Data Pipeline&lt;/li&gt;
+&lt;li&gt;Building a Kafka Cluster&lt;/li&gt;
+&lt;li&gt;Streaming Data with Apache Kafka&lt;/li&gt;
+&lt;li&gt;Data Processing with Apache Spark&lt;/li&gt;
+&lt;li&gt;Real-Time Edge Data with MiNiFi, Kafka, and Spark&lt;/li&gt;
+&lt;li&gt;Appendix&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Paul Crickard&lt;/strong&gt; is the author of Leaflet.js Essentials and co-author of Mastering Geospatial Analysis with Python and the Chief Information Officer at the Second Judicial District Attorney's Office in Albuquerque, New Mexico.&lt;/p&gt;
+&lt;p&gt;With a Master's degree in Political Science and a background in Community, and Regional Planning, he combines rigorous social science theory and techniques to technology projects. He has Presented at the New Mexico Big Data and Analytics Summit and the ExperienceIT NM Conference. He has given talks on data to the New Mexico Big Data Working Group, Sandia National Labs, and the New Mexico Geographic Information Council.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781839214189</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08DSLVFNR</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">55990373</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">9RYFEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Data Warehousing</dc:subject>
+        <dc:subject>Computer Architecture</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paul Crickard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-02-26T05:13:30.754317+00:00"/>
+        <meta name="calibre:title_sort" content="Data Engineering With Python: Work With Massive Datasets to Design Data Models and Automate Data Pipelines Using Python"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1268</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08d57467-9876-48d8-be26-506b75c9d2aa</dc:identifier>
+        <dc:title>Data Integration Blueprint and Modeling: Techniques for a Scalable and Sustainable Architecture</dc:title>
+        <dc:creator opf:file-as="Giordano, Anthony David" opf:role="aut">Anthony David Giordano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-07T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Making Data Integration Work: How to Systematically Reduce Cost, Improve Quality, and Enhance Effectiveness&lt;/strong&gt; &lt;span style="font-weight: bold; font-style: italic"&gt;* Today's enterprises are investing massive resources in data integration. Many possess thousands of point-to-point data integration applications that are costly, undocumented, and difficult to maintain. Data integration now accounts for a major part of the expense and risk of typical data warehousing and business intelligence projects--and, as businesses increasingly rely on analytics, the need for a blueprint for data integration is increasing now more than ever. This book presents the solution: a clear, consistent approach to defining, designing, and building data integration components to reduce cost, simplify management, enhance quality, and improve effectiveness. Leading IBM data management expert Tony Giordano brings together best practices for architecture, design, and methodology, and shows how to do the disciplined work of getting data integration right. Mr. Giordano begins with an overview of the "patterns" of data integration, showing how to build blueprints that smoothly handle both operational and analytic data integration. Next, he walks through the entire project lifecycle, explaining each phase, activity, task, and deliverable through a complete case study. Finally, he shows how to integrate data integration with other information management disciplines, from data governance to metadata. The book's appendices bring together key principles, detailed models, and a complete data integration glossary. &lt;/span&gt;&lt;em&gt;Coverage includes&lt;/em&gt;*&lt;br&gt;Implementing repeatable, efficient, and well-documented processes for integrating data Lowering costs and improving quality by eliminating unnecessary or duplicative data integrations Managing the high levels of complexity associated with integrating business and technical data Using intuitive graphical design techniques for more effective process and data integration modeling Building end-to-end data integration applications that bring together many complex data sources&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>IBM Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780137085286</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0137085273</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">22251501</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">e0jHgFLo_m8C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Data Warehousing</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Information Management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anthony David Giordano&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-02-26T05:05:29.591625+00:00"/>
+        <meta name="calibre:title_sort" content="Data Integration Blueprint and Modeling: Techniques for a Scalable and Sustainable Architecture"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
