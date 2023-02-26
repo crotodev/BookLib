@@ -17,6 +17,14 @@
   ],
   "gui_view_history": [
     [
+      1267,
+      "Streaming Data: Understanding the Real-Time Pipeline"
+    ],
+    [
+      701,
+      "Behavioral Finance and Your Portfolio: A Navigation Guide for Building Wealth"
+    ],
+    [
       654,
       "Heard on the Street: Quantitative Questions From Wall Street Job Interviews"
     ],
@@ -67,14 +75,6 @@
     [
       578,
       "Pre-Occupied Spaces: Crossing the Atlantic to Meet the Nation: The Emigration Ship in Mignonette\u2019s Songs and Crialese\u2019s Nuovomondo"
-    ],
-    [
-      588,
-      "Theological Integrity"
-    ],
-    [
-      590,
-      "Python for Finance and Algorithmic Trading : Machine Learning, Deep Learning, Time Series Analysis, Risk and Portfolio Management for MetaTrader\u21225 Live Trading"
     ]
   ],
   "library_view books view state": {
@@ -863,12 +863,12 @@
           461,
           460,
           170,
-          172,
           288,
           454,
           462,
           463,
-          392
+          392,
+          1267
         ],
         "displayTopMenu": false,
         "listType": "SYNCNEW",
@@ -966,9 +966,8 @@
   "update_all_last_mod_dates_on_start": false,
   "virt_libs_hidden": [
     "Finance",
-    "REL 144-01",
-    "Equity Research",
-    "ITAL 199-S01"
+    "ITAL 199-S01",
+    "Equity Research"
   ],
   "namespaced:FindDuplicatesPlugin:settings": {
     "SchemaVersion": 1.7,
