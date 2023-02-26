@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1280</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5d912f0-c87e-48e8-b6f4-722bb16a40da</dc:identifier>
+        <dc:title>Productive and Efficient Data Science With Python: With Modularizing, Memory Profiles, and Parallel/GPU Processing</dc:title>
+        <dc:creator opf:file-as="Sarkar, Tirthajyoti" opf:role="aut">Tirthajyoti Sarkar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-02T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;This book focuses on the Python-based tools and techniques to help you become highly productive at all aspects of typical data science stacks such as statistical analysis, visualization, model selection, and feature engineering.&lt;/p&gt;
+&lt;p&gt;You’ll review the inefficiencies and bottlenecks lurking in the daily business process and solve them with practical solutions. Automation of repetitive data science tasks is a key mindset that is promoted throughout the book. You’ll learn how to extend the existing coding practice to handle larger datasets with high efficiency with the help of advanced libraries and packages that already exist in the Python ecosystem. &lt;/p&gt;
+&lt;p&gt;The book focuses on topics such as how to measure the memory footprint and execution speed of machine learning models, quality test a data science pipelines, and modularizing a data science pipeline for app development. You’ll review Python libraries which come in very handy for automating and speeding up the day-to-day tasks. &lt;/p&gt;
+&lt;p&gt;In the end, you’ll understand and perform data science and machine learning tasks beyond the traditional methods and utilize the full spectrum of the Python data science ecosystem to increase productivity. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You’ll Learn&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Write fast and efficient code for data science and machine learning&lt;/li&gt;
+&lt;li&gt;Build robust and expressive data science pipelines&lt;/li&gt;
+&lt;li&gt;Measure memory and CPU profile for machine learning methods&lt;/li&gt;
+&lt;li&gt;Utilize the full potential of GPU for data science tasks &lt;/li&gt;
+&lt;li&gt;Handle large and complex data sets efficiently&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For&lt;/p&gt;
+&lt;p&gt;Data scientists, data analysts, machine learning engineers, Artificial intelligence practitioners, statisticians who want to take full advantage of Python ecosystem.&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;This book focuses on the Python-based tools and techniques to help you become highly productive at all aspects of typical data science stacks such as statistical analysis, visualization, model selection, and feature engineering.&lt;/p&gt;
+&lt;p&gt;You’ll review the inefficiencies and bottlenecks lurking in the daily business process and solve them with practical solutions. Automation of repetitive data science tasks is a key mindset that is promoted throughout the book. You’ll learn how to extend the existing coding practice to handle larger datasets with high efficiency with the help of advanced libraries and packages that already exist in the Python ecosystem. &lt;/p&gt;
+&lt;p&gt;The book focuses on topics such as how to measure the memory footprint and execution speed of machine learning models, quality test a data science pipelines, and modularizing a data science pipeline for app development. You’ll review Python libraries which come in very handy for automating and speeding up the day-to-day tasks. &lt;/p&gt;
+&lt;p&gt;In the end, you’ll understand and perform data science and machine learning tasks beyond the traditional methods and utilize the full spectrum of the Python data science ecosystem to increase productivity. &lt;/p&gt;
+&lt;p&gt;You will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Write fast and efficient code for data science and machine learning&lt;/li&gt;
+&lt;li&gt;Build robust and expressive data science pipelines&lt;/li&gt;
+&lt;li&gt;Measure memory and CPU profile for machine learning methods&lt;/li&gt;
+&lt;li&gt;Utilize the full potential of GPU for data science tasks&lt;/li&gt;
+&lt;li&gt;Handle large and complex data sets efficiently&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Dr. Tirthajyoti Sarkar lives in the San Francisco Bay area works as a Data Science and Solutions Engineering Manager at Adapdix Corp., where he architects Artificial intelligence and Machine learning solutions for edge-computing based systems powering the Industry 4.0 and Smart manufacturing revolution across a wide range of industries. Before that, he spent more than a decade developing best-in-class semiconductor technologies for power electronics. &lt;br&gt;He has published data science books, and regularly contributes highly cited AI/ML-related articles on top platforms such as KDNuggets and Towards Data Science. Tirthajyoti has developed multiple open-source software packages in the field of statistical modeling and data analytics. He has 5 US patents and more than thirty technical publications in international journals and conferences. &lt;br&gt;He conducts regular workshops and participates in expert panels on various AI/ML topics and contributes to the broader data science community in numerous ways. Tirthajyoti holds a Ph.D. from the University of Illinois and a B.Tech degree from the Indian Institute of Technology, Kharagpur. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484281208</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484281209</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">74752366</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Tirthajyoti Sarkar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-26T17:02:28.921781+00:00"/>
+        <meta name="calibre:title_sort" content="Productive and Efficient Data Science With Python: With Modularizing, Memory Profiles, and Parallel/GPU Processing"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

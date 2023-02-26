@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1282</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7fac0ca7-1951-4a4a-8f5d-be5cb9c6b73d</dc:identifier>
+        <dc:title>Docker Deep Dive: Harness the Full Potential of Your Applications With Docker</dc:title>
+        <dc:creator opf:file-as="Poulton, Nigel" opf:role="aut">Nigel Poulton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Start from scratch and develop the essential skills needed to create, deploy, and manage cloud-native applications using DockerKey Features* Get a solid understanding of Docker and containers* Overcome common problems while containerizing an application* Master Docker commands needed for creating, deploying, and running applicationsBook DescriptionMost applications, even the funky cloud-native microservices ones, need high-performance, production-grade infrastructure to run on. Having impeccable knowledge of Docker will help you to thrive in the modern cloud-first world. With this book, you'll gain the skills you need to work with Docker and its containers. &lt;/p&gt;
+&lt;p&gt;The book begins with an introduction to containers and explains its functionality and application in the real world. You'll then get an overview of VMware, Kubernetes, and Docker and learn to install Docker on Windows, Mac, and Linux. Once you've understood the Ops and Dev perspective of Docker, you'll be able to see the big picture and understand what Docker exactly does. The book then turns its attention to the more technical aspects, guiding your through practical exercises covering Docker engine, Docker images, and Docker containers. You'll learn techniques for containerizing an app, deploying apps with Docker Compose, and managing cloud-native applications with Swarm. You'll also build Docker networks and Docker overlay networks and handle applications that write persistent data. Finally, you'll deploy apps with Docker stacks and secure your Docker environment. &lt;/p&gt;
+&lt;p&gt;By the end of this book, you'll be well-versed in Docker and containers and have developed the skills to create, deploy, and run applications on the cloud. &lt;/p&gt;
+&lt;p&gt;What you will learn* Become familiar with the applications of Docker and containers* Discover how to pull images into Docker host's local registry* Find out how to containerize an app* Build and test a Docker overlay network in the swarm mode* Use Docker compose to deploy and manage multi-container applications* Securely share sensitive data with containers and Swarm servicesWho this book is forWhether you are a beginner or an experienced developer looking to utilize Docker to develop and operate cloud-native microservices apps, this book is for you. Anyone who wants to learn Docker orchestration, networking, imaging, and security will also find it useful. No prior knowledge of Docker is necessary.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing, Limited</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781800565135</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">3rX6zQEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Nigel Poulton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-26T17:12:03.893135+00:00"/>
+        <meta name="calibre:title_sort" content="Docker Deep Dive: Harness the Full Potential of Your Applications With Docker"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
