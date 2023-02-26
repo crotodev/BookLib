@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">586</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d3cf564-0156-4792-ad2c-afeb028f168c</dc:identifier>
+        <dc:title>Java Persistence With Spring Data and Hibernate</dc:title>
+        <dc:creator opf:file-as="Tudose, Catalin" opf:role="aut">Catalin Tudose</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-17T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Master Java persistence using the industry-leading tools Spring Data and Hibernate. &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Java Persistence with Spring Data and Hibernate&lt;/em&gt; you will learn: &lt;/p&gt;
+&lt;p&gt;Mapping persistent classes, value types, and inheritance&lt;br&gt;Mapping collections and entity associations&lt;br&gt;Processing transactions with Spring Data and Hibernate&lt;br&gt;Creating fetch plans, strategies, and profiles&lt;br&gt;Filtering data&lt;br&gt;Building Spring Data REST projects&lt;br&gt;Using Java persistence with non-relational databases&lt;br&gt;Querying JPA with QueryDSL&lt;br&gt;Testing Java persistence applications &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Java Persistence with Spring Data and Hibernate&lt;/em&gt; teaches you the ins-and-outs of Java persistence with hands-on examples using Spring Data, JPA, and Hibernate. The book carefully analyzes the capabilities of the major Java persistence tools, and guides you through the most common use cases. By comparing and contrasting the alternatives, you’ll find it easy to choose the right tool choice for your applications. You’ll learn how to make and utilize mapping strategies, about the different approach to transactions for both Hibernate and Spring Data, and even how to efficiently test Java persistence applications. The practical techniques are demonstrated with both relational and non-relational databases. &lt;/p&gt;
+&lt;p&gt;Forewords by Dmitry Aleksandrov and Mohamed Taman. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p&gt;About the technology &lt;/p&gt;
+&lt;p&gt;Effectively managing application data is essential for any serious application. Spring Data and Hibernate bridge the gap between object-oriented code and relational data stores, radically simplifying Java persistence. By implementing the Java Persistence API (JPA) standard, these powerful tools help you avoid common bugs related to state and application data storage. &lt;/p&gt;
+&lt;p&gt;About the book &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Java Persistence with Spring Data and Hibernate&lt;/em&gt; explores Java persistence using industry-standard tools. Hands-on examples introduce object-relational mapping and guide you through different mapping strategies to suit your needs. Covering transactions, persistent application testing, and non-relational databases, this book is your go-to resource for managing data in Java applications. &lt;/p&gt;
+&lt;p&gt;What's inside &lt;/p&gt;
+&lt;p&gt;Mapping persistent classes, value types, and inheritance&lt;br&gt;Creating fetch plans, strategies, and profiles&lt;br&gt;Building Spring Data REST projects&lt;br&gt;Querying JPA with QueryDSL &lt;/p&gt;
+&lt;p&gt;About the reader &lt;/p&gt;
+&lt;p&gt;For intermediate Java programmers. &lt;/p&gt;
+&lt;p&gt;About the author &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Catalin Tudose&lt;/strong&gt; has more than 20 years of experience in the Java community. &lt;strong&gt;Christian Bauer&lt;/strong&gt; , &lt;strong&gt;Gavin King&lt;/strong&gt; , and &lt;strong&gt;Gary Gregory&lt;/strong&gt; are the authors of &lt;em&gt;Java Persistence with Hibernate, Second Edition&lt;/em&gt; , on which this book is based. &lt;/p&gt;
+&lt;p&gt;Table of Contents&lt;br&gt;PART 1 - GETTING STARTED WITH ORM&lt;br&gt;1 Understanding object/relational persistence&lt;br&gt;2 Starting a project&lt;br&gt;3 Domain models and metadata&lt;br&gt;4 Working with Spring Data JPA&lt;br&gt;PART 2 - MAPPING STRATEGIES&lt;br&gt;5 Mapping persistent classes&lt;br&gt;6 Mapping value types&lt;br&gt;7 Mapping inheritance&lt;br&gt;8 Mapping collections and entity associations&lt;br&gt;9 Advanced entity association mappings&lt;br&gt;PART 3 - TRANSACTIONAL DATA PROCESSING&lt;br&gt;10 Managing data&lt;br&gt;11 Transactions and concurrency&lt;br&gt;12 Fetch plans, strategies, and profiles&lt;br&gt;13 Filtering data&lt;br&gt;PART 4 - BUILDING JAVA PERSISTENCE APPLICATIONS WITH SPRING&lt;br&gt;14 Integrating JPA and Hibernate with Spring&lt;br&gt;15 Working with Spring Data JDBC&lt;br&gt;16 Working with Spring Data REST&lt;br&gt;PART 5 - BUILDING JAVA PERSISTENCE APPLICATIONS WITH SPRING&lt;br&gt;17 Working with Spring Data MongoDB&lt;br&gt;18 Working with Hibernate OGM&lt;br&gt;PART 6 - WRITING QUERIES AND TESTING JAVA PERSISTENCE APPLICATIONS&lt;br&gt;19 Querying JPA with Querydsl&lt;br&gt;20 Testing Java persistence applications&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Catalin Tudose&lt;/strong&gt; has more than 20 years experience in the Java area and is currently acting as Java and web technologies expert at Luxoft Romania. He has taught more than 2,000 hours of courses and applications as a teaching assistant and professor at the Faculty of Automation and Computers in Bucharest. He authored 6 courses at Pluralsight on Java topics, including Java persistence and he holds a PhD in computer science. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Christian Bauer&lt;/strong&gt; , &lt;strong&gt;Gavin King&lt;/strong&gt; , and &lt;strong&gt;Gary Gregory&lt;/strong&gt; are the authors of &lt;em&gt;Java Persistence with Hibernate, Second Edition&lt;/em&gt; , on which this book is based.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">bTDazgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1617299189</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781617299186</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">60071005</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Object Oriented</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Catalin Tudose&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-28T16:36:41+00:00"/>
+        <meta name="calibre:title_sort" content="Java Persistence With Spring Data and Hibernate"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

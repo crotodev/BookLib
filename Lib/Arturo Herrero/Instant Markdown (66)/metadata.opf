@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">66</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">461197f4-e270-4adb-bff2-536e97f48717</dc:identifier>
+        <dc:title>Instant Markdown</dc:title>
+        <dc:creator opf:file-as="Herrero, Arturo" opf:role="aut">Arturo Herrero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Get to grips with a new technology, understand what it is and what it can do for you, and then get to work with the most important features and tasks. A quick, clear, concise tutorial guide-based approach that will help you to get started with Markdown. &lt;/p&gt;
+&lt;p&gt;Instant Markdown is for people who are interested in an introduction to Markdown. You will not need any specific knowledge about programming or markup languages. This book will give you many ideas to use and take full potential of Markdown over many different services.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">Zi1mAQAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781783559145</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Markdown</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arturo Herrero&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-22T08:09:30+00:00"/>
+        <meta name="calibre:title_sort" content="Instant Markdown"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

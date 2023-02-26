@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">367</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10083a65-463b-413d-bb4a-455dfb3f1297</dc:identifier>
+        <dc:title>Adulting for Dummies</dc:title>
+        <dc:creator opf:file-as="Houy, Gencie" opf:role="aut">Gencie Houy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-25T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Learn to adult even better than your parents Even though it’s tougher than ever, this adulting thing doesn’t come with instructions! The moment you turn 18 you’re expected to be a master of everything from personal finance to household chores, even if you’ve never done any of these things before. It’s no wonder that a lot of people just like you are looking for a guide to adulthood that doesn’t assume you magically learned how to do laundry and invest in a 401(k) on your eighteenth birthday. In Adulting For Dummies, Gencie Houy, independent living educator at Texas Tech, walks you through every critical part of adulting on your own. From basic life and household tasks to managing your finances and health, you’ll learn how to achieve your goals in each area of your life that matters to you. You’ll also discover how to balance the different parts of your life so you don’t get overwhelmed in any one area. The book also offers: Advice on navigating the modern dating scene and communicating with family members, friends, and romantic partners Guidance on budgeting your money and saving up for a house (yes, it’s still possible!) Easy strategies for keeping your home in order and in good shapeNo one said being an adult is easy. But, with help from your friends at Dummies, it doesn’t have to be impossible. Grab a copy of Adulting For Dummies today!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">fRaIEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781119904335</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Self-Management</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>Life Stages</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gencie Houy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-14T09:09:46+00:00"/>
+        <meta name="calibre:title_sort" content="Adulting for Dummies"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

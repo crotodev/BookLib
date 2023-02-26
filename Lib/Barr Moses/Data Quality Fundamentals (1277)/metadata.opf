@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1277</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6821f2e9-0d7b-4254-8d9e-05588e9edefe</dc:identifier>
+        <dc:title>Data Quality Fundamentals</dc:title>
+        <dc:creator opf:file-as="Moses, Barr" opf:role="aut">Barr Moses</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Do your product dashboards look funky? Are your quarterly reports stale? Is the dataset you're using broken or just plain wrong? These problems affect almost every team, yet they're usually addressed on an ad hoc basis and in a reactive manner. If you answered yes to any of the questions above, this book is for you. &lt;/p&gt;
+&lt;p&gt;Many data engineering teams today face the "good pipelines, bad data" problem. It doesn't matter how advanced your data infrastructure is if the data you're piping is bad. In this book, Barr Moses, Lior Gavish, and Molly Vorwerck from the data reliability company Monte Carlo explain how to tackle data quality and trust at scale by leveraging best practices and technologies used by some of the world's most innovative companies.&lt;br&gt;- Build more trustworthy and reliable data pipelines&lt;br&gt;- Write scripts to make data checks and identify broken pipelines with data observability.&lt;br&gt;- Program your own data quality monitors from scratch&lt;br&gt;- Develop and lead data quality initiatives at your company&lt;br&gt;- Generate a dashboard to highlight your company's key data assets&lt;br&gt;- Automate data lineage graphs across your data ecosystem&lt;br&gt;- Build anomaly detectors for your critical data assets&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781098112028</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59663945</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Data Engineering</dc:subject>
+        <dc:subject>Data Cleaning</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Barr Moses&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-02-26T05:35:54.928039+00:00"/>
+        <meta name="calibre:title_sort" content="Data Quality Fundamentals"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">585</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a33b2c1a-1206-43f6-b3ac-d9e5f6e2f3af</dc:identifier>
+        <dc:title>Numerical Methods Using Java: For Data Science, Analysis, and Engineering</dc:title>
+        <dc:creator opf:file-as="Haksun Li, Phd" opf:role="aut">Haksun Li, Phd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-06T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Haksun Li, PhD&lt;/strong&gt; , is founder of NM Group, a scientific and mathematical research company. He has the vision of “Making the World Better Using Mathematics”. Under his leadership, the firm serves worldwide brokerage houses and funds, multinational corporations and very high net worth individuals. Haksun is an expert in options trading, asset allocation, portfolio optimization and fixed-income product pricing. He has coded up a variety of numerical software, including SuanShu (a library of numerical methods), NM Dev (a library of numerical methods), AlgoQuant (a library for financial analytics), NMRMS (a portfolio management system for equities), and supercurve (a fixed-income options pricing system). Prior to this, Haksun was a quantitative trader/quantitative analyst with multiple investment banks. He has worked in New York, London, Tokyo, and Singapore. &lt;br&gt;Additionally, Haksun is the vice dean of the Big Data Finance and Investment Institute of Fudan University, China. He was an adjunct professor with multiple universities. He has taught at the National University of Singapore (mathematics), Nanyang Technological University (business school), Fudan University (economics), as well as Hong Kong University of Science and Technology (mathematics). Dr. Haksun Li has a B.S. and M.S. in pure and financial mathematics from the University of Chicago, and an M.S. and a PhD in computer science and engineering from the University of Michigan, Ann Arbor.&lt;/p&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Implement numerical algorithms in Java using NM Dev, an object-oriented and high-performance programming library for mathematics.You’ll see how it can help you easily create a solution for your complex engineering problem by quickly putting together classes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Numerical Methods Using Java&lt;/em&gt; covers a wide range of topics, including chapters on linear algebra, root finding, curve fitting, differentiation and integration, solving differential equations, random numbers and simulation, a whole suite of unconstrained and constrained optimization algorithms, statistics, regression and time series analysis. The mathematical concepts behind the algorithms are clearly explained, with plenty of code examples and illustrations to help even beginners get started. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Will Learn&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Program in Java using a high-performance numerical library&lt;/li&gt;
+&lt;li&gt;Learn the mathematics for a wide range of numerical computing algorithms&lt;/li&gt;
+&lt;li&gt;Convert ideas and equations into code&lt;/li&gt;
+&lt;li&gt;Put together algorithms and classes to build your own engineering solution&lt;/li&gt;
+&lt;li&gt;Build solvers for industrial optimization problems&lt;/li&gt;
+&lt;li&gt;Do data analysis using basic and advanced statistics&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For &lt;/p&gt;
+&lt;p&gt;Programmers, data scientists, and analysts with prior experience with programming in any language, especially Java. &lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;“The book is primarily a user’s guide to the NM DEV commercial software library … .” (Anthony J. Duben, Computing Reviews, December 6, 2022)&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Implement numerical algorithms in Java using the NM Dev, an object-oriented and high-performance programming library for mathematics.You’ll see how it can help you easily create a solution for your complex engineering problem by quickly putting together classes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Numerical Methods Using Java&lt;/em&gt; covers a wide range of topics, including chapters on linear algebra, root finding, curve fitting, differentiation and integration, solving differential equations, random numbers and simulation, a whole suite of unconstrained and constrained optimization algorithms, statistics, regression and time series analysis. The mathematical concepts behind the algorithms are clearly explained, with plenty of code examples and illustrations to help even beginners get started. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;You will:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Program in Java using a high-performance numerical library&lt;/li&gt;
+&lt;li&gt;Learn the mathematics for a wide range of numerical computing algorithms&lt;/li&gt;
+&lt;li&gt;Convert ideas and equations into code&lt;/li&gt;
+&lt;li&gt;Put together algorithms and classes to build your own engineering solution&lt;/li&gt;
+&lt;li&gt;Build solvers for industrial optimization problems&lt;/li&gt;
+&lt;li&gt;Do data analysis using basic and advanced statistics&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484267967</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">t28NzgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09PJBPJNS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Haksun Li, Phd&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-28T16:30:14+00:00"/>
+        <meta name="calibre:title_sort" content="Numerical Methods Using Java: For Data Science, Analysis, and Engineering"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

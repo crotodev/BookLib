@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">466</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cee9c908-f2e3-4b3b-9571-12c40f00ff10</dc:identifier>
+        <dc:title>Optimization Modelling: A Practical Approach</dc:title>
+        <dc:creator opf:file-as="Sarker, Ruhul Amin &amp; Newton, Charles Sinclair" opf:role="aut">Ruhul Amin Sarker</dc:creator>
+        <dc:creator opf:file-as="Sarker, Ruhul Amin &amp; Newton, Charles Sinclair" opf:role="aut">Charles Sinclair Newton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Although a useful and important tool, the potential of mathematical modelling for decision making is often neglected. Considered an art by many and weird science by some, modelling is not as widely appreciated in problem solving and decision making as perhaps it should be. And although many operations research, management science, and optimization books touch on modelling techniques, the short shrift they usually get in coverage is reflected in their minimal application to problems in the real world. Illustrating the important influence of modelling on the decision making process, &lt;strong&gt;Optimization Modelling: A Practical Approach&lt;/strong&gt; helps you come to grips with a wide range of modelling techniques. Highlighting the modelling aspects of optimization problems, the authors present the techniques in a clear and straightforward manner, illustrated by examples. They provide and analyze the formulation and modelling of a number of well-known theoretical and practical problems and touch on solution approaches. The book demonstrates the use of optimization packages through the solution of various mathematical models and provides an interpretation of some of those solutions. It presents the practical aspects and difficulties of problem solving and solution implementation and studies a number of practical problems. The book also discusses the use of available software packages in solving optimization models without going into difficult mathematical details and complex solution methodologies. &lt;/p&gt;
+&lt;p&gt;The emphasis on modelling techniques rather than solution algorithms sets this book apart. It is a single source for a wide range of methods, classic theoretical and practical problems, data collection and input preparation, the use of different optimization software, and practical issues of modelling, model solving, and implementation. The authors draw directly from their experience to provide lessons learned when applying modelling techniques to practical problem solving and implementation difficulties.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>CRC Press</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">5319671</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Pw6BmwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781420043105</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1420043102</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Operations Research</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Purchasing &amp; Buying</dc:subject>
+        <dc:subject>Design</dc:subject>
+        <dc:subject>Product</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ruhul Amin Sarker&quot;: &quot;&quot;, &quot;Charles Sinclair Newton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-21T09:06:03+00:00"/>
+        <meta name="calibre:title_sort" content="Optimization Modelling: A Practical Approach"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

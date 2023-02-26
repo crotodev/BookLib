@@ -11,8 +11,8 @@
         <dc:description>&lt;div&gt;
 &lt;p&gt;This textbook presents methods and techniques for time series analysis and forecasting and shows how to use Python to implement them and solve data science problems. It covers not only common statistical approaches and time series models, including ARMA, SARIMA, VAR, GARCH and state space and Markov switching models for (non)stationary, multivariate and financial time series, but also modern machine learning procedures and challenges for time series forecasting. Providing an organic combination of the principles of time series analysis and Python programming, it enables the reader to study methods and techniques and practice writing and running Python code at the same time. Its data-driven approach to analyzing and modeling time series data helps new learners to visualize and interpret both the raw data and its computed results. Primarily intended for students of statistics, economics and data science with an undergraduate knowledge of probability and statistics, the book will equally appeal to industry professionals in the fields of artificial intelligence and data science, and anyone interested in using Python to solve time series problems.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Springer International Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9783031135835</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">90459144</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783031135835</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">s7A-zwEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Mathematics</dc:subject>
@@ -29,7 +29,7 @@
         <dc:subject>Stochastic Processes</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Changquan Huang&quot;: &quot;&quot;, &quot;Alla Petukhina&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="6"/>
-        <meta name="calibre:timestamp" content="2023-02-22T07:22:01.654059+00:00"/>
+        <meta name="calibre:timestamp" content="2023-02-22T07:22:01+00:00"/>
         <meta name="calibre:title_sort" content="Applied Time Series Analysis and Forecasting With Python"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

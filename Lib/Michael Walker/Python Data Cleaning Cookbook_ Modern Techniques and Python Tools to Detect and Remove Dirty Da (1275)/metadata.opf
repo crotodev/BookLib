@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1275</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3fcd976b-bc76-490d-a6f0-3abd069ff96b</dc:identifier>
+        <dc:title>Python Data Cleaning Cookbook: Modern Techniques and Python Tools to Detect and Remove Dirty Data and Extract Key Insights</dc:title>
+        <dc:creator opf:file-as="Walker, Michael" opf:role="aut">Michael Walker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-11T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Discover how to describe your data in detail, identify data issues, and find out how to solve them using commonly used techniques and tips and tricks&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Get well-versed with various data cleaning techniques to reveal key insights&lt;/li&gt;
+&lt;li&gt;Manipulate data of different complexities to shape them into the right form as per your business needs&lt;/li&gt;
+&lt;li&gt;Clean, monitor, and validate large data volumes to diagnose problems before moving on to data analysis&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Getting clean data to reveal insights is essential, as directly jumping into data analysis without proper data cleaning may lead to incorrect results. This book shows you tools and techniques that you can apply to clean and handle data with Python. You'll begin by getting familiar with the shape of data by using practices that can be deployed routinely with most data sources. Then, the book teaches you how to manipulate data to get it into a useful form. You'll also learn how to filter and summarize data to gain insights and better understand what makes sense and what does not, along with discovering how to operate on data to address the issues you've identified. Moving on, you'll perform key tasks, such as handling missing values, validating errors, removing duplicate data, monitoring high volumes of data, and handling outliers and invalid dates. Next, you'll cover recipes on using supervised learning and Naive Bayes analysis to identify unexpected values and classification errors, and generate visualizations for exploratory data analysis (EDA) to visualize unexpected values. Finally, you'll build functions and classes that you can reuse without modification when you have new data. &lt;/p&gt;
+&lt;p&gt;By the end of this Python book, you'll be equipped with all the key skills that you need to clean data and diagnose problems within it.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Find out how to read and analyze data from a variety of sources&lt;/li&gt;
+&lt;li&gt;Produce summaries of the attributes of data frames, columns, and rows&lt;/li&gt;
+&lt;li&gt;Filter data and select columns of interest that satisfy given criteria&lt;/li&gt;
+&lt;li&gt;Address messy data issues, including working with dates and missing values&lt;/li&gt;
+&lt;li&gt;Improve your productivity in Python pandas by using method chaining&lt;/li&gt;
+&lt;li&gt;Use visualizations to gain additional insights and identify potential data issues&lt;/li&gt;
+&lt;li&gt;Enhance your ability to learn what is going on in your data&lt;/li&gt;
+&lt;li&gt;Build user-defined functions and classes to automate data cleaning&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is for anyone looking for ways to handle messy, duplicate, and poor data using different Python tools and techniques. The book takes a recipe-based approach to help you to learn how to clean and manage data. Working knowledge of Python programming is all you need to get the most out of the book.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Anticipating Data Cleaning Issues when Importing Tabular Data into pandas&lt;/li&gt;
+&lt;li&gt;Anticipating Data Cleaning Issues when Importing HTML and JSON into Pandas&lt;/li&gt;
+&lt;li&gt;Taking the Measure of Your Data&lt;/li&gt;
+&lt;li&gt;Identifying Issues in Subsets of Data&lt;/li&gt;
+&lt;li&gt;Using Visualizations for Exploratory Data Analysis&lt;/li&gt;
+&lt;li&gt;Cleaning and Wrangling Data with Pandas Data Series Operations&lt;/li&gt;
+&lt;li&gt;Fixing Messy Data When Aggregating&lt;/li&gt;
+&lt;li&gt;Addressing Data Issues When Combining Data Frames&lt;/li&gt;
+&lt;li&gt;Tidying and Reshaping Data&lt;/li&gt;
+&lt;li&gt;User Defined Functions and Classes to Automate Data Cleaning&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Michael Walker&lt;/strong&gt; has worked as a data analyst for over 30 years at a variety of educational institutions. He has also taught data science, research methods, statistics, and computer programming to undergraduates since 2006. He generates public sector and foundation reports and conducts analyses for publication in academic journals.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781800564596</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1800565666</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57321066</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">GMwOEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Data Analytics</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Walker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-02-26T05:29:46.089980+00:00"/>
+        <meta name="calibre:title_sort" content="Python Data Cleaning Cookbook: Modern Techniques and Python Tools to Detect and Remove Dirty Data and Extract Key Insights"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

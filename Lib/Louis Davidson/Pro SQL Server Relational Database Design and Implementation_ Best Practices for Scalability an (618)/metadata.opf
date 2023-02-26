@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">618</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e60ec581-1765-48df-b3d6-aba432e66d59</dc:identifier>
+        <dc:title>Pro SQL Server Relational Database Design and Implementation: Best Practices for Scalability and Performance</dc:title>
+        <dc:creator opf:file-as="Davidson, Louis" opf:role="aut">Louis Davidson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Learn effective and scalable database design techniques in SQL Server 2019 and other recent SQL Server versions. This book is revised to cover additions to SQL Server that include SQL graph enhancements, in-memory online transaction processing, temporal data storage, row-level security, and other design-related features. This book will help you design OLTP databases that are high-quality, protect the integrity of your data, and perform fast on-premises, in the cloud, or in hybrid configurations. &lt;br&gt;Designing an effective and scalable database using SQL Server is a task requiring skills that have been around for well over 30 years, using technology that is constantly changing. This book covers everything from design logic that business users will understand to the physical implementation of design in a SQL Server database. Grounded in best practices and a solid understanding of the underlying theory, author Louis Davidson shows you how to "get it right" in SQL Server database design and lay a solid groundwork for the future use of valuable business data. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Will Learn&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop conceptual models of client data using interviews and client documentation&lt;/li&gt;
+&lt;li&gt;Implement designs that work on premises, in the cloud, or in a hybrid approach&lt;/li&gt;
+&lt;li&gt;Recognize and apply common database design patterns&lt;/li&gt;
+&lt;li&gt;Normalize data models to enhance integrity and scalability of your databases for the long-term use of valuable data&lt;/li&gt;
+&lt;li&gt;Translate conceptual models into high-performing SQL Server databases&lt;/li&gt;
+&lt;li&gt;Secure and protect data integrity as part of meeting regulatory requirements&lt;/li&gt;
+&lt;li&gt;Create effective indexing to speed query performance&lt;/li&gt;
+&lt;li&gt;Understand the concepts of concurrency&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;** &lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Who This Book Is For**&lt;br&gt;Programmers and database administrators of all types who want to use SQL Server to store transactional data. The book is especially useful to those wanting to learn the latest database design features in SQL Server 2019 (features that include graph objects, in-memory OLTP, temporal data support, and more). Chapters on fundamental concepts, the language of database modeling, SQL implementation, and the normalization process lay a solid groundwork for readers who are just entering the field of database design. More advanced chapters serve the seasoned veteran by tackling the latest in physical implementation features that SQL Server has to offer. The book has been carefully revised to cover all the design-related features that are new in SQL Server 2019. &lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Learn effective and scalable database design techniques in SQL Server 2019 and other recent SQL Server versions. This book is revised to cover additions to SQL Server that include SQL graph enhancements, in-memory online transaction processing, temporal data storage, row-level security, and other design-related features. This book will help you design OLTP databases that are high-quality, protect the integrity of your data, and perform fast on-premises, in the cloud, or in hybrid configurations. &lt;br&gt;Designing an effective and scalable database using SQL Server is a task requiring skills that have been around for well over 30 years, using technology that is constantly changing. This book covers everything from design logic that business users will understand to the physical implementation of design in a SQL Server database. Grounded in best practices and a solid understanding of the underlying theory, author Louis Davidson shows you how to "get it right" in SQL Server database design and lay a solid groundwork for the future use of valuable business data.&lt;br&gt;You will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop conceptual models of client data using interviews and client documentation&lt;/li&gt;
+&lt;li&gt;Implement designs that work on premises, in the cloud, or in a hybrid approach&lt;/li&gt;
+&lt;li&gt;Recognize and apply common database design patterns&lt;/li&gt;
+&lt;li&gt;Normalize data models to enhance integrity and scalability of your databases for the long-term use of valuable data&lt;/li&gt;
+&lt;li&gt;Translate conceptual models into high-performing SQL Server databases&lt;/li&gt;
+&lt;li&gt;Secure and protect data integrity as part of meeting regulatory requirements&lt;/li&gt;
+&lt;li&gt;Create effective indexing to speed query performance&lt;/li&gt;
+&lt;li&gt;Understand the concepts of concurrency&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Louis Davidson&lt;/strong&gt; has been working with databases for more than 20 years as a corporate database developer and architect. He has been a Microsoft MVP for 15 years. And he has completed a sixth edition of his SQL Server database design book (Apress). Louis has been active speaking about database design and implementation at many conferences over the past 17 years, including SQL PASS, SQL Rally, SQL Saturday events, CA World, Music City Data, and the devLink Technical Conference. Louis has worked for the Christian Broadcasting Network (CBN) as a developer, DBA, and data architect for over 21 years. He has a bachelor’s degree in computer science from the University of Tennessee at Chattanooga. For more information, please visit his website at drsql.org.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484264966</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484264967</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Louis Davidson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-02-05T22:03:38+00:00"/>
+        <meta name="calibre:title_sort" content="Pro SQL Server Relational Database Design and Implementation: Best Practices for Scalability and Performance"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

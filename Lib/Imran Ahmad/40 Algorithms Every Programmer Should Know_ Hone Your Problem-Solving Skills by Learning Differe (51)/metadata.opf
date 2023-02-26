@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">047c5b9e-d628-4f38-be76-bec1072269c3</dc:identifier>
+        <dc:title>40 Algorithms Every Programmer Should Know: Hone Your Problem-Solving Skills by Learning Different Algorithms and Their Implementation in Python</dc:title>
+        <dc:creator opf:file-as="Ahmad, Imran" opf:role="aut">Imran Ahmad</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-12T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Learn algorithms for solving classic computer science problems with this concise guide covering everything from fundamental algorithms, such as sorting and searching, to modern algorithms used in machine learning and cryptography&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Learn the techniques you need to know to design algorithms for solving complex problems&lt;/li&gt;
+&lt;li&gt;Become familiar with neural networks and deep learning techniques&lt;/li&gt;
+&lt;li&gt;Explore different types of algorithms and choose the right data structures for their optimal implementation&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Algorithms have always played an important role in both the science and practice of computing. Beyond traditional computing, the ability to use algorithms to solve real-world problems is an important skill that any developer or programmer must have. This book will help you not only to develop the skills to select and use an algorithm to solve real-world problems but also to understand how it works.&lt;/p&gt;
+&lt;p&gt;You'll start with an introduction to algorithms and discover various algorithm design techniques, before exploring how to implement different types of algorithms, such as searching and sorting, with the help of practical examples. As you advance to a more complex set of algorithms, you'll learn about linear programming, page ranking, and graphs, and even work with machine learning algorithms, understanding the math and logic behind them. Further on, case studies such as weather prediction, tweet clustering, and movie recommendation engines will show you how to apply these algorithms optimally. Finally, you'll become well versed in techniques that enable parallel processing, giving you the ability to use these algorithms for compute-intensive tasks.&lt;/p&gt;
+&lt;p&gt;By the end of this book, you'll have become adept at solving real-world computational problems by using a wide range of algorithms.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Explore existing data structures and algorithms found in Python libraries&lt;/li&gt;
+&lt;li&gt;Implement graph algorithms for fraud detection using network analysis&lt;/li&gt;
+&lt;li&gt;Work with machine learning algorithms to cluster similar tweets and process Twitter data in real time&lt;/li&gt;
+&lt;li&gt;Predict the weather using supervised learning algorithms&lt;/li&gt;
+&lt;li&gt;Use neural networks for object detection&lt;/li&gt;
+&lt;li&gt;Create a recommendation engine that suggests relevant movies to subscribers&lt;/li&gt;
+&lt;li&gt;Implement foolproof security using symmetric and asymmetric encryption on Google Cloud Platform (GCP)&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is for programmers or developers who want to understand the use of algorithms for problem-solving and writing efficient code. Whether you are a beginner looking to learn the most commonly used algorithms in a clear and concise way or an experienced programmer looking to explore cutting-edge algorithms in data science, machine learning, and cryptography, you'll find this book useful. Although Python programming experience is a must, knowledge of data science will be helpful but not necessary.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Overview of Algorithms&lt;/li&gt;
+&lt;li&gt;Data Structures used in Algorithms&lt;/li&gt;
+&lt;li&gt;Sorting and Searching Algorithms&lt;/li&gt;
+&lt;li&gt;Designing Algorithms&lt;/li&gt;
+&lt;li&gt;Graph Algorithms&lt;/li&gt;
+&lt;li&gt;Unsupervised Machine Learning Algorithms&lt;/li&gt;
+&lt;li&gt;Traditional Supervised Learning Algorithms&lt;/li&gt;
+&lt;li&gt;Neural Network Algorithms&lt;/li&gt;
+&lt;li&gt;Algorithms for Natural Language Processing&lt;/li&gt;
+&lt;li&gt;Recommendation Engines&lt;/li&gt;
+&lt;li&gt;Data Algorithms&lt;/li&gt;
+&lt;li&gt;Cryptography&lt;/li&gt;
+&lt;li&gt;Large Scale Algorithms&lt;/li&gt;
+&lt;li&gt;Practical Considerations&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Imran Ahmad&lt;/strong&gt; is a certified Google Instructor and has been teaching for Google and Learning Tree for the last many years. The topics Imran teaches include Python, Machine Learning, Algorithms, Big Data and Deep Learning. In his PhD, he proposed a new linear programming based algorithm called ATSRA , which can be used to optimally assign resources in a cloud computing environment. For the last 4 years, Imran is working in a high-profile machine learning project at the advanced analytics lab of the Canadian Federal Government. The project is to develop machine learning algorithms that can automate the process of immigration. Imran is currently working on developing algorithms to use GPUs optimally to train complex machine learning models.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1789801214</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781789809862</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">54164883</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">4IzrDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Tools</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Imran Ahmad&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-12-22T07:49:17+00:00"/>
+        <meta name="calibre:title_sort" content="40 Algorithms Every Programmer Should Know: Hone Your Problem-Solving Skills by Learning Different Algorithms and Their Implementation in Python"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

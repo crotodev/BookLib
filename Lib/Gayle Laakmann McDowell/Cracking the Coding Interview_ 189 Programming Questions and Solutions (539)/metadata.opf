@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">539</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b1278b5-f989-4182-8ef9-b6c5bdffaecc</dc:identifier>
+        <dc:title>Cracking the Coding Interview: 189 Programming Questions and Solutions</dc:title>
+        <dc:creator opf:file-as="McDowell, Gayle Laakmann" opf:role="aut">Gayle Laakmann McDowell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-14T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;I am not a recruiter. I am a software engineer. And as such, I know what it's like to be asked to whip up brilliant algorithms on the spot and then write flawless code on a whiteboard. I've been through this as a candidate and as an interviewer. &lt;/p&gt;
+&lt;p&gt;Cracking the Coding Interview, 6th Edition is here to help you through this process, teaching you what you need to know and enabling you to perform at your very best. I've coached and interviewed hundreds of software engineers. The result is this book. &lt;/p&gt;
+&lt;p&gt;Learn how to uncover the hints and hidden details in a question, discover how to break down a problem into manageable chunks, develop techniques to unstick yourself when stuck, learn (or re-learn) core computer science concepts, and practice on 189 interview questions and solutions. &lt;/p&gt;
+&lt;p&gt;These interview questions are real; they are not pulled out of computer science textbooks. They reflect what's truly being asked at the top companies, so that you can be as prepared as possible. &lt;strong&gt;WHAT'S INSIDE?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;189 programming interview questions, ranging from the basics to the trickiest algorithm problems.&lt;/li&gt;
+&lt;li&gt;A walk-through of how to derive each solution, so that you can learn how to get there yourself.&lt;/li&gt;
+&lt;li&gt;Hints on how to solve each of the 189 questions, just like what you would get in a real interview.&lt;/li&gt;
+&lt;li&gt;Five proven strategies to tackle algorithm questions, so that you can solve questions you haven't seen.&lt;/li&gt;
+&lt;li&gt;Extensive coverage of essential topics, such as big O time, data structures, and core algorithms.&lt;/li&gt;
+&lt;li&gt;A behind the scenes' look at how top companies like Google and Facebook hire developers.&lt;/li&gt;
+&lt;li&gt;Techniques to prepare for and ace the soft side of the interview: behavioral questions.&lt;/li&gt;
+&lt;li&gt;For interviewers and companies: details on what makes a good interview question and hiring process.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Illustrations noteIllustrations&lt;/strong&gt; : Illustrations, black and white&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Careercup</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0984782850</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">25707092</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780984782857</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">jD8iswEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Reference</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gayle Laakmann McDowell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-24T17:51:47+00:00"/>
+        <meta name="calibre:title_sort" content="Cracking the Coding Interview: 189 Programming Questions and Solutions"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

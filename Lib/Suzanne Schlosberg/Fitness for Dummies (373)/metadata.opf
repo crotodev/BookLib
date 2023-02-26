@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">373</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0344fb4c-41ad-47ef-9d99-53a5732a79d5</dc:identifier>
+        <dc:title>Fitness for Dummies</dc:title>
+        <dc:creator opf:file-as="Schlosberg, Suzanne &amp; Neporent, Liz" opf:role="aut">Suzanne Schlosberg</dc:creator>
+        <dc:creator opf:file-as="Schlosberg, Suzanne &amp; Neporent, Liz" opf:role="aut">Liz Neporent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-07T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The latest and greatest in getting fit and staying that way! Fitness For Dummies, 4th Edition, provides the latest information and advice for properly shaping, conditioning, and strengthening your body to enhance overall fitness and health. With the help of fitness professionals Suzanne Schlosberg and Liz Neporent, you'll learn to set and achieve realistic fitness goals without expensive fitness club fees! Achieve motivation and social support from social networking sites such as Twitter and Facebook Take advantage of digital resources such as e-exercising programs, video instructors, digital training systems, apps, and more Gives you the latest tips and methods to test your own fitness level, set realistic goals, stick with your program, and get great results Shows you how to spot where fat is sneaking into your diet Get the most out of high-tech exercise machines and equipment, plus tips for using dumbbells or a simple jump rope to achieve results Offers step-by-step instructions on creating a home gym on a budget Featuring all-new informative fitness photos and illustrations, this revised edition of Fitness For Dummies is all you need to get on track to a healthy new body!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780470767597</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">V6uXhxo26FwC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Health &amp; Fitness</dc:subject>
+        <dc:subject>Exercise</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Sports &amp; Recreation</dc:subject>
+        <dc:subject>Bodybuilding &amp; Weightlifting</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Suzanne Schlosberg&quot;: &quot;&quot;, &quot;Liz Neporent&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-14T09:33:05+00:00"/>
+        <meta name="calibre:title_sort" content="Fitness for Dummies"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
