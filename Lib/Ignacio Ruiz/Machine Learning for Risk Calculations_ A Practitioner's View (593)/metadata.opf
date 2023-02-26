@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">593</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8fbd102-30a7-41af-ab03-51a44e275bc6</dc:identifier>
+        <dc:title>Machine Learning for Risk Calculations: A Practitioner's View</dc:title>
+        <dc:creator opf:file-as="Ruiz, Ignacio &amp; Zeron, Mariano" opf:role="aut">Ignacio Ruiz</dc:creator>
+        <dc:creator opf:file-as="Ruiz, Ignacio &amp; Zeron, Mariano" opf:role="aut">Mariano Zeron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-20T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;State-of-the-art algorithmic deep learning and tensoring techniques for financial institutions &lt;/p&gt;
+&lt;p&gt;The computational demand of risk calculations in financial institutions has ballooned and shows no sign of stopping. It is no longer viable to simply add more computing power to deal with this increased demand. The solution? Algorithmic solutions based on deep learning and Chebyshev tensors represent a practical way to reduce costs while simultaneously increasing risk calculation capabilities. &lt;em&gt;Machine Learning for Risk Calculations: A Practitioner's View&lt;/em&gt; provides an in-depth review of a number of algorithmic solutions and demonstrates how they can be used to overcome the massive computational burden of risk calculations in financial institutions. &lt;/p&gt;
+&lt;p&gt;This book will get you started by reviewing fundamental techniques, including deep learning and Chebyshev tensors. You'll then discover algorithmic tools that, in combination with the fundamentals, deliver actual solutions to the real problems financial institutions encounter on a regular basis. Numerical tests and examples demonstrate how these solutions can be applied to practical problems, including XVA and Counterparty Credit Risk, IMM capital, PFE, VaR, FRTB, Dynamic Initial Margin, pricing function calibration, volatility surface parametrisation, portfolio optimisation and others. Finally, you'll uncover the benefits these techniques provide, the practicalities of implementing them, and the software which can be used. &lt;/p&gt;
+&lt;p&gt;Review the fundamentals of deep learning and Chebyshev tensors Discover pioneering algorithmic techniques that can create new opportunities in complex risk calculation Learn how to apply the solutions to a wide range of real-life risk calculations. Download sample code used in the book, so you can follow along and experiment with your own calculations Realize improved risk management whilst overcoming the burden of limited computational power Quants, IT professionals, and financial risk managers will benefit from this practitioner-oriented approach to state-of-the-art risk calculation.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119791409</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59862063</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">m9RVEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Financial Engineering</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>Accounting</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ignacio Ruiz&quot;: &quot;&quot;, &quot;Mariano Zeron&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-30T04:04:35+00:00"/>
+        <meta name="calibre:title_sort" content="Machine Learning for Risk Calculations: A Practitioner's View"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

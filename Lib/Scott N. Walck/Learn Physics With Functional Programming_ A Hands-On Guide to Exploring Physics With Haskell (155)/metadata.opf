@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">155</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f6ab1be2-3fc2-4b07-815c-e907caf686f6</dc:identifier>
+        <dc:title>Learn Physics With Functional Programming: A Hands-On Guide to Exploring Physics With Haskell</dc:title>
+        <dc:creator opf:file-as="Walck, Scott N." opf:role="aut">Scott N. Walck</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-30T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Deepen your understanding of physics by learning to use the Haskell functional programming language. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Learn Physics with Functional Programming&lt;/em&gt; is your key to unlocking the mysteries of theoretical physics by coding the underlying math in Haskell. &lt;/p&gt;
+&lt;p&gt;You’ll use Haskell’s type system to check that your code makes sense as you deepen your understanding of Newtonian mechanics and electromagnetic theory, including how to describe and calculate electric and magnetic fields. &lt;/p&gt;
+&lt;p&gt;As you work your way through the book’s numerous examples and exercises, you’ll learn how to: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Encode vectors, derivatives, integrals, scalar fields, vector fields, and differential equations&lt;/li&gt;
+&lt;li&gt;Express fundamental physical principles using the logic of Haskell’s type system to clarify Newton’s second law, Coulomb’s law, the Biot-Savart law, and the Maxwell equations&lt;/li&gt;
+&lt;li&gt;Use higher-order functions to express numerical integration and approximation methods, such as the Euler method and the finite-difference time-domain (FDTD) method&lt;/li&gt;
+&lt;li&gt;Create graphs, models, and animations of physical scenarios like colliding billiard balls, waves in a guitar string, and a proton in a magnetic field&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Whether you’re using this book as a core textbook for a computational physics course or for self-study, &lt;em&gt;Learn Physics with Functional Programming&lt;/em&gt; will teach you how to use the power of functional programming to explore the beautiful ideas of theoretical physics.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Scott Walck&lt;/strong&gt; has a PhD in Physics from Lehigh University and has been a professor of physics, including computational physics, to undergraduates for over 20 years at Lebanon Valley College. He has also written academic articles and given talks on the use of functional programming in teaching physics. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">qS1mEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1718501668</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781718501669</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Electromagnetism</dc:subject>
+        <dc:subject>Functional Programming</dc:subject>
+        <dc:subject>Haskell</dc:subject>
+        <dc:subject>Mathematical &amp; Computational</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <dc:subject>Physics</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Scott N. Walck&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-31T11:42:04+00:00"/>
+        <meta name="calibre:title_sort" content="Learn Physics With Functional Programming: A Hands-On Guide to Exploring Physics With Haskell"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

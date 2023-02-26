@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">216</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07113e56-077e-4f26-b549-a5b7e5928ffb</dc:identifier>
+        <dc:title>The Unlucky Investor's Guide to Options Trading</dc:title>
+        <dc:creator opf:file-as="Spina, Julia &amp; Kulikov, Anton &amp; Sosnoff, Tom" opf:role="aut">Julia Spina</dc:creator>
+        <dc:creator opf:file-as="Spina, Julia &amp; Kulikov, Anton &amp; Sosnoff, Tom" opf:role="aut">Anton Kulikov</dc:creator>
+        <dc:creator opf:file-as="Spina, Julia &amp; Kulikov, Anton &amp; Sosnoff, Tom" opf:role="aut">Tom Sosnoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-23T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;An approachable guide to sustainable options trading, minimal luck needed. &lt;/b&gt;&lt;/p&gt; &lt;p&gt;Traders who are successful long-term do not rely on luck, but rather their ability to adapt, strategize, and utilize available tools and information. Modern markets are becoming increasingly accessible to the average consumer, and the emergence of retail options trading is opening a world of opportunities for the individual investor. Options are highly versatile and complex financial instruments that were exclusive to industry professionals until recently. So where should beginners start? &lt;i&gt;The Unlucky Investor's Guide to Options Trading&lt;/i&gt; breaks down the science of options trading to suit interested traders from any background. Using statistics and historical options data, readers will develop an intuitive understanding of the potential risks and rewards of options contracts. From the basics of options trading to strategy construction and portfolio management, &lt;i&gt;The Unlucky Investor's...</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119882664</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Julia Spina&quot;: &quot;&quot;, &quot;Anton Kulikov&quot;: &quot;&quot;, &quot;Tom Sosnoff&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-10T06:52:45+00:00"/>
+        <meta name="calibre:title_sort" content="Unlucky Investor's Guide to Options Trading, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
