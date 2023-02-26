@@ -8,7 +8,8 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-12-09T01:03:17+00:00</dc:date>
         <dc:language>en</dc:language>
-        <dc:subject>ITAL 199-S01</dc:subject>
+        <dc:subject>ITAL-199</dc:subject>
+        <dc:subject>Italy</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Fred L. Gardaphé&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-02-07T15:08:42+00:00"/>
         <meta name="calibre:title_sort" content="Sacco and Vanzetti: The Italian American Legacy"/>

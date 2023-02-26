@@ -8,7 +8,8 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
-        <dc:subject>ITAL 199-S01</dc:subject>
+        <dc:subject>ITAL-199</dc:subject>
+        <dc:subject>Italy</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Teresa Fiore&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Pre-Occupied Spaces"/>
         <meta name="calibre:series_index" content="2"/>

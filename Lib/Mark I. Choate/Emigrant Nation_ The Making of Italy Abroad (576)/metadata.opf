@@ -28,14 +28,14 @@
         <dc:identifier opf:scheme="GOOGLE">w3pJEAAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780674027848</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>History</dc:subject>
         <dc:subject>Europe</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>ITAL-199</dc:subject>
         <dc:subject>Italy</dc:subject>
         <dc:subject>Modern</dc:subject>
-        <dc:subject>General</dc:subject>
-        <dc:subject>Social Science</dc:subject>
         <dc:subject>School</dc:subject>
-        <dc:subject>ITAL 199-S01</dc:subject>
+        <dc:subject>Social Science</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Mark I. Choate&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-26T00:44:42+00:00"/>

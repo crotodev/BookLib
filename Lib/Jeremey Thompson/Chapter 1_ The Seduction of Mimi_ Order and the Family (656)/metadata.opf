@@ -8,7 +8,8 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2006-10-16T08:08:02+00:00</dc:date>
         <dc:language>en</dc:language>
-        <dc:subject>ITAL 199-S01</dc:subject>
+        <dc:subject>ITAL-199</dc:subject>
+        <dc:subject>Italy</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Jeremey Thompson&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-02-18T21:03:42+00:00"/>
         <meta name="calibre:title_sort" content="Chapter 1: The Seduction of Mimi: Order and the Family"/>
