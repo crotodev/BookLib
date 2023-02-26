@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1274</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">024a1782-b96d-44bc-a0b8-4ad8d7482837</dc:identifier>
+        <dc:title>Hands-On Data Analysis With Pandas - Second Edition: A Python Data Science Handbook for Data Collection, Wrangling, Analysis, and Visualization</dc:title>
+        <dc:creator opf:file-as="Molin, Stefanie" opf:role="aut">Stefanie Molin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Get to grips with pandas - a fast, versatile, and high-performance Python library for data discovery, data manipulation, data preparation, and handling data for analytical tasksKey Features: Perform efficient data analysis and manipulation tasks using pandas 1.xApply pandas to different real-world domains with the help of step-by-step examplesBecome well-versed in using pandas as an effective data exploration toolBook Description: Data analysis has become an essential skill in a variety of domains where knowing how to work with data and extract insights can generate significant value. Hands-On Data Analysis with Pandas will show you how to analyze your data, get started with machine learning, and work effectively with the Python libraries often used for data science, such as pandas, NumPy, matplotlib, seaborn, and scikit-learn. &lt;/p&gt;
+&lt;p&gt;Using real-world datasets, you will learn how to use the pandas library to perform data wrangling to reshape, clean, and aggregate your data. Then, you will learn how to conduct exploratory data analysis by calculating summary statistics and visualizing the data to find patterns. In the concluding chapters, you will explore some applications of anomaly detection, regression, clustering, and classification using scikit-learn to make predictions based on past data. &lt;/p&gt;
+&lt;p&gt;This updated edition will equip you with the skills you need to use pandas 1.x to efficiently perform various data manipulation tasks, reliably reproduce analyses, and visualize your data for effective decision making-valuable knowledge that can be applied across multiple domains. &lt;/p&gt;
+&lt;p&gt;What You Will Learn: Understand how data analysts and scientists gather and analyze dataPerform data analysis and data wrangling using PythonCombine, group, and aggregate data from multiple sourcesCreate data visualizations with pandas, matplotlib, and seabornApply machine learning algorithms to identify patterns and make predictionsUse Python data science libraries to analyze real-world datasetsSolve common data representation and analysis problems using pandasBuild Python scripts, modules, and packages for reusable analysis codeWho this book is for: This book is for data science beginners, data analysts, and Python developers who want to explore each stage of data analysis and scientific computing using a wide range of datasets. You'll also find this book useful if you are a data scientist looking to implement pandas in your machine learning workflow. Working knowledge of the Python programming language will assist with understanding the key concepts covered in this book; however, a Python crash-course tutorial is provided in the code bundle for anyone who needs a refresher.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781800563452</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">T5wlzgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Data Pipelines</dc:subject>
+        <dc:subject>ETL</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Data Analysis</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stefanie Molin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-26T05:28:03.729742+00:00"/>
+        <meta name="calibre:title_sort" content="Hands-On Data Analysis With Pandas - Second Edition: A Python Data Science Handbook for Data Collection, Wrangling, Analysis, and Visualization"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
