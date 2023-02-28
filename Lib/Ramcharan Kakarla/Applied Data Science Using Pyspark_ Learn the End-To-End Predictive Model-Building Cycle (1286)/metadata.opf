@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1286</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a2c7dc6-6894-4ff3-a368-d3176f6acd06</dc:identifier>
+        <dc:title>Applied Data Science Using Pyspark: Learn the End-To-End Predictive Model-Building Cycle</dc:title>
+        <dc:creator opf:file-as="Kakarla, Ramcharan &amp; Krishnan, Sundar &amp; Alla, Sridhar" opf:role="aut">Ramcharan Kakarla</dc:creator>
+        <dc:creator opf:file-as="Kakarla, Ramcharan &amp; Krishnan, Sundar &amp; Alla, Sridhar" opf:role="aut">Sundar Krishnan</dc:creator>
+        <dc:creator opf:file-as="Kakarla, Ramcharan &amp; Krishnan, Sundar &amp; Alla, Sridhar" opf:role="aut">Sridhar Alla</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-18T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Discover the capabilities of PySpark and its application in the realm of data science. This comprehensive guide with hand-picked examples of daily use cases will walk you through the end-to-end predictive model-building cycle with the latest techniques and tricks of the trade. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Applied Data Science Using PySpark&lt;/em&gt; is divided unto six sections which walk you through the book. In section 1, you start with the basics of PySpark focusing on data manipulation. We make you comfortable with the language and then build upon it to introduce you to the mathematical functions available off the shelf. In section 2, you will dive into the art of variable selection where we demonstrate various selection techniques available in PySpark. In section 3, we take you on a journey through machine learning algorithms, implementations, and fine-tuning techniques. We will also talk about different validation metrics and how to use them for picking the best models. Sections 4 and 5 go through machine learning pipelines and various methods available to operationalize the model and serve it through Docker/an API. In the final section, you will cover reusable objects for easy experimentation and learn some tricks that can help you optimize your programs and machine learning pipelines. &lt;/p&gt;
+&lt;p&gt;By the end of this book, you will have seen the flexibility and advantages of PySpark in data science applications. This book is recommended to those who want to unleash the power of parallel computing by simultaneously working with big datasets. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Will Learn &lt;/p&gt;
+&lt;p&gt;Build an end-to-end predictive model&lt;br&gt;Implement multiple variable selection techniques&lt;br&gt;Operationalize models&lt;br&gt;Master multiple algorithms and implementations &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book is For &lt;/p&gt;
+&lt;p&gt;Data scientists and machine learning and deep learning engineers who want to learn and use PySpark for real-time analysis of streaming data. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484264997</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484264991</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">56217669</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">aDTDzQEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Data Analytics</dc:subject>
+        <dc:subject>PySpark</dc:subject>
+        <dc:subject>Spark</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ramcharan Kakarla&quot;: &quot;&quot;, &quot;Sundar Krishnan&quot;: &quot;&quot;, &quot;Sridhar Alla&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-28T15:46:03.906886+00:00"/>
+        <meta name="calibre:title_sort" content="Applied Data Science Using Pyspark: Learn the End-To-End Predictive Model-Building Cycle"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
