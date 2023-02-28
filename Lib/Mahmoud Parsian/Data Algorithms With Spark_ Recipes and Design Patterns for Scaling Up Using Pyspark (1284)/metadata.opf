@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1284</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7bfa137-3b42-46a8-8bc7-a52ac9264b38</dc:identifier>
+        <dc:title>Data Algorithms With Spark: Recipes and Design Patterns for Scaling Up Using Pyspark</dc:title>
+        <dc:creator opf:file-as="Parsian, Mahmoud" opf:role="aut">Mahmoud Parsian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Apache Spark's speed, ease of use, sophisticated analytics, and multilanguage support makes practical knowledge of this cluster-computing framework a required skill for data engineers and data scientists. With this hands-on guide, anyone looking for an introduction to Spark will learn practical algorithms and examples using PySpark. &lt;/p&gt;
+&lt;p&gt;In each chapter, author Mahmoud Parsian shows you how to solve a data problem with a set of Spark transformations and algorithms. You'll learn how to tackle problems involving ETL, design patterns, machine learning algorithms, data partitioning, and genomics analysis. Each detailed recipe includes PySpark algorithms using the PySpark driver and shell script. &lt;/p&gt;
+&lt;p&gt;With this book, you will: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn how to select Spark transformations for optimized solutions &lt;/li&gt;
+&lt;li&gt;Explore powerful transformations and reductions including reduceByKey(), combineByKey(), and mapPartitions() &lt;/li&gt;
+&lt;li&gt;Understand data partitioning for optimized queries &lt;/li&gt;
+&lt;li&gt;Build and apply a model using PySpark design patterns &lt;/li&gt;
+&lt;li&gt;Apply motif-finding algorithms to graph data &lt;/li&gt;
+&lt;li&gt;Analyze graph data by using the GraphFrames API &lt;/li&gt;
+&lt;li&gt;Apply PySpark algorithms to clinical and genomics data &lt;/li&gt;
+&lt;li&gt;Learn how to use and apply feature engineering in ML algorithms &lt;/li&gt;
+&lt;li&gt;Understand and use practical and pragmatic data design patterns &lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Mahmoud Parsian, Ph.D. in Computer Science, is a practicing software professional with 30 years of experience as a developer, designer, architect, and author. For the past 15 years, he has been involved in Java server-side, databases, MapReduce, Spark, PySpark, and distributed computing. Dr. Parsian currently leads Illumina's Big Data team, which is focused on large-scale genome analytics and distributed computing by using Spark and PySpark. He leads and develops scalable regression algorithms; DNA sequencing pipelines using Java, MapReduce, PySpark, Spark, and open source tools. He is the author of the following books: Data Algorithms (O’Reilly, 2015), PySpark Algorithms (Amazon.com, 2019), JDBC Recipes (Apress, 2005), JDBC Metadata Recipes (Apress, 2006). Also, Dr. Parsian is an Adjunct Professor at Santa Clara University, teaching Big Data Modeling and Analytics and Machine Learning to MSIS program utilizing Spark, PySpark, Python, and scikit-learn.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781492082385</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1492082384</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58230348</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">I0LfzQEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Machine Learning</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mahmoud Parsian&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-02-28T15:35:10.234504+00:00"/>
+        <meta name="calibre:title_sort" content="Data Algorithms With Spark: Recipes and Design Patterns for Scaling Up Using Pyspark"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -958,15 +958,14 @@
   "virtual_libraries": {
     "Equity Research": "tags:\"=Equity Research\"",
     "Finance": "tags:\"=Machine Learning\" or tags:\"=Quantitative Finance\"",
-    "ITAL 199-S01": "tags:\"=ITAL 199-S01\"",
     "Quant": "tags:=\"Quantitative Finance\"",
     "Quantitative Finance Articles": "tags:=\"Quantitative Finance\" and tags:=\"Research Article\" or tags:=\"Finance\" and tags:=\"Research Article\"",
-    "REL 144-01": "tags:\"=REL 144-01\""
+    "ITAL-199": "tags:\"=ITAL-199\"",
+    "REL-144": "tags:\"=REL-144\""
   },
   "update_all_last_mod_dates_on_start": false,
   "virt_libs_hidden": [
     "Finance",
-    "ITAL 199-S01",
     "Equity Research"
   ],
   "namespaced:FindDuplicatesPlugin:settings": {

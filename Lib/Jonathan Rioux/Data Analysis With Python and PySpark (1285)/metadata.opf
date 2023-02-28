@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1285</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b90165e5-20a6-43e2-8c10-e562b6218fd0</dc:identifier>
+        <dc:title>Data Analysis With Python and PySpark</dc:title>
+        <dc:creator opf:file-as="Rioux, Jonathan" opf:role="aut">Jonathan Rioux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-22T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Think big about your data! PySpark brings the powerful Spark big data processing engine to the Python ecosystem, letting you seamlessly scale up your data tasks and create lightning-fast pipelines. &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Data Analysis with Python and PySpark&lt;/em&gt; you will learn how to: &lt;/p&gt;
+&lt;p&gt;Manage your data as it scales across multiple machines&lt;br&gt;Scale up your data programs with full confidence&lt;br&gt;Read and write data to and from a variety of sources and formats&lt;br&gt;Deal with messy data with PySpark’s data manipulation functionality&lt;br&gt;Discover new data sets and perform exploratory data analysis&lt;br&gt;Build automated data pipelines that transform, summarize, and get insights from data&lt;br&gt;Troubleshoot common PySpark errors&lt;br&gt;Creating reliable long-running jobs &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Data Analysis with Python and PySpark&lt;/em&gt; is your guide to delivering successful Python-driven data projects. Packed with relevant examples and essential techniques, this practical book teaches you to build pipelines for reporting, machine learning, and other data-centric tasks. Quick exercises in every chapter help you practice what you’ve learned, and rapidly start implementing PySpark into your data systems. No previous knowledge of Spark is required. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p&gt;About the technology&lt;br&gt;The Spark data processing engine is an amazing analytics factory: raw data comes in, insight comes out. PySpark wraps Spark’s core engine with a Python-based API. It helps simplify Spark’s steep learning curve and makes this powerful tool available to anyone working in the Python data ecosystem. &lt;/p&gt;
+&lt;p&gt;About the book&lt;br&gt;&lt;em&gt;Data Analysis with Python and PySpark&lt;/em&gt; helps you solve the daily challenges of data science with PySpark. You’ll learn how to scale your processing capabilities across multiple machines while ingesting data from any source—whether that’s Hadoop clusters, cloud data storage, or local data files. Once you’ve covered the fundamentals, you’ll explore the full versatility of PySpark by building machine learning pipelines, and blending Python, pandas, and PySpark code. &lt;/p&gt;
+&lt;p&gt;What's inside &lt;/p&gt;
+&lt;p&gt;Organizing your PySpark code&lt;br&gt;Managing your data, no matter the size&lt;br&gt;Scale up your data programs with full confidence&lt;br&gt;Troubleshooting common data pipeline problems&lt;br&gt;Creating reliable long-running jobs &lt;/p&gt;
+&lt;p&gt;About the reader&lt;br&gt;Written for data scientists and data engineers comfortable with Python. &lt;/p&gt;
+&lt;p&gt;About the author&lt;br&gt;As a ML director for a data-driven software company, &lt;strong&gt;Jonathan Rioux&lt;/strong&gt; uses PySpark daily. He teaches the software to data scientists, engineers, and data-savvy business analysts. &lt;/p&gt;
+&lt;p&gt;Table of Contents &lt;/p&gt;
+&lt;p&gt;1 Introduction&lt;br&gt;PART 1 GET ACQUAINTED: FIRST STEPS IN PYSPARK&lt;br&gt;2 Your first data program in PySpark&lt;br&gt;3 Submitting and scaling your first PySpark program&lt;br&gt;4 Analyzing tabular data with pyspark.sql&lt;br&gt;5 Data frame gymnastics: Joining and grouping&lt;br&gt;PART 2 GET PROFICIENT: TRANSLATE YOUR IDEAS INTO CODE&lt;br&gt;6 Multidimensional data frames: Using PySpark with JSON data&lt;br&gt;7 Bilingual PySpark: Blending Python and SQL code&lt;br&gt;8 Extending PySpark with Python: RDD and UDFs&lt;br&gt;9 Big data is just a lot of small data: Using pandas UDFs&lt;br&gt;10 Your data under a different lens: Window functions&lt;br&gt;11 Faster PySpark: Understanding Spark’s query planning&lt;br&gt;PART 3 GET CONFIDENT: USING MACHINE LEARNING WITH PYSPARK&lt;br&gt;12 Setting the stage: Preparing features for machine learning&lt;br&gt;13 Robust machine learning with ML Pipelines&lt;br&gt;14 Building custom ML transformers and estimators&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;As a data scientist for an engineering consultancy &lt;strong&gt;Jonathan Rioux&lt;/strong&gt; uses PySpark daily. He teaches the software to data scientists, engineers, and data-savvy business analysts.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781617297205</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1617297208</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Data Analytics</dc:subject>
+        <dc:subject>Analytics</dc:subject>
+        <dc:subject>PySpark</dc:subject>
+        <dc:subject>Spark</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jonathan Rioux&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-02-28T15:38:34.929809+00:00"/>
+        <meta name="calibre:title_sort" content="Data Analysis With Python and PySpark"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
