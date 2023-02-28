@@ -31,12 +31,12 @@
         <dc:identifier opf:scheme="GOOGLE">I0LfzQEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
-        <dc:subject>Languages</dc:subject>
-        <dc:subject>Python</dc:subject>
-        <dc:subject>Programming</dc:subject>
-        <dc:subject>Open Source</dc:subject>
         <dc:subject>Data Science</dc:subject>
+        <dc:subject>Languages</dc:subject>
         <dc:subject>Machine Learning</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Python</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Mahmoud Parsian&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-02-28T15:35:10.234504+00:00"/>

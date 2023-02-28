@@ -68,6 +68,11 @@
 &lt;p style="font-family: 'Helvetica Neue'"&gt;14 Building custom ML transformers and estimators &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Manning</dc:publisher>
         <dc:language>en</dc:language>
+        <dc:subject>Data Analytics</dc:subject>
+        <dc:subject>Analytics</dc:subject>
+        <dc:subject>PySpark</dc:subject>
+        <dc:subject>Spark</dc:subject>
+        <dc:subject>Python</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Jonathan Rioux&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-13T17:14:09+00:00"/>
         <meta name="calibre:title_sort" content="PySpark in Action Python data analysis at scale MEAP V06"/>

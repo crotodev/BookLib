@@ -10,6 +10,11 @@
         <dc:identifier opf:scheme="ISBN">9781484277614</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">61115838</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>PySpark</dc:subject>
+        <dc:subject>Spark</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Machine Learning</dc:subject>
+        <dc:subject>Deep Learning</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Tshepo Chris Nokeri&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-21T10:28:22+00:00"/>
         <meta name="calibre:title_sort" content="Data Science Solutions With Python: Fast and Scalable Models Using Keras, PySpark MLlib, H2O, XGBoost, and Scikit-Learn"/>

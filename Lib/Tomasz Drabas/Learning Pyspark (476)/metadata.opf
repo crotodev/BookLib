@@ -14,6 +14,8 @@
         <dc:identifier opf:scheme="GOOGLE">gVBUvgAACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781786463708</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>PySpark</dc:subject>
+        <dc:subject>Data Analytics</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Tomasz Drabas&quot;: &quot;&quot;, &quot;Denny Lee&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-21T09:58:57+00:00"/>
         <meta name="calibre:title_sort" content="Learning Pyspark"/>
