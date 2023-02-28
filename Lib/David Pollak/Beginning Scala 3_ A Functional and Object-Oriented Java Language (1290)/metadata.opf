@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1290</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73afbcac-6394-4fd9-9b62-3a0f13847684</dc:identifier>
+        <dc:title>Beginning Scala 3: A Functional and Object-Oriented Java Language</dc:title>
+        <dc:creator opf:file-as="Pollak, David &amp; Layka, Vishal &amp; Sacco, Andres" opf:role="aut">David Pollak</dc:creator>
+        <dc:creator opf:file-as="Pollak, David &amp; Layka, Vishal &amp; Sacco, Andres" opf:role="aut">Vishal Layka</dc:creator>
+        <dc:creator opf:file-as="Pollak, David &amp; Layka, Vishal &amp; Sacco, Andres" opf:role="aut">Andres Sacco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-26T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Learn the latest version of Scala through simple, practical examples. This book introduces you to the Scala programming language, its object-oriented and functional programming characteristics, and then guides you through Scala constructs and libraries that allow you to assemble small components into high-performance, scalable systems. Beginning Scala 3 explores new Scala 3 language features such as Top-level declarations, Creator applications, Extension methods to add extra functionality to existing types, and Enums. You will also learn new ways to manipulate types via Union types, intersection, literal, and opaque type aliases. Additionally, you’ll see how Implicits are replaced by given and using clauses. After reading this book, you will understand why Scala is judiciously used for critical business applications by leading companies such as Twitter, LinkedIn, Foursquare, the Guardian, Morgan Stanley, Credit Suisse, UBS, and HSBC – and you will be able to use it in your own projects. What You Will LearnGet started with Scala 3 or Scala language programming in generalUnderstand how to utilitze OOP in Scala Perform functional programming in ScalaMaster the use of Scala collections, traits and implicitsLeverage Java and Scala interopabilityEmploy Scala for DSL programmingUse patterns and best practices in ScalaWho This Book Is For Those with a background in Java and/or Kotlin who are new to Scala. This book is also for those with some prior Scala experience who want to learn Scala version 3.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484274217</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">x6uZzgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Pollak&quot;: &quot;&quot;, &quot;Vishal Layka&quot;: &quot;&quot;, &quot;Andres Sacco&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-28T16:09:41.913598+00:00"/>
+        <meta name="calibre:title_sort" content="Beginning Scala 3: A Functional and Object-Oriented Java Language"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
