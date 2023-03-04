@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1295</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b66b4a5c-2df4-468d-bf77-2beee8d814df</dc:identifier>
+        <dc:title>Building Big Data Pipelines With Apache Beam: Use a Single Programming Model for Both Batch and Stream Data Processing</dc:title>
+        <dc:creator opf:file-as="Lukavský, Jan" opf:role="aut">Jan Lukavský</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-21T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Implement, run, operate, and test data processing pipelines using Apache Beam&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand how to improve usability and productivity when implementing Beam pipelines&lt;/li&gt;
+&lt;li&gt;Learn how to use stateful processing to implement complex use cases using Apache Beam&lt;/li&gt;
+&lt;li&gt;Implement, test, and run Apache Beam pipelines with the help of expert tips and techniques&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Apache Beam is an open source unified programming model for implementing and executing data processing pipelines, including Extract, Transform, and Load (ETL), batch, and stream processing.&lt;/p&gt;
+&lt;p&gt;This book will help you to confidently build data processing pipelines with Apache Beam. You'll start with an overview of Apache Beam and understand how to use it to implement basic pipelines. You'll also learn how to test and run the pipelines efficiently. As you progress, you'll explore how to structure your code for reusability and also use various Domain Specific Languages (DSLs). Later chapters will show you how to use schemas and query your data using (streaming) SQL. Finally, you'll understand advanced Apache Beam concepts, such as implementing your own I/O connectors.&lt;/p&gt;
+&lt;p&gt;By the end of this book, you'll have gained a deep understanding of the Apache Beam model and be able to apply it to solve problems.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the core concepts and architecture of Apache Beam&lt;/li&gt;
+&lt;li&gt;Implement stateless and stateful data processing pipelines&lt;/li&gt;
+&lt;li&gt;Use state and timers for processing real-time event processing&lt;/li&gt;
+&lt;li&gt;Structure your code for reusability&lt;/li&gt;
+&lt;li&gt;Use streaming SQL to process real-time data for increasing productivity and data accessibility&lt;/li&gt;
+&lt;li&gt;Run a pipeline using a portable runner and implement data processing using the Apache Beam Python SDK&lt;/li&gt;
+&lt;li&gt;Implement Apache Beam I/O connectors using the Splittable DoFn API&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is for data engineers, data scientists, and data analysts who want to learn how Apache Beam works. Intermediate-level knowledge of the Java programming language is assumed.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction to Data Processing with Apache Beam&lt;/li&gt;
+&lt;li&gt;Implementing, Testing, and Deploying Basic Pipelines&lt;/li&gt;
+&lt;li&gt;Implementing Pipelines Using Stateful Processing&lt;/li&gt;
+&lt;li&gt;Structuring Code for Reusability&lt;/li&gt;
+&lt;li&gt;Using SQL for Pipeline Implementation&lt;/li&gt;
+&lt;li&gt;Using Your Preferred Language with Portability&lt;/li&gt;
+&lt;li&gt;Extending Apache Beam's I/O Connectors &lt;/li&gt;
+&lt;li&gt;Understanding How Runners Execute Pipelines&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"This book is a great step-by-step introduction to Apache Beam's capabilities and features. Jan has done an incredible job at building a book for a new user journey." -- Pablo Estrada, Software Engineer at Google and a member of the Apache Software &lt;/p&gt;
+&lt;p&gt;"Apache Beam can be daunting even for experienced big data engineers. As a contributor to the open source technology, Jan shares his years of experience in a logical, beginner-friendly way. He breaks down each practical scenario, describing the implementation, testing, and deployment and makes following along effortless with the book’s complimentary GitHub repo, which uses Kafka and Flink. Moreover, Jan explains difficult streaming topics such as triggers, windowing and even Splittable DoFns. I highly recommend it to anyone looking to advance in the data processing domain." -- Konrad Janica, Dataflow Engineer at Google&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Jan Lukavský is a freelance big data architect and engineer who is also a committer of Apache Beam. He is a certified Apache Hadoop professional. He is working on open source big data systems combining batch and streaming data pipelines in a unified model, enabling the rise of real-time, data-driven applications.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781800564930</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1800564937</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59893666</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jan Lukavský&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-03-02T08:47:17.082817+00:00"/>
+        <meta name="calibre:title_sort" content="Building Big Data Pipelines With Apache Beam: Use a Single Programming Model for Both Batch and Stream Data Processing"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

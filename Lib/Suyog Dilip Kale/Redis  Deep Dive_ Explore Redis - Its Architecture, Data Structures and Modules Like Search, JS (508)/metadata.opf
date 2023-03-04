@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">508</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d410619-e3e3-4ad7-8edc-622b9d1e63f5</dc:identifier>
+        <dc:title>Redis¨ Deep Dive: Explore Redis - Its Architecture, Data Structures and Modules Like Search, JSON, AI, Graph, Timeseries (English Edition)</dc:title>
+        <dc:creator opf:file-as="Kale, Suyog Dilip &amp; Kulkarni, Chinmay" opf:role="aut">Suyog Dilip Kale</dc:creator>
+        <dc:creator opf:file-as="Kale, Suyog Dilip &amp; Kulkarni, Chinmay" opf:role="aut">Chinmay Kulkarni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-18T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Complete reference guide to RedisÊKEY FEATURESÊÊ_ Complete coverage of Redis Modules._ Best practices, tips and tricks, and expert techniques to scale Redis._ Troubleshooting solutions to perform real-time faster data processing for client applications.ÊDESCRIPTIONÊÊThis book begins with teaching you to set up your own Redis environment, followed by Redis data structures, their architecture, and use cases. You get to learn the details about Redis Modules such as RediSearch, RedisJSON, RedisTimeSeries, RedisAI, and RedisGraph with specific business use-case examples. This book makes you a Redis Expert by getting you hands-on with best practices on Redis and some tricks to scale Redis activities. &lt;/p&gt;
+&lt;p&gt;WHAT YOU WILL LEARN_ RedisÕs advantages over the other NOSQL databases._ Explore Redis Enterprise and its real gameplay in enterprise applications._ Learn Redis data structures through practically demonstrated use cases._ Learn from Industry expert to setup the Redis in production environment._ Understand how Redis enterprise enhances Redis OSS.ÊWHO THIS BOOK IS FORÊÊThis book is ideal for anyone who is interested in understanding the basic concepts of the Redis database. The book will help the IT professionals, Software developers, Technical leads, Architects. Readers should have a working knowledge of database designing, basic programming skills, and an understanding of the latest trends in cloud computing.ÊTABLE OF CONTENTS1. Introduction to NoSQL World2. NoSQL database types3. Are NoSQL databases better than traditional databases?4. History of Redis5. Getting started with Redis6. Setting up Redis7. Redis Data Structures in details8. Scaling Redis9. Modules10. Redis use cases11. Redis as database service - enterprise solutions12. What is new in Redis 6?13. Appendix A(i) Using Redis-cli(ii) RedisInsight tool(iii) Community helps&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>BPB Publications</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B08WWSD2XN</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57122154</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788194837763</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">NsseEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Productivity Software</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <dc:subject>Databases</dc:subject>
+        <dc:subject>Data Analysis</dc:subject>
+        <dc:subject>Data Analytics</dc:subject>
+        <dc:subject>Analytics</dc:subject>
+        <dc:subject>Redis</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Suyog Dilip Kale&quot;: &quot;&quot;, &quot;Chinmay Kulkarni&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="4"/>
+        <meta name="calibre:timestamp" content="2023-01-21T16:32:06+00:00"/>
+        <meta name="calibre:title_sort" content="Redis¨ Deep Dive: Explore Redis - Its Architecture, Data Structures and Modules Like Search, JSON, AI, Graph, Timeseries (English Edition)"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
