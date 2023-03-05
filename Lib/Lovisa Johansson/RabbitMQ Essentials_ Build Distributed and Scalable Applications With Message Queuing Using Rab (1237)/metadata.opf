@@ -16,13 +16,24 @@
         <dc:identifier opf:scheme="ISBN">9781789135428</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
-        <dc:subject>Languages</dc:subject>
-        <dc:subject>Java</dc:subject>
-        <dc:subject>Web</dc:subject>
+        <dc:subject>Data Processing</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Data Transmission Systems</dc:subject>
         <dc:subject>General</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
         <dc:subject>Internet</dc:subject>
-        <dc:subject>Application Development</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Mobile Devices</dc:subject>
+        <dc:subject>Podcasting &amp; Webcasting</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Social Media</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>User-Generated Content</dc:subject>
+        <dc:subject>Web</dc:subject>
         <dc:subject>Web Programming</dc:subject>
+        <dc:subject>Web Services &amp; APIs</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Lovisa Johansson&quot;: &quot;&quot;, &quot;David Dossot&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-02-21T16:37:23+00:00"/>
         <meta name="calibre:title_sort" content="RabbitMQ Essentials: Build Distributed and Scalable Applications With Message Queuing Using RabbitMQ, 2nd Edition"/>
