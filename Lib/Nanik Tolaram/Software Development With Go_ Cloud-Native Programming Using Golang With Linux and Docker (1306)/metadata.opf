@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1306</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57f892f4-5d1a-488c-9112-95a5b55877d3</dc:identifier>
+        <dc:title>Software Development With Go: Cloud-Native Programming Using Golang With Linux and Docker</dc:title>
+        <dc:creator opf:file-as="Tolaram, Nanik" opf:role="aut">Nanik Tolaram</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-29T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Gain insights into the different challenges that can be solved using Go, with a focus on containers, Linux, security, networking, user interfaces and other relevant cloud based topics. This book reviews the necessary tools to create container-based cloud solutions with Go, a programming language that was born out of the need to address scalable, high availability cloud computing architecture needs inside Google. &lt;/p&gt;
+&lt;p&gt;Go, also known as Golang, has been adopted across different industries and products with many popular Open Source projects that power cloud computing technologies such as Docker and Kubernetes being written with Go. As the complexity of cloud technology increases, so does the need for people to understand how things work under-the-hood and to fix them when they’re broken. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Will Learn&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand how the various components of a container-based system works&lt;/li&gt;
+&lt;li&gt;Tackle complex technical issues using Go&lt;/li&gt;
+&lt;li&gt;Integrate tools that can be used as part of your daily operational needs&lt;/li&gt;
+&lt;li&gt;Build system-based products&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For&lt;/p&gt;
+&lt;p&gt;Developers and Engineers familiar with Go who want to know how different parts of the system work and who want to write command line tools. It will also be beneficial to programmers who already have a system-level understanding and want to use Go to build tools for existing projects and applications.&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Gain insights into the different challenges that can be solved using Go, with a focus on containers, Linux, security, networking, user interfaces and other relevant cloud based topics. This book reviews the necessary tools to create container-based cloud solutions with Go, a programming language that was born out of the need to address scalable, high availability cloud computing architecture needs inside Google. &lt;br&gt;Go, also known as Golang, has been adopted across different industries and products with many popular Open Source projects that power cloud computing technologies such as Docker and Kubernetes being written with Go. As the complexity of cloud technology increases, so does the need for people to understand how things work under-the-hood and to fix them when they’re broken. &lt;em&gt;&lt;br&gt;Software Development with Go&lt;/em&gt; will give you that knowledge.&lt;/p&gt;
+&lt;p&gt;You will: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand how the various components of a container-based system works&lt;/li&gt;
+&lt;li&gt;Tackle complex technical issues using Go&lt;/li&gt;
+&lt;li&gt;Integrate tools that can be used as part of your daily operational needs&lt;/li&gt;
+&lt;li&gt;Build system-based products&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Nanik Tolaram&lt;/strong&gt; is a big proponent of open source software with over 20 years of industry experience. He has dabbled in different programming languages, including Java, C, and C++. He has developed products from the ground up working in early startup companies. He is a software engineer at heart, but loves to write technical articles and share his knowledge with others. &lt;/p&gt;
+&lt;p&gt;He learned to program with Go during the COVID 19 pandemic and hasn't looked back.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484287309</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484287304</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">IQNMzwEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nanik Tolaram&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-10T17:19:34.790445+00:00"/>
+        <meta name="calibre:title_sort" content="Software Development With Go: Cloud-Native Programming Using Golang With Linux and Docker"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

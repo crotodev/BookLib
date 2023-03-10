@@ -12,7 +12,7 @@
 &lt;p&gt;PostgreSQL, also known as Postgres, is a popular free and open source relational database management system. Postgres is a great technology to learn. It is a powerful, secure, and fast relational database system that is growing in popularity. It is a mature, stable database that has been around for over 30 years. Postgres runs on a wide variety of operating systems, including Linux, Windows, macOS, and it even runs in the cloud. Postgres helps you to maintain the integrity of your data. It has a robust set of features, and is even extensible if you ever need to do something unconventional that it doesn’t already do. &lt;/p&gt;
 &lt;p&gt;The book includes a set of online scripts that contain the SQL commands shown in the book. &lt;/p&gt;
 &lt;p&gt;■ Learn to write SQL queries&lt;br&gt;■ Learn to create, drop, and change database tables&lt;br&gt;■ Explore Postgres data types for text, integers, dates, and booleans&lt;br&gt;■ Join database tables using inner joins, outer joins, cross joins, and self-joins&lt;br&gt;■ Explore ways to compare values in your SQL queries&lt;br&gt;■ Find out how to order your query results and to group like data&lt;br&gt;■ Call Postgres built-in functions and write your own&lt;br&gt;■ Create views, materialized views, sequences, procedures, and triggers &lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Independently Published</dc:publisher>
+        <dc:publisher>Independently published</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9798687854184</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B08KH136G4</dc:identifier>
         <dc:language>eng</dc:language>
