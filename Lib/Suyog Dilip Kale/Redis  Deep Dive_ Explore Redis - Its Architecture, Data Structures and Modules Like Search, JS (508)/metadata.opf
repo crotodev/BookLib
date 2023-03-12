@@ -6,15 +6,15 @@
         <dc:title>Redis¨ Deep Dive: Explore Redis - Its Architecture, Data Structures and Modules Like Search, JSON, AI, Graph, Timeseries (English Edition)</dc:title>
         <dc:creator opf:file-as="Kale, Suyog Dilip &amp; Kulkarni, Chinmay" opf:role="aut">Suyog Dilip Kale</dc:creator>
         <dc:creator opf:file-as="Kale, Suyog Dilip &amp; Kulkarni, Chinmay" opf:role="aut">Chinmay Kulkarni</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-02-18T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Complete reference guide to RedisÊKEY FEATURESÊÊ_ Complete coverage of Redis Modules._ Best practices, tips and tricks, and expert techniques to scale Redis._ Troubleshooting solutions to perform real-time faster data processing for client applications.ÊDESCRIPTIONÊÊThis book begins with teaching you to set up your own Redis environment, followed by Redis data structures, their architecture, and use cases. You get to learn the details about Redis Modules such as RediSearch, RedisJSON, RedisTimeSeries, RedisAI, and RedisGraph with specific business use-case examples. This book makes you a Redis Expert by getting you hands-on with best practices on Redis and some tricks to scale Redis activities. &lt;/p&gt;
 &lt;p&gt;WHAT YOU WILL LEARN_ RedisÕs advantages over the other NOSQL databases._ Explore Redis Enterprise and its real gameplay in enterprise applications._ Learn Redis data structures through practically demonstrated use cases._ Learn from Industry expert to setup the Redis in production environment._ Understand how Redis enterprise enhances Redis OSS.ÊWHO THIS BOOK IS FORÊÊThis book is ideal for anyone who is interested in understanding the basic concepts of the Redis database. The book will help the IT professionals, Software developers, Technical leads, Architects. Readers should have a working knowledge of database designing, basic programming skills, and an understanding of the latest trends in cloud computing.ÊTABLE OF CONTENTS1. Introduction to NoSQL World2. NoSQL database types3. Are NoSQL databases better than traditional databases?4. History of Redis5. Getting started with Redis6. Setting up Redis7. Redis Data Structures in details8. Scaling Redis9. Modules10. Redis use cases11. Redis as database service - enterprise solutions12. What is new in Redis 6?13. Appendix A(i) Using Redis-cli(ii) RedisInsight tool(iii) Community helps&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>BPB Publications</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B08WWSD2XN</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">57122154</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9788194837763</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57122154</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08WWSD2XN</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">NsseEAAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Productivity Software</dc:subject>

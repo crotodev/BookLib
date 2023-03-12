@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a61adaac-b562-45b4-b9a8-fded9e01a7f9</dc:identifier>
         <dc:title>Beginning Database Design Solutions: Understanding and Implementing Database Design Concepts for the Cloud</dc:title>
         <dc:creator opf:file-as="Stephens, Rod" opf:role="aut">Rod Stephens</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-04-04T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -32,16 +32,16 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;ROD STEPHENS&lt;/strong&gt; is a professional programmer, sought-after technical speaker, instructor, and author. He’s written 37 books and over 250 magazine articles on C#, Java, and other programming languages. He runs the popular C# Helper and VB Helper websites which have helped millions of programmers with tips, tricks, and useful example code.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">qqJQzwEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781394155729</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1394155727</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">qqJQzwEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Data Science</dc:subject>
         <dc:subject>Data Warehousing</dc:subject>
         <dc:subject>Information Technology</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Rod Stephens&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-03-03T17:23:50.551638+00:00"/>
+        <meta name="calibre:timestamp" content="2023-03-03T17:23:50+00:00"/>
         <meta name="calibre:title_sort" content="Beginning Database Design Solutions: Understanding and Implementing Database Design Concepts for the Cloud"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
