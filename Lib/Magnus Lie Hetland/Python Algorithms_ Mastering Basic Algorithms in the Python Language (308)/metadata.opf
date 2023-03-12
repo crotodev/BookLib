@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">00f2bae3-6d1b-4f73-8a55-7eb0c40943c1</dc:identifier>
         <dc:title>Python Algorithms: Mastering Basic Algorithms in the Python Language</dc:title>
         <dc:creator opf:file-as="Hetland, Magnus Lie" opf:role="aut">Magnus Lie Hetland</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-27T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;em&gt;Python Algorithms, Second Edition&lt;/em&gt; explains the Python approach to algorithm analysis and design. Written by Magnus Lie Hetland, author of &lt;em&gt;Beginning Python&lt;/em&gt; , this book is sharply focused on classical algorithms, but it also gives a solid understanding of fundamental algorithmic problem-solving techniques. &lt;/p&gt;

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">99cabd01-e0a3-4013-a94c-ecb53f2f3cee</dc:identifier>
         <dc:title>R Guide for Introductory Econometrics for Finance</dc:title>
         <dc:creator opf:file-as="Brooks, Chris" opf:role="aut">Chris Brooks</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-03-28T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This free software guide for R with freely downloadable datasets brings the econometric techniques to life, showing readers how to implement the approaches presented in Introductory Econometrics for Finance using this highly popular software package. Designed to be used alongside the main textbook, the guide will give readers the confidence and skills to estimate and interpret their own models while the textbook will ensure that they have a thorough understanding of the conceptual underpinnings.&lt;/p&gt;&lt;/div&gt;</dc:description>

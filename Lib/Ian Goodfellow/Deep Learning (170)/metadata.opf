@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Goodfellow, Ian &amp; Bengio, Yoshua &amp; Courville, Aaron" opf:role="aut">Ian Goodfellow</dc:creator>
         <dc:creator opf:file-as="Goodfellow, Ian &amp; Bengio, Yoshua &amp; Courville, Aaron" opf:role="aut">Yoshua Bengio</dc:creator>
         <dc:creator opf:file-as="Goodfellow, Ian &amp; Bengio, Yoshua &amp; Courville, Aaron" opf:role="aut">Aaron Courville</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-11-18T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;An introduction to a broad range of topics in deep learning, covering mathematical and conceptual background, deep learning techniques used in industry, and research perspectives. &lt;/p&gt;
