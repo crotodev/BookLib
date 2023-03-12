@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1315</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8ace9a6-4c68-4d4e-967d-a8b6640701a9</dc:identifier>
+        <dc:title>Algorithms on Trees and Graphs: With Python Code</dc:title>
+        <dc:creator opf:file-as="Valiente, Gabriel" opf:role="aut">Gabriel Valiente</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-11T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Graph algorithms is a well-established subject in mathematics and computer science. Beyond classical application fields, like approximation, combinatorial optimization, graphics, and operations research, graph algorithms have recently attracted increased attention from computational biology, bioinformatics, and computational chemistry. &lt;br&gt;This textbook introduces graph algorithms on an intuitive basis followed by a detailed exposition using structured pseudocode, with correctness proofs as well as worst-case analyses. Centered around the fundamental issue of graph isomorphism, the content goes beyond classical graph problems of shortest paths, spanning trees, flows in networks, and matchings in bipartite graphs. Advanced algorithmic results and techniques of practical relevance are presented in a coherent and consolidated way. Numerous illustrations, examples, problems, exercises, and a comprehensive bibliography support students and professionals in using the book as a text and source of reference. Furthermore, Python code for all algorithms presented is given in an appendix. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Topics and features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Algorithms are first presented on an intuitive basis, followed by a detailed exposition using structured pseudocode&lt;/li&gt;
+&lt;li&gt;Correctness proofs are given, together with a worst-case analysis of the algorithms&lt;/li&gt;
+&lt;li&gt;Full implementation of all the algorithms in Python&lt;/li&gt;
+&lt;li&gt;An extensive chapter is devoted to the algorithmic techniques used in the book&lt;/li&gt;
+&lt;li&gt;Solutions to all the problems&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Gabriel Valiente&lt;/strong&gt; , PhD, is an accredited Full Professor at the Department of Computer Science and a member of the Algorithms, Bioinformatics, Complexity and Formal Methods Research Group of the Technical University of Catalonia in Barcelona, Spain. He has been lecturing on Data Structures and Algorithms at the undergraduate level and Advanced Graph Algorithms at the graduate level over the last several years. His current research is centered on combinatorial algorithms on graphs and, in particular, algorithms for comparing trees and graphs, with emphasis on algorithms in computational biology and bioinformatics. &lt;/p&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Graph algorithms is a well-established subject in mathematics and computer science. Beyond classical application fields, such as approximation, combinatorial optimization, graphics, and operations research, graph algorithms have recently attracted increased attention from computational molecular biology and computational chemistry. Centered around the fundamental issue of graph isomorphism, this text goes beyond classical graph problems of shortest paths, spanning trees, flows in networks, and matchings in bipartite graphs. Advanced algorithmic results and techniques of practical relevance are presented in a coherent and consolidated way. This book introduces graph algorithms on an intuitive basis followed by a detailed exposition in a literate programming style, with correctness proofs as well as worst-case analyses. Furthermore, full C++ implementations of all algorithms presented are given using the LEDA library of efficient data structures and algorithms.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Gabriel Valiente, PhD, is an accredited Full Professor at the Department of Computer Science and a member of the Algorithms, Bioinformatics, Complexity and Formal Methods Research Group of the Technical University of Catalonia in Barcelona, Spain. He has been lecturing on Data Structures and Algorithms at the undergraduate level and Advanced Graph Algorithms at the graduate level over the last several years. His current research is centered on combinatorial algorithms on graphs and, in particular, algorithms for comparing trees and graphs, with emphasis on algorithms in computational biology and bioinformatics.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Springer</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783030818852</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">3030818845</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">75547145</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">pK1HEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Graphic Methods</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Discrete Mathematics</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <dc:subject>Numerical Analysis</dc:subject>
+        <dc:subject>Combinatorics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gabriel Valiente&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-03-12T19:29:41.152404+00:00"/>
+        <meta name="calibre:title_sort" content="Algorithms on Trees and Graphs: With Python Code"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
