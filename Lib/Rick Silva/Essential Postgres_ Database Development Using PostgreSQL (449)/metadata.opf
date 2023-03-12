@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">106e89e0-d2a6-45da-be87-b75bc63720cc</dc:identifier>
         <dc:title>Essential Postgres: Database Development Using PostgreSQL</dc:title>
         <dc:creator opf:file-as="Silva, Rick" opf:role="aut">Rick Silva</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-10-03T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;If you want to learn the basics of Postgres development, Essential Postgres is for you. This book gets right to the point, and gives you exposure to the most used – and useful – parts of database development using Postgres version 15. Writing SQL statements, creating tables, functions, triggers, views, as well as data integrity are explained. Tips and insights that the author has picked up over his years of working with Postgres are included. &lt;/p&gt;

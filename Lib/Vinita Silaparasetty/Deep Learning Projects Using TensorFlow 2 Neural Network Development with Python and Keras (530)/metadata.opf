@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">5e88e107-3974-4d38-adbc-2a327bc00f54</dc:identifier>
         <dc:title>Deep Learning Projects Using TensorFlow 2 Neural Network Development with Python and Keras</dc:title>
         <dc:creator opf:file-as="Silaparasetty, Vinita" opf:role="aut">Vinita Silaparasetty</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-07-22T06:56:49+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-family: 'Helvetica Neue'"&gt;Work through engaging and practical deep learning projects using TensorFlow 2.0. Using a hands-on approach, the projects in this book will lead new programmers through the basics into developing practical deep learning applications. &lt;/p&gt;

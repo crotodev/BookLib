@@ -6,7 +6,7 @@
         <dc:title>Guitar for Dummies</dc:title>
         <dc:creator opf:file-as="Phillips, Mark &amp; Chappell, Jon" opf:role="aut">Mark Phillips</dc:creator>
         <dc:creator opf:file-as="Phillips, Mark &amp; Chappell, Jon" opf:role="aut">Jon Chappell</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-12-10T05:00:00+00:00</dc:date>
         <dc:publisher>For Dummies</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9780470387665</dc:identifier>
