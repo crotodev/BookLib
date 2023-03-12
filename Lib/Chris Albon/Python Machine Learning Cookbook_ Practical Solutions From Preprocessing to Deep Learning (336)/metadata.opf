@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">732ab63f-a199-4939-8a52-bf6912d134c3</dc:identifier>
         <dc:title>Python Machine Learning Cookbook: Practical Solutions From Preprocessing to Deep Learning</dc:title>
         <dc:creator opf:file-as="Albon, Chris" opf:role="aut">Chris Albon</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-01-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This practical guide provides nearly 200 self-contained recipes to help you solve machine learning challenges you may encounter in your daily work. If you’re comfortable with Python and its libraries, including pandas and scikit-learn, you’ll be able to address specific problems such as loading data, handling text or numerical data, model selection, and dimensionality reduction and many other topics.&lt;/p&gt;
