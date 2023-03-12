@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">857d0856-3478-4f5e-b281-c1b8b7207b20</dc:identifier>
         <dc:title>The 48 Laws of Power</dc:title>
         <dc:creator opf:file-as="Greene, Robert" opf:role="aut">Robert Greene</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>Profile Books Ltd.</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781861972781</dc:identifier>

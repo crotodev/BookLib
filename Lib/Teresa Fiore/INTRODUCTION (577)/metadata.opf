@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3bbbfa92-29da-458f-9497-6d5382dba2ea</dc:identifier>
         <dc:title>INTRODUCTION</dc:title>
         <dc:creator opf:file-as="Fiore, Teresa" opf:role="aut">Teresa Fiore</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <dc:subject>ITAL-199</dc:subject>

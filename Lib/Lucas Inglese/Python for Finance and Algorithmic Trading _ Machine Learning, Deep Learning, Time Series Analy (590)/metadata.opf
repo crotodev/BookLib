@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d881540f-e727-4621-bee7-fd5ed5af4769</dc:identifier>
         <dc:title>Python for Finance and Algorithmic Trading : Machine Learning, Deep Learning, Time Series Analysis, Risk and Portfolio Management for MetaTrader™5 Live Trading</dc:title>
         <dc:creator opf:file-as="Inglese, Lucas" opf:role="aut">Lucas Inglese</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-08-17T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The book presents the benefits of portfolio management, statistics and machine learning applied to live trading with MetaTrader™ 5. &lt;br&gt;This second version has allowed us to tweak some points of the existing chapters but especially to add 3 new chapters based on your feedbacks of the first version. So I am proud to offer you 3 new chapters: &lt;strong&gt;"Advanced backtest methods"&lt;/strong&gt; , &lt;strong&gt;”Features and target engineering"&lt;/strong&gt; and &lt;strong&gt;”From nothing to a live trading bot"&lt;/strong&gt;. &lt;/p&gt;

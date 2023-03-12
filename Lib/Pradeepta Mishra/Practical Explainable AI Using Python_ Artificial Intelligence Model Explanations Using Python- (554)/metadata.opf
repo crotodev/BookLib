@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d937f806-3ea9-4e7b-9f23-fe08f670a128</dc:identifier>
         <dc:title>Practical Explainable AI Using Python: Artificial Intelligence Model Explanations Using Python-Based Libraries, Extensions, and Frameworks</dc:title>
         <dc:creator opf:file-as="Mishra, Pradeepta" opf:role="aut">Pradeepta Mishra</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-12-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Learn the ins and outs of decisions, biases, and reliability of AI algorithms and how to make sense of these predictions. This book explores the so-called black-box models to boost the adaptability, interpretability, and explainability of the decisions made by AI algorithms using frameworks such as Python XAI libraries, TensorFlow 2.0+, Keras, and custom frameworks using Python wrappers. &lt;/p&gt;

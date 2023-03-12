@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">86710245-83c4-4e65-855f-a58e9f38fbdb</dc:identifier>
         <dc:title>Clean Code in Python - Second Edition: Develop Maintainable and Efficient Code</dc:title>
         <dc:creator opf:file-as="Anaya, Mariano" opf:role="aut">Mariano Anaya</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-01-06T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Tackle inefficiencies and errors the Pythonic wayKey Features: Enhance your coding skills using the new features introduced in Python 3.9Implement the refactoring techniques and SOLID principles in PythonApply microservices to your legacy systems by implementing practical techniquesBook Description: Experienced professionals in every field face several instances of disorganization, poor readability, and testability due to unstructured code. &lt;/p&gt;

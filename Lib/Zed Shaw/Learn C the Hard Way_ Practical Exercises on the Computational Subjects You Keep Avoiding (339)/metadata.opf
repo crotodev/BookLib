@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6b73b270-90fe-46b4-a990-19ddf9ab99db</dc:identifier>
         <dc:title>Learn C the Hard Way: Practical Exercises on the Computational Subjects You Keep Avoiding</dc:title>
         <dc:creator opf:file-as="Shaw, Zed" opf:role="aut">Zed Shaw</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-09-04T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;You Will Learn C!&lt;/p&gt;

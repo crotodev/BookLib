@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Culkin, John &amp; Zazon, Mike &amp; Ferguson, James" opf:role="aut">John Culkin</dc:creator>
         <dc:creator opf:file-as="Culkin, John &amp; Zazon, Mike &amp; Ferguson, James" opf:role="aut">Mike Zazon</dc:creator>
         <dc:creator opf:file-as="Culkin, John &amp; Zazon, Mike &amp; Ferguson, James" opf:role="aut">James Ferguson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-12-28T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This practical guide provides over 70 self-contained recipes to help you creatively solve common AWS challenges you'll encounter on your cloud journey. If you're comfortable with rudimentary scripting and general cloud concepts, this cookbook provides what you need to address foundational tasks and create high-level capabilities.&lt;/p&gt;

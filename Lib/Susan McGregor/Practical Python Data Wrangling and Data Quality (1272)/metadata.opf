@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">94f26c5a-27f0-4d0c-9b8e-c12a5f478355</dc:identifier>
         <dc:title>Practical Python Data Wrangling and Data Quality</dc:title>
         <dc:creator opf:file-as="McGregor, Susan" opf:role="aut">Susan McGregor</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-01-11T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -23,10 +23,10 @@
 &lt;p&gt;McGregor has been a full-time faculty member and researcher at Columbia University since 2011, when she joined Columbia Journalism School and the Tow Center for Digital Journalism. While there, she developed the school's first data journalism curriculum and served as a primary academic advisor for its dual-degree program in Journalism and Computer Science. Her academic research centers on security and privacy issues affecting journalists and media organizations, and is the subject of her first book, &lt;em&gt;Information Security Essentials: A Guide for Reporters, Editors, and Newsroom Leaders&lt;/em&gt; (CUP).&lt;/p&gt;
 &lt;p&gt;Prior to her work at Columbia, McGregor spent several years as the Senior Programmer on the News Graphics team at the &lt;em&gt;Wall Street Journal&lt;/em&gt;. She was named a 2010 Gerald Loeb Award winner for her work on WSJ's original "What They Know" series, and has spoken and published at a range of leading academic security and privacy conferences. Her work has received support from the National Science Foundation, the Knight Foundation, Google, and multiple schools and offices of Columbia University. McGregor is also interested in how the arts can help stimulate critical thinking and introduce new perspectives around technology issues. She holds a master's degree in Educational Communication and Technology from NYU and a bachelor's degree in Interactive Information Design from Harvard University.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly Media</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781492091509</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">1492091502</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">61801072</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">KqUkzgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1492091502</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781492091509</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">61801072</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Data Science</dc:subject>
@@ -37,7 +37,7 @@
         <dc:subject>Databases</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Susan McGregor&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-02-26T05:25:30.212886+00:00"/>
+        <meta name="calibre:timestamp" content="2023-02-26T05:25:30+00:00"/>
         <meta name="calibre:title_sort" content="Practical Python Data Wrangling and Data Quality"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

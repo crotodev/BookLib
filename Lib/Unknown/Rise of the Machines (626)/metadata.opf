@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2d9b0cee-c763-4288-adb5-2e8877e75a9a</dc:identifier>
         <dc:title>Rise of the Machines</dc:title>
         <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-06-19T15:48:33+00:00</dc:date>
         <dc:language>en</dc:language>
         <dc:subject>Quantitative Finance</dc:subject>

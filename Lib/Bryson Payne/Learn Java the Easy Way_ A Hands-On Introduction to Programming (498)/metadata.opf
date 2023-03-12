@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c51c1e53-c03b-4611-a12f-8d0de49ffab3</dc:identifier>
         <dc:title>Learn Java the Easy Way: A Hands-On Introduction to Programming</dc:title>
         <dc:creator opf:file-as="Payne, Bryson" opf:role="aut">Bryson Payne</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-01-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Java is the world's most popular programming language, but it's known for having a steep learning curve. &lt;em&gt;Learn Java the Easy Way&lt;/em&gt; takes the chore out of learning Java with hands-on projects that will get you building real, functioning apps right away. &lt;/p&gt;

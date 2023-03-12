@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">58b3ab49-70e9-4498-8a86-6dc1b36d5e5a</dc:identifier>
         <dc:title>PyTorch Computer Vision Cookbook</dc:title>
         <dc:creator opf:file-as="Avendi, Michael" opf:role="aut">Michael Avendi</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-03-20T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;PyTorch Computer Vision Cookbook&lt;/p&gt;

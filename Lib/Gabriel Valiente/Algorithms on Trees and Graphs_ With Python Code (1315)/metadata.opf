@@ -23,10 +23,10 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;Gabriel Valiente, PhD, is an accredited Full Professor at the Department of Computer Science and a member of the Algorithms, Bioinformatics, Complexity and Formal Methods Research Group of the Technical University of Catalonia in Barcelona, Spain. He has been lecturing on Data Structures and Algorithms at the undergraduate level and Advanced Graph Algorithms at the graduate level over the last several years. His current research is centered on combinatorial algorithms on graphs and, in particular, algorithms for comparing trees and graphs, with emphasis on algorithms in computational biology and bioinformatics.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Springer</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9783030818852</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">3030818845</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">75547145</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">pK1HEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783030818852</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">75547145</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">3030818845</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Data Science</dc:subject>
@@ -43,7 +43,7 @@
         <dc:subject>Combinatorics</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Gabriel Valiente&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-03-12T19:29:41.152404+00:00"/>
+        <meta name="calibre:timestamp" content="2023-03-12T19:29:41+00:00"/>
         <meta name="calibre:title_sort" content="Algorithms on Trees and Graphs: With Python Code"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

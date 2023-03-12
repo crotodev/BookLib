@@ -6,7 +6,7 @@
         <dc:title>Python for Unix and Linux System Administration</dc:title>
         <dc:creator opf:file-as="Gift, Noah &amp; Jones, Jeremy M." opf:role="aut">Noah Gift</dc:creator>
         <dc:creator opf:file-as="Gift, Noah &amp; Jones, Jeremy M." opf:role="aut">Jeremy M. Jones</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-08-22T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Python is an ideal language for solving problems, especially in Linux and Unix networks. With this pragmatic book, administrators can review various tasks that often occur in the management of these systems, and learn how Python can provide a more efficient and less painful way to handle them. &lt;/p&gt;

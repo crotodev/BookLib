@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">083ed4ae-0243-4aef-a730-478e94fca668</dc:identifier>
         <dc:title>Blood of Elves</dc:title>
         <dc:creator opf:file-as="Sapkowski, Andrzej" opf:role="aut">Andrzej Sapkowski</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-05-01T04:00:00+00:00</dc:date>
         <dc:publisher>Orbit</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9780316073714</dc:identifier>

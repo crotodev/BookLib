@@ -6,7 +6,7 @@
         <dc:title>Machine Learning With PyTorch and Scikit-Learn: Develop Machine Learning and Deep Learning Models With Python</dc:title>
         <dc:creator opf:file-as="Raschka, Sebastian &amp; Liu, Yuxi" opf:role="aut">Sebastian Raschka</dc:creator>
         <dc:creator opf:file-as="Raschka, Sebastian &amp; Liu, Yuxi" opf:role="aut">Yuxi (hayden) Liu</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-02-25T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;This book of the bestselling and widely acclaimed Python Machine Learning series is a comprehensive guide to machine and deep learning using PyTorch's simple to code framework&lt;/p&gt;

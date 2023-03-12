@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c2413ae4-1ccf-401d-9f66-a6d653bc9f5f</dc:identifier>
         <dc:title>Automated Deep Learning Using Neural Network Intelligence: Develop and Design PyTorch and TensorFlow Models Using Python</dc:title>
         <dc:creator opf:file-as="Gridin, Ivan" opf:role="aut">Ivan Gridin</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-06-21T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Optimize, develop, and design PyTorch and TensorFlow models for a specific problem using the Microsoft Neural Network Intelligence (NNI) toolkit. This book includes practical examples illustrating automated deep learning approaches and provides techniques to facilitate your deep learning model development. &lt;/p&gt;

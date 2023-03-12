@@ -6,7 +6,7 @@
         <dc:title>Learning Python for Forensics: Leverage the Power of Python in Forensic Investigations, 2nd Edition</dc:title>
         <dc:creator opf:file-as="Miller, Preston &amp; Bryce, Chapin" opf:role="aut">Preston Miller</dc:creator>
         <dc:creator opf:file-as="Miller, Preston &amp; Bryce, Chapin" opf:role="aut">Chapin Bryce</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-01-31T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Design, develop, and deploy innovative forensic solutions using PythonKey FeaturesDiscover how to develop Python scripts for effective digital forensic analysisMaster the skills of parsing complex data structures with Python librariesSolve forensic challenges through the development of practical Python scriptsBook DescriptionDigital forensics plays an integral role in solving complex cybercrimes and helping organizations make sense of cybersecurity incidents. This second edition of Learning Python for Forensics illustrates how Python can be used to support these digital investigations and permits the examiner to automate the parsing of forensic artifacts to spend more time examining actionable data. &lt;/p&gt;

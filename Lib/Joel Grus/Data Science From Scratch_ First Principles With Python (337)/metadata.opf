@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">df33a287-f4ea-4abb-a5c4-38bee5dfd8b2</dc:identifier>
         <dc:title>Data Science From Scratch: First Principles With Python</dc:title>
         <dc:creator opf:file-as="Grus, Joel" opf:role="aut">Joel Grus</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-04-12T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;To really learn data science, you should not only master the tools—data science libraries, frameworks, modules, and toolkits—but also understand the ideas and principles underlying them. Updated for Python 3.6, this second edition of Data Science from Scratch shows you how these tools and algorithms work by implementing them from scratch.&lt;/p&gt;

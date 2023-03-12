@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">00054487-0da3-45fa-8402-fb74eb06f468</dc:identifier>
         <dc:title>Transformers for Natural Language Processing: Build Innovative Deep Neural Network Architectures for NLP With Python, PyTorch, TensorFlow, BERT, RoBERTa, and More</dc:title>
         <dc:creator opf:file-as="Rothman, Denis" opf:role="aut">Denis Rothman</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-01-29T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Publisher's Note: A new edition of this book is out now that includes working with GPT-3 and comparing the results with other models. It includes even more use cases, such as casual language analysis and computer vision tasks, as well as an introduction to OpenAI's Codex.&lt;/p&gt;

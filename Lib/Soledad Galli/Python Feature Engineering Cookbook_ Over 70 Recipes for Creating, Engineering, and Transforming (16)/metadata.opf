@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">4e0a9354-350d-41d3-8678-a2ba06a85c9c</dc:identifier>
         <dc:title>Python Feature Engineering Cookbook: Over 70 Recipes for Creating, Engineering, and Transforming Features to Build Machine Learning Models</dc:title>
         <dc:creator opf:file-as="Galli, Soledad" opf:role="aut">Soledad Galli</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-01-22T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Extract accurate information from data to train and improve machine learning models using NumPy, SciPy, pandas, and scikit-learn libraries&lt;/p&gt;

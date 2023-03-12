@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f7dd7637-db17-4e40-85c2-b4adc9bab7fd</dc:identifier>
         <dc:title>Git Essentials - A Developer's Guide to Git</dc:title>
         <dc:creator opf:file-as="StackAbuse" opf:role="aut">StackAbuse</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;StackAbuse&quot;: &quot;&quot;}"/>

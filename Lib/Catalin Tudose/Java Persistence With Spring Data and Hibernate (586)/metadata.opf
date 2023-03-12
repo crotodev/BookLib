@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9d3cf564-0156-4792-ad2c-afeb028f168c</dc:identifier>
         <dc:title>Java Persistence With Spring Data and Hibernate</dc:title>
         <dc:creator opf:file-as="Tudose, Catalin" opf:role="aut">Catalin Tudose</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-01-17T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;

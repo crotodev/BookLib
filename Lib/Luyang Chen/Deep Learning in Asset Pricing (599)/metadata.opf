@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Chen, Luyang &amp; Pelger, Markus &amp; Zhu, Jason" opf:role="aut">Luyang Chen</dc:creator>
         <dc:creator opf:file-as="Chen, Luyang &amp; Pelger, Markus &amp; Zhu, Jason" opf:role="aut">Markus Pelger</dc:creator>
         <dc:creator opf:file-as="Chen, Luyang &amp; Pelger, Markus &amp; Zhu, Jason" opf:role="aut">Jason Zhu</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <dc:subject>Deep Learning</dc:subject>

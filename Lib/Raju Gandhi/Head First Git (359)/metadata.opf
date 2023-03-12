@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">77c558f5-84a0-4188-b740-f31732cc47f0</dc:identifier>
         <dc:title>Head First Git</dc:title>
         <dc:creator opf:file-as="Gandhi, Raju" opf:role="aut">Raju Gandhi</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-01-18T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;What will you learn from this book?Many people who use Git rely on "recipes"--copying and pasting commands they find on the internet without really understanding how Git actually works. But what do you do if you find yourself in a tight spot? You can't simply wing it. With this unique hands-on guide, you'll learn the ways of Git and have fun while doing it. Raju Gandhi peels back the layers to reveal the simple yet powerful engine that powers Git, so you'll understand not just the how but the why. You'll master branches, merges, commit messages, search, utilities, and more; learn best practices for collaborative work; and unlock the full potential of Git. &lt;/p&gt;

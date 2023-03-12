@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">17bef57d-2fab-48ef-ac0f-ead9f1899e1a</dc:identifier>
         <dc:title>Python Data Cleaning Cookbook: Modern Techniques and Python Tools to Detect and Remove Dirty Data and Extract Key Insights</dc:title>
         <dc:creator opf:file-as="Walker, Michael" opf:role="aut">Michael Walker</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-12-11T05:00:00+00:00</dc:date>
         <dc:identifier opf:scheme="GOODREADS">57321066</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781800565661</dc:identifier>

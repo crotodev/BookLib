@@ -6,7 +6,7 @@
         <dc:title>Version Control With Git</dc:title>
         <dc:creator opf:file-as="Ponuthorai, Prem Kumar &amp; Loeliger, Jon" opf:role="aut">Prem Kumar Ponuthorai</dc:creator>
         <dc:creator opf:file-as="Ponuthorai, Prem Kumar &amp; Loeliger, Jon" opf:role="aut">Jon Loeliger</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-10-21T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Track, branch, merge, and manage code revisions with Git, the free and open source distributed version control system. Through a series of step-by-step tutorials, this practical guide quickly takes you from Git fundamentals to advanced techniques, and provides friendly yet rigorous advice for navigating Git's many functions. You'll learn how to work with everything from small to very large projects with speed and efficiency. &lt;/p&gt;
