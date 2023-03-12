@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7ae7b18b-7684-41ad-bc29-7ea93041c900</dc:identifier>
         <dc:title>Data Pipelines Pocket Reference: Moving and Processing Data for Analytics</dc:title>
         <dc:creator opf:file-as="Densmore, James" opf:role="aut">James Densmore</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-02-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -21,9 +21,9 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;James is the Director of Data Infrastructure at HubSpot as well as the founder and Principal Consultant at Data Liftoff. He has more than 10 years of experience leading data teams and building data infrastructure at Wayfair, O'Reilly Media, and Degreed. James has a BS in Computer Science from Northeastern University and an MBA from Boston College.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly Media</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781492087830</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1492087831</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">55841851</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781492087830</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">I9vjzQEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Data Pipelines</dc:subject>
@@ -31,7 +31,7 @@
         <dc:subject>Reference</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;James Densmore&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-02-26T05:34:58.173525+00:00"/>
+        <meta name="calibre:timestamp" content="2023-02-26T05:34:58+00:00"/>
         <meta name="calibre:title_sort" content="Data Pipelines Pocket Reference: Moving and Processing Data for Analytics"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

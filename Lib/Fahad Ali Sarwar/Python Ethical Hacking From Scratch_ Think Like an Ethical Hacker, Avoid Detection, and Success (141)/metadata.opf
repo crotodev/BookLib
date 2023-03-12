@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ec04becf-54a0-4c0a-a0d0-2e76c617940d</dc:identifier>
         <dc:title>Python Ethical Hacking From Scratch: Think Like an Ethical Hacker, Avoid Detection, and Successfully Develop, Deploy, Detect, and Avoid Malware</dc:title>
         <dc:creator opf:file-as="Sarwar, Fahad Ali" opf:role="aut">Fahad Ali Sarwar</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-06-25T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Explore the world of practical ethical hacking by developing custom network scanning and remote access tools that will help you test the system security of your organizationKey Features: Get hands-on with ethical hacking and learn to think like a real-life hackerBuild practical ethical hacking tools from scratch with the help of real-world examplesLeverage Python 3 to develop malware and modify its complexitiesBook Description: Penetration testing enables you to evaluate the security or strength of a computer system, network, or web application that an attacker can exploit. With this book, you'll understand why Python is one of the fastest-growing programming languages for penetration testing. You'll find out how to harness the power of Python and pentesting to enhance your system security. &lt;/p&gt;

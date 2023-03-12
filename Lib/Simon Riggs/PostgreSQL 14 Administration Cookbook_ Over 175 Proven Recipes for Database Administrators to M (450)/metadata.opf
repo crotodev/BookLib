@@ -6,7 +6,7 @@
         <dc:title>PostgreSQL 14 Administration Cookbook: Over 175 Proven Recipes for Database Administrators to Manage Enterprise Databases Effectively</dc:title>
         <dc:creator opf:file-as="Riggs, Simon &amp; Ciolli, Gianni" opf:role="aut">Simon Riggs</dc:creator>
         <dc:creator opf:file-as="Riggs, Simon &amp; Ciolli, Gianni" opf:role="aut">Gianni Ciolli</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-03-31T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Administer, monitor, and replicate your PostgreSQL 14 database for efficient database management and maintenanceKey FeaturesTroubleshoot and tackle any administration and management problems in PostgreSQL 14Find expert techniques for monitoring, fine-tuning, and securing your databaseAdopt efficient replication for high availability with PostgreSQL 14Book DescriptionPostgreSQL is a powerful, open-source database management system with an enviable reputation for high performance and stability. With many new features in its arsenal, PostgreSQL 14 allows you to scale up your PostgreSQL infrastructure. With this book, you'll take a step-by-step, recipe-based approach to effective PostgreSQL administration. &lt;/p&gt;

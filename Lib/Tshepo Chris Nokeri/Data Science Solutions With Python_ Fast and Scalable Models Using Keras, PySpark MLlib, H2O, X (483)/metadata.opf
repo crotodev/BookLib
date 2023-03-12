@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7502a9f2-bbaa-4dde-9dc9-3783d667061a</dc:identifier>
         <dc:title>Data Science Solutions With Python: Fast and Scalable Models Using Keras, PySpark MLlib, H2O, XGBoost, and Scikit-Learn</dc:title>
         <dc:creator opf:file-as="Nokeri, Tshepo Chris" opf:role="aut">Tshepo Chris Nokeri</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-10-26T04:00:00+00:00</dc:date>
         <dc:identifier opf:scheme="ISBN">9781484277614</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">61115838</dc:identifier>

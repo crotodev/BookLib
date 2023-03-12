@@ -8,7 +8,7 @@
         <dc:creator opf:file-as="Ratan, Abhishek &amp; Chou, Eric &amp; Kathiravelu, Pradeeban &amp; Sarker, M. O. Faruque" opf:role="aut">Eric Chou</dc:creator>
         <dc:creator opf:file-as="Ratan, Abhishek &amp; Chou, Eric &amp; Kathiravelu, Pradeeban &amp; Sarker, M. O. Faruque" opf:role="aut">Pradeeban Kathiravelu</dc:creator>
         <dc:creator opf:file-as="Ratan, Abhishek &amp; Chou, Eric &amp; Kathiravelu, Pradeeban &amp; Sarker, M. O. Faruque" opf:role="aut">Dr. M. O. Faruque Sarker</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-01-31T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Power up your network applications with Python programmingKey FeaturesMaster Python skills to develop powerful network applicationsGrasp the fundamentals and functionalities of SDNDesign multi-threaded, event-driven architectures for echo and chat serversBook DescriptionThis Learning Path highlights major aspects of Python network programming such as writing simple networking clients, creating and deploying SDN and NFV systems, and extending your network with Mininet. You’ll also learn how to automate legacy and the latest network devices. As you progress through the chapters, you’ll use Python for DevOps and open source tools to test, secure, and analyze your network. Toward the end, you'll develop client-side applications, such as web API clients, email clients, SSH, and FTP, using socket programming. &lt;/p&gt;

@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Hope, Tom &amp; Resheff, Yehezkel S. &amp; Lieder, Itay" opf:role="aut">Tom Hope</dc:creator>
         <dc:creator opf:file-as="Hope, Tom &amp; Resheff, Yehezkel S. &amp; Lieder, Itay" opf:role="aut">Yehezkel S. Resheff</dc:creator>
         <dc:creator opf:file-as="Hope, Tom &amp; Resheff, Yehezkel S. &amp; Lieder, Itay" opf:role="aut">Itay Lieder</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-08-09T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Roughly inspired by the human brain, deep neural networks trained with large amounts of data can solve complex tasks with unprecedented accuracy. This practical book provides an end-to-end guide to TensorFlow, the leading open source software library that helps you build and train neural networks for computer vision, natural language processing (NLP), speech recognition, and general predictive analytics. &lt;/p&gt;

@@ -6,22 +6,22 @@
         <dc:title>Data Wrangling With Python</dc:title>
         <dc:creator opf:file-as="Sarkar, Tirthajyoti &amp; Roychowdhury, Shubhadeep" opf:role="aut">Tirthajyoti Sarkar</dc:creator>
         <dc:creator opf:file-as="Sarkar, Tirthajyoti &amp; Roychowdhury, Shubhadeep" opf:role="aut">Shubhadeep Roychowdhury</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-28T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Simplify your ETL processes with these hands-on data hygiene tips, tricks, and best practices. Key Features Focus on the basics of data wrangling Study various ways to extract the most out of your data in less time Boost your learning curve with bonus topics like random data generation and data integrity checks Book Description For data to be useful and meaningful, it must be curated and refined. Data Wrangling with Python teaches you the core ideas behind these processes and equips you with knowledge of the most popular tools and techniques in the domain. The book starts with the absolute basics of Python, focusing mainly on data structures. It then delves into the fundamental tools of data wrangling like NumPy and Pandas libraries. You'll explore useful insights into why you should stay away from traditional ways of data cleaning, as done in other languages, and take advantage of the specialized pre-built routines in Python. This combination of Python tips and tricks will also demonstrate how to use the same Python backend and extract/transform data from an array of sources including the Internet, large database vaults, and Excel financial tables. To help you prepare for more challenging scenarios, you'll cover how to handle missing or wrong data, and reformat it based on the requirements from the downstream analytics tool. The book will further help you grasp concepts through real-world examples and datasets. By the end of this book, you will be confident in using a diverse array of sources to extract, clean, transform, and format your data efficiently. What you will learn Use and manipulate complex and simple data structures Harness the full potential of DataFrames and numpy.array at run time Perform web scraping with BeautifulSoup4 and html5lib Execute advanced string search and manipulation with RegEX Handle outliers and perform data imputation with Pandas Use descriptive statistics and plotting techniques Practice data wrangling and modeling using data generation techniques Who this book is for Data Wrangling with Python is designed for developers, data analysts, and business analysts who are keen to pursue a career as a full-fledged data scientist or analytics expert. Although, this book is for beginners, prior working knowledge of Python is necessary to easily grasp the concepts covered here. It will also help to have rudimentary knowledge of relational database and SQL.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781789800111</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Ol2zvQEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1789800110</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">46050914</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">Ol2zvQEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Data Pipelines</dc:subject>
         <dc:subject>ETL</dc:subject>
         <dc:subject>Reference</dc:subject>
         <dc:subject>Data Analysis</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Tirthajyoti Sarkar&quot;: &quot;&quot;, &quot;Shubhadeep Roychowdhury&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-02-26T05:27:07.766764+00:00"/>
+        <meta name="calibre:timestamp" content="2023-02-26T05:27:07+00:00"/>
         <meta name="calibre:title_sort" content="Data Wrangling With Python"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

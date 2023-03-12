@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f6ab1be2-3fc2-4b07-815c-e907caf686f6</dc:identifier>
         <dc:title>Learn Physics With Functional Programming: A Hands-On Guide to Exploring Physics With Haskell</dc:title>
         <dc:creator opf:file-as="Walck, Scott N." opf:role="aut">Scott N. Walck</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-01-30T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Deepen your understanding of physics by learning to use the Haskell functional programming language. &lt;/p&gt;

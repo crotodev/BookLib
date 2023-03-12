@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">461197f4-e270-4adb-bff2-536e97f48717</dc:identifier>
         <dc:title>Instant Markdown</dc:title>
         <dc:creator opf:file-as="Herrero, Arturo" opf:role="aut">Arturo Herrero</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-01-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Get to grips with a new technology, understand what it is and what it can do for you, and then get to work with the most important features and tasks. A quick, clear, concise tutorial guide-based approach that will help you to get started with Markdown. &lt;/p&gt;

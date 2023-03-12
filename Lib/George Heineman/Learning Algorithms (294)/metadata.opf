@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">044f1ebf-b67a-48ca-9fd2-3325c8472947</dc:identifier>
         <dc:title>Learning Algorithms</dc:title>
         <dc:creator opf:file-as="Heineman, George" opf:role="aut">George Heineman</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-07-20T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;When it comes to writing efficient code, every software professional needs to have an effective working knowledge of algorithms. In this practical book, author George Heineman ( &lt;em&gt;Algorithms in a Nutshell&lt;/em&gt; ) provides concise and informative descriptions of key algorithms that improve coding in multiple languages. Software developers, testers, and maintainers will discover how algorithms solve computational problems creatively.&lt;/p&gt;

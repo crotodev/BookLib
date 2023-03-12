@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">49be478a-d4c4-41c0-a4b8-afeeee2b29e8</dc:identifier>
         <dc:title>Continuous-Time Asset Pricing Theory</dc:title>
         <dc:creator opf:file-as="Jarrow, Robert A." opf:role="aut">Robert A. Jarrow</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:description>Quantitative Finance, . doi:10.1080/14697688.2022.2063756</dc:description>
         <dc:publisher>Routledge</dc:publisher>
