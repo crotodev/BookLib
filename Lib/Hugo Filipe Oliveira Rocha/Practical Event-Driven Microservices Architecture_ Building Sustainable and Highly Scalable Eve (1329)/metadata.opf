@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1329</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24610999-0163-40ff-ac52-837375af6b2c</dc:identifier>
+        <dc:title>Practical Event-Driven Microservices Architecture: Building Sustainable and Highly Scalable Event-Driven Microservices</dc:title>
+        <dc:creator opf:file-as="Rocha, Hugo Filipe Oliveira" opf:role="aut">Hugo Filipe Oliveira Rocha</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-11T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;In the simplest terms, event-driven architectures are like onions; they are manageable as a single layer (like a monolith) but when you get into them, they begin to cascade apart and you quickly realize that there are many complex layers (distributed microservices architecture). And that’s when the tears begin.&lt;/p&gt;
+&lt;p&gt;This prescriptive guide takes you through the steps of moving a platform with millions of users from a monolith to a microservices event-driven architecture. You will learn about the challenges and complexities that arise in high-throughput environments that often contain upwards of hundreds of microservices. This book is designed to be your single best resource for learning how to apply event-driven architectures in real-world scenarios and offers hundreds of patterns to overcome the common and not so common challenges.&lt;/p&gt;
+&lt;p&gt;While event-driven architectures have been the standard for decoupled, pluggable, evolutionary architectures for years, they have only recently been adopted by enterprises for the purpose of distributed microservices and there is little information about adopting them. Using them at scale can save valuable resources, but requires different considerations, including the added complexity of supporting several moving parts and getting the event schema right from the start in order to avoid large restructuring later on.&lt;/p&gt;
+&lt;p&gt;Author Hugo Rocha understands that these kinds of challenges, as well as many others, need to be considered from the beginning, and helps teach you the mindset needed to create a deliberate strategy upfront. This book offers learning approaches and patterns to get you up to speed in order to sustainably build and manage event-driven architectures.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Will Learn&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the real-world challenges of event-driven architectures and the patterns to deal with those challenges and the trade-offs of each solution&lt;/li&gt;
+&lt;li&gt;Leverage the advantages of event-driven architectures to build scalable solutions and address legacy applications&lt;/li&gt;
+&lt;li&gt;Plan successful future implementations to avoid common pitfalls and apply proven patterns to deal with challenges in a real-world platform with millions of users&lt;/li&gt;
+&lt;li&gt;Decide whether event-driven solutions are the right choice for the requirements at hand&lt;/li&gt;
+&lt;li&gt;Discuss and understand advanced concepts about event-driven architectures&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Who Is This Book For&lt;/strong&gt; &lt;strong&gt;&lt;br&gt;&lt;/strong&gt;Software engineers and software architects. Anyone currently working with microservice architectures, primarily event-driven microservices, will greatly benefit from this book. Readers working with monoliths will benefit, as the book explores migration from a monolithic application to an event-driven microservice architecture. &lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Rocha&lt;/strong&gt; has nearly a decade of experience working with highly distributed event-driven microservices architectures. He currently is an engineering lead for the leading global ecommerce platform for luxury products (Farfetch), providing services to millions of active users, backed by an event-driven architecture with hundreds of microservices processing hundreds of changes per second. Before that, he worked for several reference telecommunications companies that transitioned from monolithic applications to microservice-oriented architectures. Hugo has managed several teams that directly face the caveats of event-driven architectures every day. He designed solutions for critical pieces of the platform’s highly distributed backoffice platform, handling hundreds of changes per second, concurrently, scalably, and with high performance. &lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;In the simplest terms, event-driven architectures are like onions; they are manageable as a single layer (like a monolith) but when you get into them, they begin to cascade apart and you quickly realize that there are many complex layers (distributed microservices architecture). And that’s when the tears begin.&lt;/p&gt;
+&lt;p&gt;This prescriptive guide takes you through the steps of moving a platform with millions of users from a monolith to a microservices event-driven architecture. You will learn about the challenges and complexities that arise in high-throughput environments that often contain upwards of hundreds of microservices. This book is designed to be your single best resource for learning how to apply event-driven architectures in real-world scenarios and offers hundreds of patterns to overcome the common and not so common challenges.&lt;/p&gt;
+&lt;p&gt;While event-driven architectures have been the standard for decoupled, pluggable, evolutionary architectures for years, they have only recently been adopted by enterprises for the purpose of distributed microservices and there is little information about adopting them. Using them at scale can save valuable resources, but requires different considerations, including the added complexity of supporting several moving parts and getting the event schema right from the start in order to avoid large restructuring later on.&lt;/p&gt;
+&lt;p&gt;Author Hugo Rocha understands that these kinds of challenges, as well as many others, need to be considered from the beginning, and helps teach you the mindset needed to create a deliberate strategy upfront. This book offers learning approaches and patterns to get you up to speed in order to sustainably build and manage event-driven architectures.&lt;/p&gt;
+&lt;p&gt;You will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the real-world challenges of event-driven architectures and the patterns to deal with those challenges and the trade-offs of each solution&lt;/li&gt;
+&lt;li&gt;Leverage the advantages of event-driven architectures to build scalable solutions and address legacy applications&lt;/li&gt;
+&lt;li&gt;Plan successful future implementations to avoid common pitfalls and apply proven patterns to deal with challenges in a real-world platform with millions of users&lt;/li&gt;
+&lt;li&gt;Decide whether event-driven solutions are the right choice for the requirements at hand&lt;/li&gt;
+&lt;li&gt;Discuss and understand advanced concepts about event-driven architectures&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484274675</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09LLT5B1Z</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59637521</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">apaazgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hugo Filipe Oliveira Rocha&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-03-13T03:58:36.260660+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Event-Driven Microservices Architecture: Building Sustainable and Highly Scalable Event-Driven Microservices"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
