@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1319</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f8c8f26-07d3-443f-b36d-988af8870de8</dc:identifier>
+        <dc:title>Algorithms Illuminated, Part 3: Greedy Algorithms and Dynamic Programming</dc:title>
+        <dc:creator opf:file-as="Roughgarden, Tim" opf:role="aut">Tim Roughgarden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-02T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Accessible, no-nonsense, and programming language-agnostic introduction to algorithms. Includes hints or solutions to all quizzes and problems, and a series of YouTube videos by the author accompanies the book. Part 3 covers greedy algorithms (scheduling, minimum spanning trees, clustering, Huffman codes) and dynamic programming (knapsack, sequence alignment, shortest paths, optimal search trees).&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;From Amazon.com (by Vladimir): &lt;/p&gt;
+&lt;p&gt;Yet another golden nugget from professor Roughgarden. Outstanding self-learning material for those who learn algorithms for the first time or for those who revisit the subject for rock-solid fundamental knowledge. Clear explanations for most popular greedy and dynamic programming algorithms. Throughout my experience interviewing CS graduates when working in the product development industry and back in times when I was a university lecturer, I found that for most students dynamic programming is one of the weakest areas among algorithm design paradigms. This book has outstanding, clear, easy to understand coverage for this topic.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Soundlikeyourself Publishing, LLC</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0999282948</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780999282946</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Tim Roughgarden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Algorithms Illuminated"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-03-12T20:00:06+00:00"/>
+        <meta name="calibre:title_sort" content="Algorithms Illuminated, Part 3: Greedy Algorithms and Dynamic Programming"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
