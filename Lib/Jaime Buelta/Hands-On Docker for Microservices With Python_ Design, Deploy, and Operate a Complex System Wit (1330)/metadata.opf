@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1330</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd050cc7-cfb3-4265-a5c6-2327a821ca50</dc:identifier>
+        <dc:title>Hands-On Docker for Microservices With Python: Design, Deploy, and Operate a Complex System With Multiple Microservices Using Docker and Kubernetes</dc:title>
+        <dc:creator opf:file-as="Buelta, Jaime" opf:role="aut">Jaime Buelta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-22T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;A step-by-step guide to building microservices using Python and Docker, along with managing and orchestrating them with Kubernetes&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn to use Docker containers to create, operate, and deploy your microservices &lt;/li&gt;
+&lt;li&gt;Create workflows to manage independent deployments on coordinating services using CI and GitOps through GitHub, Travis CI, and Flux &lt;/li&gt;
+&lt;li&gt;Develop a REST microservice in Python using the Flask framework and Postgres database&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Microservices architecture helps create complex systems with multiple, interconnected services that can be maintained by independent teams working in parallel. This book guides you on how to develop these complex systems with the help of containers. &lt;/p&gt;
+&lt;p&gt;You'll start by learning to design an efficient strategy for migrating a legacy monolithic system to microservices. You'll build a RESTful microservice with Python and learn how to encapsulate the code for the services into a container using Docker. While developing the services, you'll understand how to use tools such as GitHub and Travis CI to ensure continuous delivery (CD) and continuous integration (CI). As the systems become complex and grow in size, you'll be introduced to Kubernetes and explore how to orchestrate a system of containers while managing multiple services. Next, you'll configure Kubernetes clusters for production-ready environments and secure them for reliable deployments. In the concluding chapters, you'll learn how to detect and debug critical problems with the help of logs and metrics. Finally, you'll discover a variety of strategies for working with multiple teams dealing with different microservices for effective collaboration. &lt;/p&gt;
+&lt;p&gt;By the end of this book, you'll be able to build production-grade microservices as well as orchestrate a complex system of services using containers.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Discover how to design, test, and operate scalable microservices &lt;/li&gt;
+&lt;li&gt;Coordinate and deploy different services using Kubernetes &lt;/li&gt;
+&lt;li&gt;Use Docker to construct scalable and manageable applications with microservices &lt;/li&gt;
+&lt;li&gt;Understand how to monitor a complete system to ensure early detection of problems &lt;/li&gt;
+&lt;li&gt;Become well versed with migrating from an existing monolithic system to a microservice one &lt;/li&gt;
+&lt;li&gt;Use load balancing to ensure seamless operation between the old monolith and the new service&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is for developers, engineers, or software architects who are trying to move away from traditional approaches for building complex multi-service systems by adopting microservices and containers. Although familiarity with Python programming is assumed, no prior knowledge of Docker is required.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Making the Move: Design, Plan, Execute&lt;/li&gt;
+&lt;li&gt;Creating a REST service with Python&lt;/li&gt;
+&lt;li&gt;Build, Run, and Test Your Service Using Docker&lt;/li&gt;
+&lt;li&gt;Creating a pipeline and workflow with GitHub and TravisCI&lt;/li&gt;
+&lt;li&gt;Using Kubernetes&lt;/li&gt;
+&lt;li&gt;Local development with Kubernetes&lt;/li&gt;
+&lt;li&gt;Configuring and Securing the System&lt;/li&gt;
+&lt;li&gt;Using GitOps principles&lt;/li&gt;
+&lt;li&gt;Managing workflows&lt;/li&gt;
+&lt;li&gt;Monitoring Logs and Metrics&lt;/li&gt;
+&lt;li&gt;Handling Change, Dependencies, and Secrets in The System&lt;/li&gt;
+&lt;li&gt;Collaboration and communication between teams&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Jaime Buelta&lt;/strong&gt; has been a professional programmer and a full-time Python developer and has been exposed to a lot of different technologies over his career. He has developed software for a variety of fields and industries, including aerospace, networking and communications, industrial SCADA systems, video game online services, and finance services. As part of these companies, he worked closely with various areas, such as marketing, management, sales, and game design, helping the companies achieve to their goals. He is a strong proponent of automating everything and making computers do most of the heavy lifting so users can focus on the important stuff. He is currently living in Dublin, Ireland, and has been a regular speaker at PyCon Ireland.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781838823818</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1838823816</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">EBrADwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Web Services &amp; APIs</dc:subject>
+        <dc:subject>Distributed Systems</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jaime Buelta&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-03-13T04:00:47.097807+00:00"/>
+        <meta name="calibre:title_sort" content="Hands-On Docker for Microservices With Python: Design, Deploy, and Operate a Complex System With Multiple Microservices Using Docker and Kubernetes"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
