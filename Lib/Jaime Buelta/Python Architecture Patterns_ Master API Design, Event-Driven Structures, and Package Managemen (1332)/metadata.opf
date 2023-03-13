@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1332</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8296167c-8ea0-4b1b-8dde-d35c55f0268c</dc:identifier>
+        <dc:title>Python Architecture Patterns: Master API Design, Event-Driven Structures, and Package Management in Python</dc:title>
+        <dc:creator opf:file-as="Buelta, Jaime" opf:role="aut">Jaime Buelta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-12T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Make the best of your test suites by using cutting-edge software architecture patterns in Python&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn how to create scalable and maintainable applications&lt;/li&gt;
+&lt;li&gt;Build a web system for micro messaging using concepts in the book&lt;/li&gt;
+&lt;li&gt;Use profiling to find bottlenecks and improve the speed of the system&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Developing large-scale systems that continuously grow in scale and complexity requires a thorough understanding of how software projects should be implemented. Software developers, architects, and technical management teams rely on high-level software design patterns such as microservices architecture, event-driven architecture, and the strategic patterns prescribed by domain-driven design (DDD) to make their work easier.&lt;/p&gt;
+&lt;p&gt;This book covers these proven architecture design patterns with a forward-looking approach to help Python developers manage application complexity―and get the most value out of their test suites.&lt;/p&gt;
+&lt;p&gt;Starting with the initial stages of design, you will learn about the main blocks and mental flow to use at the start of a project. The book covers various architectural patterns like microservices, web services, and event-driven structures and how to choose the one best suited to your project. Establishing a foundation of required concepts, you will progress into development, debugging, and testing to produce high-quality code that is ready for deployment. You will learn about ongoing operations on how to continue the task after the system is deployed to end users, as the software development lifecycle is never finished.&lt;/p&gt;
+&lt;p&gt;By the end of this Python book, you will have developed "architectural thinking": a different way of approaching software design, including making changes to ongoing systems.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Think like an architect, analyzing software architecture patterns&lt;/li&gt;
+&lt;li&gt;Explore API design, data storage, and data representation methods&lt;/li&gt;
+&lt;li&gt;Investigate the nuances of common architectural structures&lt;/li&gt;
+&lt;li&gt;Utilize and interoperate elements of patterns such as microservices&lt;/li&gt;
+&lt;li&gt;Implement test-driven development to perform quality code testing&lt;/li&gt;
+&lt;li&gt;Recognize chunks of code that can be restructured as packages&lt;/li&gt;
+&lt;li&gt;Maintain backward compatibility and deploy iterative changes&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book will help software developers and architects understand the structure of large complex systems and adopt architectural patterns that are scalable. Examples in the book are implemented in Python so a fair grasp of basic Python concepts is expected. Proficiency in any programming languages such as Java or JavaScript is sufficient.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction to Software Architecture&lt;/li&gt;
+&lt;li&gt;API Design&lt;/li&gt;
+&lt;li&gt;Data Modeling&lt;/li&gt;
+&lt;li&gt;The Data Layer&lt;/li&gt;
+&lt;li&gt;The Twelve-Factor App Methodology&lt;/li&gt;
+&lt;li&gt;Web Server Structures&lt;/li&gt;
+&lt;li&gt;Event-Driven Structures&lt;/li&gt;
+&lt;li&gt;Advanced Event-Driven Structures&lt;/li&gt;
+&lt;li&gt;Microservices vs Monolith&lt;/li&gt;
+&lt;li&gt;Testing and TDD&lt;/li&gt;
+&lt;li&gt;Package Management&lt;/li&gt;
+&lt;li&gt;Logging&lt;/li&gt;
+&lt;li&gt;Metrics&lt;/li&gt;
+&lt;li&gt;Profiling&lt;/li&gt;
+&lt;li&gt;Debugging&lt;/li&gt;
+&lt;li&gt;Ongoing Architecture&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Jaime Buelta is a Software Architect who has been a professional programmer since 2002 and a Python enthusiast since 2010. He has developed software for a variety of fields, focusing, in the last 10 years, on developing web services in Python in the gaming, finance and education industries. He is a strong proponent of automating everything to make computers do most of the heavy lifting, so humans can focus on the important stuff. He published his first book, "Python Automation Cookbook", in 2018 (recently with an extended second edition), followed a year later by "Hands-On Docker for Microservices with Python" describing how to migrate to a microservice architecture. He is currently living in Dublin, Ireland, and is a regular speaker at PyCon Ireland.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781801819992</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09MV4X8TV</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">60451857</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">RJlXEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>Social Aspects</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jaime Buelta&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-03-13T04:04:42.849889+00:00"/>
+        <meta name="calibre:title_sort" content="Python Architecture Patterns: Master API Design, Event-Driven Structures, and Package Management in Python"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

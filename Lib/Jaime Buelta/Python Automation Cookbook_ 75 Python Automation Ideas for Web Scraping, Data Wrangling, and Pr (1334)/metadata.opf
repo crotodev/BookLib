@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1334</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc9baf33-b91d-42f3-a324-c85b66bdd9c4</dc:identifier>
+        <dc:title>Python Automation Cookbook: 75 Python Automation Ideas for Web Scraping, Data Wrangling, and Processing Excel, Reports, Emails, and More, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Buelta, Jaime" opf:role="aut">Jaime Buelta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Get a firm grip on the core processes including browser automation, web scraping, Word, Excel, and GUI automation with Python 3.8 and higher&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Automate integral business processes such as report generation, email marketing, and lead generation&lt;/li&gt;
+&lt;li&gt;Explore automated code testing and Python’s growth in data science and AI automation in three new chapters&lt;/li&gt;
+&lt;li&gt;Understand techniques to extract information and generate appealing graphs, and reports with Matplotlib&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;In this updated and extended version of Python Automation Cookbook, each chapter now comprises the newest recipes and is revised to align with Python 3.8 and higher. The book includes three new chapters that focus on using Python for test automation, machine learning projects, and for working with messy data.&lt;/p&gt;
+&lt;p&gt;This edition will enable you to develop a sharp understanding of the fundamentals required to automate business processes through real-world tasks, such as developing your first web scraping application, analyzing information to generate spreadsheet reports with graphs, and communicating with automatically generated emails.&lt;/p&gt;
+&lt;p&gt;Once you grasp the basics, you will acquire the practical knowledge to create stunning graphs and charts using Matplotlib, generate rich graphics with relevant information, automate marketing campaigns, build machine learning projects, and execute debugging techniques.&lt;/p&gt;
+&lt;p&gt;By the end of this book, you will be proficient in identifying monotonous tasks and resolving process inefficiencies to produce superior and reliable systems.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn data wrangling with Python and Pandas for your data science and AI projects&lt;/li&gt;
+&lt;li&gt;Automate tasks such as text classification, email filtering, and web scraping with Python&lt;/li&gt;
+&lt;li&gt;Use Matplotlib to generate a variety of stunning graphs, charts, and maps&lt;/li&gt;
+&lt;li&gt;Automate a range of report generation tasks, from sending SMS and email campaigns to creating templates, adding images in Word, and even encrypting PDFs&lt;/li&gt;
+&lt;li&gt;Master web scraping and web crawling of popular file formats and directories with tools like Beautiful Soup&lt;/li&gt;
+&lt;li&gt;Build cool projects such as a Telegram bot for your marketing campaign, a reader from a news RSS feed, and a machine learning model to classify emails to the correct department based on their content&lt;/li&gt;
+&lt;li&gt;Create fire-and-forget automation tasks by writing cron jobs, log files, and regexes with Python scripting&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;Python Automation Cookbook - Second Edition is for developers, data enthusiasts or anyone who wants to automate monotonous manual tasks related to business processes such as finance, sales, and HR, among others. Working knowledge of Python is all you need to get started with this book.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Let's Begin Our Automation Journey&lt;/li&gt;
+&lt;li&gt;Automating Tasks Made Easy&lt;/li&gt;
+&lt;li&gt;Building Your First Web Scraping Application&lt;/li&gt;
+&lt;li&gt;Searching and Reading Local Files&lt;/li&gt;
+&lt;li&gt;Generating Fantastic Reports&lt;/li&gt;
+&lt;li&gt;Fun with Spreadsheets&lt;/li&gt;
+&lt;li&gt;Cleaning and Processing Data&lt;/li&gt;
+&lt;li&gt;Developing Stunning Graphs&lt;/li&gt;
+&lt;li&gt;Dealing with Communication Channels&lt;/li&gt;
+&lt;li&gt;Why Not Automate Your Marketing Campaign?&lt;/li&gt;
+&lt;li&gt;Machine Learning for Automation&lt;/li&gt;
+&lt;li&gt;Automatic Testing Routines&lt;/li&gt;
+&lt;li&gt;Debugging Techniques&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Jaime Buelta&lt;/strong&gt; is a full-time Python developer since 2010 and a regular speaker at PyCon Ireland. He has been a professional programmer for over two decades with a rich exposure to a lot of different technologies throughout his career. He has developed software for a variety of fields and industries, including aerospace, networking and communications, industrial SCADA systems, video game online services, and finance services.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781800202597</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B088NBRT6Z</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">84LoDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <dc:subject>Data Visualization</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jaime Buelta&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-13T04:09:42.542867+00:00"/>
+        <meta name="calibre:title_sort" content="Python Automation Cookbook: 75 Python Automation Ideas for Web Scraping, Data Wrangling, and Processing Excel, Reports, Emails, and More, 2nd Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
