@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">469</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">065166b5-a92d-45c8-b4cd-0ed4a41c09b3</dc:identifier>
+        <dc:title>Machine Learning for Financial Risk Management With Python: Algorithms for Modeling Risk</dc:title>
+        <dc:creator opf:file-as="Karasan, Abdullah" opf:role="aut">Abdullah Karasan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-28T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Nowadays, Python undoubtedly is the No. 1 programming language in the financial industry. At the same time, Machine Learning has become a key technology for the industry. The book by Abdullah Karasan does a great job in showing the capabilities of Machine Learning with Python in the context of financial risk management -- a function vital to any financial institution. &lt;/p&gt;
+&lt;p style="font-style: italic"&gt;Dr. Yves J. Hilpisch &lt;/p&gt;
+&lt;p&gt;This book is a comprehensive and practical presentation of a wide variety of methods, drawn from both the statistical and machine learning traditions, for the analysis of financial risk. It includes practical code snippets and charts to illustrate the methods used on real data. If you need a go-to guide to the application of these methods to data, this is a great place to start." &lt;br&gt;Graham L Giller, author of &lt;em&gt;Adventures in Financial Data Science.&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Financial risk management is quickly evolving with the help of artificial intelligence. With this practical book, developers, programmers, engineers, financial analysts, risk analysts, and quantitative and algorithmic analysts will examine Python-based machine learning and deep learning models for assessing financial risk. Building hands-on AI-based financial modeling skills, you'll learn how to replace traditional financial risk models with ML models.&lt;/p&gt;
+&lt;p&gt;Author Abdullah Karasan helps you explore the theory behind financial risk modeling before diving into practical ways of employing ML models in modeling financial risk using Python. With this book, you will:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Review classical time series applications and compare them with deep learning models&lt;/li&gt;
+&lt;li&gt;Explore volatility modeling to measure degrees of risk, using support vector regression, neural networks, and deep learning&lt;/li&gt;
+&lt;li&gt;Improve market risk models (VaR and ES) using ML techniques and including liquidity dimension&lt;/li&gt;
+&lt;li&gt;Develop a credit risk analysis using clustering and Bayesian approaches&lt;/li&gt;
+&lt;li&gt;Capture different aspects of liquidity risk with a Gaussian mixture model and Copula model&lt;/li&gt;
+&lt;li&gt;Use machine learning models for fraud detection&lt;/li&gt;
+&lt;li&gt;Predict stock price crash and identify its determinants using machine learning models&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Abdullah Karasan was born in Berlin, Germany. After studying economics and business administration, he obtained his master's degree in applied economics from the University of Michigan, Ann Arbor, and his PhD in financial mathematics from the Middle East Technical University, Ankara. He is a former Treasury employee of Turkey and currently works as a principal data scientist at Magnimind and as a lecturer at the University of Maryland, Baltimore. He has also published several papers in the field of financial data science.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">58230350</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781492085256</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1492085251</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">zDdczgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Business &amp; Productivity Software</dc:subject>
+        <dc:subject>Accounting &amp; Finance</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Machine Learning</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Abdullah Karasan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-21T09:50:14+00:00"/>
+        <meta name="calibre:title_sort" content="Machine Learning for Financial Risk Management With Python: Algorithms for Modeling Risk"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

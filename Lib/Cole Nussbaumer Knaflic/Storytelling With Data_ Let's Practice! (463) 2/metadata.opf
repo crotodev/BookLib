@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">463</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d954779-3035-44ca-8da0-0fbeea0a055e</dc:identifier>
+        <dc:title>Storytelling With Data: Let's Practice!</dc:title>
+        <dc:creator opf:file-as="Knaflic, Cole Nussbaumer" opf:role="aut">Cole Nussbaumer Knaflic</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-22T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Influence action through data! &lt;/p&gt;
+&lt;p&gt;This is not a book. It is a one-of-a-kind immersive learning experience through which you can become--or teach others to be--a powerful data storyteller. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Let's practice!&lt;/em&gt; helps you build confidence and credibility to create graphs and visualizations that make sense and weave them into action-inspiring stories. Expanding upon best seller &lt;em&gt;storytelling with data&lt;/em&gt; 's foundational lessons, &lt;em&gt;Let's practice!&lt;/em&gt; delivers fresh content, a plethora of new examples, and over 100 hands-on exercises. Author and data storytelling maven Cole Nussbaumer Knaflic guides you along the path to hone core skills and become a well-practiced data communicator. Each chapter includes: &lt;/p&gt;
+&lt;p&gt;● &lt;strong&gt;Practice with Cole:&lt;/strong&gt; exercises based on real-world examples first posed for you to consider and solve, followed by detailed step-by-step illustration and explanation &lt;/p&gt;
+&lt;p&gt;● &lt;strong&gt;Practice on your own:&lt;/strong&gt; thought-provoking questions and even more exercises to be assigned or worked through individually, without prescribed solutions &lt;/p&gt;
+&lt;p&gt;● &lt;strong&gt;Practice at work:&lt;/strong&gt; practical guidance and hands-on exercises for applying &lt;em&gt;storytelling with data&lt;/em&gt; lessons on the job, including instruction on when and how to solicit useful feedback and refine for greater impact &lt;/p&gt;
+&lt;p&gt;The lessons and exercises found within this comprehensive guide will empower you to master--or develop in others--data storytelling skills and transition your work from acceptable to exceptional. By investing in these skills for ourselves and our teams, we can all tell inspiring and influential data stories!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1119621496</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781119621492</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">aGatDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">45004977</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cole Nussbaumer Knaflic&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-20T17:49:52+00:00"/>
+        <meta name="calibre:title_sort" content="Storytelling With Data: Let's Practice!"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

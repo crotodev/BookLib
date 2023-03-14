@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa3f4b2f-4086-47f8-85d2-443df442e033</dc:identifier>
+        <dc:title>Python GUI Programming With Tkinter: Design and Build Functional and User-Friendly GUI Applications, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Moore, Alan D." opf:role="aut">Alan D. Moore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-28T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Transform your evolving user requirements into feature-rich Tkinter applications&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Extensively revised with new content on RESTful networking, classes in Tkinter, and the Notebook widget&lt;/li&gt;
+&lt;li&gt;Take advantage of Tkinter's lightweight, portable, and easy-to-use features&lt;/li&gt;
+&lt;li&gt;Build better-organized code and learn to manage an evolving codebase&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Tkinter is widely used to build GUIs in Python due to its simplicity. In this book, you'll discover Tkinter's strengths and overcome its challenges as you learn to develop fully featured GUI applications.&lt;/p&gt;
+&lt;p&gt;Python GUI Programming with Tkinter, Second Edition, will not only provide you with a working knowledge of the Tkinter GUI library, but also a valuable set of skills that will enable you to plan, implement, and maintain larger applications. You'll build a full-blown data entry application from scratch, learning how to grow and improve your code in response to continually changing user and business needs.&lt;/p&gt;
+&lt;p&gt;You'll develop a practical understanding of tools and techniques used to manage this evolving codebase and go beyond the default Tkinter widget capabilities. You'll implement version control and unit testing, separation of concerns through the MVC design pattern, and object-oriented programming to organize your code more cleanly.&lt;/p&gt;
+&lt;p&gt;You'll also gain experience with technologies often used in workplace applications, such as SQL databases, network services, and data visualization libraries. Finally, you'll package your application for wider distribution and tackle the challenge of maintaining cross-platform compatibility.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Produce well-organized, functional, and responsive GUI applications&lt;/li&gt;
+&lt;li&gt;Extend the functionality of existing widgets using classes and OOP&lt;/li&gt;
+&lt;li&gt;Plan wisely for the expansion of your app using MVC and version control&lt;/li&gt;
+&lt;li&gt;Make sure your app works as intended through widget validation and unit testing&lt;/li&gt;
+&lt;li&gt;Use tools and processes to analyze and respond to user requests&lt;/li&gt;
+&lt;li&gt;Become familiar with technologies used in workplace applications, including SQL, HTTP, Matplotlib, threading, and CSV&lt;/li&gt;
+&lt;li&gt;Use PostgreSQL authentication to ensure data security for your application&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is for programmers who understand the syntax of Python, but do not yet have the skills, techniques, and knowledge to design and implement a complete software application. A fair grasp of basic Python syntax is required.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Introduction to Tkinter&lt;/li&gt;
+&lt;li&gt;Designing GUI Applications&lt;/li&gt;
+&lt;li&gt;Creating Basic Forms with Tkinter and Ttk Widgets&lt;/li&gt;
+&lt;li&gt;Organizing Our Code with Classes&lt;/li&gt;
+&lt;li&gt;Reducing User Error with Validation and Automation&lt;/li&gt;
+&lt;li&gt;Planning for the Expansion of Our Application&lt;/li&gt;
+&lt;li&gt;Creating Menus with Menu and Tkinter Dialogs&lt;/li&gt;
+&lt;li&gt;Navigating Records with Treeview and Notebook&lt;/li&gt;
+&lt;li&gt;Improving the Look with Styles and Themes&lt;/li&gt;
+&lt;li&gt;Maintaining Cross-Platform Compatibility&lt;/li&gt;
+&lt;li&gt;Creating Automated Tests with unittest&lt;/li&gt;
+&lt;li&gt;Improving Data Storage with SQL&lt;/li&gt;
+&lt;li&gt;Connecting to the Cloud&lt;/li&gt;
+&lt;li&gt;Asynchronous Programming with Thread and Queue&lt;/li&gt;
+&lt;li&gt;Visualizing Data Using the Canvas Widget&lt;/li&gt;
+&lt;li&gt;Packaging with setuptools and cxFreeze&lt;/li&gt;
+&lt;li&gt;Appendix A : A Quick Primer on reStructuredText&lt;/li&gt;
+&lt;li&gt;Appendix B: A Quick SQL Tutorial&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781801815925</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">VIqezgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1801815925</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>GUI</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alan D. Moore&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-12-14T17:39:48+00:00"/>
+        <meta name="calibre:title_sort" content="Python GUI Programming With Tkinter: Design and Build Functional and User-Friendly GUI Applications, 2nd Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

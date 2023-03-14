@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">666</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0680118-1de3-43cd-a9f5-d321c87d49e4</dc:identifier>
+        <dc:title>Optimal execution with stochastic delay</dc:title>
+        <dc:creator opf:file-as="Cartea, Álvaro &amp; Sánchez-Betancourt, Leandro" opf:role="aut">Álvaro Cartea</dc:creator>
+        <dc:creator opf:file-as="Cartea, Álvaro &amp; Sánchez-Betancourt, Leandro" opf:role="aut">Leandro Sánchez-Betancourt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-20T14:28:05+00:00</dc:date>
+        <dc:description>Finance Stoch, doi:10.1007/s00780-022-00491-w</dc:description>
+        <dc:publisher>The Author(s)</dc:publisher>
+        <dc:identifier opf:scheme="DOI">10.1007/s00780-022-00491-w</dc:identifier>
+        <dc:identifier opf:scheme="URL">http://dx.doi.org/10.1007/s00780-022-00491-w</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Mathematical &amp; Computational</dc:subject>
+        <dc:subject>Stochastic Processes</dc:subject>
+        <dc:subject>Quantitative Finance</dc:subject>
+        <dc:subject>Research</dc:subject>
+        <dc:subject>Research Article</dc:subject>
+        <dc:subject>Financial Modeling</dc:subject>
+        <dc:subject>Financial Risk Management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Álvaro Cartea&quot;: &quot;&quot;, &quot;Leandro Sánchez-Betancourt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-20T00:23:46+00:00"/>
+        <meta name="calibre:title_sort" content="Optimal execution with stochastic delay"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
