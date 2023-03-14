@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">634</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf3341bf-fbc1-439d-8c1a-8b24a74a2ca7</dc:identifier>
+        <dc:title>The Firm: The Story of McKinsey and Its Secret Influence on American Business</dc:title>
+        <dc:creator opf:file-as="McDonald, Duff" opf:role="aut">Duff McDonald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-09T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;A behind-the-scenes, revelatory history of McKinsey &amp;amp; Co., America’s most influential and controversial business consulting firm, told by one of the nation’s leading financial journalists. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;It ranks among the unquestioned laws of American big business over the last half century: If you want to be taken seriously, you hire McKinsey &amp;amp; Company. &lt;/p&gt;
+&lt;p&gt;FOUNDED IN 1926, McKINSEY CAN LAY CLAIM to the following partial list of accomplishments: its consultants have ushered in waves of structural, financial, and technological change to the nation’s best organizations; they remapped the power structure within the White House; they even revo­lutionized business schools. In this book, star financial journalist Duff McDonald shows just how, in becoming an indispensable part of decision making at the highest levels, McKinsey has done nothing less than set the course of American capitalism. &lt;/p&gt;
+&lt;p&gt;But he also answers the question that’s on the mind of anyone who has ever heard the word McKinsey: Are they worth it? After all, just as McKinsey can be shown to have helped invent most of the tools of modern management, the company was also involved with a number of striking failures. Its consultants were on the scene when General Motors drove itself into the ground, and they were Kmart’s advisers when the retailer tumbled into disarray. They played a critical role in building the bomb known as Enron. &lt;/p&gt;
+&lt;p&gt;McDonald is one of the few journalists to have not only parsed the record but also penetrated the culture of McKinsey itself—a corporate mandarin elite whose methods have been compared (by oth­ers and by themselves) to those of the Jesuits or the U.S. Marines. They feel so strongly about themselves that they have insisted on a proper noun where one need not exist. To an outsider, they are a consulting firm. To themselves, simply, The Firm. This revealing book uncovers the inner workings of what just might be the most influential private organization in America.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1439190976</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00A287PG2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Duff McDonald&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-02-10T20:02:47+00:00"/>
+        <meta name="calibre:title_sort" content="Firm: The Story of McKinsey and Its Secret Influence on American Business, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">668</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85ca9ad4-9beb-4ad2-8bcc-be090010e901</dc:identifier>
+        <dc:title>The characteristic function of Gaussian stochastic volatility models: an analytic expression</dc:title>
+        <dc:creator opf:file-as="Jaber, Eduardo Abi" opf:role="aut">Eduardo Abi Jaber</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-22T10:10:57+00:00</dc:date>
+        <dc:description>Finance Stoch, doi:10.1007/s00780-022-00489-4</dc:description>
+        <dc:publisher>The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature</dc:publisher>
+        <dc:identifier opf:scheme="DOI">10.1007/s00780-022-00489-4</dc:identifier>
+        <dc:identifier opf:scheme="URL">http://dx.doi.org/10.1007/s00780-022-00489-4</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Mathematical &amp; Computational</dc:subject>
+        <dc:subject>Stochastic Processes</dc:subject>
+        <dc:subject>Quantitative Finance</dc:subject>
+        <dc:subject>Research</dc:subject>
+        <dc:subject>Research Article</dc:subject>
+        <dc:subject>Financial Modeling</dc:subject>
+        <dc:subject>Financial Risk Management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eduardo Abi Jaber&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-20T00:25:33+00:00"/>
+        <meta name="calibre:title_sort" content="characteristic function of Gaussian stochastic volatility models: an analytic expression, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
