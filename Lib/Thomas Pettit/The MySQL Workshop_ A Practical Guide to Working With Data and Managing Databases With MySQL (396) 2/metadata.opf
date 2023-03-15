@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">396</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b2ab0a9-dc54-4a43-87c8-f6aa3f5a770e</dc:identifier>
+        <dc:title>The MySQL Workshop: A Practical Guide to Working With Data and Managing Databases With MySQL</dc:title>
+        <dc:creator opf:file-as="Pettit, Thomas &amp; Cosentino, Scott" opf:role="aut">Thomas Pettit</dc:creator>
+        <dc:creator opf:file-as="Pettit, Thomas &amp; Cosentino, Scott" opf:role="aut">Scott Cosentino</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Learning MySQL just got a whole lot easier, thanks to this hands-on workshop, complete with simple explanations, engaging examples, and realistic exercises that focus on helping you to build and maintain databases effectivelyKey FeaturesLearn how to set up and maintain a MySQL databaseRun SQL queries to create, retrieve, and manipulate dataUse MySQL effectively with common business applications such as Excel and MS AccessBook DescriptionDo you want to learn how to create and maintain databases effectively? Are you looking for simple answers to basic MySQL questions as well as straightforward examples that you can use at work? If so, this workshop is the right choice for you. &lt;/p&gt;
+&lt;p&gt;Designed to build your confidence through hands-on practice, this book uses a simple approach that focuses on the practical, so you can get straight down to business without having to wade through pages and pages of dull, dry theory. &lt;/p&gt;
+&lt;p&gt;As you work through bite-sized exercises and activities, you'll learn how to use different MySQL tools to create a database and manage the data within it. You'll see how to transfer data between a MySQL database and other sources, and use real-world datasets to gain valuable experience of manipulating and gaining insights from data. As you progress, you'll discover how to protect your database by managing user permissions and performing logical backups and restores. &lt;/p&gt;
+&lt;p&gt;If you've already tried to teach yourself SQL, but haven't been able to make the leap from understanding simple queries to working on live projects with a real database management system, The MySQL Workshop will get you on the right track. &lt;/p&gt;
+&lt;p&gt;By the end of this MySQL book, you'll have the knowledge, skills, and confidence to advance your career and tackle your own ambitious projects with MySQL.What you will learnUnderstand the concepts of relational databases and document storesUse SQL queries, stored procedures, views, functions, and transactionsConnect to and manipulate data using MS Access, MS Excel, and Visual Basic for Applications (VBA)Read and write data in the CSV or JSON format using MySQLManage data while running MySQL Shell in JavaScript modeUse X DevAPI to access a NoSQL interface for MySQLManage user roles, credentials, and privileges to keep data securePerform a logical database backup with mysqldump and mysqlpumpWho this book is forThis book is for anyone who wants to learn how to use MySQL in a productive, efficient way. If you're totally new to MySQL, it'll help you get started or if you've used MySQL before, it'll fill in any gaps, consolidate key concepts, and offer valuable hands-on practice. Prior knowledge of simple SQL or basic programming techniques will help you in quickly grasping the concepts covered, but is not necessary.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781839215476</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">7H1rEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Sql</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Pettit&quot;: &quot;&quot;, &quot;Scott Cosentino&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-17T21:04:58+00:00"/>
+        <meta name="calibre:title_sort" content="MySQL Workshop: A Practical Guide to Working With Data and Managing Databases With MySQL, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

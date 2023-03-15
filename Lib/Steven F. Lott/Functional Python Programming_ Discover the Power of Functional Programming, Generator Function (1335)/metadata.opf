@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1335</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">536ae6ed-9916-4c3e-81cd-b024939d14bb</dc:identifier>
+        <dc:title>Functional Python Programming: Discover the Power of Functional Programming, Generator Functions, Lazy Evaluation, the Built-In Itertools Library, and Monads, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Lott, Steven F." opf:role="aut">Steven F. Lott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-13T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Create succinct and expressive implementations with functional programming in Python&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn how to choose between imperative and functional approaches based on expressiveness, clarity, and performance&lt;/li&gt;
+&lt;li&gt;Get familiar with complex concepts such as monads, concurrency, and immutability&lt;/li&gt;
+&lt;li&gt;Apply functional Python to common Exploratory Data Analysis (EDA) programming problems&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;If you're a Python developer who wants to discover how to take the power of functional programming (FP) and bring it into your own programs, then this book is essential for you, even if you know next to nothing about the paradigm.&lt;/p&gt;
+&lt;p&gt;Starting with a general overview of functional concepts, you'll explore common functional features such as first-class and higher-order functions, pure functions, and more. You'll see how these are accomplished in Python 3.6 to give you the core foundations you'll build upon. After that, you'll discover common functional optimizations for Python to help your apps reach even higher speeds.&lt;/p&gt;
+&lt;p&gt;You'll learn FP concepts such as lazy evaluation using Python's generator functions and expressions. Moving forward, you'll learn to design and implement decorators to create composite functions. You'll also explore data preparation techniques and data exploration in depth, and see how the Python standard library fits the functional programming model. Finally, to top off your journey into the world of functional Python, you'll at look at the PyMonad project and some larger examples to put everything into perspective.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Use Python's generator functions and generator expressions to work with collections in a non-strict (or lazy) manner&lt;/li&gt;
+&lt;li&gt;Utilize Python library modules including itertools, functools, multiprocessing, and concurrent features to ensure efficient functional programs&lt;/li&gt;
+&lt;li&gt;Use Python strings with object-oriented suffix notation and prefix notation&lt;/li&gt;
+&lt;li&gt;Avoid stateful classes with families of tuples&lt;/li&gt;
+&lt;li&gt;Design and implement decorators to create composite functions&lt;/li&gt;
+&lt;li&gt;Use functions such as max(), min(), map(), filter(), and sorted()&lt;/li&gt;
+&lt;li&gt;Write higher-order functions&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who This Book Is For&lt;/h4&gt;
+&lt;p&gt;This book is for Python developers who would like to perform Functional programming with Python. Python Programming knowledge is assumed.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Understanding Functional Programming&lt;/li&gt;
+&lt;li&gt;Introducing essential functional concepts&lt;/li&gt;
+&lt;li&gt;Functions, Iterators and Generators&lt;/li&gt;
+&lt;li&gt;Working with Collections&lt;/li&gt;
+&lt;li&gt;Higher-Order Functions&lt;/li&gt;
+&lt;li&gt;Recursions and Reductions&lt;/li&gt;
+&lt;li&gt;Additional tuple techiques&lt;/li&gt;
+&lt;li&gt;The Itertools Module&lt;/li&gt;
+&lt;li&gt;More Itertools Techniques&lt;/li&gt;
+&lt;li&gt;The Functools Module&lt;/li&gt;
+&lt;li&gt;Decorator Design Techniques&lt;/li&gt;
+&lt;li&gt;The Multiprocessing and Threading Modules&lt;/li&gt;
+&lt;li&gt;The Operator Module&lt;/li&gt;
+&lt;li&gt;The PyMonad Library&lt;/li&gt;
+&lt;li&gt;A Functional Approach to Web Services&lt;/li&gt;
+&lt;li&gt;Optimizations and Improvements&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Steven F. Lott&lt;/strong&gt; has been programming since the '70s, when computers were large, expensive, and rare. He's been using Python to solve business problems for over 10 years. His other titles with Packt Publishing include Python Essentials, Mastering Object-Oriented Python, Functional Python Programming, and Python for Secret Agents. Steven is currently a technomad who lives in city along the east coast of the U.S. You can follow his technology blog (slott-softwarearchitect).&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781788627061</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1788627067</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">aKdWDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Object Oriented</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Tools</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Steven F. Lott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-03-13T13:58:00.943175+00:00"/>
+        <meta name="calibre:title_sort" content="Functional Python Programming: Discover the Power of Functional Programming, Generator Functions, Lazy Evaluation, the Built-In Itertools Library, and Monads, 2nd Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

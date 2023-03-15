@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">473</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">834de022-c418-4931-ad30-cc0a012b640f</dc:identifier>
+        <dc:title>Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More</dc:title>
+        <dc:creator opf:file-as="Danjou, Julien" opf:role="aut">Julien Danjou</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;An indispensable collection of practical tips and real-world advice for tackling common Python problems and taking your code to the next level. Features interviews with high-profile Python developers who share their tips, tricks, best practices, and real-world advice gleaned from years of experience. &lt;/p&gt;
+&lt;p&gt;Sharpen your Python skills as you dive deep into the Python programming language with &lt;em&gt;Serious Python&lt;/em&gt;. You'll cover a range of advanced topics like multithreading and memorization, get advice from experts on things like designing APIs and dealing with databases, and learn Python internals to help you gain a deeper understanding of the language itself. Written for developers and experienced programmers, &lt;em&gt;Serious Python&lt;/em&gt; brings together over 15 years of Python experience to teach you how to avoid common mistakes, write code more efficiently, and build better programs in less time. &lt;/p&gt;
+&lt;p&gt;As you make your way through the book's extensive tutorials, you'll learn how to start a project and tackle topics like versioning, layouts, coding style, and automated checks. You'll learn how to package your software for distribution, optimize performance, use the right data structures, define functions efficiently, pick the right libraries, build future-proof programs, and optimize your programs down to the bytecode. You'll also learn how to: &lt;/p&gt;
+&lt;p&gt;- Make and use effective decorators and methods, including abstract, static, and class methods&lt;br&gt;- Employ Python for functional programming using generators, pure functions, and functional functions&lt;br&gt;- Extend flake8 to work with the abstract syntax tree (AST) to introduce more sophisticated automatic checks into your programs&lt;br&gt;- Apply dynamic performance analysis to identify bottlenecks in your code&lt;br&gt;- Work with relational databases and effectively manage and stream data with PostgreSQL &lt;/p&gt;
+&lt;p&gt;If you've been looking for a way to take your Python skills from good to great, &lt;em&gt;Serious Python&lt;/em&gt; will help you get there. Learn from the experts and get seriously good at Python with &lt;em&gt;Serious Python&lt;/em&gt;!&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;" &lt;em&gt;Serious Python&lt;/em&gt; contains a considerable amount of judicious battle-tested advice from an experienced developer—as well as some insightful gems from the guest contributors—making the overall effort a welcome addition to the limited number of books aimed at more advanced Python programmers."&lt;br&gt;— &lt;strong&gt;Michael J. Ross, web developer and former Slashdot contributor&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Julien Danjou&lt;/strong&gt; is a Principal Software Engineer at Red Hat and a contributor to OpenStack, the largest existing open source project written in Python. He has been a Free Software and Open Source hacker for the past 15 years.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">b1v6DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">43174990</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781593278786</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B074S4G1L5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Reference</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Julien Danjou&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-21T09:55:44+00:00"/>
+        <meta name="calibre:title_sort" content="Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

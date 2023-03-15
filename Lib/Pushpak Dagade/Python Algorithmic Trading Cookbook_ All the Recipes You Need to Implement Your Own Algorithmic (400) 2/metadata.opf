@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adff12f1-be7a-42fd-bf69-46146bb875b8</dc:identifier>
+        <dc:title>Python Algorithmic Trading Cookbook: All the Recipes You Need to Implement Your Own Algorithmic Trading Strategies in Python</dc:title>
+        <dc:creator opf:file-as="Dagade, Pushpak" opf:role="aut">Pushpak Dagade</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-28T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Build a solid foundation in algorithmic trading by developing, testing and executing powerful trading strategies with real market data using Python&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Build a strong foundation in algorithmic trading by becoming well-versed with the basics of financial markets&lt;/li&gt;
+&lt;li&gt;Demystify jargon related to understanding and placing multiple types of trading orders&lt;/li&gt;
+&lt;li&gt;Devise trading strategies and increase your odds of making a profit without human intervention&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;If you want to find out how you can build a solid foundation in algorithmic trading using Python, this cookbook is here to help.&lt;/p&gt;
+&lt;p&gt;Starting by setting up the Python environment for trading and connectivity with brokers, you'll then learn the important aspects of financial markets. As you progress, you'll learn to fetch financial instruments, query and calculate various types of candles and historical data, and finally, compute and plot technical indicators. Next, you'll learn how to place various types of orders, such as regular, bracket, and cover orders, and understand their state transitions. Later chapters will cover backtesting, paper trading, and finally real trading for the algorithmic strategies that you've created. You'll even understand how to automate trading and find the right strategy for making effective decisions that would otherwise be impossible for human traders.&lt;/p&gt;
+&lt;p&gt;By the end of this book, you'll be able to use Python libraries to conduct key tasks in the algorithmic trading ecosystem.&lt;/p&gt;
+&lt;p&gt;Note: For demonstration, we're using Zerodha, an Indian Stock Market broker. If you're not an Indian resident, you won't be able to use Zerodha and therefore will not be able to test the examples directly. However, you can take inspiration from the book and apply the concepts across your preferred stock market broker of choice.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Use Python to set up connectivity with brokers&lt;/li&gt;
+&lt;li&gt;Handle and manipulate time series data using Python&lt;/li&gt;
+&lt;li&gt;Fetch a list of exchanges, segments, financial instruments, and historical data to interact with the real market&lt;/li&gt;
+&lt;li&gt;Understand, fetch, and calculate various types of candles and use them to compute and plot diverse types of technical indicators&lt;/li&gt;
+&lt;li&gt;Develop and improve the performance of algorithmic trading strategies&lt;/li&gt;
+&lt;li&gt;Perform backtesting and paper trading on algorithmic trading strategies&lt;/li&gt;
+&lt;li&gt;Implement real trading in the live hours of stock markets&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;If you are a financial analyst, financial trader, data analyst, algorithmic trader, trading enthusiast or anyone who wants to learn algorithmic trading with Python and important techniques to address challenges faced in the finance domain, this book is for you. Basic working knowledge of the Python programming language is expected. Although fundamental knowledge of trade-related terminologies will be helpful, it is not mandatory.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Handling and Manipulating Date, Time, and Time Series Data&lt;/li&gt;
+&lt;li&gt;Stock Markets - Primer on Trading&lt;/li&gt;
+&lt;li&gt;Fetching Financial Data&lt;/li&gt;
+&lt;li&gt;Computing Candlesticks and Historical Data&lt;/li&gt;
+&lt;li&gt;Computing and Plotting of Technical Indicators&lt;/li&gt;
+&lt;li&gt;Placing Trading Orders on the Exchange&lt;/li&gt;
+&lt;li&gt;Placing Bracket and Cover Orders on the Exchange&lt;/li&gt;
+&lt;li&gt;Algorithmic Trading Strategies ― Code Step-by-Step&lt;/li&gt;
+&lt;li&gt;Algorithmic Trading – Backtesting&lt;/li&gt;
+&lt;li&gt;Algorithmic Trading – Paper Trading&lt;/li&gt;
+&lt;li&gt;Algorithmic Trading – Real Trading&lt;/li&gt;
+&lt;li&gt;Appendix I&lt;/li&gt;
+&lt;li&gt;Appendix II&lt;/li&gt;
+&lt;li&gt;Appendix III&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pushpak Dagade&lt;/strong&gt; is working in the area of algorithmic trading with Python for more than 3 years. He is a co-founder and CEO of AlgoBulls, an algorithmic trading platform.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781838989354</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">CjL6DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1838989358</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Business &amp; Productivity Software</dc:subject>
+        <dc:subject>Accounting &amp; Finance</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <dc:subject>Computer Architecture</dc:subject>
+        <dc:subject>COM027000 - COMPUTERS / Desktop Applications / Personal Finance Applications</dc:subject>
+        <dc:subject>COM062000 - COMPUTERS / Data Modeling and Design</dc:subject>
+        <dc:subject>COM018000 - COMPUTERS / Data Processing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pushpak Dagade&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-18T05:23:50+00:00"/>
+        <meta name="calibre:title_sort" content="Python Algorithmic Trading Cookbook: All the Recipes You Need to Implement Your Own Algorithmic Trading Strategies in Python"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

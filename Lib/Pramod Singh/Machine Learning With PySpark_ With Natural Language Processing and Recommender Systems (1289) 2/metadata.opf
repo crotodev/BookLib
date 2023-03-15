@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1289</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61565dc8-69d0-4d5d-9753-81efdd49b314</dc:identifier>
+        <dc:title>Machine Learning With PySpark: With Natural Language Processing and Recommender Systems</dc:title>
+        <dc:creator opf:file-as="Singh, Pramod" opf:role="aut">Pramod Singh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-14T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Master the new features in PySpark 3.1 to develop data-driven, intelligent applications. This updated edition covers topics ranging from building scalable machine learning models, to natural language processing, to recommender systems.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Machine Learning with PySpark, Second Edition&lt;/em&gt; begins with the fundamentals of Apache Spark, including the latest updates to the framework. Next, you will learn the full spectrum of traditional machine learning algorithm implementations, along with natural language processing and recommender systems. You’ll gain familiarity with the critical process of selecting machine learning algorithms, data ingestion, and data processing to solve business problems. You’ll see a demonstration of how to build supervised machine learning models such as linear regression, logistic regression, decision trees, and random forests. You’ll also learn how to automate the steps using Spark pipelines, followed by unsupervised models such as K-means and hierarchical clustering. A section on Natural Language Processing (NLP) covers text processing, text mining, and embeddings for classification. This new edition also introduces Koalas in Spark and how to automate data workflow using Airflow and PySpark’s latest ML library.&lt;/p&gt;
+&lt;p&gt;After completing this book, you will understand how to use PySpark’s machine learning library to build and train various machine learning models, along with related components such as data ingestion, processing and visualization to develop data-driven intelligent applications&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What you will learn:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build a spectrum of supervised and unsupervised machine learning algorithms&lt;/li&gt;
+&lt;li&gt;Use PySpark's machine learning library to implement machine learning and recommender systems &lt;/li&gt;
+&lt;li&gt;Leverage the new features in PySpark’s machine learning library&lt;/li&gt;
+&lt;li&gt;Understand data processing using Koalas in Spark &lt;/li&gt;
+&lt;li&gt;Handle issues around feature engineering, class balance, bias and variance, and cross validation to build optimally fit models&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For&lt;/p&gt;
+&lt;p&gt;Data science and machine learning professionals.&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Master the new features in PySpark 3.1 to develop data-driven, intelligent applications. This updated edition covers topics ranging from building scalable machine learning models, to natural language processing, to recommender systems.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Machine Learning with PySpark, Second Edition&lt;/em&gt; begins with the fundamentals of Apache Spark, including the latest updates to the framework. Next, you will learn the full spectrum of traditional machine learning algorithm implementations, along with natural language processing and recommender systems. You’ll gain familiarity with the critical process of selecting machine learning algorithms, data ingestion, and data processing to solve business problems. You’ll see a demonstration of how to build supervised machine learning models such as linear regression, logistic regression, decision trees, and random forests. You’ll also learn how to automate the steps using Spark pipelines, followed by unsupervised models such as K-means and hierarchical clustering. A section on Natural Language Processing (NLP) covers text processing, text mining, and embeddings for classification. This new edition also introduces Koalas in Spark and how to automate data workflow using Airflow and PySpark’s latest ML library.&lt;/p&gt;
+&lt;p&gt;After completing this book, you will understand how to use PySpark’s machine learning library to build and train various machine learning models, along with related components such as data ingestion, processing and visualization to develop data-driven intelligent applications&lt;/p&gt;
+&lt;p&gt;You will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build a spectrum of supervised and unsupervised machine learning algorithms&lt;/li&gt;
+&lt;li&gt;Use PySpark's machine learning library to implement machine learning and recommender systems &lt;/li&gt;
+&lt;li&gt;Leverage the new features in PySpark’s machine learning library&lt;/li&gt;
+&lt;li&gt;Understand data processing using Koalas in Spark&lt;/li&gt;
+&lt;li&gt;Handle issues around feature engineering, class balance, bias and variance, and cross validation to build optimally fit models&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Pramod Singh works at Bain &amp;amp; Company in the Advanced Analytics Group. He has extensive hands-on experience in large scale machine learning, deep learning, data engineering, designing algorithms and application development. He has spent more than 13 years working in the field of Data and AI at different organizations. He’s published four books – &lt;em&gt;Deploy Machine Learning Models to Production, Machine Learning with PySpark, Learn PySpark&lt;/em&gt; and &lt;em&gt;Learn TensorFlow 2.0&lt;/em&gt; , all for Apress. He is also a regular speaker at major conferences such as O’Reilly’s Strata and AI conferences. Pramod holds a BTech in electrical engineering from B.A.T.U, and an MBA from Symbiosis University. He has also earned a Data Science certification from IIM–Calcutta. He lives in Gurgaon with his wife and 5-year-old son. In his spare time, he enjoys playing guitar, coding, reading, and watching football.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484241301</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09NBJK5RB</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">41645103</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">R3B_DwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Industries</dc:subject>
+        <dc:subject>Computers &amp; Information Technology</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <dc:subject>Business Mathematics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pramod Singh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-02-28T15:57:11.187657+00:00"/>
+        <meta name="calibre:title_sort" content="Machine Learning With PySpark: With Natural Language Processing and Recommender Systems"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

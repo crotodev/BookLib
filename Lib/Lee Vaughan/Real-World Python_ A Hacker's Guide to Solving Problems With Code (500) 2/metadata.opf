@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">500</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1058629f-1234-421e-9580-0e95c7282acf</dc:identifier>
+        <dc:title>Real-World Python: A Hacker's Guide to Solving Problems With Code</dc:title>
+        <dc:creator opf:file-as="Vaughan, Lee" opf:role="aut">Lee Vaughan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-05T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;A project-based approach to learning Python programming for beginners. Intriguing projects teach you how to tackle challenging problems with code. &lt;/p&gt;
+&lt;p&gt;You've mastered the basics. Now you're ready to explore some of Python's more powerful tools. &lt;em&gt;Real-World Python&lt;/em&gt; will show you how. &lt;/p&gt;
+&lt;p&gt;Through a series of hands-on projects, you'll investigate and solve real-world problems using sophisticated computer vision, machine learning, data analysis, and language processing tools. You'll be introduced to important modules like OpenCV, NumPy, Pandas, NLTK, Bokeh, Beautiful Soup, Requests, HoloViews, Tkinter, turtle, matplotlib, and more. You'll create complete, working programs and think through intriguing projects that show you how to: &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;•&lt;/strong&gt; Save shipwrecked sailors with an algorithm designed to prove the existence of God&lt;br&gt;&lt;strong&gt;•&lt;/strong&gt; Detect asteroids and comets moving against a starfield&lt;br&gt;&lt;strong&gt;•&lt;/strong&gt; Program a sentry gun to shoot your enemies and spare your friends&lt;br&gt;&lt;strong&gt;•&lt;/strong&gt; Select landing sites for a Mars probe using real NASA maps&lt;br&gt;&lt;strong&gt;•&lt;/strong&gt; Send unbreakable messages based on a book code&lt;br&gt;&lt;strong&gt;•&lt;/strong&gt; Survive a zombie outbreak using data science&lt;br&gt;&lt;strong&gt;•&lt;/strong&gt; Discover exoplanets and alien megastructures orbiting distant stars&lt;br&gt;&lt;strong&gt;•&lt;/strong&gt; Test the hypothesis that we're all living in a computer simulation&lt;br&gt;&lt;strong&gt;•&lt;/strong&gt; And more! &lt;/p&gt;
+&lt;p&gt;If you're tired of learning the bare essentials of Python Programming with isolated snippets of code, you'll relish the relevant and geeky fun of Real-World Python!&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0852P29NJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">53963845</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781718500624</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Reference</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lee Vaughan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-21T16:22:54+00:00"/>
+        <meta name="calibre:title_sort" content="Real-World Python: A Hacker's Guide to Solving Problems With Code"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

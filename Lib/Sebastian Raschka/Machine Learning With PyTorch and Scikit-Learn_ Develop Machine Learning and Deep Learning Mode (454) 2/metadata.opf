@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">454</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1b503ff-df5a-471b-bba7-cc5169cfc42a</dc:identifier>
+        <dc:title>Machine Learning With PyTorch and Scikit-Learn: Develop Machine Learning and Deep Learning Models With Python</dc:title>
+        <dc:creator opf:file-as="Raschka, Sebastian &amp; Liu, Yuxi &amp; Mirjalili, Vahid &amp; Dzhulgakov, Dmytro" opf:role="aut">Sebastian Raschka</dc:creator>
+        <dc:creator opf:file-as="Raschka, Sebastian &amp; Liu, Yuxi &amp; Mirjalili, Vahid &amp; Dzhulgakov, Dmytro" opf:role="aut">Yuxi (hayden) Liu</dc:creator>
+        <dc:creator opf:file-as="Raschka, Sebastian &amp; Liu, Yuxi &amp; Mirjalili, Vahid &amp; Dzhulgakov, Dmytro" opf:role="aut">Vahid Mirjalili</dc:creator>
+        <dc:creator opf:file-as="Raschka, Sebastian &amp; Liu, Yuxi &amp; Mirjalili, Vahid &amp; Dzhulgakov, Dmytro" opf:role="aut">Dmytro Dzhulgakov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-25T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This book of the bestselling and widely acclaimed Python Machine Learning series is a comprehensive guide to machine and deep learning using PyTorch's simple to code framework. &lt;/p&gt;
+&lt;p&gt;Purchase of the print or Kindle book includes a free eBook in PDF format. &lt;/p&gt;
+&lt;p&gt;Key FeaturesLearn applied machine learning with a solid foundation in theoryClear, intuitive explanations take you deep into the theory and practice of Python machine learningFully updated and expanded to cover PyTorch, transformers, XGBoost, graph neural networks, and best practicesBook DescriptionMachine Learning with PyTorch and Scikit-Learn is a comprehensive guide to machine learning and deep learning with PyTorch. It acts as both a step-by-step tutorial and a reference you'll keep coming back to as you build your machine learning systems. &lt;/p&gt;
+&lt;p&gt;Packed with clear explanations, visualizations, and examples, the book covers all the essential machine learning techniques in depth. While some books teach you only to follow instructions, with this machine learning book, we teach the principles allowing you to build models and applications for yourself. &lt;/p&gt;
+&lt;p&gt;Why PyTorch?PyTorch is the Pythonic way to learn machine learning, making it easier to learn and simpler to code with. This book explains the essential parts of PyTorch and how to create models using popular libraries, such as PyTorch Lightning and PyTorch Geometric. &lt;/p&gt;
+&lt;p&gt;You will also learn about generative adversarial networks (GANs) for generating new data and training intelligent agents with reinforcement learning. Finally, this new edition is expanded to cover the latest trends in deep learning, including graph neural networks and large-scale transformers used for natural language processing (NLP). &lt;/p&gt;
+&lt;p&gt;This PyTorch book is your companion to machine learning with Python, whether you're a Python developer new to machine learning or want to deepen your knowledge of the latest developments. &lt;/p&gt;
+&lt;p&gt;What you will learnExplore frameworks, models, and techniques for machines to 'learn' from dataUse scikit-learn for machine learning and PyTorch for deep learningTrain machine learning classifiers on images, text, and moreBuild and train neural networks, transformers, and boosting algorithmsDiscover best practices for evaluating and tuning modelsPredict continuous target outcomes using regression analysisDig deeper into textual and social media data using sentiment analysisWho this book is forIf you have a good grasp of Python basics and want to start learning about machine learning and deep learning, then this is the book for you. This is an essential resource written for developers and data scientists who want to create practical machine learning and deep learning applications using scikit-learn and PyTorch. &lt;/p&gt;
+&lt;p&gt;Before you get started with this book, you'll need a good understanding of calculus, as well as linear algebra.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781801816380</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">SVxaEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>COM042000 - COMPUTERS / Natural Language Processing</dc:subject>
+        <dc:subject>COM044000 - COMPUTERS / Neural Networks</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>MAT000000 - MATHEMATICS / General</dc:subject>
+        <dc:subject>Natural Language Processing</dc:subject>
+        <dc:subject>Neural Networks</dc:subject>
+        <dc:subject>Speech &amp; Audio Processing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sebastian Raschka&quot;: &quot;&quot;, &quot;Yuxi (hayden) Liu&quot;: &quot;&quot;, &quot;Vahid Mirjalili&quot;: &quot;&quot;, &quot;Dmytro Dzhulgakov&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-20T17:03:47+00:00"/>
+        <meta name="calibre:title_sort" content="Machine Learning With PyTorch and Scikit-Learn: Develop Machine Learning and Deep Learning Models With Python"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

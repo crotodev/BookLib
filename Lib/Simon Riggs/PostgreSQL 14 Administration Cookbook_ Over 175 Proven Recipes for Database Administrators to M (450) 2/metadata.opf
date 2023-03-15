@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">450</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a710b82-c7ea-4b3a-982b-7dbe113eb592</dc:identifier>
+        <dc:title>PostgreSQL 14 Administration Cookbook: Over 175 Proven Recipes for Database Administrators to Manage Enterprise Databases Effectively</dc:title>
+        <dc:creator opf:file-as="Riggs, Simon &amp; Ciolli, Gianni" opf:role="aut">Simon Riggs</dc:creator>
+        <dc:creator opf:file-as="Riggs, Simon &amp; Ciolli, Gianni" opf:role="aut">Gianni Ciolli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-31T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Administer, monitor, and replicate your PostgreSQL 14 database for efficient database management and maintenanceKey FeaturesTroubleshoot and tackle any administration and management problems in PostgreSQL 14Find expert techniques for monitoring, fine-tuning, and securing your databaseAdopt efficient replication for high availability with PostgreSQL 14Book DescriptionPostgreSQL is a powerful, open-source database management system with an enviable reputation for high performance and stability. With many new features in its arsenal, PostgreSQL 14 allows you to scale up your PostgreSQL infrastructure. With this book, you'll take a step-by-step, recipe-based approach to effective PostgreSQL administration. &lt;/p&gt;
+&lt;p&gt;This book will get you up and running with all the latest features of PostgreSQL 14 while helping you explore the entire database ecosystem. You'll learn how to tackle a variety of problems and pain points you may face as a database administrator such as creating tables, managing views, improving performance, and securing your database. As you make progress, the book will draw attention to important topics such as monitoring roles, validating backups, regular maintenance, and recovery of your PostgreSQL 14 database. This will help you understand roles, ensuring high availability, concurrency, and replication. Along with updated recipes, this book touches upon important areas like using generated columns, TOAST compression, PostgreSQL on the cloud, and much more. &lt;/p&gt;
+&lt;p&gt;By the end of this PostgreSQL book, you'll have gained the knowledge you need to manage your PostgreSQL 14 database efficiently, both in the cloud and on-premise. &lt;/p&gt;
+&lt;p&gt;What you will learnPlan, manage, and maintain PostgreSQL databases in productionWork with the newly introduced features of PostgreSQL 14Use pgAdmin or OmniDB to perform database administrator (DBA) tasksUse psql to write accurate and repeatable scriptsUnderstand how to tackle real-world data issues with the help of examplesSelect and implement robust backup and recovery techniques in PostgreSQL 14Deploy best practices for planning and designing live databasesWho this book is forThis Postgres 14 book is for database administrators, data architects, database developers, and anyone with an interest in planning and running live production databases using PostgreSQL 14. Those looking for hands-on solutions to any problem associated with PostgreSQL 14 administration will also find this book useful. Some experience with handling PostgreSQL databases will help you to make the most out of this book, however, it is a useful resource even if you are just beginning your Postgres journey.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">TJxhEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781803240787</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <dc:subject>Databases</dc:subject>
+        <dc:subject>DBA</dc:subject>
+        <dc:subject>Administration</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Postgres</dc:subject>
+        <dc:subject>Postgres Database Admin</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Simon Riggs&quot;: &quot;&quot;, &quot;Gianni Ciolli&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-19T16:50:56+00:00"/>
+        <meta name="calibre:title_sort" content="PostgreSQL 14 Administration Cookbook: Over 175 Proven Recipes for Database Administrators to Manage Enterprise Databases Effectively"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

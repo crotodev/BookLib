@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">499</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0028159f-12fd-4be0-8ba5-3b12563859c3</dc:identifier>
+        <dc:title>Python Pocket Reference: Python in Your Pocket</dc:title>
+        <dc:creator opf:file-as="Lutz, Mark" opf:role="aut">Mark Lutz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-22T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Updated for both Python 3.4 and 2.7, this convenient pocket guide is the perfect on-the-job quick reference. Youâ??ll find concise, need-to-know information on Python types and statements, special method names, built-in functions and exceptions, commonly used standard library modules, and other prominent Python tools. The handy index lets you pinpoint exactly what you need. &lt;/p&gt;
+&lt;p&gt;Written by Mark Lutzâ??widely recognized as the worldâ??s leading Python trainerâ??Python Pocket Reference is an ideal companion to Oâ??Reillyâ??s classic Python tutorials, Learning Python and Programming Python, also written by Mark. &lt;/p&gt;
+&lt;p&gt;This fifth edition covers: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Built-in object types, including numbers, lists, dictionaries, and more &lt;/li&gt;
+&lt;li&gt;Statements and syntax for creating and processing objects &lt;/li&gt;
+&lt;li&gt;Functions and modules for structuring and reusing code &lt;/li&gt;
+&lt;li&gt;Pythonâ??s object-oriented programming tools &lt;/li&gt;
+&lt;li&gt;Built-in functions, exceptions, and attributes &lt;/li&gt;
+&lt;li&gt;Special operator overloading methods &lt;/li&gt;
+&lt;li&gt;Widely used standard library modules and extensions &lt;/li&gt;
+&lt;li&gt;Command-line options and development tools &lt;/li&gt;
+&lt;li&gt;Python idioms and hints &lt;/li&gt;
+&lt;li&gt;The Python SQL Database API &lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1449357016</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781449357016</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">5fujAgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Object Oriented</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>www.it-ebooks.info</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mark Lutz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-21T16:21:15+00:00"/>
+        <meta name="calibre:title_sort" content="Python Pocket Reference: Python in Your Pocket"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

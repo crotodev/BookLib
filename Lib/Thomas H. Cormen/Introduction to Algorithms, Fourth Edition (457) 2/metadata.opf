@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">457</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78836d8f-fcb2-4fab-bc1a-2dae96b62889</dc:identifier>
+        <dc:title>Introduction to Algorithms, Fourth Edition</dc:title>
+        <dc:creator opf:file-as="Cormen, Thomas H. &amp; Leiserson, Charles E. &amp; Rivest, Ronald L. &amp; Stein, Clifford" opf:role="aut">Thomas H. Cormen</dc:creator>
+        <dc:creator opf:file-as="Cormen, Thomas H. &amp; Leiserson, Charles E. &amp; Rivest, Ronald L. &amp; Stein, Clifford" opf:role="aut">Charles E. Leiserson</dc:creator>
+        <dc:creator opf:file-as="Cormen, Thomas H. &amp; Leiserson, Charles E. &amp; Rivest, Ronald L. &amp; Stein, Clifford" opf:role="aut">Ronald L. Rivest</dc:creator>
+        <dc:creator opf:file-as="Cormen, Thomas H. &amp; Leiserson, Charles E. &amp; Rivest, Ronald L. &amp; Stein, Clifford" opf:role="aut">Clifford Stein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-05T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A comprehensive update of the leading algorithms text, with new material on matchings in bipartite graphs, online algorithms, machine learning, and other topics. &lt;/p&gt;
+&lt;p&gt;Some books on algorithms are rigorous but incomplete; others cover masses of material but lack rigor. Introduction to Algorithms uniquely combines rigor and comprehensiveness. It covers a broad range of algorithms in depth, yet makes their design and analysis accessible to all levels of readers, with self-contained chapters and algorithms in pseudocode. Since the publication of the first edition, Introduction to Algorithms has become the leading algorithms text in universities worldwide as well as the standard reference for professionals. This fourth edition has been updated throughout. &lt;/p&gt;
+&lt;p&gt;New for the fourth edition New chapters on matchings in bipartite graphs, online algorithms, and machine learningNew material on topics including solving recurrence equations, hash tables, potential functions, and suffix arrays140 new exercises and 22 new problemsReader feedback–informed improvements to old problems, clearer, more personal, and gender-neutral writing style Color added to improve visual presentation notes, bibliography, and index updated to reflect developments in the field website with new supplementary material warning: Avoid counterfeit copies of Introduction to Algorithms by buying only from reputable retailers. Counterfeit and pirated copies are incomplete and contain errors.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>MIT Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">drZNEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780262046305</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas H. Cormen&quot;: &quot;&quot;, &quot;Charles E. Leiserson&quot;: &quot;&quot;, &quot;Ronald L. Rivest&quot;: &quot;&quot;, &quot;Clifford Stein&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-20T17:25:37+00:00"/>
+        <meta name="calibre:title_sort" content="Introduction to Algorithms, Fourth Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

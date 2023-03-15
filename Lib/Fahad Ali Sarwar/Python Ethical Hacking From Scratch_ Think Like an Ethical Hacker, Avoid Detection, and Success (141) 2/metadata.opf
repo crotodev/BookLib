@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec04becf-54a0-4c0a-a0d0-2e76c617940d</dc:identifier>
+        <dc:title>Python Ethical Hacking From Scratch: Think Like an Ethical Hacker, Avoid Detection, and Successfully Develop, Deploy, Detect, and Avoid Malware</dc:title>
+        <dc:creator opf:file-as="Sarwar, Fahad Ali" opf:role="aut">Fahad Ali Sarwar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-25T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Explore the world of practical ethical hacking by developing custom network scanning and remote access tools that will help you test the system security of your organizationKey Features: Get hands-on with ethical hacking and learn to think like a real-life hackerBuild practical ethical hacking tools from scratch with the help of real-world examplesLeverage Python 3 to develop malware and modify its complexitiesBook Description: Penetration testing enables you to evaluate the security or strength of a computer system, network, or web application that an attacker can exploit. With this book, you'll understand why Python is one of the fastest-growing programming languages for penetration testing. You'll find out how to harness the power of Python and pentesting to enhance your system security. &lt;/p&gt;
+&lt;p&gt;Developers working with Python will be able to put their knowledge and experience to work with this practical guide. Complete with step-by-step explanations of essential concepts and practical examples, this book takes a hands-on approach to help you build your own pentesting tools for testing the security level of systems and networks. You'll learn how to develop your own ethical hacking tools using Python and explore hacking techniques to exploit vulnerabilities in networks and systems. Finally, you'll be able to get remote access to target systems and networks using the tools you develop and modify as per your own requirements. &lt;/p&gt;
+&lt;p&gt;By the end of this ethical hacking book, you'll have developed the skills needed for building cybersecurity tools and learned how to secure your systems by thinking like a hacker. &lt;/p&gt;
+&lt;p&gt;What You Will Learn: Understand the core concepts of ethical hackingDevelop custom hacking tools from scratch to be used for ethical hacking purposesDiscover ways to test the cybersecurity of an organization by bypassing protection schemesDevelop attack vectors used in real cybersecurity testsTest the system security of an organization or subject by identifying and exploiting its weaknessesGain and maintain remote access to target systemsFind ways to stay undetected on target systems and local networksWho this book is for: If you want to learn ethical hacking by developing your own tools instead of just using the prebuilt tools, this book is for you. A solid understanding of fundamental Python concepts is expected. Some complex Python concepts are explained in the book, but the goal is to teach ethical hacking, not Python.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">Js54zgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781838829506</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ethical Hacking</dc:subject>
+        <dc:subject>From Scratch</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fahad Ali Sarwar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-30T06:02:03+00:00"/>
+        <meta name="calibre:title_sort" content="Python Ethical Hacking From Scratch: Think Like an Ethical Hacker, Avoid Detection, and Successfully Develop, Deploy, Detect, and Avoid Malware"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
