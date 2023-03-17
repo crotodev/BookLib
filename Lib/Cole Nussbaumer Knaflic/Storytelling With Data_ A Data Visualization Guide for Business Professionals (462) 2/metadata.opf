@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">462</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e86af65-9d81-4f1c-89ab-15e2003e1ace</dc:identifier>
+        <dc:title>Storytelling With Data: A Data Visualization Guide for Business Professionals</dc:title>
+        <dc:creator opf:file-as="Knaflic, Cole Nussbaumer" opf:role="aut">Cole Nussbaumer Knaflic</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-07T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Don't simply show your data&lt;/strong&gt; &lt;strong&gt;—&lt;/strong&gt; &lt;strong&gt;tell a story with it!&lt;/strong&gt; &lt;em&gt;Storytelling with Data&lt;/em&gt; teaches you the fundamentals of data visualization and how to communicate effectively with data. You'll discover the power of storytelling and the way to make data a pivotal point in your story. The lessons in this illuminative text are grounded in theory, but made accessible through numerous real-world examples &lt;strong&gt;—&lt;/strong&gt; ready for immediate application to your next graph or presentation. &lt;br&gt;Storytelling is not an inherent skill, especially when it comes to data visualization, and the tools at our disposal don't make it any easier. This book demonstrates how to go beyond conventional tools to reach the root of your data, and how to use your data to create an engaging, informative, compelling story. Specifically, you'll learn how to: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Understand the importance of context and audience&lt;/li&gt;
+&lt;li&gt;Determine the appropriate type of graph for your situation&lt;/li&gt;
+&lt;li&gt;Recognize and eliminate the clutter clouding your information&lt;/li&gt;
+&lt;li&gt;Direct your audience's attention to the most important parts of your data&lt;/li&gt;
+&lt;li&gt;Think like a designer and utilize concepts of design in data visualization&lt;/li&gt;
+&lt;li&gt;Leverage the power of storytelling to help your message resonate with your audience &lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Together, the lessons in this book will help you turn your data into high impact visual stories that stick with your audience. Rid your world of ineffective graphs, one exploding 3D pie chart at a time. There is a story in your data &lt;strong&gt;—&lt;/strong&gt; &lt;em&gt;Storytelling with Data&lt;/em&gt; will give you the skills and power to tell it.&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"In &lt;em&gt;Storytelling with Data&lt;/em&gt; , Cole has created &lt;strong&gt;an of-the-moment complement to the work of data visualization pioneers like Edward Tufte&lt;/strong&gt;. She's worked at and with some of the most data-driven organizations on the planet as well as some of the most mission-driven, data-free institutions. In both cases, she's helped sharpen their messages, and their thinking." &lt;br&gt;&lt;strong&gt;—Laszlo Bock,&lt;/strong&gt; SVP of People Operations, Google, Inc. and author of &lt;em&gt;Work Rules!&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;From the Inside Flap&lt;/h3&gt;
+&lt;p&gt;praise for &lt;strong&gt;storytelling with data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"Storytelling with Data &lt;strong&gt;is a superbly written, masterful display of rare art in the business world.&lt;/strong&gt; Cole Nussbaumer Knaflic possesses a unique ability—a gift—in telling a story through data. At JPMorgan Chase, she has helped improve our capabilities to explain complicated analysis to executive management and the regulators with whom we work. &lt;strong&gt;Cole's book brings her talents together in an easy-to-read guide with excellent examples that anyone can learn from to encourage smarter decision-making.&lt;/strong&gt; "&lt;br&gt;&lt;strong&gt;—Mark R. Hillis,&lt;/strong&gt; Chief Risk Officer of Mortgage Banking at JPM Chase &lt;/p&gt;
+&lt;p&gt;"We have so much data that it can be hard to get people to pay attention to our critical findings. Cole Nussbaumer Knaflic taught us valuable lessons in her workshop and it is fantastic to see these expanded upon in &lt;em&gt;Storytelling with Data&lt;/em&gt;. &lt;strong&gt;My team is already using the lessons Cole teaches to move people to action as they see new pearls of understanding and make a difference in the lives of others. Now others can, too!&lt;/strong&gt; "&lt;br&gt;&lt;strong&gt;—Eleanor Bell,&lt;/strong&gt; Director of Business Analytics at Bill &amp;amp; Melinda Gates Foundation &lt;/p&gt;
+&lt;p&gt;"There is something lovely about being consistent with your own teachings. Cole Nussbaumer Knaflic accomplishes that with her first book. She is an advocate for clarity and concision in visualization, and her book is as clear, concise, and practical as it gets. &lt;strong&gt;If you are a beginner in visualization, or if you struggle to produce good charts in your everyday job with tools like Excel, Tableau, Qlik, and the like, this is a great place to start learning the core principles&lt;/strong&gt;."&lt;br&gt;&lt;strong&gt;—Alberto Cairo,&lt;/strong&gt; Knight Chair in Visual Journalism and Professor of Visualization at the University of Miami, and author of &lt;em&gt;The Functional Art&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Data slides are not really about the data, they are about the meaning of the data. Cole Nussbaumer Knaflic understands this and has written &lt;strong&gt;a straightforward, accessible guide that will help anyone who communicates with data connect more effectively with their audience.&lt;/strong&gt; "&lt;br&gt;&lt;strong&gt;—Nancy Duarte,&lt;/strong&gt; CEO at Duarte, Inc. and bestselling author&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;praise for &lt;strong&gt;storytelling with data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"Storytelling with Data &lt;strong&gt;is a superbly written, masterful display of rare art in the business world.&lt;/strong&gt; Cole Nussbaumer Knaflic possesses a unique ability—a gift—in telling a story through data. At JPMorgan Chase, she has helped improve our capabilities to explain complicated analysis to executive management and the regulators with whom we work. &lt;strong&gt;Cole's book brings her talents together in an easy-to-read guide with excellent examples that anyone can learn from to encourage smarter decision-making.&lt;/strong&gt; "&lt;br&gt;&lt;strong&gt;—Mark R. Hillis,&lt;/strong&gt; Chief Risk Officer of Mortgage Banking at JPM Chase &lt;/p&gt;
+&lt;p&gt;"We have so much data that it can be hard to get people to pay attention to our critical findings. Cole Nussbaumer Knaflic taught us valuable lessons in her workshop and it is fantastic to see these expanded upon in &lt;em&gt;Storytelling with Data&lt;/em&gt;. &lt;strong&gt;My team is already using the lessons Cole teaches to move people to action as they see new pearls of understanding and make a difference in the lives of others. Now others can, too!&lt;/strong&gt; "&lt;br&gt;&lt;strong&gt;—Eleanor Bell,&lt;/strong&gt; Director of Business Analytics at Bill &amp;amp; Melinda Gates Foundation &lt;/p&gt;
+&lt;p&gt;"There is something lovely about being consistent with your own teachings. Cole Nussbaumer Knaflic accomplishes that with her first book. She is an advocate for clarity and concision in visualization, and her book is as clear, concise, and practical as it gets. &lt;strong&gt;If you are a beginner in visualization, or if you struggle to produce good charts in your everyday job with tools like Excel, Tableau, Qlik, and the like, this is a great place to start learning the core principles&lt;/strong&gt;."&lt;br&gt;&lt;strong&gt;—Alberto Cairo,&lt;/strong&gt; Knight Chair in Visual Journalism and Professor of Visualization at the University of Miami, and author of &lt;em&gt;The Functional Art&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Data slides are not really about the data, they are about the meaning of the data. Cole Nussbaumer Knaflic understands this and has written &lt;strong&gt;a straightforward, accessible guide that will help anyone who communicates with data connect more effectively with their audience.&lt;/strong&gt; "&lt;br&gt;&lt;strong&gt;—Nancy Duarte,&lt;/strong&gt; CEO at Duarte, Inc. and bestselling author&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Cole Nussbaumer Knaflic tells stories with data. She is founder and CEO of &lt;em&gt;storytelling with data&lt;/em&gt; (SWD) and author of the best-selling book, &lt;em&gt;storytelling with data: a data visualization guide for business professionals&lt;/em&gt; , which has been translated into a dozen languages, is used as a textbook by more than 100 universities and serves as the course book for tens of thousands of SWD workshop participants. &lt;br&gt;For nearly a decade, Cole and team have delivered interactive learning sessions highly sought after by data-minded individuals, companies, and philanthropic organizations all over the world. They also help people create graphs that make sense and weave them into a compelling story through the popular SWD blog, podcast, monthly challenge, and live stream events and other resources. Learn more at storytellingwithdata.com.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119002260</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">IheRCgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">26535513</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1119002257</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cole Nussbaumer Knaflic&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-20T17:48:31+00:00"/>
+        <meta name="calibre:title_sort" content="Storytelling With Data: A Data Visualization Guide for Business Professionals"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">437</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3b9b646-750e-4b19-bbb9-f3a42556c22e</dc:identifier>
+        <dc:title>Introductory Econometrics for Finance</dc:title>
+        <dc:creator opf:file-as="Brooks, Chris" opf:role="aut">Chris Brooks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-28T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;A complete resource for finance students, this textbook presents the most common empirical approaches in finance in a comprehensive and well-illustrated manner that shows how econometrics is used in practice, and includes detailed case studies to explain how the techniques are used in relevant financial contexts. Maintaining the accessible prose and clear examples of previous editions, the new edition of this best-selling textbook provides support for the main industry-standard software packages, expands the coverage of introductory mathematical and statistical techniques into two chapters for students without prior econometrics knowledge, and includes a new chapter on advanced methods. Learning outcomes, key concepts and end-of-chapter review questions (with full solutions online) highlight the main chapter takeaways and allow students to self-assess their understanding. Online resources include extensive teacher and student support materials, including EViews, Stata, R, and Python software guides.&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;'Introductory Econometrics for Finance covers a variety of financial applications and illustrates how econometrics methods can be used for each topic. Researchers and practitioners in finance will find this book invaluable. The new fourth edition is expanded with important topics of state space models and extreme value theory. Moreover, a free companion website with various software programs is essential for performing actual empirical analysis. I constantly recommend this text to Masters and undergraduate finance students.' Elena Goldman, Pace University, New York &lt;/p&gt;
+&lt;p&gt;'This is a good book introducing the general field of financial econometrics to students, assuming they have no prior knowledge of econometrics. Undergraduate, as well as beginning graduate, students should find the wide range of topics covered useful for not only getting a good toehold into the literature, but also to be able to apply the methods to data right away.' Prasad V. Bidarkota, Florida International University &lt;/p&gt;
+&lt;p&gt;'Professor Brooks’ book provides extraordinarily comprehensive treatment of econometric techniques with application to Finance. The unique feature of this book is the presentation of rich real-world case study examples. This is an ideal text book for MS in Finance, MBA with concentration in Finance and Seniors majoring in Finance. It is also an ideal text book for financial professional training and self-study.' George H. K. Wang, George Mason University, Virginia &lt;/p&gt;
+&lt;p&gt;'Chris Brooks' book is a rather unique offering in the space of financial econometrics because it is specifically targeted to finance students who do not necessarily have prior knowledge of econometric techniques. It's a first yet comprehensive resource to enable students to familiarize with concepts and tackle a broad range of empirical applications.' Walter Distaso, Imperial College London &lt;/p&gt;
+&lt;p&gt;'This new edition of Introductory Econometrics for Finance manages to give even further strength to its exhaustive, fine blend of contents and delivery, of methods and of interesting, relevant applications. This classical but always lively written textbook manages to make modern econometric approaches accessible to a wide audience of senior undergraduates and of graduate students first approaching econometrics, and at the same time leads a more experienced reader to ponder the power of statistics through a number of detailed case studies. The additional, advanced material on the Kalman filter and extreme value theory makes this textbook an invaluable classroom tool for a first approach to financial econometrics.' Massimo Guidolin, Università Commerciale Luigi Bocconi, Milan &lt;/p&gt;
+&lt;p&gt;'This is one of the most readable books on financial econometrics. It will be very useful for students of finance and economics. It covers a wide variety of topics that are of interest to researchers and practitioners, in both academia and industry.' Yong Bao, Purdue University, Indiana&lt;/p&gt;
+&lt;h3&gt;Book Description&lt;/h3&gt;
+&lt;p&gt;Offers econometrics for finance students with no prior knowledge of the field. Includes case studies, examples and extensive online support.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Chris Brooks is Professor of Finance and Director of Research at the ICMA Centre, Henley Business School, University of Reading, where he also obtained his Ph.D. He has diverse research interests and has published over a hundred articles in leading academic and practitioner journals, and six books. He is Associate Editor of several journals, including the Journal of Business Finance and Accounting, the International Journal of Forecasting and the British Accounting Review. He acts as consultant and advisor for various banks, corporations and professional bodies in the fields of finance, real estate, and econometrics.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07NZ7WZ9H</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1108422535</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">3lqHDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781108422536</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Econometrics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Statistics</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Chris Brooks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-19T04:09:30+00:00"/>
+        <meta name="calibre:title_sort" content="Introductory Econometrics for Finance"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

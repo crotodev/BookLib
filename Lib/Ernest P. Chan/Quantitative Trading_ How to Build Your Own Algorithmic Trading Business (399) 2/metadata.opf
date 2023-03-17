@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">399</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56726800-733b-42a8-ba5e-c585dccfa042</dc:identifier>
+        <dc:title>Quantitative Trading: How to Build Your Own Algorithmic Trading Business</dc:title>
+        <dc:creator opf:file-as="Chan, Ernest P." opf:role="aut">Ernest P. Chan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-27T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Master the lucrative discipline of quantitative trading with this insightful handbook from a master in the field&lt;/p&gt;
+&lt;p&gt;In the newly revised Second Edition of &lt;em&gt;Quantitative Trading: How to Build Your Own Algorithmic Trading Business&lt;/em&gt; , quant trading expert Dr. Ernest P. Chan shows you how to apply both time-tested and novel quantitative trading strategies to develop or improve your own trading firm.&lt;/p&gt;
+&lt;p&gt;You'll discover new case studies and updated information on the application of cutting-edge machine learning investment techniques, as well as:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated back tests on a variety of trading strategies, with included Python and R code examples&lt;/li&gt;
+&lt;li&gt;A new technique on optimizing parameters with changing market regimes using machine learning.&lt;/li&gt;
+&lt;li&gt;A guide to selecting the best traders and advisors to manage your money&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Perfect for independent retail traders seeking to start their own quantitative trading business, or investors looking to invest in such traders, this new edition of &lt;em&gt;Quantitative Trading&lt;/em&gt; will also earn a place in the libraries of individual investors interested in exploring a career at a major financial institution.&lt;/p&gt;
+&lt;h3&gt;From the Inside Flap&lt;/h3&gt;
+&lt;p&gt;Algorithmic trading, also known as statistical or quantitative trading, is widely used by pension funds and other institutional investors to maximize returns and minimize risks. But it has traditionally been out of reach for independent, do-it-yourself investors. &lt;/p&gt;
+&lt;p&gt;In the newly revised &lt;em&gt;Second Edition&lt;/em&gt; of &lt;em&gt;Quantitative Trading: How to Build Your Own Algorithmic Trading Business&lt;/em&gt; , statistical trading expert Dr. Ernest P. Chan delivers a step-by-step guide to getting started with quantitative trading. Ideal for independent traders who hope to challenge powerful industry professionals at their own game, or a person who aspires to work as a quantitative trader at a major financial institution, the book walks you through the ins and outs of statistical trading. &lt;/p&gt;
+&lt;p&gt;The author offers an interactive guide showing readers how to develop their own spreadsheet tools in Excel, Matlab, Python, R, and tutorials on how to develop their own homegrown proprietary trading operations. He also provides downloadable spreadsheets that supplement the material contained in the book. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Quantitative Trading&lt;/em&gt; contains updated tests on trading strategies, adding Python and R codes, and a new parameter optimization method using machine learning. &lt;/p&gt;
+&lt;p&gt;Perfect for current and aspiring quantitative investors and traders, this new edition of &lt;em&gt;Quantitative Trading&lt;/em&gt; will also earn a place in the libraries of institutional and individual investors who seek an authoritative and practical source of information on one of the most popular trading strategies in the world today.&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;PRAISE FOR&lt;/p&gt;
+&lt;p&gt;Quantitative &lt;strong&gt;Trading 2ND EDITION&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“Ernie’s timely update to his classic&lt;/strong&gt; Quantitative Trading &lt;strong&gt;is extraordinary in that, despite the modernization of the content, all the fundamentals remain unchanged and have clearly stood the test of time since the first edition. If you want to be a competitive swimmer, you need to learn the fundamentals of swimming first. Trading is no different; Ernie makes the fundamentals as simple as possible, but no simpler (as Einstein would say) and strikes the perfect balance between intuition and technical depth. Those specifically interested in trading, and anyone generally interested in understanding how modern financial markets work, will benefit from reading the&lt;/strong&gt; Second Edition of Quantitative Trading &lt;strong&gt;."&lt;br&gt;―CRAIG BETTS,&lt;/strong&gt; &lt;strong&gt;mathematician and Founder, Solace&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;“As technology has evolved, so has the ease in developing trading strategies. Ernest Chan does all traders, current and prospective, a real service by succinctly outlining the tremendous benefits, but also some of the pitfalls, in utilizing many of the recently implemented quantitative trading techniques."&lt;br&gt;―PETER BORISH, Chairman and CEO, Computer Trading Corporation; Founding Partner, Tudor Investment Corporation&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;“Out of the many books and articles on quantitative trading that I've read over the years, very few have been of much use at all. In most instances, the authors have no real knowledge of the subject matter or do have something important to say but are unwilling to do so because of fears of having trade secrets stolen. Ernie subscribes to a different credo: Share meaningful information and have meaningful interactions with the quantitative community at large. Ernie successfully distills a large amount of detailed and difficult subject matter down to a very clear and comprehensive resource for novice and pro alike."&lt;br&gt;―STEVE HALPERN, Founder, HCC Capital, LLC&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;“Often the hardest part of getting started is simply knowing what questions to ask. This holds especially true for fields like quantitative trading, which are shrouded in mystery and protected by impenetrable jargon. Readers of this book will not only learn the foundations of research and strategy development, but also gain pragmatic insight into the operational sides of the business. Ernie has written the ideal guide for those looking to go from zero-to-one in their quantitative trading journey."&lt;br&gt;―COREY HOFFSTEIN, Co-founder and CIO, Newfound Research&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;ERNEST P. CHAN, P&lt;/strong&gt; H &lt;strong&gt;D,&lt;/strong&gt; is an expert in the application of statistical models and software for trading currencies, futures, and stocks. He holds a doctorate in theoretical physics from Cornell University and is Managing Member of investment management firm QTS Capital Management and founder of financial machine learning firm Predictnow.ai.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119800064</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">j70yEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1119800064</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest P. Chan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-18T05:10:32+00:00"/>
+        <meta name="calibre:title_sort" content="Quantitative Trading: How to Build Your Own Algorithmic Trading Business"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1339</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65ca213e-0cf2-41a2-804a-1556af0bd3d5</dc:identifier>
+        <dc:title>Enterprise Automation With Python: Automate Excel, Web, Documents, Emails, and Various Workloads With Easy-To-Code Python Scripts</dc:title>
+        <dc:creator opf:file-as="Agrawal, Ambuj" opf:role="aut">Ambuj Agrawal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-28T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;500% improvement in productivity by automating tedious chores&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Key Features &lt;/p&gt;
+&lt;p&gt;● Contains numerous automation projects, including excel sheets, word documents, pdf files, websites, and messenger. &lt;/p&gt;
+&lt;p&gt;● Provides a strong understanding of Automation, its fundamentals, and strategies to implement it across organizations. &lt;/p&gt;
+&lt;p&gt;● Nurtures various techniques to improvise operational efficiency around repetitive business processes.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Description &lt;/p&gt;
+&lt;p&gt;Written by ZappyAI's founder, this book gives real-world examples of how readers can implement automation in their businesses and business-as-usual tasks. Through a series of real-world examples and live demonstrations, this book shows how to automate various tasks using Python scripts. &lt;/p&gt;
+&lt;p&gt;This book gives solutions to everyday automation needs and repetitive tasks at work every day. Readers will be able to discover the most typical business process that can be automated and write simple Python scripts to turn them automated. This book will teach you how to create, read, change, and extract data from Excel documents using Python programming. Readers can extract data from websites, PDF documents, Gmail, Outlook, and WhatsApp chats. Text extraction from photos and scanned documents is also smartly accomplished in this book. &lt;/p&gt;
+&lt;p&gt;The final section will examine techniques for extending your Python scripting skills and constructing complicated end-to-end process automation. Throughout the book, readers will be utterly captivated by how to automate their tedious tasks and enhance their organisations' productivity by 500 percent.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What you will learn &lt;/p&gt;
+&lt;p&gt;● Learn to write automation scripts by learning how to use different Python scripts. &lt;/p&gt;
+&lt;p&gt;● Find out how to look at the business process to automate it. &lt;/p&gt;
+&lt;p&gt;● Create, read, edit, and extract data from spreadsheets, documents, and PDFs. &lt;/p&gt;
+&lt;p&gt;● Control mouse and keyboard activities, as well as automate several desktop apps. &lt;/p&gt;
+&lt;p&gt;● Examine strategies for automating the downloading and extraction of data from the Internet and websites. &lt;/p&gt;
+&lt;p&gt;● Organize the real-time transfer and reading of Gmail, Outlook, and WhatsApp messages.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Who this book is for &lt;/p&gt;
+&lt;p&gt;Software Engineers, Business Analysts, Automation Engineers, QA Engineers, and anyone who wants to simplify and automate their tedious work with simple yet powerful Python scripts. Readers with little or no technical experience can also use the strategies discussed in this book to automate day-to-day tasks.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Table of Contents &lt;/p&gt;
+&lt;p&gt;1.Setting up the automation environment &lt;/p&gt;
+&lt;p&gt;2. Fundamentals of Python &lt;/p&gt;
+&lt;p&gt;3. Automation mindset – Python as a tool for automation &lt;/p&gt;
+&lt;p&gt;4. Automating Excel-based tasks &lt;/p&gt;
+&lt;p&gt;5. Automating Web-based tasks &lt;/p&gt;
+&lt;p&gt;6. Automating File-based tasks &lt;/p&gt;
+&lt;p&gt;7. Automating Email, Messenger Applications and Messages &lt;/p&gt;
+&lt;p&gt;8. GUI - Keyboard and Mouse Automation &lt;/p&gt;
+&lt;p&gt;9. Image based Automations &lt;/p&gt;
+&lt;p&gt;10. Creating Time and Event-based Automations &lt;/p&gt;
+&lt;p&gt;11. Writing Complex Automations&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>BPB Publications</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789355511379</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">935551137X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ambuj Agrawal&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-03-17T20:00:44.166152+00:00"/>
+        <meta name="calibre:title_sort" content="Enterprise Automation With Python: Automate Excel, Web, Documents, Emails, and Various Workloads With Easy-To-Code Python Scripts"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

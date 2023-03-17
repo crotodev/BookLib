@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">484</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08d28e5a-2197-4fc0-b264-ea0af6ee5966</dc:identifier>
+        <dc:title>Machine Learning For Dummies®, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Mueller, John Paul &amp; Massaron, Luca" opf:role="aut">John Paul Mueller</dc:creator>
+        <dc:creator opf:file-as="Mueller, John Paul &amp; Massaron, Luca" opf:role="aut">Luca Massaron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-05T13:49:44+00:00</dc:date>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;John Paul Mueller&quot;: &quot;&quot;, &quot;Luca Massaron&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-21T10:29:57+00:00"/>
+        <meta name="calibre:title_sort" content="Machine Learning For Dummies®, 2nd Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
