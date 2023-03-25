@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>Applied Quantitative Finance: Using Python for Financial Analysis</dc:title>
-    <dc:creator opf:file-as="Garita, Mauricio" opf:role="aut">Mauricio Garita</dc:creator>
-    <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
-    <dc:identifier opf:scheme="uuid" id="uuid_id">b26abc95-4cb4-4607-b3c4-fa45f34e339b</dc:identifier>
-    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
-    <dc:date>2021-09-04T04:00:00+00:00</dc:date>
-    <dc:description>&lt;div&gt;
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b26abc95-4cb4-4607-b3c4-fa45f34e339b</dc:identifier>
+        <dc:title>Applied Quantitative Finance: Using Python for Financial Analysis</dc:title>
+        <dc:creator opf:file-as="Garita, Mauricio" opf:role="aut">Mauricio Garita</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-04T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
 &lt;p&gt;This book provides both conceptual knowledge of quantitative finance and a hands-on approach to using Python. It begins with a description of concepts prior to the application of Python with the purpose of understanding how to compute and interpret results. This book offers practical applications in the field of finance concerning Python, a language that is more and more relevant in the financial arena due to big data. This will lead to a better understanding of finance as it gives a descriptive process for students, academics and practitioners. &lt;/p&gt;
 &lt;h3&gt;From the Back Cover&lt;/h3&gt;
 &lt;p&gt;This book provides conceptual knowledge on quantitative finance and a hands-on experience using Python. It begins with a description of concepts prior to the application of Python with the purpose of understanding how to compute and also the interpretation of the results. The book will satisfy the lack of information concerning Python, a language that is more and more relevant in the financial arena due to big data. This will lead to a better understanding of advance finance as it gives a descriptive process for students, academics and practitioners. &lt;/p&gt;
@@ -15,36 +15,36 @@
 &lt;p&gt;&lt;strong&gt;Mauricio Garita&lt;/strong&gt; is an academic, a writer and an economist that has centered his career in the combination of finance and economics with the use of Python. He obtained his first PhD in Political Science and Sociology from the Universidad Pontificia de Salamanca, Spain with a thesis centered on game theory and economic development. Prior to obtaining his PhD, he completed a Master of Science from Manchester Business School, UK and a secondary Master’s in Asset Management from the Instituto de Estudios Bursátiles de la Universidad Complutense, Spain.&lt;/p&gt;
 &lt;p&gt;As an academic, his research is focused on financial issues, economics and competitiveness in Latin America with a special focus in Central America. He has written books and articles on topics such as business in Latin America, the economic impact of the Civil War in Guatemala, the fiscal impact of reforms in Latin America and the impact of the financial crisis in Central America. As a professor he centers his courses in the areas of economics, project valuation and financial analysis.&lt;/p&gt;
 &lt;p&gt;During his professional career he has worked with organizations such as the World Bank, the Central American Institute of Fiscal Studies, the Secretariat for Central America Economic Integration, Transparency International and on financial consulting. Currently he works at Universidad Francisco Marroquin as a director of the master’s in finance program at the university business school. Before he worked at the finance department at the Universidad del Valle de Guatemala where he assisted in both the creation of the Master’s in Advanced Finance and a collaboration on with the Advanced Risk Portfolio Management (ARPM) program.&lt;/p&gt;&lt;/div&gt;</dc:description>
-    <dc:publisher>Palgrave Pivot</dc:publisher>
-    <dc:identifier opf:scheme="ISBN">9783030291402</dc:identifier>
-    <dc:identifier opf:scheme="AMAZON">3030291405</dc:identifier>
-    <dc:identifier opf:scheme="GOOGLE">YMRbxwEACAAJ</dc:identifier>
-    <dc:language>eng</dc:language>
-    <dc:subject>Accounting</dc:subject>
-    <dc:subject>Applied</dc:subject>
-    <dc:subject>Business &amp; Economics</dc:subject>
-    <dc:subject>Discrete Mathematics</dc:subject>
-    <dc:subject>Economics</dc:subject>
-    <dc:subject>Finance</dc:subject>
-    <dc:subject>Financial Analysis</dc:subject>
-    <dc:subject>General</dc:subject>
-    <dc:subject>Managerial</dc:subject>
-    <dc:subject>Mathematics</dc:subject>
-    <dc:subject>Physics</dc:subject>
-    <dc:subject>Programming</dc:subject>
-    <dc:subject>Python</dc:subject>
-    <dc:subject>Quantitative Finance</dc:subject>
-    <dc:subject>Quantum Theory</dc:subject>
-    <dc:subject>Science</dc:subject>
-    <dc:subject>Theory</dc:subject>
-    <dc:subject>Financial Modeling</dc:subject>
-    <dc:subject>Financial Risk Management</dc:subject>
-    <meta name="calibre:author_link_map" content="{&quot;Mauricio Garita&quot;: &quot;&quot;}"/>
-    <meta name="calibre:timestamp" content="2022-12-14T17:39:47+00:00"/>
-    <meta name="calibre:title_sort" content="Applied Quantitative Finance: Using Python for Financial Analysis"/>
-    <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
-  </metadata>
-  <guide>
-    <reference type="cover" title="Cover" href="cover.jpg"/>
-  </guide>
+        <dc:publisher>Palgrave Pivot</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783030291402</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">3030291405</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">YMRbxwEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Accounting</dc:subject>
+        <dc:subject>Applied</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Discrete Mathematics</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Financial Analysis</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Managerial</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Physics</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Quantitative Finance</dc:subject>
+        <dc:subject>Quantum Theory</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Theory</dc:subject>
+        <dc:subject>Financial Modeling</dc:subject>
+        <dc:subject>Financial Risk Management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mauricio Garita&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-14T17:39:47+00:00"/>
+        <meta name="calibre:title_sort" content="Applied Quantitative Finance: Using Python for Financial Analysis"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
 </package>

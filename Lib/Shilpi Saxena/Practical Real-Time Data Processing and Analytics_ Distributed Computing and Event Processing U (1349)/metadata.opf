@@ -27,7 +27,7 @@
         <dc:subject>Data Analytics</dc:subject>
         <dc:subject>COM018000 - COMPUTERS / Data Processing</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Shilpi Saxena&quot;: &quot;&quot;, &quot;Saurabh Gupta&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-03-22T00:53:17.982395+00:00"/>
+        <meta name="calibre:timestamp" content="2023-03-22T00:53:17+00:00"/>
         <meta name="calibre:title_sort" content="Practical Real-Time Data Processing and Analytics: Distributed Computing and Event Processing Using Apache Spark, Flink, Storm, and Kafka"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

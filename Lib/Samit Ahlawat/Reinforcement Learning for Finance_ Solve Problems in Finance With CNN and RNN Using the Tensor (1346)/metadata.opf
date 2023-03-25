@@ -27,12 +27,12 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;Samit Ahlawat is a Senior Vice President in Quantitative Research, Capital Modeling at J.P. Morgan Chase in New York, US. In his current role, he is responsible for building trading strategies for asset management and for building risk management models. His research interests include artificial intelligence, risk management and algorithmic trading strategies. He has given CQF institute talks on artificial intelligence, has authored several research papers in finance and holds a patent for facial recognition technology. In his spare time, he contributes to open source code.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Apress</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781484288344</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1484288343</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484288344</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Samit Ahlawat&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="2"/>
-        <meta name="calibre:timestamp" content="2023-03-19T19:20:45.002339+00:00"/>
+        <meta name="calibre:timestamp" content="2023-03-19T19:20:45+00:00"/>
         <meta name="calibre:title_sort" content="Reinforcement Learning for Finance: Solve Problems in Finance With CNN and RNN Using the TensorFlow Library"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

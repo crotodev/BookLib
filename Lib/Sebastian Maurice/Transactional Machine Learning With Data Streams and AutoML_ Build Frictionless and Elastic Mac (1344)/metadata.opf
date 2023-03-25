@@ -43,10 +43,10 @@
 &lt;p&gt;Dr. Maurice received his PhD in electrical and computer engineering from the University of Calgary, and has a master’s in electrical engineering, and a master’s in agricultural economics, with bachelors in pure mathematics and bachelors (hon) in economics. &lt;/p&gt;
 &lt;p&gt;Dr. Maurice also teaches a course on data science at the University of Toronto and actively helps to develop AI course content at the University of Toronto. He is also active in the AI community and an avid blogger and speaker. He also sits on the AI advisory board at McMaster University.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Apress</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781484270226</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ovY9zgEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B095H8YPFB</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">63187032</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">ovY9zgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484270226</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Artificial Intelligence</dc:subject>
@@ -55,7 +55,7 @@
         <dc:subject>Python</dc:subject>
         <dc:subject>Information Technology</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Sebastian Maurice&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-03-18T18:55:25.545782+00:00"/>
+        <meta name="calibre:timestamp" content="2023-03-18T18:55:25+00:00"/>
         <meta name="calibre:title_sort" content="Transactional Machine Learning With Data Streams and AutoML: Build Frictionless and Elastic Machine Learning Solutions With Apache Kafka in the Cloud Using Python"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

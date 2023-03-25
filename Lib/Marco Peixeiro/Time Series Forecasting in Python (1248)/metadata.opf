@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">1248</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">a2ab2a81-ad2e-4d81-af8c-32993a3f824a</dc:identifier>
-        <dc:title>Time Series Forecasting in Python</dc:title>
-        <dc:creator opf:file-as="Peixeiro, Marco" opf:role="aut">Marco Peixeiro</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2022-10-04T04:00:00+00:00</dc:date>
-        <dc:description>&lt;div&gt;
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Time Series Forecasting in Python</dc:title>
+    <dc:creator opf:file-as="Peixeiro, Marco" opf:role="aut">Marco Peixeiro</dc:creator>
+    <dc:identifier opf:scheme="calibre" id="calibre_id">1248</dc:identifier>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">a2ab2a81-ad2e-4d81-af8c-32993a3f824a</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2022-10-04T04:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
 &lt;p style="font-weight: bold"&gt;Build predictive models from time-based patterns in your data. Master statistical models including new deep learning approaches for time series forecasting. &lt;/p&gt;
 &lt;p&gt;In &lt;em&gt;Time Series Forecasting in Python&lt;/em&gt; you will learn how to: &lt;/p&gt;
@@ -31,24 +31,24 @@
 &lt;p&gt;With this book, I hope to create the one-stop reference for time series forecasting with Python. It covers both statistical and machine learning models. We also work with automated forecasting libraries, as they are widely used in the industry and often act as baseline models. The book greatly emphasizes on a hands-on, practical approach, with various real-life scenarios. In real life, data is messy, dirty, sometimes missing, and I so I wanted to give the reader a safe space to experiment with those difficulties, learn from them, and easily transpose those skills in their own projects.&lt;br&gt;In each chapter, you will find exercises to practice and hone your skills. Each exercise comes with a full solution on GitHub. I highly suggest that you take the time to complete them, as you will gain important practical skills. It is a great way to test your knowledge, see what you need to revise in a given chapter, and apply modeling techniques in new scenarios.&lt;br&gt;Upon reading and completing the exercises, readers will have all the necessary tools to tackle any forecasting project with confidence and great results. Hopefully, they will also gain the curiosity and motivation to go beyond this book and become a time series expert.&lt;/p&gt;
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Marco Peixeiro&lt;/strong&gt; is a seasoned data science instructor who has worked as a senior data scientist for one of Canada's largest banks. He is also a published researcher, blogger and online instructor at Data Science with Marco.&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Manning</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">4H6HEAAAQBAJ</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9781617299889</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">161729988X</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">60071007</dc:identifier>
-        <dc:language>eng</dc:language>
-        <dc:subject>Computers</dc:subject>
-        <dc:subject>Data Science</dc:subject>
-        <dc:subject>General</dc:subject>
-        <dc:subject>Data Analytics</dc:subject>
-        <dc:subject>Machine Learning</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Marco Peixeiro&quot;: &quot;&quot;}"/>
-        <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-02-22T07:10:53+00:00"/>
-        <meta name="calibre:title_sort" content="Time Series Forecasting in Python"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
-    </metadata>
-    <guide>
-        <reference type="cover" title="Cover" href="cover.jpg"/>
-    </guide>
+    <dc:publisher>Manning</dc:publisher>
+    <dc:identifier opf:scheme="GOOGLE">4H6HEAAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9781617299889</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">161729988X</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">60071007</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:subject>Computers</dc:subject>
+    <dc:subject>Data Science</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Data Analytics</dc:subject>
+    <dc:subject>Machine Learning</dc:subject>
+    <meta name="calibre:author_link_map" content="{&quot;Marco Peixeiro&quot;: &quot;&quot;}"/>
+    <meta name="calibre:rating" content="8"/>
+    <meta name="calibre:timestamp" content="2023-02-22T07:10:53+00:00"/>
+    <meta name="calibre:title_sort" content="Time Series Forecasting in Python"/>
+    <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+  </metadata>
+  <guide>
+    <reference type="cover" title="Cover" href="cover.jpg"/>
+  </guide>
 </package>
