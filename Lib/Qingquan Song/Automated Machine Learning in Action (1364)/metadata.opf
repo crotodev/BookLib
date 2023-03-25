@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1364</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8cf9a80-d357-4fbb-97eb-f045bfbe0828</dc:identifier>
+        <dc:title>Automated Machine Learning in Action</dc:title>
+        <dc:creator opf:file-as="Song, Qingquan &amp; Jin, Haifeng &amp; Hu, Xia" opf:role="aut">Qingquan Song</dc:creator>
+        <dc:creator opf:file-as="Song, Qingquan &amp; Jin, Haifeng &amp; Hu, Xia" opf:role="aut">Haifeng Jin</dc:creator>
+        <dc:creator opf:file-as="Song, Qingquan &amp; Jin, Haifeng &amp; Hu, Xia" opf:role="aut">Xia Hu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Optimize every stage of your machine learning pipelines with powerful automation components and cutting-edge tools like AutoKeras and KerasTuner. &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Automated Machine Learning in Action&lt;/em&gt; you will learn how to: &lt;/p&gt;
+&lt;p&gt;Improve a machine learning model by automatically tuning its hyperparameters&lt;br&gt;Pick the optimal components for creating and improving your pipelines&lt;br&gt;Use AutoML toolkits such as AutoKeras and KerasTuner&lt;br&gt;Design and implement search algorithms to find the best component for your ML task&lt;br&gt;Accelerate the AutoML process with data-parallel, model pretraining, and other techniques &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Automated Machine Learning in Action&lt;/em&gt; reveals how you can automate the burdensome elements of designing and tuning your machine learning systems. It’s written in a math-lite and accessible style, and filled with hands-on examples for applying AutoML techniques to every stage of a pipeline. AutoML can even be implemented by machine learning novices! If you’re new to ML, you’ll appreciate how the book primes you on machine learning basics. Experienced practitioners will love learning how automated tools like AutoKeras and KerasTuner can create pipelines that automatically select the best approach for your task, or tune any customized search space with user-defined hyperparameters, which removes the burden of manual tuning. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p&gt;About the technology&lt;br&gt;Machine learning tasks like data pre-processing, feature selection, and model optimization can be time-consuming and highly technical. Automated machine learning, or AutoML, applies pre-built solutions to these chores, eliminating errors caused by manual processing. By accelerating and standardizing work throughout the ML pipeline, AutoML frees up valuable data scientist time and enables less experienced users to apply machine learning effectively. &lt;/p&gt;
+&lt;p&gt;About the book&lt;br&gt;&lt;em&gt;Automated Machine Learning in Action&lt;/em&gt; shows you how to save time and get better results using AutoML. As you go, you’ll learn how each component of an ML pipeline can be automated with AutoKeras and KerasTuner. The book is packed with techniques for automating classification, regression, data augmentation, and more. The payoff: Your ML systems will be able to tune themselves with little manual work. &lt;/p&gt;
+&lt;p&gt;What's inside &lt;/p&gt;
+&lt;p&gt;Automatically tune model hyperparameters&lt;br&gt;Pick the optimal pipeline components&lt;br&gt;Select appropriate models and features&lt;br&gt;Learn different search algorithms and acceleration strategies &lt;/p&gt;
+&lt;p&gt;About the reader&lt;br&gt;For ML novices building their first pipelines and experienced ML engineers looking to automate tasks. &lt;/p&gt;
+&lt;p&gt;About the author&lt;br&gt;&lt;strong&gt;Drs. Qingquan Song, Haifeng Jin, and Xia “Ben” Hu&lt;/strong&gt; are the creators of the AutoKeras automated deep learning library. &lt;/p&gt;
+&lt;p&gt;Table of Contents&lt;br&gt;PART 1 FUNDAMENTALS OF AUTOML&lt;br&gt;1 From machine learning to automated machine learning&lt;br&gt;2 The end-to-end pipeline of an ML project&lt;br&gt;3 Deep learning in a nutshell&lt;br&gt;PART 2 AUTOML IN PRACTICE&lt;br&gt;4 Automated generation of end-to-end ML solutions&lt;br&gt;5 Customizing the search space by creating AutoML pipelines&lt;br&gt;6 AutoML with a fully customized search space&lt;br&gt;PART 3 ADVANCED TOPICS IN AUTOML&lt;br&gt;7 Customizing the search method of AutoML&lt;br&gt;8 Scaling up AutoML&lt;br&gt;9 Wrapping up&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781617298059</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1617298050</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57732914</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ZCZoEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Data Analytics</dc:subject>
+        <dc:subject>Neural Networks</dc:subject>
+        <dc:subject>Machine Learning</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Qingquan Song&quot;: &quot;&quot;, &quot;Haifeng Jin&quot;: &quot;&quot;, &quot;Xia Hu&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-03-25T17:33:54.403205+00:00"/>
+        <meta name="calibre:title_sort" content="Automated Machine Learning in Action"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
