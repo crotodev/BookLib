@@ -15,8 +15,8 @@
 &lt;p&gt;Engineers from Confluent and LinkedIn responsible for developing Kafka explain how to deploy production Kafka clusters, write reliable event-driven microservices, and build scalable stream processing applications with this platform. Through detailed examples, you'll learn Kafka's design principles, reliability guarantees, key APIs, and architecture details, including the replication protocol, the controller, and the storage layer. &lt;/p&gt;
 &lt;p&gt;You'll examine:Best practices for deploying and configuring KafkaKafka producers and consumers for writing and reading messagesPatterns and use-case requirements to ensure reliable data deliveryBest practices for building data pipelines and applications with KafkaHow to perform monitoring, tuning, and maintenance tasks with Kafka in productionThe most critical metrics among Kafka's operational measurementsKafka's delivery capabilities for stream processing systems&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781492043034</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">MstMEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781492043034</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Data Science</dc:subject>
@@ -27,7 +27,7 @@
         <dc:subject>Open Source</dc:subject>
         <dc:subject>Data Warehousing</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Gwen Shapira&quot;: &quot;&quot;, &quot;Todd Palino&quot;: &quot;&quot;, &quot;Rajini Sivaram&quot;: &quot;&quot;, &quot;Krit Petty&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-03-18T18:54:50.346186+00:00"/>
+        <meta name="calibre:timestamp" content="2023-03-18T18:54:50+00:00"/>
         <meta name="calibre:title_sort" content="Kafka: The Definitive Guide"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
