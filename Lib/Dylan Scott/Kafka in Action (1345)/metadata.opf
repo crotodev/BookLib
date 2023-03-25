@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1345</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aafa29f5-95f0-442d-8e1b-4f572722b643</dc:identifier>
+        <dc:title>Kafka in Action</dc:title>
+        <dc:creator opf:file-as="Scott, Dylan &amp; Gamov, Viktor &amp; Klein, Dave" opf:role="aut">Dylan Scott</dc:creator>
+        <dc:creator opf:file-as="Scott, Dylan &amp; Gamov, Viktor &amp; Klein, Dave" opf:role="aut">Viktor Gamov</dc:creator>
+        <dc:creator opf:file-as="Scott, Dylan &amp; Gamov, Viktor &amp; Klein, Dave" opf:role="aut">Dave Klein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Master the wicked-fast Apache Kafka streaming platform through hands-on examples and real-world projects. &lt;/p&gt;
+&lt;p&gt;In Kafka in Action you will learn: Understanding Apache Kafka concepts Setting up and executing basic ETL tasks using Kafka Connect Using Kafka as part of a large data project team Performing administrative tasks Producing and consuming event streams Working with Kafka from Java applications Implementing Kafka as a message queue Kafka in Action is a fast-paced introduction to every aspect of working with Apache Kafka. Starting with an overview of Kafka's core concepts, you'll immediately learn how to set up and execute basic data movement tasks and how to produce and consume streams of events. Advancing quickly, you’ll soon be ready to use Kafka in your day-to-day workflow, and start digging into even more advanced Kafka topics. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. About the technology Think of Apache Kafka as a high performance software bus that facilitates event streaming, logging, analytics, and other data pipeline tasks. With Kafka, you can easily build features like operational data monitoring and large-scale event processing into both large and small-scale applications. About the book Kafka in Action introduces the core features of Kafka, along with relevant examples of how to use it in real applications. In it, you’ll explore the most common use cases such as logging and managing streaming data. When you’re done, you’ll be ready to handle both basic developer- and admin-based tasks in a Kafka-focused team. What's inside Kafka as an event streaming platform Kafka producers and consumers from Java applications Kafka as part of a large data project About the reader For intermediate Java developers or data engineers. No prior knowledge of Kafka required. About the author Dylan Scott is a software developer in the insurance industry. Viktor Gamov is a Kafka-focused developer advocate. At Confluent, Dave Klein helps developers, teams, and enterprises harness the power of event streaming with Apache Kafka. Table of Contents PART 1 GETTING STARTED 1 Introduction to Kafka 2 Getting to know Kafka PART 2 APPLYING KAFK 3 Designing a Kafka project 4 Producers: Sourcing data 5 Consumers: Unlocking data 6 Brokers 7 Topics and partitions 8 Kafka storage 9 Management: Tools and logging PART 3 GOING FURTHER 10 Protecting Kafka 11 Schema registry 12 Stream processing with Kafka Streams and ksqlDB&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781617295232</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">2bFYEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <dc:subject>Web Services &amp; APIs</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dylan Scott&quot;: &quot;&quot;, &quot;Viktor Gamov&quot;: &quot;&quot;, &quot;Dave Klein&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-18T18:56:32.151282+00:00"/>
+        <meta name="calibre:title_sort" content="Kafka in Action"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

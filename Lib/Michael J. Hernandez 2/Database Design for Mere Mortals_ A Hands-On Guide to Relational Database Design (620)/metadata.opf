@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">620</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c6407f9-044e-4f19-b4d8-4f34eb3f5477</dc:identifier>
+        <dc:title>Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design</dc:title>
+        <dc:creator opf:file-as="Hernandez, Michael J." opf:role="aut">Michael J. Hernandez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-14T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;The #1 Easy, Commonsense Guide to Database Design!&lt;/strong&gt; Michael J. Hernandez’s best-selling &lt;em&gt;Database Design for Mere Mortals®&lt;/em&gt; has earned worldwide respect as the clearest, simplest way to learn relational database design. Now, he’s made this hands-on, software-independent tutorial even easier, while ensuring that his design methodology is still relevant to the latest databases, applications, and best practices. Step by step,Database Design for Mere Mortals®, Third Edition, shows you how to design databases that are soundly structured, reliable, and flexible, even in modern web applications. Hernandez guides you through everything from database planning to defining tables, fields, keys, table relationships, business rules, and views. You’ll learn practical ways to improve data integrity, how to avoid common mistakes, and when to break the rules.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Coverage includes&lt;/p&gt;
+&lt;p&gt;Understanding database types, models, and design terminology&lt;/p&gt;
+&lt;p&gt;Discovering what good database design can do for you―and why bad design can make your life miserable&lt;/p&gt;
+&lt;p&gt;Setting objectives for your database, and transforming those objectives into real designs&lt;/p&gt;
+&lt;p&gt;Analyzing a current database so you can identify ways to improve it&lt;/p&gt;
+&lt;p&gt;Establishing table structures and relationships, assigning primary keys, setting field specifications, and setting up views&lt;/p&gt;
+&lt;p&gt;Ensuring the appropriate level of data integrity for each application&lt;/p&gt;
+&lt;p&gt;Identifying and establishing business rules&lt;/p&gt;
+&lt;p&gt;Whatever relational database systems you use, Hernandez will help you design databases that are robust and trustworthy. Never designed a database before? Settling for inadequate generic designs? Running existing databases that need improvement? Start here.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Michael J. Hernandez,&lt;/strong&gt; a relational database developer with more than twenty years of experience, was a program manager and product manager for Microsoft’s Visual Studio group. He has been a premier instructor with organizations such as AppDev Training Co., Focal Point, Inc., and Deep Training, and was a top-rated speaker at technical conferences across the United States, Europe, and South America. With John L. Viescas, he coauthored &lt;em&gt;SQL Queries for Mere Mortals®, Second Edition&lt;/em&gt; (Addison-Wesley, 2008).&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pearson Education</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">_n4hBQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0321884493</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780321884497</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael J. Hernandez&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-02-05T22:07:27+00:00"/>
+        <meta name="calibre:title_sort" content="Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

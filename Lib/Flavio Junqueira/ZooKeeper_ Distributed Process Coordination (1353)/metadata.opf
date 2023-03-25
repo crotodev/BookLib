@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1353</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aacfc858-772a-45b5-816b-3b11c153bd58</dc:identifier>
+        <dc:title>ZooKeeper: Distributed Process Coordination</dc:title>
+        <dc:creator opf:file-as="Junqueira, Flavio &amp; Reed, Benjamin" opf:role="aut">Flavio Junqueira</dc:creator>
+        <dc:creator opf:file-as="Junqueira, Flavio &amp; Reed, Benjamin" opf:role="aut">Benjamin Reed</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-18T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Building distributed applications is difficult enough without having to coordinate the actions that make them work. This practical guide shows how Apache ZooKeeper helps you manage distributed systems, so you can focus mainly on application logic. Even with ZooKeeper, implementing coordination tasks is not trivial, but this book provides good practices to give you a head start, and points out caveats that developers and administrators alike need to watch for along the way. &lt;/p&gt;
+&lt;p&gt;In three separate sections, ZooKeeper contributors Flavio Junqueira and Benjamin Reed introduce the principles of distributed systems, provide ZooKeeper programming techniques, and include the information you need to administer this service. &lt;/p&gt;
+&lt;p&gt;Learn how ZooKeeper solves common coordination tasksExplore the ZooKeeper API’s Java and C implementations and how they differUse methods to track and react to ZooKeeper state changesHandle failures of the network, application processes, and ZooKeeper itselfLearn about ZooKeeper’s trickier aspects dealing with concurrency, ordering, and configurationUse the Curator high-level interface for connection managementBecome familiar with ZooKeeper internals and administration tools&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781449361266</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">OWQdAgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Parallel</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Flavio Junqueira&quot;: &quot;&quot;, &quot;Benjamin Reed&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-25T17:00:04.558784+00:00"/>
+        <meta name="calibre:title_sort" content="ZooKeeper: Distributed Process Coordination"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

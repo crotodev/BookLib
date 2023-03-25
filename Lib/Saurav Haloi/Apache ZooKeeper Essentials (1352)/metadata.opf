@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1352</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba8b5dd6-af5d-4b9b-b510-4fd58d86ac25</dc:identifier>
+        <dc:title>Apache ZooKeeper Essentials</dc:title>
+        <dc:creator opf:file-as="Haloi, Saurav" opf:role="aut">Saurav Haloi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-28T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;A fast-paced guide to using Apache ZooKeeper to coordinate services in distributed systems&lt;/p&gt;
+&lt;h2&gt;About This Book&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn the basics of Apache ZooKeeper with a comprehensive examination of its internals and administration&lt;/li&gt;
+&lt;li&gt;Explore the ZooKeeper API model and learn how to develop applications using ZooKeeper in C, Java, and Python for common distributed coordination tasks&lt;/li&gt;
+&lt;li&gt;See how ZooKeeper is used in real-world applications and services to carry out complex distributed coordination tasks&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;Who This Book Is For&lt;/h2&gt;
+&lt;p&gt;Whether you are a novice to ZooKeeper or already have some experience, you will be able to master the concepts of ZooKeeper and its usage with ease.&lt;/p&gt;
+&lt;p&gt;This book assumes you to have some prior knowledge of distributed systems and high-level programming knowledge of C, Java, or Python, but no experience with Apache ZooKeeper is required.&lt;/p&gt;
+&lt;h2&gt;What You Will Learn&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand how Apache ZooKeeper solves coordination issues in traditional distributed systems&lt;/li&gt;
+&lt;li&gt;Discover steps to set up and get started with ZooKeeper in a development environment in addition to production&lt;/li&gt;
+&lt;li&gt;Explore ZooKeeper's architecture and internals&lt;/li&gt;
+&lt;li&gt;Get to grips with the API model of ZooKeeper to start programming&lt;/li&gt;
+&lt;li&gt;Use ZooKeeper to solve common distributed coordination tasks such as leader election, distributed queues, and group memberships&lt;/li&gt;
+&lt;li&gt;Administer Apache ZooKeeper for real-world use and production workload&lt;/li&gt;
+&lt;li&gt;Investigate the use of ZooKeeper in real-world applications and services&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;In Detail&lt;/h2&gt;
+&lt;p&gt;Apache ZooKeeper provides a simple interface to a centralized coordinating service for distributed applications through a rich set of APIs and primitives, enabling developers to concentrate on the core logic of their applications. With ZooKeeper, it's unnecessary to start from scratch, so the development of distributed applications becomes cleaner and easier.&lt;/p&gt;
+&lt;p&gt;Starting with how to install, configure, and begin with ZooKeeper, we'll examine the intricacies of ZooKeeper's architecture and internals. Next, you'll learn ZooKeeper's programming model and write code to solve common distributed coordination tasks. We'll also walk you through administering ZooKeeper in a production environment, before finally covering practical examples of real-world projects and services using ZooKeeper to solve complex day-to-day problems.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781784391324</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1784391328</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Saurav Haloi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-03-25T16:57:42.558416+00:00"/>
+        <meta name="calibre:title_sort" content="Apache ZooKeeper Essentials"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

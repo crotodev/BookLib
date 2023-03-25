@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Model-Based Reinforcement Learning: From Data to Continuous Actions With a Python-Based Toolbox</dc:title>
+    <dc:creator opf:file-as="Farsi, Milad &amp; Liu, Jun" opf:role="aut">Milad Farsi</dc:creator>
+    <dc:creator opf:file-as="Farsi, Milad &amp; Liu, Jun" opf:role="aut">Jun Liu</dc:creator>
+    <dc:identifier opf:scheme="calibre" id="calibre_id">1347</dc:identifier>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">cd020338-89fb-4932-86a0-2aab7a01927f</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2022-12-02T05:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;
+&lt;p&gt;Model-Based Reinforcement Learning Explore a comprehensive and practical approach to reinforcement learning Reinforcement learning is an essential paradigm of machine learning, wherein an intelligent agent performs actions that ensure optimal behavior from devices. While this paradigm of machine learning has gained tremendous success and popularity in recent years, previous scholarship has focused either on theory—optimal control and dynamic programming – or on algorithms—most of which are simulation-based. Model-Based Reinforcement Learning provides a model-based framework to bridge these two aspects, thereby creating a holistic treatment of the topic of model-based online learning control. In doing so, the authors seek to develop a model-based framework for data-driven control that bridges the topics of systems identification from data, model-based reinforcement learning, and optimal control, as well as the applications of each. This new technique for assessing classical results will allow for a more efficient reinforcement learning system. At its heart, this book is focused on providing an end-to-end framework—from design to application—of a more tractable model-based reinforcement learning technique. Model-Based Reinforcement Learning readers will also find: A useful textbook to use in graduate courses on data-driven and learning-based control that emphasizes modeling and control of dynamical systems from data Detailed comparisons of the impact of different techniques, such as basic linear quadratic controller, learning-based model predictive control, model-free reinforcement learning, and structured online learning Applications and case studies on ground vehicles with nonholonomic dynamics and another on quadrator helicopters An online, Python-based toolbox that accompanies the contents covered in the book, as well as the necessary code and data Model-Based Reinforcement Learning is a useful reference for senior undergraduate students, graduate students, research assistants, professors, process control engineers, and roboticists.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+    <dc:identifier opf:scheme="ISBN">9781119808596</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">dKWfEAAAQBAJ</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:subject>Science</dc:subject>
+    <dc:subject>System Theory</dc:subject>
+    <dc:subject>Computers</dc:subject>
+    <dc:subject>Languages</dc:subject>
+    <dc:subject>Python</dc:subject>
+    <dc:subject>Mathematics</dc:subject>
+    <dc:subject>Applied</dc:subject>
+    <dc:subject>Technology &amp; Engineering</dc:subject>
+    <dc:subject>Electronics</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Electrical</dc:subject>
+    <meta name="calibre:author_link_map" content="{&quot;Milad Farsi&quot;: &quot;&quot;, &quot;Jun Liu&quot;: &quot;&quot;}"/>
+    <meta name="calibre:timestamp" content="2023-03-19T19:24:51.805529+00:00"/>
+    <meta name="calibre:title_sort" content="Model-Based Reinforcement Learning: From Data to Continuous Actions With a Python-Based Toolbox"/>
+    <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+  </metadata>
+  <guide>
+    <reference type="cover" title="Cover" href="cover.jpg"/>
+  </guide>
+</package>

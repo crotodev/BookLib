@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1308</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8958b530-fdbf-4eb8-8795-b216e6174fad</dc:identifier>
+        <dc:title>Distributed Computing With Python</dc:title>
+        <dc:creator opf:file-as="Pierfederici, Francesco" opf:role="aut">Francesco Pierfederici</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-11T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;You'll learn to write data processing programs in Python that are highly available, reliable, and fault tolerant&lt;/li&gt;
+&lt;li&gt;Make use of Amazon Web Services along with Python to establish a powerful remote computation system&lt;/li&gt;
+&lt;li&gt;Train Python to handle data-intensive and resource hungry applications&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;CPU-intensive data processing tasks have become crucial considering the complexity of the various big data applications that are used today. Reducing the CPU utilization per process is very important to improve the overall speed of applications.&lt;/p&gt;
+&lt;p&gt;This book will teach you how to perform parallel execution of computations by distributing them across multiple processors in a single machine, thus improving the overall performance of a big data processing task. We will cover synchronous and asynchronous models, shared memory and file systems, communication between various processes, synchronization, and more.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What You Will Learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Get an introduction to parallel and distributed computing&lt;/li&gt;
+&lt;li&gt;See synchronous and asynchronous programming&lt;/li&gt;
+&lt;li&gt;Explore parallelism in Python&lt;/li&gt;
+&lt;li&gt;Distributed application with Celery&lt;/li&gt;
+&lt;li&gt;Python in the Cloud&lt;/li&gt;
+&lt;li&gt;Python on an HPC cluster&lt;/li&gt;
+&lt;li&gt;Test and debug distributed applications&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;About the Author&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Francesco Pierfederici&lt;/strong&gt; is a software engineer who loves Python. He has been working in the fields of astronomy, biology, and numerical weather forecasting for the last 20 years.&lt;/p&gt;
+&lt;p&gt;He has built large distributed systems that make use of tens of thousands of cores at a time and run on some of the fastest supercomputers in the world. He has also written a lot of applications of dubious usefulness but that are great fun. Mostly, he just likes to build things.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;An Introduction to Parallel and Distributed Computing&lt;/li&gt;
+&lt;li&gt;Asynchronous Programming&lt;/li&gt;
+&lt;li&gt;Parallelism in Python&lt;/li&gt;
+&lt;li&gt;Distributed Applications – with Celery&lt;/li&gt;
+&lt;li&gt;Python in the Cloud&lt;/li&gt;
+&lt;li&gt;Python on an HPC Cluster&lt;/li&gt;
+&lt;li&gt;Testing and Debugging Distributed Applications&lt;/li&gt;
+&lt;li&gt;The Road Ahead&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781785889691</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B01AXR8JAC</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">29929574</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">f0CxDAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Web Design</dc:subject>
+        <dc:subject>User Interfaces</dc:subject>
+        <dc:subject>Human-Computer Interaction (HCI)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francesco Pierfederici&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-03-10T17:22:50.994340+00:00"/>
+        <meta name="calibre:title_sort" content="Distributed Computing With Python"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

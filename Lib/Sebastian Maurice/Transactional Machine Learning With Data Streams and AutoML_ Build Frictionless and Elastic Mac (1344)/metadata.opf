@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1344</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ece61fac-ae26-4034-b27f-2bb1c2f2394b</dc:identifier>
+        <dc:title>Transactional Machine Learning With Data Streams and AutoML: Build Frictionless and Elastic Machine Learning Solutions With Apache Kafka in the Cloud Using Python</dc:title>
+        <dc:creator opf:file-as="Maurice, Sebastian" opf:role="aut">Sebastian Maurice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-20T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Understand how to apply auto machine learning to data streams and create transactional machine learning (TML) solutions that are frictionless (require minimal to no human intervention) and elastic (machine learning solutions that can scale up or down by controlling the number of data streams, algorithms, and users of the insights). This book will strengthen your knowledge of the inner workings of TML solutions using data streams with auto machine learning integrated with Apache Kafka. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Transactional Machine Learning with Data Streams and AutoML&lt;/em&gt; introduces the industry challenges with applying machine learning to data streams. You will learn the framework that will help you in choosing business problems that are best suited for TML. You will also see how to measure the business value of TML solutions. You will then learn the technical components of TML solutions, including the reference and technical architecture of a TML solution. &lt;/p&gt;
+&lt;p&gt;This book also presents a TML solution template that will make it easy for you to quickly start building your own TML solutions. Specifically, you are given access to a TML Python library and integration technologies for download. You will also learn how TML will evolve in the future, and the growing need by organizations for deeper insights from data streams.&lt;/p&gt;
+&lt;p&gt;By the end of the book, you will have a solid understanding of TML. You will know how to build TML solutions with all the necessary details, and all the resources at your fingertips. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Will Learn&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discover transactional machine learning&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Measure the business value of TML &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Choose TML use cases&lt;/li&gt;
+&lt;li&gt;Design technical architecture of TML solutions with Apache Kafka&lt;/li&gt;
+&lt;li&gt;Work with the technologies used to build TML solutions&lt;/li&gt;
+&lt;li&gt;Build transactional machine learning solutions with hands-on code together with Apache Kafka in the cloud&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For&lt;/p&gt;
+&lt;p&gt;Data scientists, machine learning engineers and architects, and AI and machine learning business leaders. &lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Understand how to apply auto machine learning to data streams and create transactional machine learning (TML) solutions that are frictionless (require minimal to no human intervention) and elastic (machine learning solutions that can scale up or down by controlling the number of data streams, algorithms, and users of the insights). This book will strengthen your knowledge of the inner workings of TML solutions using data streams with auto machine learning integrated with Apache Kafka. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Transactional Machine Learning with Data Streams and AutoML&lt;/em&gt; introduces the industry challenges with applying machine learning to data streams. You will learn the framework that will help you in choosing business problems that are best suited for TML. You will also see how to measure the business value of TML solutions. You will then learn the technical components of TML solutions, including the reference and technical architecture of a TML solution. &lt;/p&gt;
+&lt;p&gt;This book also presents a TML solution template that will make it easy for you to quickly start building your own TML solutions. Specifically, you are given access to a TML Python library and integration technologies for download. You will also learn how TML will evolve in the future, and the growing need by organizations for deeper insights from data streams.&lt;/p&gt;
+&lt;p&gt;By the end of the book, you will have a solid understanding of TML. You will know how to build TML solutions with all the necessary details, and all the resources at your fingertips. &lt;/p&gt;
+&lt;p&gt;You will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discover transactional machine learning&lt;/li&gt;
+&lt;li&gt;Measure the business value of TML&lt;/li&gt;
+&lt;li&gt;Choose TML use cases&lt;/li&gt;
+&lt;li&gt;Design technical architecture of TML solutions with Apache Kafka&lt;/li&gt;
+&lt;li&gt;Work with the technologies used to build TML solutions&lt;/li&gt;
+&lt;li&gt;Build transactional machine learning solutions with hands-on code together with Apache Kafka in the cloud&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Sebastian Maurice is founder and CTO of OTICS Advanced Analytics Inc. and has over 25 years of experience in AI and machine learning. Previously, Sebastian served as Associate Director within Gartner Consulting focusing on artificial intelligence and machine learning. He was instrumental in developing and growing Gartner’s AI consulting business. He has led global teams to solve critical business problems with machine learning in oil and gas, retail, utilities, manufacturing, finance, and insurance. Dr. Maurice also brings deep experience in oil and gas (upstream) and was one of the first in Canada to apply machine learning to oil production optimization, which resulted in a Canadian patent: #2864265. &lt;/p&gt;
+&lt;p&gt;Sebastian is also a published author with seven publications in international peer-reviewed journals and books. One of his publications (International Journal of Engineering Education, 2004) was cited as landmark work in the area of online testing technology. He also developed the world’s first Apache Kafka connector for transactional machine learning: MAADS-VIPER.&lt;/p&gt;
+&lt;p&gt;Dr. Maurice received his PhD in electrical and computer engineering from the University of Calgary, and has a master’s in electrical engineering, and a master’s in agricultural economics, with bachelors in pure mathematics and bachelors (hon) in economics. &lt;/p&gt;
+&lt;p&gt;Dr. Maurice also teaches a course on data science at the University of Toronto and actively helps to develop AI course content at the University of Toronto. He is also active in the AI community and an avid blogger and speaker. He also sits on the AI advisory board at McMaster University.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484270226</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B095H8YPFB</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">63187032</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ovY9zgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sebastian Maurice&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-18T18:55:25.545782+00:00"/>
+        <meta name="calibre:title_sort" content="Transactional Machine Learning With Data Streams and AutoML: Build Frictionless and Elastic Machine Learning Solutions With Apache Kafka in the Cloud Using Python"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

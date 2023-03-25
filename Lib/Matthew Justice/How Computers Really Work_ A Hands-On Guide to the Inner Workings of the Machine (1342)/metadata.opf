@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1342</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a593197-fec9-4330-bdb0-681053a84440</dc:identifier>
+        <dc:title>How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine</dc:title>
+        <dc:creator opf:file-as="Justice, Matthew" opf:role="aut">Matthew Justice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-17T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;An approachable, hands-on guide to understanding how computers work, from low-level circuits to high-level code. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;How Computers Really Work&lt;/em&gt; is a hands-on guide to the computing ecosystem: everything from circuits to memory and clock signals, machine code, programming languages, operating systems, and the internet. &lt;/p&gt;
+&lt;p&gt;But you won't just read about these concepts, you'll test your knowledge with exercises, and practice what you learn with 41 optional hands-on projects. Build digital circuits, craft a guessing game, convert decimal numbers to binary, examine virtual memory usage, run your own web server, and more. &lt;/p&gt;
+&lt;p&gt;Explore concepts like how to: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Think like a software engineer as you use data to describe a real world concept&lt;/li&gt;
+&lt;li&gt;Use Ohm's and Kirchhoff's laws to analyze an electrical circuit&lt;/li&gt;
+&lt;li&gt;Think like a computer as you practice binary addition and execute a program in your mind, step-by-step&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;The book's projects will have you translate your learning into action, as you: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn how to use a multimeter to measure resistance, current, and voltage&lt;/li&gt;
+&lt;li&gt;Build a half adder to see how logical operations in hardware can be combined to perform useful functions&lt;/li&gt;
+&lt;li&gt;Write a program in assembly language, then examine the resulting machine code&lt;/li&gt;
+&lt;li&gt;Learn to use a debugger, disassemble code, and hack a program to change its behavior without changing the source code&lt;/li&gt;
+&lt;li&gt;Use a port scanner to see which internet ports your computer has open&lt;/li&gt;
+&lt;li&gt;Run your own server and get a solid crash course on how the web works&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;And since a picture is worth a thousand bytes, chapters are filled with detailed diagrams and illustrations to help clarify technical complexities. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt; The projects require a variety of hardware - electronics projects need a breadboard, power supply, and various circuit components; software projects are performed on a Raspberry Pi. Appendix B contains a complete list. Even if you skip the projects, the book's major concepts are clearly presented in the main text.&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"Much more understandable than most books of this type, even when the author delves deeply into machine code, programming languages, operating systems and the internet. He details 41 hands-on projects, including games, running a web server, and so on. It's just right for the would-be software engineer." &lt;br&gt;&lt;strong&gt;—Joy Schwabach,&lt;/strong&gt; Arkansas Democrat Gazette's On Computers&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Matthew Justice&lt;/strong&gt; , a software engineer, spent 17 years at Microsoft where his work included debugging the Windows kernel, developing automated fixes, and leading a team of engineers building diagnostic tools and services. He has worked on everything from low-level software to high-level web applications.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718500662</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1718500661</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Matthew Justice&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-03-18T04:11:56.028531+00:00"/>
+        <meta name="calibre:title_sort" content="How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

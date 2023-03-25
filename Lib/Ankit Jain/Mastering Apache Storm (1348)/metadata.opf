@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1348</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed01a1c2-6275-49b9-9542-8868c8a1e3db</dc:identifier>
+        <dc:title>Mastering Apache Storm</dc:title>
+        <dc:creator opf:file-as="Jain, Ankit" opf:role="aut">Ankit Jain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-16T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Master the intricacies of Apache Storm and develop real-time stream processing applications with easeAbout This BookExploit the various real-time processing functionalities offered by Apache Storm such as parallelism, data partitioning, and moreIntegrate Storm with other Big Data technologies like Hadoop, HBase, and Apache KafkaAn easy-to-understand guide to effortlessly create distributed applications with StormWho This Book Is ForIf you are a Java developer who wants to enter into the world of real-time stream processing applications using Apache Storm, then this book is for you. No previous experience in Storm is required as this book starts from the basics. After finishing this book, you will be able to develop not-so-complex Storm applications. What You Will LearnUnderstand the core concepts of Apache Storm and real-time processingFollow the steps to deploy multiple nodes of Storm ClusterCreate Trident topologies to support various message-processing semanticsMake your cluster sharing effective using Storm schedulingIntegrate Apache Storm with other Big Data technologies such as Hadoop, HBase, Kafka, and moreMonitor the health of your Storm clusterIn DetailApache Storm is a real-time Big Data processing framework that processes large amounts of data reliably, guaranteeing that every message will be processed. Storm allows you to scale your data as it grows, making it an excellent platform to solve your big data problems. This extensive guide will help you understand right from the basics to the advanced topics of Storm. &lt;/p&gt;
+&lt;p&gt;The book begins with a detailed introduction to real-time processing and where Storm fits in to solve these problems. You'll get an understanding of deploying Storm on clusters by writing a basic Storm Hello World example. Next we'll introduce you to Trident and you'll get a clear understanding of how you can develop and deploy a trident topology. We cover topics such as monitoring, Storm Parallelism, scheduler and log processing, in a very easy to understand manner. You will also learn how to integrate Storm with other well-known Big Data technologies such as HBase, Redis, Kafka, and Hadoop to realize the full potential of Storm. &lt;/p&gt;
+&lt;p&gt;With real-world examples and clear explanations, this book will ensure you will have a thorough mastery of Apache Storm. You will be able to use this knowledge to develop efficient, distributed real-time applications to cater to your business needs. &lt;/p&gt;
+&lt;p&gt;Style and approachThis easy-to-follow guide is full of examples and real-world applications to help you get an in-depth understanding of Apache Storm. This book covers the basics thoroughly and also delves into the intermediate and slightly advanced concepts of application development with Apache Storm.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781787120402</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">KpZGDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <dc:subject>Data Analytics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ankit Jain&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-22T00:50:55+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering Apache Storm"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

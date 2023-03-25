@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">619</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78a603a3-4590-4d3a-8953-534274fb36e8</dc:identifier>
+        <dc:title>Database Design for Mere Mortals: 25th Anniversary Edition</dc:title>
+        <dc:creator opf:file-as="Hernandez, Michael J." opf:role="aut">Michael J. Hernandez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;The #1 Easy, Commonsense Guide to Database Design―Now Update&lt;/strong&gt; d &lt;br&gt;&lt;em&gt;Foreword by Michelle Poolet, Mount Vernon Data Systems LLC&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Database Design for Mere Mortals&lt;/strong&gt; has earned worldwide respect as the simplest way to learn relational database design. Now, this hands-on, software independent tutorial is even clearer and easier to use. &lt;/p&gt;
+&lt;p&gt;Step by step, this new 25th Anniversary Edition shows you how to design modern databases that are soundly structured, reliable, and flexible, even in the latest online applications. Michael Hernandez guides you through everything from planning to defining tables, fields, keys, table relationships, business rules, and views. You will learn practical ways to improve data integrity, how to avoid common mistakes, and when to break the rules. Updated review questions and figures help you learn these techniques more easily and effectively. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand database types, models, and design terminology&lt;/li&gt;
+&lt;li&gt;Perform interviews to efficiently capture requirements―even if everyone works remotely&lt;/li&gt;
+&lt;li&gt;Set clear design objectives and transform them into effective designs&lt;/li&gt;
+&lt;li&gt;Analyze a current database so you can identify ways to improve it&lt;/li&gt;
+&lt;li&gt;Establish table structures and relationships, assign primary keys, set field specifications, and set up views&lt;/li&gt;
+&lt;li&gt;Ensure the correct level of data integrity for each database&lt;/li&gt;
+&lt;li&gt;Identify and establish business rules&lt;/li&gt;
+&lt;li&gt;Preview and prepare for the future of relational databases&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Whatever relational database systems you use, Hernandez will help you design databases that are robust and trustworthy. Never designed a database before? Settling for inadequate generic designs? Running existing databases that need improvement? Start here. &lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Michael J. Hernandez&lt;/strong&gt; is a man with many talents and has done quite a bit in his life, and he continues to do many things to keep him busy. You could say he’s a modern-day Renaissance Man. &lt;/p&gt;
+&lt;p&gt;For instance, he has been an independent database consultant with more than 25 years of experience in the technology industry, and has been a contributing author to a wide variety of magazine articles, white papers, books, and periodicals. Mike has also been a top-rated and noted technical instructor for two national training organizations, the government, the military, the private sector, and companies throughout the United States, and he has been a top-rated speaker and presenter at numerous national and international conferences. He also worked full-time at Microsoft for seven years as a program manager, product manager, and marketing manager in the Visual Studio Group. &lt;/p&gt;
+&lt;p&gt;Mike is mainly pursuing his artistic side at this point in his life. He is currently a professional actor (with more than seven years of experience as of this writing), performing in commercials for the likes of U.S. Bank, Allstate Insurance, and Subaru; in TV for shows such as &lt;em&gt;Veep&lt;/em&gt; , &lt;em&gt;American Crime&lt;/em&gt; , and &lt;em&gt;Unbelievable&lt;/em&gt; ; and feature films such as &lt;em&gt;Ernesto’s Manifesto&lt;/em&gt; , &lt;em&gt;The Honor List&lt;/em&gt; , and &lt;em&gt;Almost Home&lt;/em&gt;. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780136788041</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0136788041</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">HAF7zQEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael J. Hernandez&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-02-05T22:04:38+00:00"/>
+        <meta name="calibre:title_sort" content="Database Design for Mere Mortals: 25th Anniversary Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

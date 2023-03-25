@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1349</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ca6a207-50c8-46c2-b8d6-5f86929f396c</dc:identifier>
+        <dc:title>Practical Real-Time Data Processing and Analytics: Distributed Computing and Event Processing Using Apache Spark, Flink, Storm, and Kafka</dc:title>
+        <dc:creator opf:file-as="Saxena, Shilpi &amp; Gupta, Saurabh" opf:role="aut">Shilpi Saxena</dc:creator>
+        <dc:creator opf:file-as="Saxena, Shilpi &amp; Gupta, Saurabh" opf:role="aut">Saurabh Gupta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-28T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A practical guide to help you tackle different real-time data processing and analytics problems using the best tools for each scenarioAbout This BookLearn about the various challenges in real-time data processing and use the right tools to overcome themThis book covers popular tools and frameworks such as Spark, Flink, and Apache Storm to solve all your distributed processing problemsA practical guide filled with examples, tips, and tricks to help you perform efficient Big Data processing in real-timeWho This Book Is ForIf you are a Java developer who would like to be equipped with all the tools required to devise an end-to-end practical solution on real-time data streaming, then this book is for you. Basic knowledge of real-time processing would be helpful, and knowing the fundamentals of Maven, Shell, and Eclipse would be great. &lt;/p&gt;
+&lt;p&gt;What You Will LearnGet an introduction to the established real-time stackUnderstand the key integration of all the componentsGet a thorough understanding of the basic building blocks for real-time solution designingGarnish the search and visualization aspects for your real-time solutionGet conceptually and practically acquainted with real-time analyticsBe well equipped to apply the knowledge and create your own solutionsIn DetailWith the rise of Big Data, there is an increasing need to process large amounts of data continuously, with a shorter turnaround time. Real-time data processing involves continuous input, processing and output of data, with the condition that the time required for processing is as short as possible. &lt;/p&gt;
+&lt;p&gt;This book covers the majority of the existing and evolving open source technology stack for real-time processing and analytics. You will get to know about all the real-time solution aspects, from the source to the presentation to persistence. Through this practical book, you'll be equipped with a clear understanding of how to solve challenges on your own. &lt;/p&gt;
+&lt;p&gt;We'll cover topics such as how to set up components, basic executions, integrations, advanced use cases, alerts, and monitoring. You'll be exposed to the popular tools used in real-time processing today such as Apache Spark, Apache Flink, and Storm. Finally, you will put your knowledge to practical use by implementing all of the techniques in the form of a practical, real-world use case. &lt;/p&gt;
+&lt;p&gt;By the end of this book, you will have a solid understanding of all the aspects of real-time data processing and analytics, and will know how to deploy the solutions in production environments in the best possible manner. &lt;/p&gt;
+&lt;p&gt;Style and Approach In this practical guide to real-time analytics, each chapter begins with a basic high-level concept of the topic, followed by a practical, hands-on implementation of each concept, where you can see the working and execution of it. The book is written in a DIY style, with plenty of practical use cases, well-explained code examples, and relevant screenshots and diagrams.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing Ltd</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01N6QJIQA</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781787289864</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">9JlGDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <dc:subject>Data Analytics</dc:subject>
+        <dc:subject>COM018000 - COMPUTERS / Data Processing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shilpi Saxena&quot;: &quot;&quot;, &quot;Saurabh Gupta&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-22T00:53:17.982395+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Real-Time Data Processing and Analytics: Distributed Computing and Event Processing Using Apache Spark, Flink, Storm, and Kafka"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5a1944c-b274-41de-b4e0-135d8188719b</dc:identifier>
+        <dc:title>Quantitative Finance With Python: A Practical Guide to Investment Management, Trading, and Financial Engineering</dc:title>
+        <dc:creator opf:file-as="Kelliher, Chris" opf:role="aut">Chris Kelliher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Quantitative Finance with Python: A Practical Guide to Investment Management, Trading and Financial Engineering bridges the gap between the theory of mathematical finance and the practical applications of these concepts for derivative pricing and portfolio management. The book provides students with a very hands-on, rigorous introduction to foundational topics in quant finance, such as options pricing, portfolio optimization and machine learning. Simultaneously, the reader benefits from a strong emphasis on the practical applications of these concepts for institutional investors. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Features&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Useful as both a teaching resource and as a practical tool for professional investors.&lt;/li&gt;
+&lt;li&gt;Ideal textbook for first year graduate students in quantitative finance programs, such as those in master’s programs in Mathematical Finance, Quant Finance or Financial Engineering.&lt;/li&gt;
+&lt;li&gt;Includes a perspective on the future of quant finance techniques, and in particular covers some introductory concepts of Machine Learning.&lt;/li&gt;
+&lt;li&gt;Free-to-access repository with Python codes available at www.routledge.com/ 9781032014432.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Chris Kelliher&lt;/strong&gt; is a Senior Quantitative Researcher in the Global Asset Allocation group at Fidelity Investments. In addition, Mr. Kelliher is a Lecturer in the Masters in Mathematical Finance and Financial Technology program at Boston University's Questrom School of Business. In this role he teaches multiple graduate level courses including Computational Methods in Finance, Fixed Income &amp;amp; Programming for Quant Finance. Prior to joining Fidelity in 2019, Mr. Kelliher served as a portfolio manager for RDC Capital Partners. Before joining RDC, Mr. Kelliher served as a principal and quantitative portfolio manager at a leading quantitative investment management firm, FDO Partners. Prior to FDO, Mr. Kelliher was a senior quantitative portfolio analyst and trader at Convexity Capital Management and a senior quantitative researcher at Bracebridge Capital. He has been in the financial industry since 2004. Mr. Kelliher earned a BA in Economics from Gordon College, where he graduated Cum Laude with Departmental Honours, and an MS in Mathematical Finance from New York University's Courant Institute.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Chapman and Hall/CRC</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781032014432</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1032014431</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Nmq_zgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Quantitative Finance</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Trading</dc:subject>
+        <dc:subject>Algorithmic Trading</dc:subject>
+        <dc:subject>Financial Engineering</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Chris Kelliher&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Financial Mathematics Series"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-12-14T19:14:16+00:00"/>
+        <meta name="calibre:title_sort" content="Quantitative Finance With Python: A Practical Guide to Investment Management, Trading, and Financial Engineering"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
