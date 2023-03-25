@@ -46,8 +46,8 @@
 &lt;li&gt;Local effects and mutable state&lt;/li&gt;
 &lt;li&gt;Stream processing and incremental I/O&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Manning</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781617290657</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1617290653</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781617290657</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Artificial Intelligence</dc:subject>
         <dc:subject>Computer Science</dc:subject>
@@ -64,7 +64,7 @@
         <dc:subject>Software Development &amp; Engineering</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Paul Chiusano&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-03-12T20:54:00.537448+00:00"/>
+        <meta name="calibre:timestamp" content="2023-03-12T20:54:00+00:00"/>
         <meta name="calibre:title_sort" content="Functional Programming in Scala"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

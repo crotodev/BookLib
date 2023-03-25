@@ -48,9 +48,9 @@
 &lt;p&gt;Besides having a bachelor's degree in computer science, he is also a Cisco Certified DevNet Associate as well as a Cisco Certified DevNet Specialist for enterprise network automation.&lt;/p&gt;
 &lt;p&gt;You can find him on Twitter at squ4rks and on GitHub at squ4rks.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">VNo9EAAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781838646639</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1838646639</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">VNo9EAAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Security</dc:subject>
@@ -61,7 +61,7 @@
         <dc:subject>Network Protocols</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Marcel Neidinger&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-03-17T20:01:56.570237+00:00"/>
+        <meta name="calibre:timestamp" content="2023-03-17T20:01:56+00:00"/>
         <meta name="calibre:title_sort" content="Python Network Programming Techniques: 50 Real-World Recipes to Automate Infrastructure Networks and Overcome Networking Challenges With Python"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
