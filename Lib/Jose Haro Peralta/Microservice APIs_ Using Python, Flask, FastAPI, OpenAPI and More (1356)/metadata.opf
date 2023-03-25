@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1356</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d00b110-4181-4012-9488-f01436c7723e</dc:identifier>
+        <dc:title>Microservice APIs: Using Python, Flask, FastAPI, OpenAPI and More</dc:title>
+        <dc:creator opf:file-as="Peralta, Jose Haro" opf:role="aut">Jose Haro Peralta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-10T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Strategies, best practices, and patterns that will help you design resilient microservices architecture and streamline your API integrations. &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Microservice APIs&lt;/em&gt; , you'll discover: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Service decomposition strategies for microservices&lt;/li&gt;
+&lt;li&gt;Documentation-driven development for APIs&lt;/li&gt;
+&lt;li&gt;Best practices for designing REST and GraphQL APIs&lt;/li&gt;
+&lt;li&gt;Documenting REST APIs with the OpenAPI specification (formerly Swagger)&lt;/li&gt;
+&lt;li&gt;Documenting GraphQL APIs using the Schema Definition Language&lt;/li&gt;
+&lt;li&gt;Building microservices APIs with Flask, FastAPI, Ariadne, and other frameworks&lt;/li&gt;
+&lt;li&gt;Service implementation patterns for loosely coupled services&lt;/li&gt;
+&lt;li&gt;Property-based testing to validate your APIs, and using automated API testing frameworks like schemathesis and Dredd&lt;/li&gt;
+&lt;li&gt;Adding authentication and authorization to your microservice APIs using OAuth and OpenID Connect (OIDC)&lt;/li&gt;
+&lt;li&gt;Deploying and operating microservices in AWS with Docker and Kubernetes&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Microservice APIs&lt;/em&gt; teaches you practical techniques for designing robust microservices with APIs that are easy to understand, consume, and maintain. You'll benefit from author José Haro Peralta's years of experience experimenting with microservices architecture, dodging pitfalls and learning from mistakes he's made. Inside you'll find strategies for delivering successful API integrations, implementing services with clear boundaries, managing cloud deployments, and handling microservices security. Written in a framework-agnostic manner, its universal principles can easily be applied to your favorite stack and toolset. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the technology&lt;/strong&gt;&lt;br&gt;Clean, clear APIs are essential to the success of microservice applications. Well-designed APIs enable reliable integrations between services and help simplify maintenance, scaling, and redesigns. This book teaches you the patterns, protocols, and strategies you need to design, build, and deploy effective REST and GraphQL microservices APIs. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the book&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Microservice APIs&lt;/em&gt; gathers proven techniques for creating and building easy-to-consume APIs for microservices applications. Rich with proven advice and Python-based examples, this practical book focuses on implementation over philosophy. You'll learn how to build robust microservice APIs, test and protect them, and deploy them to the cloud following principles and patterns that work in any language. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What's inside &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Service decomposition strategies for microservices&lt;/li&gt;
+&lt;li&gt;Best practices for designing and building REST and GraphQL APIs&lt;/li&gt;
+&lt;li&gt;Service implementation patterns for loosely coupled components&lt;/li&gt;
+&lt;li&gt;API authorization with OAuth and OIDC&lt;/li&gt;
+&lt;li&gt;Deployments with AWS and Kubernetes&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;About the reader&lt;/strong&gt;&lt;br&gt;For developers familiar with the basics of web development. Examples are in Python. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the author&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;José Haro Peralta&lt;/strong&gt; is a consultant, author, and instructor. He's also the founder of microapis.io. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;br&gt;PART 1 INTRODUCING MICROSERVICE APIS&lt;br&gt;1 What are microservice APIs?&lt;br&gt;2 A basic API implementation&lt;br&gt;3 Designing microservices &lt;/p&gt;
+&lt;p&gt;PART 2 DESIGNING AND BUILDING REST APIS&lt;br&gt;4 Principles of REST API design&lt;br&gt;5 Documenting REST APIs with OpenAPI&lt;br&gt;6 Building REST APIs with Python&lt;br&gt;7 Service implementation patterns for microservices &lt;/p&gt;
+&lt;p&gt;PART 3 DESIGNING AND BUILDING GRAPHQL APIS&lt;br&gt;8 Designing GraphQL APIs&lt;br&gt;9 Consuming GraphQL APIs&lt;br&gt;10 Building GraphQL APIs with Python &lt;/p&gt;
+&lt;p&gt;PART 4 SECURING, TESTING, AND DEPLOYING MICROSERVICE APIS&lt;br&gt;11 API authorization and authentication&lt;br&gt;12 Testing and validating APIs&lt;br&gt;13 Dockerizing microservice APIs&lt;br&gt;14 Deploying microservice APIs with Kubernetes&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"An insightful guide for creating REST and GraphQL APIs, with neat examples using FastAPI and Flask. The service implementation patterns chapter is a must-read for every developer." —William Jamir Silva, Adjust &lt;/p&gt;
+&lt;p&gt;"A perfect introduction to microservice web APIs in Python." —Stuart Woodward, CEO, Hanamaru &lt;/p&gt;
+&lt;p&gt;"A well-designed API makes all the difference in the success of your next project. This book equips you with the knowledge and the skills you need. Excellent!" —Alain Lompo, ISO-Gruppe &lt;/p&gt;
+&lt;p&gt;"Excellent coverage with practical examples." —Sambasiva Andaluri, IBM&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;José Haro Peralta&lt;/strong&gt; is a consultant, author, and instructor. He's the founder of microapis.io and the author of &lt;em&gt;Microservice APIs&lt;/em&gt;. Recognized as a thought leader in the fields of cloud computing, DevOps, and automation, José speaks regularly at international conferences and frequently organizes public workshops and seminars.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781617298417</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1617298417</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jose Haro Peralta&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-03-25T17:18:51.849801+00:00"/>
+        <meta name="calibre:title_sort" content="Microservice APIs: Using Python, Flask, FastAPI, OpenAPI and More"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

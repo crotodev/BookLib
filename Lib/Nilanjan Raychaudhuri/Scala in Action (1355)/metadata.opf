@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1355</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8935f171-e271-4918-aab1-fb838eec727f</dc:identifier>
+        <dc:title>Scala in Action</dc:title>
+        <dc:creator opf:file-as="Raychaudhuri, Nilanjan" opf:role="aut">Nilanjan Raychaudhuri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-08T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Summary &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Scala in Action&lt;/em&gt; is a comprehensive tutorial that introduces Scala through clear explanations and numerous hands-on examples. Because Scala is a rich and deep language, it can be daunting to absorb all the new concepts at once. This book takes a "how-to" approach, explaining language concepts as you explore familiar programming challenges that you face in your day-to-day work. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the Technology &lt;/p&gt;
+&lt;p&gt;Scala runs on the JVM and combines object-orientation with functional programming. It's designed to produce succinct, type-safe code, which is crucial for enterprise applications. Scala implements Actor-based concurrency through the amazing Akka framework, so you can avoid Java's messy threading while interacting seamlessly with Java. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About this Book &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Scala in Action&lt;/em&gt; is a comprehensive tutorial that introduces the language through clear explanations and numerous hands-on examples. It takes a "how to" approach, explaining language concepts as you explore familiar programming tasks. You'll tackle concurrent programming in Akka, learn to work with Scala and Spring, and learn how to build DSLs and other productivity tools. You'll learn both the language and how to use it. &lt;/p&gt;
+&lt;p&gt;Experience with Java is helpful but not required. Ruby and Python programmers will also find this book accessible. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What's Inside &lt;/p&gt;
+&lt;p&gt;A Scala tutorial&lt;br&gt;How to use Java and Scala open source libraries&lt;br&gt;How to use SBT&lt;br&gt;Test-driven development&lt;br&gt;Debugging&lt;br&gt;Updated for Scala 2.10 &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the Author &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nilanjan Raychaudhuri&lt;/strong&gt; is a skilled developer, speaker, and an avid polyglot programmer who works with Scala on production systems. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Table of Contents &lt;/p&gt;
+&lt;p&gt;PART 1 SCALA: THE BASICS&lt;br&gt;Why Scala?&lt;br&gt;Getting started&lt;br&gt;OOP in Scala&lt;br&gt;Having fun with functional data structures&lt;br&gt;Functional programming&lt;br&gt;PART 2 WORKING WITH SCALA&lt;br&gt;Building web applications in functional style&lt;br&gt;Connecting to a database&lt;br&gt;Building scalable and extensible components&lt;br&gt;Concurrency programming in Scala&lt;br&gt;Building confidence with testing&lt;br&gt;PART 3 ADVANCED STEPS&lt;br&gt;Interoperability between Scala and Java&lt;br&gt;Scalable and distributed applications using Akka&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781638352419</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58354872</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">gzozEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nilanjan Raychaudhuri&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-03-25T17:14:59.450025+00:00"/>
+        <meta name="calibre:title_sort" content="Scala in Action"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
