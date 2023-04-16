@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Akka Concurrency</dc:title>
+    <dc:creator opf:file-as="Wyatt, Derek" opf:role="aut">Derek Wyatt</dc:creator>
+    <dc:identifier opf:scheme="calibre" id="calibre_id">1384</dc:identifier>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">c94e3d60-afde-4ed6-889d-08f07c423436</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2013-02-01T05:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Writing truly concurrent software on the Java Virtual Machine just got a whole lot easier. The Akka Toolkit takes the sting out of coding for multiple cores, multiple processors, and even multiple machines. &lt;/p&gt;
+&lt;p&gt;Akka Concurrency will show you what it means to design and write software in the paradigm of Akka. You'll learn how to think about your software in new and exciting ways that will allow you to express your designs naturally, allowing you to focus on the business of your software more than on the concurrency of it. This book picks up where the Akka documentation leaves off, exploring the how and the why of Akka, in a way that will empower you to grow your applications to new levels of scalability, responsiveness, and performance.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Derek Wyatt is a software architect and developer specializing in large-scale, real-time applications for the World Wide Web. He's been working with Akka since the early days of 1.0 and has used it to implement a number of applications both large and small. After spending many years writing large concurrent systems in C++ using traditional concurrency mechanisms, Derek now embraces the sophisticated and beautiful simplicity of the paradigm presented in the Akka toolkit. He also harbours a love of the Vim text editor and the Unix command line that borders on the unhealthy.&lt;/p&gt;
+&lt;h3&gt;From the Inside Flap&lt;/h3&gt;
+&lt;p&gt;tbd&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Artima</dc:publisher>
+    <dc:identifier opf:scheme="ISBN">9780981531663</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">B00D67E1LI</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">16089422</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">2rfPMgEACAAJ</dc:identifier>
+    <dc:language>eng</dc:language>
+    <dc:subject>Scala</dc:subject>
+    <dc:subject>Akka</dc:subject>
+    <dc:subject>Concurrency</dc:subject>
+    <meta name="calibre:rating" content="8"/>
+    <meta name="calibre:timestamp" content="2023-04-16T00:22:14.606569+00:00"/>
+    <meta name="calibre:title_sort" content="Akka Concurrency"/>
+    <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+  </metadata>
+  <guide>
+    <reference type="cover" title="Cover" href="cover.jpg"/>
+  </guide>
+</package>

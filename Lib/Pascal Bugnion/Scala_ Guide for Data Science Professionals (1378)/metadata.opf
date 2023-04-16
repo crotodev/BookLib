@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1378</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9750019c-4ca7-409a-926b-00232ca0c319</dc:identifier>
+        <dc:title>Scala: Guide for Data Science Professionals</dc:title>
+        <dc:creator opf:file-as="Bugnion, Pascal &amp; Manivannan, Arun &amp; Nicolas, Patrick R." opf:role="aut">Pascal Bugnion</dc:creator>
+        <dc:creator opf:file-as="Bugnion, Pascal &amp; Manivannan, Arun &amp; Nicolas, Patrick R." opf:role="aut">Arun Manivannan</dc:creator>
+        <dc:creator opf:file-as="Bugnion, Pascal &amp; Manivannan, Arun &amp; Nicolas, Patrick R." opf:role="aut">Patrick R. Nicolas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-24T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Scala will be a valuable tool to have on hand during your data science journey for everything from data cleaning to cutting-edge machine learningAbout This BookBuild data science and data engineering solutions with easeAn in-depth look at each stage of the data analysis process — from reading and collecting data to distributed analyticsExplore a broad variety of data processing, machine learning, and genetic algorithms through diagrams, mathematical formulations, and source codeWho This Book Is ForThis learning path is perfect for those who are comfortable with Scala programming and now want to enter the field of data science. Some knowledge of statistics is expected. &lt;/p&gt;
+&lt;p&gt;What You Will LearnTransfer and filter tabular data to extract features for machine learningRead, clean, transform, and write data to both SQL and NoSQL databasesCreate Scala web applications that couple with JavaScript libraries such as D3 to create compelling interactive visualizationsLoad data from HDFS and HIVE with easeRun streaming and graph analytics in Spark for exploratory analysisBundle and scale up Spark jobs by deploying them into a variety of cluster managersBuild dynamic workflows for scientific computingLeverage open source libraries to extract patterns from time seriesMaster probabilistic models for sequential dataIn DetailScala is especially good for analyzing large sets of data as the scale of the task doesn't have any significant impact on performance. Scala's powerful functional libraries can interact with databases and build scalable frameworks — resulting in the creation of robust data pipelines. &lt;/p&gt;
+&lt;p&gt;The first module introduces you to Scala libraries to ingest, store, manipulate, process, and visualize data. Using real world examples, you will learn how to design scalable architecture to process and model data — starting from simple concurrency constructs and progressing to actor systems and Apache Spark. After this, you will also learn how to build interactive visualizations with web frameworks. &lt;/p&gt;
+&lt;p&gt;Once you have become familiar with all the tasks involved in data science, you will explore data analytics with Scala in the second module. You'll see how Scala can be used to make sense of data through easy to follow recipes. You will learn about Bokeh bindings for exploratory data analysis and quintessential machine learning with algorithms with Spark ML library. You'll get a sufficient understanding of Spark streaming, machine learning for streaming data, and Spark graphX.Armed with a firm understanding of data analysis, you will be ready to explore the most cutting-edge aspect of data science — machine learning. The final module teaches you the A to Z of machine learning with Scala. You'll explore Scala for dependency injections and implicits, which are used to write machine learning algorithms. You'll also explore machine learning topics such as clustering, dimentionality reduction, Naive Bayes, Regression models, SVMs, neural networks, and more. &lt;/p&gt;
+&lt;p&gt;This learning path combines some of the best that Packt has to offer into one complete, curated package. It includes content from the following Packt products:Scala for Data Science, Pascal BugnionScala Data Analysis Cookbook, Arun ManivannanScala for Machine Learning, Patrick R. NicolasStyle and approachA complete package with all the information necessary to start building useful data engineering and data science solutions straight away. It contains a diverse set of recipes that cover the full spectrum of interesting data analysis tasks and will help you revolutionize your data analysis skills using Scala.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781787281035</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">QVQoDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>Natural Language Processing</dc:subject>
+        <dc:subject>Data Analytics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pascal Bugnion&quot;: &quot;&quot;, &quot;Arun Manivannan&quot;: &quot;&quot;, &quot;Patrick R. Nicolas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-02T05:54:17.702868+00:00"/>
+        <meta name="calibre:title_sort" content="Scala: Guide for Data Science Professionals"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

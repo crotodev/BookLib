@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1383</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7510efa3-b40d-452b-ba82-4c745a0d28a2</dc:identifier>
+        <dc:title>Grokking Concurrency</dc:title>
+        <dc:creator opf:file-as="Bobrov, Kirill" opf:role="aut">Kirill Bobrov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-08-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;This easy-to-read, hands-on guide demystifies concurrency concepts like threading, asynchronous programming, and parallel processing in any language. &lt;/p&gt;
+&lt;p&gt;This friendly guide is for any developer who’s perplexed about concurrency. It focuses on the fundamentals, explaining concurrent programming and asynchrony in a math- and jargon-free way. Fun illustrations and diagrams make complex concepts easy to understand. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Grokking Concurrency&lt;/em&gt; presents the most important concurrency features with examples in the accessible Python language. No matter what language you use, you’ll learn best practices for implementing concurrency. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Kirill Bobrov&lt;/strong&gt; is a software engineer. His experience includes the development and design of high-load web applications. He now focuses on data engineering practices for companies around the world.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781633439771</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1633439771</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">61132508</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">pORwzwEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>MEAP Version 3</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-04-16T00:21:21.737521+00:00"/>
+        <meta name="calibre:title_sort" content="Grokking Concurrency"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

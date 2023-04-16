@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1379</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efa2580f-f5ec-4a9a-ba7a-d898bb7acd45</dc:identifier>
+        <dc:title>Building Reliable Trading Systems: Tradable Strategies That Perform as They Backtest and Meet Your Risk-Reward Goals</dc:title>
+        <dc:creator opf:file-as="Fitschen, Keith" opf:role="aut">Keith Fitschen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;An award winning system developer explains how to create, test, and implement a profitable trading system&lt;/p&gt;
+&lt;p&gt;Traders have long been drawn to the idea of translating their strategies and ideas into trading systems. While successful trading systems have been developed, in most cases, they work very well for a period of time in specific markets, but perform less well across all markets in all time frames. Nobody understands this better than author Keith Fitschen—a thought-leader in trading system development—and now, with &lt;em&gt;Trading Strategy Generation + Website&lt;/em&gt; , he shares his extensive experience in this field with you.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Trading Strategy Generation&lt;/em&gt; skillfully explains how to take market insights or trading ideas and develop them into a robust trading system. In it, Fitschen describes the critical steps a trader needs to follow, including: translating the market insight into a rules-based approach; determining entry and exit points; testing against historical data; and integrating money management and position sizing into the system.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Written by an award winning system developer who has actively traded his systems for thirty years&lt;/li&gt;
+&lt;li&gt;Introduces new ideas on money management and position sizing for different markets&lt;/li&gt;
+&lt;li&gt;Details exactly what it takes to build, test, and implement a profitable technical trading system&lt;/li&gt;
+&lt;li&gt;A companion Website contains supplementary material, including Excel spreadsheets designed to rate the strength of entry signals and provide money management guidance based on market volatility and portfolio correlations&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Written with the serious trader in mind, &lt;em&gt;Trading Strategy Generation&lt;/em&gt; is an accessible guide to building a system that will generate realistic returns over time.&lt;/p&gt;
+&lt;h3&gt;From the Inside Flap&lt;/h3&gt;
+&lt;p&gt;A tradable strategy is one that fits your own risk-reward goals &lt;em&gt;and&lt;/em&gt; trades as well in real time as it performs in a development backtest. While it's not easy to create a tradable strategy, due to pitfalls ranging from excessive curve-fitting to greed, if done the right way, you can achieve a realistic level of success.&lt;/p&gt;
+&lt;p&gt;Nobody understands this better than author Keith Fitschen—a thought leader in trading system development whose most popular system, Aberration, has been named "One of the Top Ten Trading Systems of All Time" by &lt;em&gt;Futures Truth.&lt;/em&gt; For more than twenty-five years, Fitschen has developed and actively traded his proven systems, and now he shares his extensive experience in this field with you.&lt;/p&gt;
+&lt;p&gt;Engaging and accessible, &lt;em&gt;Building Reliable Trading Systems&lt;/em&gt; opens with a practical look at exactly what is achievable with a trading strategy. This includes documented performance from some of the best money managers in the world over the last five years, metrics that best characterize a trading strategy's performance, and a set of questions to help you define what would constitute a "tradable strategy" according to your personal risk-taking tolerance. It also addresses one of the biggest problems in developing a strategy—curve-fitting—and presents a unique methodology known as "Build, Rebuild, and Compare," or BRAC, that can be used to determine the degree of curve-fitting in your strategy development.&lt;/p&gt;
+&lt;p&gt;With this information in hand, Fitschen moves on to outline two tradable systems: one a short-term scalping system for stocks, and the other a mid-term trend-following strategy for commodities. Entries, exits, and trading filters are discussed as these systems are developed. By the end of the process, both are "tradable" as is, but in order to tailor them to a range of risk-reward profiles—from large stock and commodity accounts to small—you'll be introduced to some essential money management techniques. Fitschen also develops a money management overlay to trade the stock and commodity strategies together, which can yield a trading solution that is better than either alone.&lt;/p&gt;
+&lt;p&gt;And for those who want even more detail about the strategies developed in this book, the trades for both systems can be found on www.keithstrading.com. At the website, you can input your user name and password to find the TradeStation Easy Language code and daily signals for them.&lt;/p&gt;
+&lt;p&gt;Written with the serious trader in mind, &lt;em&gt;Building Reliable Trading Systems&lt;/em&gt; contains information that you'll be hard-pressed to find elsewhere—from BRAC to bar-scoring—and will put you in a better position to generate realistic trading returns over time.&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Traders have long been drawn to the idea of developing a reliable trading system. But before you embark on this journey, you must first have a realistic understanding of what a "tradable strategy" must encompass.&lt;/p&gt;
+&lt;p&gt;For more than twenty-five years, author Keith Fitschen—whose most popular system, Aberration, has been named "One of the Top Ten Trading Systems of All Time" by &lt;em&gt;Futures Truth&lt;/em&gt; —has continuously developed and actively traded his proven systems. Now, he shares his extensive experience in this field with you.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Building Reliable Trading Systems&lt;/em&gt; skillfully describes the critical steps a trader needs to follow to excel in today's dynamic markets. Along the way, Fitschen touches on exactly what it takes to build, test, and implement a profitable technical trading system. You'll become familiar with everything from the dangers of curve-fitting to the importance of knowing your personal risk tolerance. You'll also gain valuable insights on entries, exits, and trading filters; money management techniques for both large and small stock and commodity accounts; as well as advice on avoiding the influence of some misguided trading lore.&lt;/p&gt;
+&lt;p&gt;Written with the serious trader in mind, &lt;em&gt;Building Reliable Trading Systems&lt;/em&gt; is an accessible guide to creating a system that will generate realistic returns over time.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;KEITH FITSCHEN&lt;/strong&gt; has been developing technical trading systems for the futures markets for over twenty-five years and has actively traded his systems during that time. In 1986, he developed Aberration, one of the most successful mechanical systems ever. It was commercially released in 1993 and four times has been named "One of the Top Ten Trading Systems of All Time" by &lt;em&gt;Futures Truth.&lt;/em&gt; Fitschen recently developed a stock-trading system that profits in both bull and bear markets. He has spoken at numerous technical conferences and workshops, and hosts seminars across the country each year. Fitschen is the President of TradeSystem, Inc., and provides trading system information on his website: www.keithstrading.com.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781118528747</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1118528743</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">20416006</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Lh7YHl9yiAYC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Investments &amp; Securities</dc:subject>
+        <dc:subject>Commodities</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Stocks</dc:subject>
+        <dc:subject>Accounting</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Keith Fitschen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-04-02T14:56:28.851564+00:00"/>
+        <meta name="calibre:title_sort" content="Building Reliable Trading Systems: Tradable Strategies That Perform as They Backtest and Meet Your Risk-Reward Goals"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

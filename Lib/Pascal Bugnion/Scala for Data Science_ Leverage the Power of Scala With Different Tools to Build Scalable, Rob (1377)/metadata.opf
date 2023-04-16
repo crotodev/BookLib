@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1377</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3994c0ac-68a2-4245-aa18-00a508b9bd4d</dc:identifier>
+        <dc:title>Scala for Data Science: Leverage the Power of Scala With Different Tools to Build Scalable, Robust Data Science Applications</dc:title>
+        <dc:creator opf:file-as="Bugnion, Pascal" opf:role="aut">Pascal Bugnion</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-28T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Leverage the power of Scala with different tools to build scalable, robust data science applications&lt;/p&gt;
+&lt;h2&gt;About This Book&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A complete guide for scalable data science solutions, from data ingestion to data visualization&lt;/li&gt;
+&lt;li&gt;Deploy horizontally scalable data processing pipelines and take advantage of web frameworks to build engaging visualizations&lt;/li&gt;
+&lt;li&gt;Build functional, type-safe routines to interact with relational and NoSQL databases with the help of tutorials and examples provided&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;Who This Book Is For&lt;/h2&gt;
+&lt;p&gt;If you are a Scala developer or data scientist, or if you want to enter the field of data science, then this book will give you all the tools you need to implement data science solutions.&lt;/p&gt;
+&lt;h2&gt;What You Will Learn&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Transform and filter tabular data to extract features for machine learning&lt;/li&gt;
+&lt;li&gt;Implement your own algorithms or take advantage of MLLib's extensive suite of models to build distributed machine learning pipelines&lt;/li&gt;
+&lt;li&gt;Read, transform, and write data to both SQL and NoSQL databases in a functional manner&lt;/li&gt;
+&lt;li&gt;Write robust routines to query web APIs&lt;/li&gt;
+&lt;li&gt;Read data from web APIs such as the GitHub or Twitter API&lt;/li&gt;
+&lt;li&gt;Use Scala to interact with MongoDB, which offers high performance and helps to store large data sets with uncertain query requirements&lt;/li&gt;
+&lt;li&gt;Create Scala web applications that couple with JavaScript libraries such as D3 to create compelling interactive visualizations&lt;/li&gt;
+&lt;li&gt;Deploy scalable parallel applications using Apache Spark, loading data from HDFS or Hive&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;In Detail&lt;/h2&gt;
+&lt;p&gt;Scala is a multi-paradigm programming language (it supports both object-oriented and functional programming) and scripting language used to build applications for the JVM. Languages such as R, Python, Java, and so on are mostly used for data science. It is particularly good at analyzing large sets of data without any significant impact on performance and thus Scala is being adopted by many developers and data scientists. Data scientists might be aware that building applications that are truly scalable is hard. Scala, with its powerful functional libraries for interacting with databases and building scalable frameworks will give you the tools to construct robust data pipelines.&lt;/p&gt;
+&lt;p&gt;This book will introduce you to the libraries for ingesting, storing, manipulating, processing, and visualizing data in Scala.&lt;/p&gt;
+&lt;p&gt;Packed with real-world examples and interesting data sets, this book will teach you to ingest data from flat files and web APIs and store it in a SQL or NoSQL database. It will show you how to design scalable architectures to process and modelling your data, starting from simple concurrency constructs such as parallel collections and futures, through to actor systems and Apache Spark. As well as Scala's emphasis on functional structures and immutability, you will learn how to use the right parallel construct for the job at hand, minimizing development time without compromising scalability. Finally, you will learn how to build beautiful interactive visualizations using web frameworks.&lt;/p&gt;
+&lt;p&gt;This book gives tutorials on some of the most common Scala libraries for data science, allowing you to quickly get up to speed with building data science and data engineering solutions.&lt;/p&gt;
+&lt;h2&gt;Style and approach&lt;/h2&gt;
+&lt;p&gt;A tutorial with complete examples, this book will give you the tools to start building useful data engineering and data science solutions straightaway&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781785281372</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1785281372</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Pascal Bugnion&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-04-02T05:52:57.773332+00:00"/>
+        <meta name="calibre:title_sort" content="Scala for Data Science: Leverage the Power of Scala With Different Tools to Build Scalable, Robust Data Science Applications"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

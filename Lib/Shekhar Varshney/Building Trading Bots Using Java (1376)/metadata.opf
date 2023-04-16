@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1376</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a9d1315-98dc-4d56-aaaf-648e36588291</dc:identifier>
+        <dc:title>Building Trading Bots Using Java</dc:title>
+        <dc:creator opf:file-as="Varshney, Shekhar" opf:role="aut">Shekhar Varshney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-08T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Build an automated currency trading bot from scratch with java. In this book, you will learn about the nitty-gritty of automated trading and have a closer look at Java, the Spring Framework, event-driven programming, and other open source APIs, notably Google's Guava API. And of course, development will all be test-driven with unit testing coverage. &lt;/p&gt;
+&lt;p&gt;The central theme of &lt;em&gt;Building Trading Bots Using Java&lt;/em&gt; is to create a framework that can facilitate automated trading on most of the brokerage platforms, with minimum changes. At the end of the journey, you will have a working trading bot, with a sample implementation using the OANDA REST API, which is free to use.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You'll Learn &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Find out about trading bots&lt;/li&gt;
+&lt;li&gt;Discover the details of tradeable instruments and apply bots to them&lt;/li&gt;
+&lt;li&gt;Track and use market data events&lt;/li&gt;
+&lt;li&gt;Place orders and trades&lt;/li&gt;
+&lt;li&gt;Work with trade/order and account events&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For &lt;/p&gt;
+&lt;p&gt;Experienced programmers new to bots and other algorithmic trading and finance techniques. &lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;This book will take you on an exciting journey of building an automated currency trading bot from scratch. On this journey, you will learn not only about the nitty-gritty of automated trading, but with the help of numerous code samples, have a closer look at Java, Spring Framework, Event Driven programming and other open source APIs, notably Google's Guava API.&lt;/p&gt;
+&lt;p&gt;And of course, it will all be test driven with unit testing coverage. The central theme of the book is to aim to create a framework which can facilitate automated trading on most of the brokerage platforms, with minimum changes. &lt;/p&gt;
+&lt;p&gt;At the end of the journey, we should have a working trading bot, with a sample implementation using the OANDA REST API, which is free to use. Over the course of this book, you will learn the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What is a trading bot&lt;/li&gt;
+&lt;li&gt;What are trade-able instruments and how to apply bots to them&lt;/li&gt;
+&lt;li&gt;How to track and use market data events&lt;/li&gt;
+&lt;li&gt;How to place orders and trades&lt;/li&gt;
+&lt;li&gt;How to work with trade/order and account events&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Shekhar Varshney&lt;/strong&gt; is a freelance software developer based in Switzerland with over 19 years of development experience. He started his journey with IBM mainframes, correcting COBOL programs infected with the Y2K bug. At present, his main software development focus is building enterprise services based on SOA principles. He has a keen interest in software design and architecture. In his free time, he loves experimenting with new APIs and frameworks mostly in the Java ecosystem. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484225196</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484225198</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Shekhar Varshney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-04-02T05:52:03.828460+00:00"/>
+        <meta name="calibre:title_sort" content="Building Trading Bots Using Java"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

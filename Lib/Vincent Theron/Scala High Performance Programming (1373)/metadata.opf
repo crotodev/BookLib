@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Scala High Performance Programming</dc:title>
+    <dc:creator opf:file-as="Theron, Vincent &amp; Diamant, Michael" opf:role="aut">Vincent Theron</dc:creator>
+    <dc:creator opf:file-as="Theron, Vincent &amp; Diamant, Michael" opf:role="aut">Michael Diamant</dc:creator>
+    <dc:identifier opf:scheme="calibre" id="calibre_id">1373</dc:identifier>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">e2f0a7fd-1b4d-420d-8924-fd03fd415395</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2016-05-31T04:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;
+&lt;p&gt;Key Features Get the first book to explore Scala performance techniques in depth! Real-world inspired use cases illustrate and support the techniques studied and the language features This book is written by Vincent Theron and Michael Diamant, software engineers with several years of experience in the high-frequency trading and programmatic advertising industries Book Description &lt;/p&gt;
+&lt;p&gt;Scala is a statically and strongly typed language that blends functional and object-oriented paradigms. It has experienced growing popularity as an appealing and pragmatic choice to write production-ready software in the functional paradigm. Scala and the functional programming paradigm enable you to solve problems with less code and lower maintenance costs than the alternatives. However, these gains can come at the cost of performance if you are not careful.&lt;/p&gt;
+&lt;p&gt;Scala High Performance Programming arms you with the knowledge you need to create performant Scala applications. Starting with the basics of understanding how to define performance, we explore Scala's language features and functional programming techniques while keeping a close eye on performance throughout all the topics.&lt;/p&gt;
+&lt;p&gt;We introduce you as the newest software engineer at a fictitious financial trading company, named MV Trading. As you learn new techniques and approaches to reduce latency and improve throughput, you'll apply them to MV Trading's business problems. By the end of the book, you will be well prepared to write production-ready, performant Scala software using the functional paradigm to solve real-world problems.&lt;/p&gt;
+&lt;p&gt;What you will learn Analyze the performance of JVM applications by developing JMH benchmarks and profiling with Flight Recorder Discover use cases and performance tradeoffs of Scala language features, and eager and lazy collections Explore event sourcing to improve performance while working with stream processing pipelines Dive into asynchronous programming to extract performance on multicore systems using Scala Future and Scalaz Task Design distributed systems with conflict-free replicated data types (CRDTs) to take advantage of eventual consistency without synchronization Understand the impact of queues on system performance and apply the Free monad to build systems robust to high levels of throughput About the Author &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vincent Theron&lt;/strong&gt; is a professional software engineer with 9 years of experience. He discovered Scala 6 years ago and uses it to build highly scalable and reliable applications. He designs software to solve business problems in various industries, including online gambling, financial trading, and, most recently, advertising. He earned a master's degree in computer science and engineering from Universite Paris-Est Marne-la-Vallee. Vincent lives in the Boston area with his wife, his son, and two furry cats.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael Diamant&lt;/strong&gt; is a professional software engineer and functional programming enthusiast. He began his career in 2009 focused on Java and the object-oriented programming paradigm. After learning about Scala in 2011, he has focused on using Scala and the functional programming paradigm to build software systems in the financial trading and advertising domains. Michael is a graduate of Worcester Polytechnic Institute and lives in the Boston area.&lt;/p&gt;
+&lt;p&gt;Table of Contents The Road to Performance Measuring Performance on the JVM Unleashing Scala Performance Exploring the Collection API Lazy Collections and Event Sourcing &lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>Packt Publishing</dc:publisher>
+    <dc:identifier opf:scheme="ISBN">9781786466044</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">B01BKL1PGA</dc:identifier>
+    <dc:identifier opf:scheme="GOODREADS">30363467</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">GAzAjwEACAAJ</dc:identifier>
+    <dc:language>eng</dc:language>
+    <meta name="calibre:author_link_map" content="{&quot;Vincent Theron&quot;: &quot;&quot;, &quot;Michael Diamant&quot;: &quot;&quot;}"/>
+    <meta name="calibre:rating" content="6"/>
+    <meta name="calibre:timestamp" content="2023-04-02T02:03:50.383851+00:00"/>
+    <meta name="calibre:title_sort" content="Scala High Performance Programming"/>
+    <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+  </metadata>
+  <guide>
+    <reference type="cover" title="Cover" href="cover.jpg"/>
+  </guide>
+</package>

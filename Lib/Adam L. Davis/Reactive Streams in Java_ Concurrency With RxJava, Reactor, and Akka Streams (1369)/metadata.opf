@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cfaae942-216a-443f-93e1-dc4e987fd065</dc:identifier>
+        <dc:title>Reactive Streams in Java: Concurrency With RxJava, Reactor, and Akka Streams</dc:title>
+        <dc:creator opf:file-as="Davis, Adam L." opf:role="aut">Adam L. Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-29T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Get an easy introduction to reactive streams in Java to handle concurrency, data streams, and the propagation of change in today's applications. This compact book includes in-depth introductions to RxJava, Akka Streams, and Reactor, and integrates the latest related features from Java 9 and 11, as well as reactive streams programming with the Android SDK.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Reactive Streams in Java&lt;/em&gt; explains how to manage the exchange of stream data across an asynchronous boundary―passing elements on to another thread or thread-pool―while ensuring that the receiving side is not forced to buffer arbitrary amounts of data which can reduce application efficiency. After reading and using this book, you'll be proficient in programming reactive streams for Java in order to optimize application performance, and improve memory management and data exchanges. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Will Learn&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discover reactive streams and how to use them &lt;/li&gt;
+&lt;li&gt;Work with the latest features in Java 9 and Java 11&lt;/li&gt;
+&lt;li&gt;Apply reactive streams using RxJava &lt;/li&gt;
+&lt;li&gt;Program using Akka Streams&lt;/li&gt;
+&lt;li&gt;Carry out reactive streams programming in Android &lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For&lt;/p&gt;
+&lt;p&gt;Experienced Java programmers.&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Get an easy introduction to reactive streams in Java to handle concurrency, data streams, and the propagation of change in today's applications. This compact book includes in-depth introductions to RxJava, Akka Streams, and Reactor, and integrates the latest related features from Java 9 and 11, as well as reactive streams programming with the Android SDK.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Reactive Streams in Java&lt;/em&gt; explains how to manage the exchange of stream data across an asynchronous boundary―passing elements on to another thread or thread-pool―while ensuring that the receiving side is not forced to buffer arbitrary amounts of data which can reduce application efficiency. After reading and using this book, you'll be proficient in programming reactive streams for Java in order to optimize application performance, and improve memory management and data exchanges. &lt;/p&gt;
+&lt;p&gt;You will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discover reactive streams and how to use them &lt;/li&gt;
+&lt;li&gt;Work with the latest features in Java 9 and Java 11 &lt;/li&gt;
+&lt;li&gt;Apply reactive streams using RxJava &lt;/li&gt;
+&lt;li&gt;Program using Akka Streams &lt;/li&gt;
+&lt;li&gt;Carry out reactive streams programming in Android &lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Adam Davis makes software. He's spent many years developing in Java (since Java 1.2) and has enjoyed using Spring and Hibernate. Since 2006 he's been using Groovy and Grails in addition to Java to create SaaS web applications that help track finances for large institutions (among other things). Adam has a Masters and a Bachelors degree in Computer Science from Georgia Tech.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484241752</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484241754</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Adam L. Davis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="4"/>
+        <meta name="calibre:timestamp" content="2023-03-26T18:57:39.315802+00:00"/>
+        <meta name="calibre:title_sort" content="Reactive Streams in Java: Concurrency With RxJava, Reactor, and Akka Streams"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

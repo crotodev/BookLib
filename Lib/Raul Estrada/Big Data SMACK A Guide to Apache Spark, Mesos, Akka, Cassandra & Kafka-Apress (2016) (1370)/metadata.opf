@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1370</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8b78224-71ae-4b5d-b2b8-d6e64ab2adc9</dc:identifier>
+        <dc:title>Big Data SMACK A Guide to Apache Spark, Mesos, Akka, Cassandra &amp; Kafka-Apress (2016)</dc:title>
+        <dc:creator opf:file-as="Estrada, Raul &amp; Ruiz, Isaac" opf:role="aut">Raul Estrada</dc:creator>
+        <dc:creator opf:file-as="Estrada, Raul &amp; Ruiz, Isaac" opf:role="aut">Isaac Ruiz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-27T05:58:35+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Raul Estrada&quot;: &quot;&quot;, &quot;Isaac Ruiz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-26T18:59:24.227638+00:00"/>
+        <meta name="calibre:title_sort" content="Big Data SMACK A Guide to Apache Spark, Mesos, Akka, Cassandra &amp; Kafka-Apress (2016)"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

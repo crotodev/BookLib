@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1375</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3915e42f-4a5f-4282-b796-12fe0d44b56f</dc:identifier>
+        <dc:title>Professional Automated Trading: Theory and Practice</dc:title>
+        <dc:creator opf:file-as="Durenard, Eugene A." opf:role="aut">Eugene A. Durenard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;An insider's view of how to develop and operate an automated proprietary trading network&lt;/p&gt;
+&lt;p&gt;Reflecting author Eugene Durenard's extensive experience in this field, &lt;em&gt;Professional Automated Trading&lt;/em&gt; offers valuable insights you won't find anywhere else. It reveals how a series of concepts and techniques coming from current research in artificial life and modern control theory can be applied to the design of effective trading systems that outperform the majority of published trading systems. It also skillfully provides you with essential information on the practical coding and implementation of a scalable systematic trading architecture.&lt;/p&gt;
+&lt;p&gt;Based on years of practical experience in building successful research and infrastructure processes for purpose of trading at several frequencies, this book is designed to be a comprehensive guide for understanding the theory of design and the practice of implementation of an automated systematic trading process at an institutional scale.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discusses several classical strategies and covers the design of efficient simulation engines for back and forward testing&lt;/li&gt;
+&lt;li&gt;Provides insights on effectively implementing a series of distributed processes that should form the core of a robust and fault-tolerant automated systematic trading architecture&lt;/li&gt;
+&lt;li&gt;Addresses trade execution optimization by studying market-pressure models and minimization of costs via applications of execution algorithms&lt;/li&gt;
+&lt;li&gt;Introduces a series of novel concepts from artificial life and modern control theory that enhance robustness of the systematic decision making―focusing on various aspects of adaptation and dynamic optimal model choice&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Engaging and informative, &lt;em&gt;Proprietary Automated Trading&lt;/em&gt; covers the most important aspects of this endeavor and will put you in a better position to excel at it.&lt;/p&gt;
+&lt;h3&gt;From the Inside Flap&lt;/h3&gt;
+&lt;p&gt;Trading is a science based on a variety of fields, from mathematics to physics. It is also an art based on knowing and respecting the markets and, equally important, knowing oneself. But most of all, trading is a business that hinges on a carefully understood discipline and process of seeking reward in the face of risk. &lt;/p&gt;
+&lt;p&gt;No one is more familiar with this than author Eugene Durenard. A recognized expert in automated trading—who has long incorporated aspects of artificial life and robotics systems research into his trading—he knows what it takes to create systematic trading strategies that are adaptive and opportunistic. Now, with this new book, he shares those valuable insights with you. Whether you're part of a professional prop trading desk or an ambitious individual trader, this practical guide will put you in a better position to successfully navigate today's competitive markets. &lt;/p&gt;
+&lt;p&gt;Divided into four comprehensive parts, &lt;em&gt;Professional Automated Trading: Theory and Practice&lt;/em&gt; opens with an introductory chapter that sets the stage for modern systematic trading. It critically examines the merits of systematic trading from a philosophical and psychological perspective, as well as focuses on it as a business activity. &lt;/p&gt;
+&lt;p&gt;With this information in hand, Durenard moves on to skillfully cover the theory, practice, and technologies needed to excel at this endeavor. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Part I&lt;/strong&gt; introduces the basic conceptual and programmatic framework for the design of trading strategies as trading agents—exploring data representation, indicators, basic model types, and techniques to test them&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Part II&lt;/strong&gt; introduces innovative concepts designed to tackle adaptation of trading strategies to changing market conditions. Those include Swarm Systems that help navigate the higher complexity of the markets at lower timescales&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Part III&lt;/strong&gt; focuses on the important aspect of trading costs and slippage—discussing the analysis of the intraday bid-offer and volume seasonality in major markets and detailing several algorithmic execution strategies designed to help reduce market impact&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Part IV&lt;/strong&gt; presents the practical implementation of a real-time, low-latency automated trading infrastructure designed to support a Swarm of Trading Agents operating on a collection of Electronic Commerce Networks (ECNs)&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Engaging and accessible, &lt;em&gt;Professional Automated Trading&lt;/em&gt; contains the information you need to make the most of automated trading in free markets.&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Trading is a science based on a variety of fields, from mathematics to physics. It is also an art based on knowing and respecting the markets and, equally important, knowing oneself. But most of all, trading is a business that hinges on a carefully understood discipline and process of seeking reward in the face of risk. &lt;/p&gt;
+&lt;p&gt;No one is more familiar with this than author Eugene Durenard. A recognized expert in automated trading—who has long incorporated aspects of artificial life and robotics systems research into his trading—he knows what it takes to create systematic trading strategies that are adaptive and opportunistic. Now, with this new book, he shares those valuable insights with you. Whether you're part of a professional prop trading desk or an ambitious individual trader, this practical guide will put you in a better position to successfully navigate today's competitive markets. &lt;/p&gt;
+&lt;p&gt;Divided into four comprehensive parts, &lt;em&gt;Professional Automated Trading: Theory and Practice&lt;/em&gt; opens with an introductory chapter that sets the stage for modern systematic trading. It critically examines the merits of systematic trading from a philosophical and psychological perspective, as well as focuses on it as a business activity. &lt;/p&gt;
+&lt;p&gt;With this information in hand, Durenard moves on to skillfully cover the theory, practice, and technologies needed to excel at this endeavor. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Part I&lt;/strong&gt; introduces the basic conceptual and programmatic framework for the design of trading strategies as trading agents—exploring data representation, indicators, basic model types, and techniques to test them&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Part II&lt;/strong&gt; introduces innovative concepts designed to tackle adaptation of trading strategies to changing market conditions. Those include Swarm Systems that help navigate the higher complexity of the markets at lower timescales&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Part III&lt;/strong&gt; focuses on the important aspect of trading costs and slippage—discussing the analysis of the intraday bid-offer and volume seasonality in major markets and detailing several algorithmic execution strategies designed to help reduce market impact&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Part IV&lt;/strong&gt; presents the practical implementation of a real-time, low-latency automated trading infrastructure designed to support a Swarm of Trading Agents operating on a collection of Electronic Commerce Networks (ECNs)&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Engaging and accessible, &lt;em&gt;Professional Automated Trading&lt;/em&gt; contains the information you need to make the most of automated trading in free markets.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;EUGENE A. DURENARD&lt;/strong&gt; is CEO of DTC Ltd in Bermuda, a firm that specializes in applying systematic techniques to leveraged and real money trading across a wide variety of asset classes. DTC has been acting over the years as investment advisor and manager for a range of institutions including banks, hedge funds, and proprietary trading groups. DTC is currently advising Capital G, the largest private bank in Bermuda, where Eugene acts as Head of Research and Product Development. Eugene is a partner and CIO of ERA Capital Partners, a Chicago-based quantitative systematic Proprietary Trading Group.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781118129852</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1118129857</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">17395444</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">PUXxAAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eugene A. Durenard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-04-02T05:51:33.767203+00:00"/>
+        <meta name="calibre:title_sort" content="Professional Automated Trading: Theory and Practice"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

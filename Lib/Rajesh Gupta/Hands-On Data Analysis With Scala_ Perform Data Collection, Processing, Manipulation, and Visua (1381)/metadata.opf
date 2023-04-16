@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1381</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8285729-682c-42f1-ab04-0b33791b3f71</dc:identifier>
+        <dc:title>Hands-On Data Analysis With Scala: Perform Data Collection, Processing, Manipulation, and Visualization With Scala</dc:title>
+        <dc:creator opf:file-as="Gupta, Rajesh" opf:role="aut">Rajesh Gupta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-03T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Master scala's advanced techniques to solve real-world problems in data analysis and gain valuable insights from your data&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;A beginner's guide for performing data analysis loaded with numerous rich, practical examples &lt;/li&gt;
+&lt;li&gt;Access to popular Scala libraries such as Breeze, Saddle for efficient data manipulation and exploratory analysis &lt;/li&gt;
+&lt;li&gt;Develop applications in Scala for real-time analysis and machine learning in Apache Spark&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Efficient business decisions with an accurate sense of business data helps in delivering better performance across products and services. This book helps you to leverage the popular Scala libraries and tools for performing core data analysis tasks with ease. &lt;/p&gt;
+&lt;p&gt;The book begins with a quick overview of the building blocks of a standard data analysis process. You will learn to perform basic tasks like Extraction, Staging, Validation, Cleaning, and Shaping of datasets. You will later deep dive into the data exploration and visualization areas of the data analysis life cycle. You will make use of popular Scala libraries like Saddle, Breeze, Vegas, and PredictionIO for processing your datasets. You will learn statistical methods for deriving meaningful insights from data. You will also learn to create applications for Apache Spark 2.x on complex data analysis, in real-time. You will discover traditional machine learning techniques for doing data analysis. Furthermore, you will also be introduced to neural networks and deep learning from a data analysis standpoint. &lt;/p&gt;
+&lt;p&gt;By the end of this book, you will be capable of handling large sets of structured and unstructured data, perform exploratory analysis, and building efficient Scala applications for discovering and delivering insights&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Techniques to determine the validity and confidence level of data &lt;/li&gt;
+&lt;li&gt;Apply quartiles and n-tiles to datasets to see how data is distributed into many buckets &lt;/li&gt;
+&lt;li&gt;Create data pipelines that combine multiple data lifecycle steps &lt;/li&gt;
+&lt;li&gt;Use built-in features to gain a deeper understanding of the data &lt;/li&gt;
+&lt;li&gt;Apply Lasso regression analysis method to your data &lt;/li&gt;
+&lt;li&gt;Compare Apache Spark API with traditional Apache Spark data analysis&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;If you are a data scientist or a data analyst who wants to learn how to perform data analysis using Scala, this book is for you. All you need is knowledge of the basic fundamentals of Scala programming.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Scala Overview &lt;/li&gt;
+&lt;li&gt;Data Analysis Life Cycle&lt;/li&gt;
+&lt;li&gt;Data Ingestion&lt;/li&gt;
+&lt;li&gt;Data Exploration and Visualization&lt;/li&gt;
+&lt;li&gt;Applying Statistics and Hypothesis Testing&lt;/li&gt;
+&lt;li&gt;Intro to Spark for distributed Data Analysis&lt;/li&gt;
+&lt;li&gt;Traditional Machine Learning for Data Analysis&lt;/li&gt;
+&lt;li&gt;Near Real Time Data Analysis using Streaming&lt;/li&gt;
+&lt;li&gt;Working with Data at scale&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Rajesh&lt;/strong&gt; is a Hands-on Big Data Tech Lead and Enterprise Architect with extensive experience in the full life cycle of software development. He has successfully architected, developed and deployed highly scalable data solutions using Spark, Scala and Hadoop technology stack for several enterprises. A passionate, hands-on technologist, Rajesh has master's degrees in Mathematics and Computer Science from BITS, Pilani (India).&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781789346114</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1789346118</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-04-15T23:54:59.535454+00:00"/>
+        <meta name="calibre:title_sort" content="Hands-On Data Analysis With Scala: Perform Data Collection, Processing, Manipulation, and Visualization With Scala"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
