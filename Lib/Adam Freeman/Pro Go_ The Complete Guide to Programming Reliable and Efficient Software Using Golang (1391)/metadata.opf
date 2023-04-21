@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1391</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b799dd7-dd42-436b-8a65-1f3471c43a41</dc:identifier>
+        <dc:title>Pro Go: The Complete Guide to Programming Reliable and Efficient Software Using Golang</dc:title>
+        <dc:creator opf:file-as="Freeman, Adam" opf:role="aut">Adam Freeman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-13T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Best-selling author Adam Freeman explains how to get the most from Go, starting from the basics and building up to the most advanced and sophisticated features. You will learn how Go builds on a simple and consistent type system to create a comprehensive and productive development experience that produces fast and robust applications that run across platforms.&lt;/p&gt;
+&lt;p&gt;Go, also known as Golang, is the concise and efficient programming language designed by Google for creating high-performance, cross-platform applications. Go combines strong static types with simple syntax and a comprehensive standard library to increase programmer productivity, while still supporting features such as concurrent/parallel programming.&lt;/p&gt;
+&lt;p&gt;Each topic is covered in a clear, concise, no-nonsense approach that is packed with the details you need to learn to be truly effective. Chapters include common problems and how to avoid them.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Will Learn&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gain a solid understanding of the Go language and tools&lt;/li&gt;
+&lt;li&gt;Gain in-depth knowledge of the Go standard library&lt;/li&gt;
+&lt;li&gt;Use Go for concurrent/parallel tasks&lt;/li&gt;
+&lt;li&gt;Use Go for client- and server-side development &lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For&lt;/p&gt;
+&lt;p&gt;Experienced developers who want to use Go to create applications&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Best-selling author Adam Freeman explains how to get the most from Go, starting from the basics and building up to the most advanced and sophisticated features. You will learn how Go builds on a simple and consistent type system to create a comprehensive and productive development experience that produces fast and robust applications that run across platforms.&lt;/p&gt;
+&lt;p&gt;Go, also known as Golang, is the concise and efficient programming language designed by Google for creating high-performance, cross-platform applications. Go combines strong static types with simple syntax and a comprehensive standard library to increase programmer productivity, while still supporting features such as concurrent/parallel programming.&lt;/p&gt;
+&lt;p&gt;Each topic is covered in a clear, concise, no-nonsense approach that is packed with the details you need to learn to be truly effective. Chapters include common problems and how to avoid them.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Will Learn&lt;/p&gt;
+&lt;p&gt;Gain a solid understanding of the Go language and tools &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gain in-depth knowledge of the Go standard library&lt;/li&gt;
+&lt;li&gt;Use Go for concurrent/parallel tasks&lt;/li&gt;
+&lt;li&gt;Use Go for client- and server-side development&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For&lt;/p&gt;
+&lt;p&gt;This book is for experienced developers who want to use Go to create applications.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Adam Freeman&lt;/strong&gt; is an experienced IT professional who has held senior positions in a range of companies, most recently serving as chief technology officer and chief operating officer of a global bank. Now retired, he spends his time writing and long-distance running. &lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Adam Freeman&lt;/strong&gt; is an experienced IT professional who has held senior positions in a range of companies, most recently serving as chief technology officer and chief operating officer of a global bank. Now retired, he spends his time writing and long-distance running.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484273548</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484273540</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-04-21T01:12:37.144834+00:00"/>
+        <meta name="calibre:title_sort" content="Pro Go: The Complete Guide to Programming Reliable and Efficient Software Using Golang"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
