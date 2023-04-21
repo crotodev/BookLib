@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1387</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d98fad5-8d41-460f-ab72-a155fac3647d</dc:identifier>
+        <dc:title>Functional Programming in Go: Apply Functional Techniques in Golang to Improve the Testability, Readability, and Security of Your Code</dc:title>
+        <dc:creator opf:file-as="Meeus, Dylan" opf:role="aut">Dylan Meeus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.15.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-10T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Leverage core functional programming (FP) concepts to write more maintainable and testable code in Go&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Purchase of the print or Kindle book includes a free PDF eBook&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn functional programming techniques at the architectural level and use them to solve real-world problems&lt;/li&gt;
+&lt;li&gt;Understand how to think about code functionally&lt;/li&gt;
+&lt;li&gt;Learn about the trade-offs of functional programming and object-oriented programming (OOP) in Go&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;While Go is a multi-paradigm language that gives you the option to choose whichever paradigm works best for the particular problem you aim to solve, it supports features that enable you to apply functional principles in your code. In this book, you'll learn about concepts central to the functional programming paradigm and how and when to apply functional programming techniques in Go.&lt;/p&gt;
+&lt;p&gt;Starting with the basic concepts of functional programming, this Golang book will help you develop a deeper understanding of first-class functions. In the subsequent chapters, you'll gain a more comprehensive view of the techniques and methods used in functional languages, such as function currying, partial application, and higher-order functions. You'll then be able to apply functional design patterns for solving common programming challenges and explore how to apply concurrency mechanisms to functional programming.&lt;/p&gt;
+&lt;p&gt;By the end of this book, you'll be ready to improve your code bases by applying functional programming techniques in Go to write cleaner, safer, and bug-free code.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Gain a deeper understanding of functional programming through practical examples&lt;/li&gt;
+&lt;li&gt;Build a solid foundation in core FP concepts and see how they apply to Go code&lt;/li&gt;
+&lt;li&gt;Discover how FP can improve the testability of your code base&lt;/li&gt;
+&lt;li&gt;Apply functional design patterns for problem solving&lt;/li&gt;
+&lt;li&gt;Understand when to choose and not choose FP concepts&lt;/li&gt;
+&lt;li&gt;Discover the benefits of functional programming when dealing with concurrent code&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;If you are a Go engineer with a background in traditionally object-oriented languages such as Java or C++ and want to broaden your knowledge of functional programming, this book is for you.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Introducing Functional Programming&lt;/li&gt;
+&lt;li&gt;Treating Functions as First-Class Citizens&lt;/li&gt;
+&lt;li&gt;Higher -Order Functions&lt;/li&gt;
+&lt;li&gt;Write Testable Codes with Pure Functions&lt;/li&gt;
+&lt;li&gt;Immutability&lt;/li&gt;
+&lt;li&gt;Three Common Categories of Functions&lt;/li&gt;
+&lt;li&gt;Recursion&lt;/li&gt;
+&lt;li&gt;Readable Function Composition with Fluent Programming&lt;/li&gt;
+&lt;li&gt;Functional Design Patterns&lt;/li&gt;
+&lt;li&gt;Thinking functionally to solve problems&lt;/li&gt;
+&lt;li&gt;Functional Programming Libraries&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Dylan Meeus is a Software Engineer, with over a decade of experience in various functional and non-functional programming languages. He has used Go to develop systems in a variety of domains, from healthcare to frameworks for machine learning platforms and digital signal processing software. He developed a passion for Functional Programming when learning Haskell and applied this knowledge to traditionally non-functional languages like Java. Over the past several years, Dylan has been a speaker at various Go and Java-oriented conferences such as GopherCon and Devoxx.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781801811163</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1801811164</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-04-21T00:55:37.347297+00:00"/>
+        <meta name="calibre:title_sort" content="Functional Programming in Go: Apply Functional Techniques in Golang to Improve the Testability, Readability, and Security of Your Code"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

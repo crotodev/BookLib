@@ -87,15 +87,15 @@
     "languages_injected": true,
     "sort_history": [
       [
+        "timestamp",
+        false
+      ],
+      [
         "pubdate",
         false
       ],
       [
         "authors",
-        false
-      ],
-      [
-        "pubdate",
         false
       ],
       [
