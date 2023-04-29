@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1398</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">247b9d67-2dfa-45b9-a543-1fd9678da750</dc:identifier>
+        <dc:title>Functional Programming in Scala, Second Edition</dc:title>
+        <dc:creator opf:file-as="Pilquist, Michael &amp; Chiusano, Paul &amp; Bjarnasson, Rúnar" opf:role="aut">Michael Pilquist</dc:creator>
+        <dc:creator opf:file-as="Pilquist, Michael &amp; Chiusano, Paul &amp; Bjarnasson, Rúnar" opf:role="aut">Paul Chiusano</dc:creator>
+        <dc:creator opf:file-as="Pilquist, Michael &amp; Chiusano, Paul &amp; Bjarnasson, Rúnar" opf:role="aut">Rúnar Bjarnasson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-06-20T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Discover the power that functional programming brings to your Scala code. This international bestseller has been revised with new exercises, annotations, and full coverage of Scala 3. &lt;/p&gt;
+&lt;p&gt;The first edition of &lt;em&gt;Functional Programming in Scala&lt;/em&gt; has helped over 30,000 developers discover the power of functional programming. This second edition is fully updated to Scala 3 and the latest standards of FP. Inside, you’ll find a serious tutorial for programmers looking to apply functional programming to improve their everyday coding practices. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Functional Programming in Scala, Second Edition&lt;/em&gt; teaches you functional programming from first principles using the powerful Scala language. You’ll develop the unique skills you need to start thinking functionally through hands-on exercises and coding challenges. New to the revised second edition, each exercise comes with extensive annotations to help you understand functional programming in-depth. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781617299582</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1141087940</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-29T06:15:35.813913+00:00"/>
+        <meta name="calibre:title_sort" content="Functional Programming in Scala, Second Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

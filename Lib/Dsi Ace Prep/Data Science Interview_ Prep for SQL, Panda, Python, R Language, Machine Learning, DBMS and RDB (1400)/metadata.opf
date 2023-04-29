@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d340f3a5-f279-4737-bf0a-c0823a213c76</dc:identifier>
+        <dc:title>Data Science Interview: Prep for SQL, Panda, Python, R Language, Machine Learning, DBMS and RDBMS - and More - the Full Data Scientist Interview Handbook</dc:title>
+        <dc:creator opf:file-as="Prep, Dsi Ace" opf:role="aut">Dsi Ace Prep</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-06T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Are YOU looking for a data scientist job&lt;/strong&gt;?&lt;/p&gt;
+&lt;p&gt;Then keep reading...&lt;/p&gt;
+&lt;p&gt;The median annual salary for a Data Scientist is &lt;strong&gt;$98,230,&lt;/strong&gt; according to the Bureau of Labor Statistics.&lt;/p&gt;
+&lt;p&gt;Data science job postings grew by 31% over the past few years, while data science job searches only rose by 14% over the same period. This high demand has led to a shortage of over 150,000 data science professionals.&lt;/p&gt;
+&lt;p&gt;Glassdoor ranks data science, as the &lt;strong&gt;#2 job in America for 2022,&lt;/strong&gt; and this trend is likely to continue.&lt;/p&gt;
+&lt;p&gt;Data science is one of the most in-demand professions today. It's also one of the highest paid and offers great benefits. It's also one of the hardest to get into, with only 1 in every 10 applicants being accepted by top companies like Google and Facebook. And as such, there are many challenges that come with this profession such as finding your dream job, getting through interviews and landing the offer letter.&lt;/p&gt;
+&lt;p&gt;You don't have to be intimidated by interviews anymore! With this Data Science Interview book, you'll be prepared for questions compiled from real data scientists who work at top companies including Google, Facebook, and Amazon &amp;amp; NASA.&lt;/p&gt;
+&lt;p&gt;You can use this Data Science Interview book as an effective study guide before going into any interview or even just brush up on some concepts if you feel confident about them already. Either way it'll be worth it because we know how difficult it is to find good jobs in today's market! Don't let another opportunity pass you by - buy this book now and start preparing for your next big data science interview!&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;CONTENTS:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;INTRODUCTION&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;Meaning of Data Science&lt;/p&gt;
+&lt;p&gt;Background Interview Questions and Solutions&lt;/p&gt;
+&lt;p&gt;Careers in Data Science&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CHAPTER 1: MASTERING THE BASICS&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;Statistics&lt;/p&gt;
+&lt;p&gt;Probability&lt;/p&gt;
+&lt;p&gt;Linear Algebra&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CHAPTER 2: PYTHON&lt;/li&gt;
+&lt;li&gt;CHAPTER 3: PANDA&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;Numpy Interview Questions&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CHAPTER 4: MACHINE LEARNING&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;PCA Interview Questions&lt;/p&gt;
+&lt;p&gt;Curse of Dimensionality&lt;/p&gt;
+&lt;p&gt;Support Vector Machine (SVM)&lt;/p&gt;
+&lt;p&gt;Overfitting and Underfitting&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CHAPTER 5: R LANGUAGE&lt;/li&gt;
+&lt;li&gt;CSV files in R Programming&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;Confusion Matrix&lt;/p&gt;
+&lt;p&gt;Random Forest in R&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;K-MEANS Clustering &lt;/li&gt;
+&lt;li&gt;CHAPTER 6: SQL&lt;/li&gt;
+&lt;li&gt;DBMS and RDBMS&lt;/li&gt;
+&lt;li&gt;RDBMS&lt;/li&gt;
+&lt;li&gt;MYSQL&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;Unique Constraints&lt;/p&gt;
+&lt;p&gt;Clustered and Non-Clustered Indexes&lt;/p&gt;
+&lt;p&gt;Data Integrity&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;SQL Cursor&lt;/li&gt;
+&lt;li&gt;CHAPTER 7: DATA WRANGLING&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;Data Visualization&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CHAPTER 8: DATA SCIENCE INTERVIEW EXTRA&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;Extra Interview Questions&lt;/p&gt;
+&lt;p&gt;Interview Questions on Technical Abilities&lt;/p&gt;
+&lt;p&gt;Interview on Personal Concerns&lt;/p&gt;
+&lt;p&gt;Interview Questions on Communication and Leadership&lt;/p&gt;
+&lt;p&gt;Behavioral Interview Questions&lt;/p&gt;
+&lt;p&gt;Interview Questions Top Companies &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CONCLUSION &lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;The data scientist professions rank high among the top-10 emerging careers in the United States. This book encapsulates the core of data science in a concise, compact, and clear manner. It provides advanced questions and solutions on data science interview. It provided an introduction to the key ideas followed by a set of interview questions to help you reinforce your comprehension and prepare for your next interview.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topics covered in this book include&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic data science interview questions&lt;/li&gt;
+&lt;li&gt;Python interview questions&lt;/li&gt;
+&lt;li&gt;Panda questions&lt;/li&gt;
+&lt;li&gt;Machine learning interview questions&lt;/li&gt;
+&lt;li&gt;R Language interview questions&lt;/li&gt;
+&lt;li&gt;SQL questions and many more&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;To secure your role as a Data Scientist get this book now!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Data Science Interview Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781915002105</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1141340719</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">qTUNzwEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-04-29T07:35:38.512531+00:00"/>
+        <meta name="calibre:title_sort" content="Data Science Interview: Prep for SQL, Panda, Python, R Language, Machine Learning, DBMS and RDBMS - and More - the Full Data Scientist Interview Handbook"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

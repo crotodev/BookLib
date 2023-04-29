@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1401</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2713217f-0718-4705-bc83-e2db904d98f5</dc:identifier>
+        <dc:title>Be the Outlier: How to Ace Data Science Interviews</dc:title>
+        <dc:creator opf:file-as="Murthy, Shrilata" opf:role="aut">Shrilata Murthy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-04T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;According to LinkedIn’s third annual U.S. Emerging Jobs Report, the data scientist role is ranked &lt;em&gt;third&lt;/em&gt; among the top-15 emerging jobs in the U.S. Though the field of data science has been exploding, there didn’t appear to be a comprehensive resource to help data scientists navigate the interview process... until now. &lt;/p&gt;
+&lt;p&gt;In Be the Outlier: How to Ace Data Science Interviews, data scientist Shrilata Murthy covers all aspects of a data science interview in today’s industry. Murthy combines her own experience in the job market with expert insight from data scientists with Google, Facebook, Amazon, NASA, Aetna, MBB &amp;amp; Big 4 consulting firms, and many more. &lt;/p&gt;
+&lt;p&gt;In this book, you’ll learn... &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the foundational knowledge that is key to any data science interview &lt;/li&gt;
+&lt;li&gt;the 100-Word Story framework for writing a stellar resume &lt;/li&gt;
+&lt;li&gt;what to expect from a variety of interview styles (take-home, presentation, case study, etc.), and &lt;/li&gt;
+&lt;li&gt;actionable ways to differentiate yourself from your peers. &lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;By using real-world examples, practice questions, and sample interviews, Murthy has created an easy-to-follow guide that will help you crack any data science interview. After reading Be the Outlier, get ready to land your dream job in data science. &lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"In &lt;em&gt;Be the Outlier&lt;/em&gt; , Shrilata expertly blends her deep data science expertise with the industry's current needs and trends to show how to crack a data science interview." -- Diego Klabjan, Director, Master of Science in Analytics, Northwestern University &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;"Be the Outlier&lt;/em&gt; provides a thorough and practical framework for identifying and expressing your key differentiators. It is a must-read for anyone seeking to grow their analytics career opportunities." - Andy Fox, Senior Director, Opex Analytics &lt;/p&gt;
+&lt;p&gt;"Shrilata does an amazing job of getting down to the specifics, with real-world interview questions collected from across the data science community. This is a must-read not just for job seekers, but for hiring managers as well." - Peter Schmidt, Lead Data Scientist &lt;/p&gt;
+&lt;p&gt;"This outlier of a book will help you navigate the interview process while helping you answer the deeper questions about your career path. Don't attempt another interview without it!" - Anthony Tockar, Data Science Leader, Verge Labs&lt;br&gt;"Big data revolution has been transforming the businesslandscape. If you are pursuing a data scientist career or keeping up with thequants and analytics, this book is a MUST-READ!" - Emily Ko, AssistantProfessor at Northwestern University&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Shrilata Murthy is a practicing data scientist with experience in statistical modeling, data mining, and data visualization. She holds a Master's degree in Analytics from Northwestern University and a B.E. in Information Technology from Mumbai University. As a programmer-turned-data scientist, Murthy now enjoys consulting to help improve data-driven decision making. &lt;/p&gt;
+&lt;p&gt;When she's not building machine-learning models, Murthy loves spending time with her daughter and going for outdoor runs. Her debut book &lt;em&gt;Be the Outlier: How to Ace Data Science Interviews&lt;/em&gt; is a practical guide for any novice or experienced data scientist looking to improve their interview technique.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>New Degree Press</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">B08F9M83LJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08F9M83LJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">55000016</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-04-29T07:36:05.223723+00:00"/>
+        <meta name="calibre:title_sort" content="Be the Outlier: How to Ace Data Science Interviews"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

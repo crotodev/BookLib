@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1403</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48d51954-9866-4fea-9836-b953ca6de5dd</dc:identifier>
+        <dc:title>Advances in Data Science and Analytics: Concepts and Paradigms</dc:title>
+        <dc:creator opf:file-as="Niranjanamurthy, M. &amp; Gianey, Hemant Kumar &amp; Gandomi, Amir H." opf:role="aut">M. Niranjanamurthy</dc:creator>
+        <dc:creator opf:file-as="Niranjanamurthy, M. &amp; Gianey, Hemant Kumar &amp; Gandomi, Amir H." opf:role="aut">Hemant Kumar Gianey</dc:creator>
+        <dc:creator opf:file-as="Niranjanamurthy, M. &amp; Gianey, Hemant Kumar &amp; Gandomi, Amir H." opf:role="aut">Amir H. Gandomi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-01T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;ADVANCES in DATA SCIENCE and ANALYTICS&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Presenting the concepts and advances of data science and analytics, this volume, written and edited by a global team of experts, also goes into the practical applications that can be utilized across multiple disciplines and industries, for both the engineer and the student, focusing on machining learning, big data, business intelligence, and analytics.&lt;/p&gt;
+&lt;p&gt;Data science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining, deep learning, and big data. Data analytics software is a more focused version of this and can even be considered part of the larger process. Analytics is devoted to realizing actionable insights that can be applied immediately based on existing queries. For the purposes of this volume, data science is an umbrella term that encompasses data analytics, data mining, machine learning, and several other related disciplines. While a data scientist is expected to forecast the future based on past patterns, data analysts extract meaningful insights from various data sources. &lt;/p&gt;
+&lt;p&gt;Although data mining and other related areas have been around for a few decades, data science and analytics are still quickly evolving, and the processes and technologies change, almost on a day-to-day basis. This volume provides an overview of some of the most important advances in these areas today, including practical coverage of the daily applications. Valuable as a learning tool for beginners in this area as well as a daily reference for engineers and scientists working in these areas, this is a must-have for any library.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119792802</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1141551651</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">o5aZEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Data Analytics</dc:subject>
+        <dc:subject>Desktop Applications</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <meta name="calibre:timestamp" content="2023-04-29T07:37:31.181134+00:00"/>
+        <meta name="calibre:title_sort" content="Advances in Data Science and Analytics: Concepts and Paradigms"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

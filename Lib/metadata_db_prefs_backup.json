@@ -79,13 +79,23 @@
   ],
   "library_view books view state": {
     "hidden_columns": [
+      "id",
       "rating",
+      "formats",
+      "path",
       "last_modified",
       "languages"
     ],
     "last_modified_injected": true,
     "languages_injected": true,
+    "formats_injected": true,
+    "id_injected": true,
+    "path_injected": true,
     "sort_history": [
+      [
+        "pubdate",
+        true
+      ],
       [
         "timestamp",
         false
@@ -105,6 +115,7 @@
     ],
     "column_positions": {
       "ondevice": 0,
+      "id": 13,
       "title": 1,
       "authors": 2,
       "timestamp": 3,
@@ -113,12 +124,15 @@
       "tags": 6,
       "series": 7,
       "publisher": 8,
+      "formats": 14,
+      "path": 15,
       "pubdate": 9,
       "last_modified": 10,
       "languages": 11,
       "#solutions": 12
     },
     "column_sizes": {
+      "id": 0,
       "title": 350,
       "authors": 350,
       "timestamp": 96,
@@ -127,6 +141,8 @@
       "tags": 412,
       "series": 279,
       "publisher": 208,
+      "formats": 0,
+      "path": 0,
       "pubdate": 90,
       "last_modified": 0,
       "languages": 0,
@@ -142,9 +158,12 @@
     "column_positions": {
       "#solutions": 12,
       "authors": 2,
+      "formats": 14,
+      "id": 13,
       "languages": 11,
       "last_modified": 10,
       "ondevice": 0,
+      "path": 15,
       "pubdate": 9,
       "publisher": 8,
       "rating": 5,
@@ -157,8 +176,11 @@
     "column_sizes": {
       "#solutions": 100,
       "authors": 100,
+      "formats": 100,
+      "id": 100,
       "languages": 100,
       "last_modified": 100,
+      "path": 100,
       "pubdate": 100,
       "publisher": 100,
       "rating": 100,
@@ -329,7 +351,7 @@
       "is_multiple": {},
       "kind": "field",
       "label": "id",
-      "name": null,
+      "name": "Id",
       "rec_index": 0,
       "search_terms": [
         "id"
@@ -973,5 +995,6 @@
     "authorExemptions": [],
     "bookExemptions": [],
     "lastLibraryCompare": ""
-  }
+  },
+  "last_expired_trash_at": 1682719075.3240268
 }

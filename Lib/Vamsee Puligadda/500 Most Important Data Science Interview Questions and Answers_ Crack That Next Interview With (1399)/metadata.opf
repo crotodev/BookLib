@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1399</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecec7a5e-8ad5-45cb-ac5c-addfb44c3ae7</dc:identifier>
+        <dc:title>500 Most Important Data Science Interview Questions and Answers: Crack That Next Interview With Higher Salary in Less Preparation Time</dc:title>
+        <dc:creator opf:file-as="Puligadda, Vamsee" opf:role="aut">Vamsee Puligadda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-14T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Are you looking for a switch with better pay? &lt;br&gt;Or Have you already started preparing for your next interview? &lt;/p&gt;
+&lt;p&gt;Imagine the interviewer sittig in front of you and asking the questions. &lt;br&gt;You might have good hands-on experience with the technology or you might even be the &lt;em&gt;Star of the Month&lt;/em&gt; in your company. &lt;br&gt;But as you already know, when it comes to the IT interviews, our skill and knowledge alone are not sufficient. &lt;/p&gt;
+&lt;p&gt;We need to have a solid plan with strong command on what questions are frequently asked, most important and how to answer them to the point, short and crisp. &lt;br&gt;It is high time to brush up your knowledge and skills by knowing &lt;em&gt;Exactly&lt;/em&gt; what kind of questions will be asked in that interview and the most suitable answers to them. &lt;/p&gt;
+&lt;p&gt;This book was written by someone who worked and have knowledge on multiple technologies and also switched multiple top MNCs in career. &lt;/p&gt;
+&lt;p&gt;If you want to be confident to crack the next interview, get this book and prepare well. &lt;/p&gt;
+&lt;p&gt;The Book Contains: &lt;/p&gt;
+&lt;p&gt;500 most frequently asked and important DataScience interview questions and answers &lt;br&gt;Wide range of questions which cover not only basics in &lt;em&gt;Data Science&lt;/em&gt; but also most advanced and complex questions which will &lt;br&gt;help freshers, experienced professionals, senior developers, testers to crack their interviews. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>The Indian Wolf Publications</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07MTNFG7M</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07MTNFG7M</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">43618400</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="4"/>
+        <meta name="calibre:timestamp" content="2023-04-29T07:35:14.733751+00:00"/>
+        <meta name="calibre:title_sort" content="500 Most Important Data Science Interview Questions and Answers: Crack That Next Interview With Higher Salary in Less Preparation Time"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

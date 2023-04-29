@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1396</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76c2bc83-e244-4d6e-90f0-96b60cf6d650</dc:identifier>
+        <dc:title>Practical Scala DSLs: Real-World Applications Using Domain Specific Languages</dc:title>
+        <dc:creator opf:file-as="Riti, Pierluigi" opf:role="aut">Pierluigi Riti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-30T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Build domain specific languages (DSLs) using Java's most popular functional programming language: Scala. This book introduces the basics of Scala and DSLs using a series of practical examples. In &lt;em&gt;Practical Scala DSLs&lt;/em&gt; , you’ll learn to create pragmatic and complete code examples that explain the actual use of DSLs with Scala: a web API and microservices; a custom language; a mobile app; a Forex system; a game; and cloud applications. &lt;br&gt;At the end of this unique book, you’ll be able to describe the differences between external and internal DSLs; understand when and how to apply DSLs; create DSLs using Scala; and even create a DSL using another programming language.&lt;br&gt;&lt;strong&gt;What You'll Learn&lt;/strong&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build DSLs in Scala &lt;/li&gt;
+&lt;li&gt;Write a web API and microservices &lt;/li&gt;
+&lt;li&gt;Create a custom language &lt;/li&gt;
+&lt;li&gt;Apply DSLs to mobile apps development, a Forex trading system, game development, and more &lt;/li&gt;
+&lt;li&gt;Discover the role of DSLs in cloud development &lt;/li&gt;
+&lt;li&gt;Integrate DSLs as part of a DevOps program or structure &lt;/li&gt;
+&lt;li&gt;Build internal and external DSLs &lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Who This Book Is For&lt;/strong&gt;&lt;br&gt;Experienced Java coders with at least some prior experience with Scala. You may be new to DSLs. &lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Build domain specific languages (DSLs) using Java's most popular functional programming language: Scala. This book introduces the basics of Scala and DSLs using a series of practical examples. In each chapter of &lt;em&gt;Practical Scala DSLs&lt;/em&gt; , you’ll learn to create pragmatic and complete code examples that explain the actual use of DSLs with Scala: a web API and microservices; a custom language; a mobile app; a Forex system; a game; and cloud applications. &lt;br&gt;At the end of this unique book, you’ll be able to describe the differences between external and internal DSLs; understand when and how to apply DSLs; create DSLs using Scala; and even create a DSL using another programming language.&lt;br&gt;You will: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build DSLs in Scala &lt;/li&gt;
+&lt;li&gt;Write a web API and microservices &lt;/li&gt;
+&lt;li&gt;Create a custom language &lt;/li&gt;
+&lt;li&gt;Apply DSLs to mobile apps development, a Forex trading system, game development, and more &lt;/li&gt;
+&lt;li&gt;Discover the role of DSLs in cloud development &lt;/li&gt;
+&lt;li&gt;Integrate DSLs as part of a DevOps program or structure &lt;/li&gt;
+&lt;li&gt;Build internal and external DSLs&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Pierluigi Riti has over ten years of extensive experience in design and development of different scale applications particularly in the Telco and Financial industry. He has quality development skills using latest technologies including Java, J2EE,C#, F#, .NET, Spring .NET, EF, WPF, WF, WinForm, WebAPI, MVC, Nunit, Scala, Spring, JSP, EJB, Struts, Struts2, SOAP, REST, C, C++, Hibernate, NHibernate, Weblogic, XML, XSLT, Unix script, Ruby, Python. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484230367</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484230353</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1133116956</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">35803222</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">AxVBDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-04-29T06:14:28.572851+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Scala DSLs: Real-World Applications Using Domain Specific Languages"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

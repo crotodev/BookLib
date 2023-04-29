@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1395</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37a6a13e-2607-4081-be8e-c8e9fece7676</dc:identifier>
+        <dc:title>Data Structures and Algorithms With Scala: A Practitioner's Approach With Emphasis on Functional Programming</dc:title>
+        <dc:creator opf:file-as="Upadhyaya, Bhim P." opf:role="aut">Bhim P. Upadhyaya</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-26T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This practically-focused textbook presents a concise tutorial on data structures and algorithms using the object-functional language Scala. The material builds upon the foundation established in the title &lt;em&gt;Programming with Scala: Language Exploration&lt;/em&gt; by the same author, which can be treated as a companion text for those less familiar with Scala.&lt;/p&gt;
+&lt;p&gt;Topics and features: discusses data structures and algorithms in the form of design patterns; covers key topics on arrays, lists, stacks, queues, hash tables, binary trees, sorting, searching, and graphs; describes examples of complete and running applications for each topic; presents a functional approach to implementations for data structures and algorithms (excepting arrays); provides numerous challenge exercises (with solutions), encouraging the reader to take existing solutions and improve upon them; offers insights from the author’s extensive industrial experience; includes a glossary, and an appendix supplying an overview of discrete mathematics.&lt;/p&gt;
+&lt;p&gt;Highlighting the techniques and skills necessary to quickly derive solutions to applied problems, this accessible text will prove invaluable to time-pressured students and professional software engineers.&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;This practically-focused textbook presents a concise tutorial on data structures and algorithms using the object-functional language Scala. The material builds upon the foundation established in the title &lt;em&gt;Programming with Scala: Language Exploration&lt;/em&gt; by the same author, which can be treated as a companion text for those less familiar with Scala.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Topics and features: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discusses data structures and algorithms in the form of design patterns&lt;/li&gt;
+&lt;li&gt;Covers key topics on arrays, lists, stacks, queues, hash tables, binary trees, sorting, searching, and graphs&lt;/li&gt;
+&lt;li&gt;Describes examples of complete and running applications for each topic&lt;/li&gt;
+&lt;li&gt;Presents a functional approach to implementations for data structures and algorithms (excepting arrays)&lt;/li&gt;
+&lt;li&gt;Provides numerous challenge exercises (with solutions), encouraging the reader to take existing solutions and improve upon them&lt;/li&gt;
+&lt;li&gt;Offers insights from the author’s extensive industrial experience&lt;/li&gt;
+&lt;li&gt;Includes a glossary, and an appendix supplying an overview of discrete mathematics&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Highlighting the techniques and skills necessary to quickly derive solutions to applied problems, this accessible text will prove invaluable to time-pressured students and professional software engineers. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bhim P. Upadhyaya&lt;/strong&gt; is a certified enterprise architect, application architect, software engineer, Java and JEE developer, and big data and Scala enthusiast. In addition to his professional experience as a software architect working for more than 15 companies in the USA, he has more than half a decade of university teaching and research experience, including research work for the United Nations and at the University of Queensland (Australia). He is the founder of EqualInformation, LLC (Sunnyvale, CA, USA), a company that focuses on data synthesis and visualization, web application design and development, enterprise architecture, and integration solutions.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Bhim P. Upadhyaya&lt;/strong&gt; is a certified enterprise architect, application architect, software engineer, Java and JEE developer, and big data and Scala enthusiast. In addition to his professional experience as a software architect working for more than 15 companies in the USA, he has more than half a decade of university teaching and research experience, including research work at the world’s largest (non-profit) organization, the United Nations. He has also served as a visiting scholar at the School of Information Technology and Electrical Engineering (ITEE) in the University of Queensland (Brisbane, Australia). He is the founder of EqualInformation, LLC (Sunnyvale, CA, USA), a company that focuses on data synthesis and visualization, web application design and development, enterprise architecture, and integration solutions. He has a master's degree in Software Management, a master's degree in Computer Science, a graduate certificate in Enterprise Architecture, and a bachelor's degree in Electrical and Electronic Engineering, with a specialization in Communications Engineering.&lt;/p&gt;
+&lt;p&gt;His other publications include the Springer textbook &lt;em&gt;Programming with Scala: Language Exploration&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Springer</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783030125615</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">3030125602</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1133106617</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">CHWKDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <meta name="calibre:series" content="Undergraduate Topics in Computer Science"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-04-29T06:13:21.207017+00:00"/>
+        <meta name="calibre:title_sort" content="Data Structures and Algorithms With Scala: A Practitioner's Approach With Emphasis on Functional Programming"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
