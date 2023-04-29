@@ -17,6 +17,10 @@
   ],
   "gui_view_history": [
     [
+      1402,
+      "Essential Statistics for Data Science: a Concise Crash Course"
+    ],
+    [
       1346,
       "Reinforcement Learning for Finance: Solve Problems in Finance With CNN and RNN Using the TensorFlow Library"
     ],
@@ -71,10 +75,6 @@
     [
       610,
       "For a Cinema of \"Inbetween-ness\": Emanuele Crialese's \"Nuovomondo\" (2006)"
-    ],
-    [
-      185,
-      "Build Your Dream Network: Forging Powerful Relationships in a Hyper-Connected World"
     ]
   ],
   "library_view books view state": {
@@ -102,10 +102,6 @@
       ],
       [
         "pubdate",
-        false
-      ],
-      [
-        "authors",
         false
       ],
       [
@@ -996,5 +992,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1682719075.3240268
+  "last_expired_trash_at": 1682748776.511858
 }
