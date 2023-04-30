@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9f1f6940-b1be-4def-b674-75359259e357</dc:identifier>
         <dc:title>Detecting Regime Change in Computational Finance: Data Science, Machine Learning and Algorithmic Trading</dc:title>
         <dc:creator opf:file-as="Chen, Jun" opf:role="aut">Jun Chen</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-09-15T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Based on interdisciplinary research into "Directional Change", a new data-driven approach to financial data analysis, Detecting Regime Change in Computational Finance: Data Science, Machine Learning and Algorithmic Trading applies machine learning to financial market monitoring and algorithmic trading. Directional Change is a new way of summarising price changes in the market. Instead of sampling prices at fixed intervals (such as daily closing in time series), it samples prices when the market changes direction ("zigzags"). By sampling data in a different way, this book lays out concepts which enable the extraction of information that other market participants may not be able to see. The book includes a Foreword by Richard Olsen and explores the following topics:&lt;/p&gt;
@@ -29,7 +29,6 @@
         <dc:subject>Financial Engineering</dc:subject>
         <dc:subject>Financial Modeling</dc:subject>
         <dc:subject>Machine Learning</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Jun Chen&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2022-12-26T19:13:50+00:00"/>
         <meta name="calibre:title_sort" content="Detecting Regime Change in Computational Finance: Data Science, Machine Learning and Algorithmic Trading"/>

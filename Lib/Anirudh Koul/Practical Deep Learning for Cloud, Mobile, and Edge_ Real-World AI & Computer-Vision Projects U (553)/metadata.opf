@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Koul, Anirudh &amp; Ganju, Siddha &amp; Kasam, Meher" opf:role="aut">Anirudh Koul</dc:creator>
         <dc:creator opf:file-as="Koul, Anirudh &amp; Ganju, Siddha &amp; Kasam, Meher" opf:role="aut">Siddha Ganju</dc:creator>
         <dc:creator opf:file-as="Koul, Anirudh &amp; Ganju, Siddha &amp; Kasam, Meher" opf:role="aut">Meher Kasam</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-10-14T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Featured as a learning resource on the official Keras website &lt;/p&gt;
@@ -26,7 +26,6 @@
         <dc:subject>Deep Learning</dc:subject>
         <dc:subject>Tensorflow</dc:subject>
         <dc:subject>Keras</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Anirudh Koul&quot;: &quot;&quot;, &quot;Siddha Ganju&quot;: &quot;&quot;, &quot;Meher Kasam&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-24T21:57:02+00:00"/>
         <meta name="calibre:title_sort" content="Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI &amp; Computer-Vision Projects Using Python, Keras &amp; TensorFlow"/>

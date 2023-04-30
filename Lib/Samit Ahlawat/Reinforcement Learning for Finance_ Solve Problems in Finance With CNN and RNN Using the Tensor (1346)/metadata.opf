@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ba5f2a86-dcee-4b8d-bc95-a7e25c0cb133</dc:identifier>
         <dc:title>Reinforcement Learning for Finance: Solve Problems in Finance With CNN and RNN Using the TensorFlow Library</dc:title>
         <dc:creator opf:file-as="Ahlawat, Samit" opf:role="aut">Samit Ahlawat</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-12-27T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -30,7 +30,6 @@
         <dc:identifier opf:scheme="AMAZON">1484288343</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781484288344</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Samit Ahlawat&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="2"/>
         <meta name="calibre:timestamp" content="2023-03-19T19:20:45+00:00"/>
         <meta name="calibre:title_sort" content="Reinforcement Learning for Finance: Solve Problems in Finance With CNN and RNN Using the TensorFlow Library"/>

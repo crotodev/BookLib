@@ -6,7 +6,7 @@
         <dc:title>R for Data Science: Import, Tidy, Transform, Visualize, and Model Data</dc:title>
         <dc:creator opf:file-as="Wickham, Hadley &amp; Grolemund, Garrett" opf:role="aut">Hadley Wickham</dc:creator>
         <dc:creator opf:file-as="Wickham, Hadley &amp; Grolemund, Garrett" opf:role="aut">Garrett Grolemund</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-12-12T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Learn how to use R to turn raw data into insight, knowledge, and understanding. This book introduces you to R, RStudio, and the tidyverse, a collection of R packages designed to work together to make data science fast, fluent, and fun. Suitable for readers with no previous programming experience, R for Data Science is designed to get you doing data science as quickly as possible. &lt;/p&gt;
@@ -30,7 +30,6 @@
         <dc:subject>Mathematical &amp; Statistical Software</dc:subject>
         <dc:subject>Mathematics</dc:subject>
         <dc:subject>Probability &amp; Statistics</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Hadley Wickham&quot;: &quot;&quot;, &quot;Garrett Grolemund&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-14T05:11:49+00:00"/>
         <meta name="calibre:title_sort" content="R for Data Science: Import, Tidy, Transform, Visualize, and Model Data"/>

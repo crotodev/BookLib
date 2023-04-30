@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a33b2c1a-1206-43f6-b3ac-d9e5f6e2f3af</dc:identifier>
         <dc:title>Numerical Methods Using Java: For Data Science, Analysis, and Engineering</dc:title>
         <dc:creator opf:file-as="Haksun Li, Phd" opf:role="aut">Haksun Li, Phd</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-01-06T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;About the Author&lt;/h3&gt;
@@ -42,7 +42,6 @@
         <dc:subject>Computers</dc:subject>
         <dc:subject>General</dc:subject>
         <dc:subject>Database Administration &amp; Management</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Haksun Li, Phd&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-28T16:30:14+00:00"/>
         <meta name="calibre:title_sort" content="Numerical Methods Using Java: For Data Science, Analysis, and Engineering"/>

@@ -6,7 +6,7 @@
         <dc:title>The Definitive Book of Body Language</dc:title>
         <dc:creator opf:file-as="Pease, Barbara &amp; Pease, Allan" opf:role="aut">Barbara Pease</dc:creator>
         <dc:creator opf:file-as="Pease, Barbara &amp; Pease, Allan" opf:role="aut">Allan Pease</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2004-01-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Available for the first time in the United States, this international bestseller reveals the secrets of nonverbal communication to give you confidence and control in any face-to-face encounter–from making a great first impression and acing a job interview to finding the right partner. &lt;/p&gt;
@@ -25,7 +25,6 @@
         <dc:subject>Business</dc:subject>
         <dc:subject>Science</dc:subject>
         <dc:subject>Reference</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Barbara Pease&quot;: &quot;&quot;, &quot;Allan Pease&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-24T17:43:26+00:00"/>
         <meta name="calibre:title_sort" content="Definitive Book of Body Language, The"/>

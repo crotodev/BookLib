@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6b14bb16-3354-42ff-9ad9-b8b87a2fccb5</dc:identifier>
         <dc:title>The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy</dc:title>
         <dc:creator opf:file-as="Bailey, Chris" opf:role="aut">Chris Bailey</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-08-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;A fresh, personal, and entertaining exploration of a topic that concerns all of us: how to be more productive at work and in every facet of our lives. &lt;/p&gt;
@@ -105,7 +105,6 @@
         <dc:subject>Skills</dc:subject>
         <dc:subject>Self-Improvement</dc:subject>
         <dc:subject>Productivity</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Chris Bailey&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-07T05:39:11+00:00"/>
         <meta name="calibre:title_sort" content="Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy, The"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

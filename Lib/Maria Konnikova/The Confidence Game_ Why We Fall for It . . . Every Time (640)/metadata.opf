@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c11a24f6-6e1f-43f9-9466-3ba25251ac4c</dc:identifier>
         <dc:title>The Confidence Game: Why We Fall for It . . . Every Time</dc:title>
         <dc:creator opf:file-as="Konnikova, Maria" opf:role="aut">Maria Konnikova</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-01-10T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -186,7 +186,6 @@
         <dc:identifier opf:scheme="AMAZON">0143109871</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780143109877</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Maria Konnikova&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-02-12T21:16:53+00:00"/>
         <meta name="calibre:title_sort" content="Confidence Game: Why We Fall for It . . . Every Time, The"/>

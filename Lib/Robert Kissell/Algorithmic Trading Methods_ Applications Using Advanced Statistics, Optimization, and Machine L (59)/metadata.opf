@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6cc2d06d-24ce-4918-ae63-baf01df27934</dc:identifier>
         <dc:title>Algorithmic Trading Methods: Applications Using Advanced Statistics, Optimization, and Machine Learning Techniques</dc:title>
         <dc:creator opf:file-as="Kissell, Robert" opf:role="aut">Robert Kissell</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-09-18T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;em&gt;Algorithmic Trading Methods: Applications using Advanced Statistics, Optimization, and Machine Learning Techniques, Second Edition&lt;/em&gt; , is a sequel to &lt;em&gt;The Science of Algorithmic Trading and Portfolio Management.&lt;/em&gt; This edition includes new chapters on algorithmic trading, advanced trading analytics, regression analysis, optimization, and advanced statistical methods. Increasing its focus on trading strategies and models, this edition includes new insights into the ever-changing financial environment, pre-trade and post-trade analysis, liquidation cost &amp;amp; risk analysis, and compliance and regulatory reporting requirements. Highlighting new investment techniques, this book includes material to assist in the best execution process, model validation, quality and assurance testing, limit order modeling, and smart order routing analysis. Includes advanced modeling techniques using machine learning, predictive analytics, and neural networks. The text provides readers with a suite of transaction cost analysis functions packaged as a TCA library. These programming tools are accessible via numerous software applications and programming languages.&lt;/p&gt;
@@ -26,7 +26,6 @@
         <dc:subject>Algorithms</dc:subject>
         <dc:subject>Python</dc:subject>
         <dc:subject>Programming</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Robert Kissell&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2022-12-22T08:00:50+00:00"/>
         <meta name="calibre:title_sort" content="Algorithmic Trading Methods: Applications Using Advanced Statistics, Optimization, and Machine Learning Techniques"/>

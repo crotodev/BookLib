@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">24610999-0163-40ff-ac52-837375af6b2c</dc:identifier>
         <dc:title>Practical Event-Driven Microservices Architecture: Building Sustainable and Highly Scalable Event-Driven Microservices</dc:title>
         <dc:creator opf:file-as="Rocha, Hugo Filipe Oliveira" opf:role="aut">Hugo Filipe Oliveira Rocha</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-11-11T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -44,7 +44,6 @@
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>General</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Hugo Filipe Oliveira Rocha&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-03-13T03:58:36+00:00"/>
         <meta name="calibre:title_sort" content="Practical Event-Driven Microservices Architecture: Building Sustainable and Highly Scalable Event-Driven Microservices"/>

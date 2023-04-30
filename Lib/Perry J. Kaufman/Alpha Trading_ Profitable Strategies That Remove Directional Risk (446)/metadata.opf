@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">31119740-876c-4e95-b18e-c2657d8cf007</dc:identifier>
         <dc:title>Alpha Trading: Profitable Strategies That Remove Directional Risk</dc:title>
         <dc:creator opf:file-as="Kaufman, Perry J." opf:role="aut">Perry J. Kaufman</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-04T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;From a leading trading systems developer, how to make profitable trades when there are no obvious trends &lt;/p&gt;
@@ -31,7 +31,6 @@
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Finance</dc:subject>
         <dc:subject>General</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Perry J. Kaufman&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-19T05:38:47+00:00"/>
         <meta name="calibre:title_sort" content="Alpha Trading: Profitable Strategies That Remove Directional Risk"/>

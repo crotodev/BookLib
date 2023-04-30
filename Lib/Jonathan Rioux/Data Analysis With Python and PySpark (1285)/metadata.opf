@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b90165e5-20a6-43e2-8c10-e562b6218fd0</dc:identifier>
         <dc:title>Data Analysis With Python and PySpark</dc:title>
         <dc:creator opf:file-as="Rioux, Jonathan" opf:role="aut">Jonathan Rioux</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-03-22T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -32,7 +32,6 @@
         <dc:subject>Analytics</dc:subject>
         <dc:subject>PySpark</dc:subject>
         <dc:subject>Spark</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Jonathan Rioux&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-02-28T15:38:34+00:00"/>
         <meta name="calibre:title_sort" content="Data Analysis With Python and PySpark"/>

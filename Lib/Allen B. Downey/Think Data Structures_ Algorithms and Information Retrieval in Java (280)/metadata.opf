@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">13009b70-0d8c-429f-8210-78484edad51b</dc:identifier>
         <dc:title>Think Data Structures: Algorithms and Information Retrieval in Java</dc:title>
         <dc:creator opf:file-as="Downey, Allen B." opf:role="aut">Allen B. Downey</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-07-07T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;If you’re a student studying computer science or a software developer preparing for technical interviews, this practical book will help you learn and review some of the most important ideas in software engineering—data structures and algorithms—in a way that’s clearer, more concise, and more engaging than other materials.&lt;/p&gt;
@@ -19,7 +19,6 @@
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
         <dc:identifier opf:scheme="AMAZON">B073SJBWKD</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Allen B. Downey&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-13T07:48:31+00:00"/>
         <meta name="calibre:title_sort" content="Think Data Structures: Algorithms and Information Retrieval in Java"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8ea50734-1839-4c56-8d02-97065d6b5137</dc:identifier>
         <dc:title>Natural Language Processing With TensorFlow: Teach Language to Machines Using Python's Deep Learning Library</dc:title>
         <dc:creator opf:file-as="Ganegedara, Thushan" opf:role="aut">Thushan Ganegedara</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-05-30T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Write modern natural language processing applications using deep learning algorithms and TensorFlow&lt;/p&gt;
@@ -51,7 +51,6 @@
         <dc:subject>Tensorflow</dc:subject>
         <dc:subject>Natural Language Processing</dc:subject>
         <dc:subject>Deep Learning</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Thushan Ganegedara&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2022-12-14T18:58:24+00:00"/>
         <meta name="calibre:title_sort" content="Natural Language Processing With TensorFlow: Teach Language to Machines Using Python's Deep Learning Library"/>

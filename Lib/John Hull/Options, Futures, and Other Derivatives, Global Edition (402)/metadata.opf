@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c4523e7b-7149-47e7-a4e2-5f502dd2a0d8</dc:identifier>
         <dc:title>Options, Futures, and Other Derivatives, Global Edition</dc:title>
         <dc:creator opf:file-as="Hull, John" opf:role="aut">John Hull</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-06-24T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;For courses in business, economics, and financial engineering and mathematics. &lt;br&gt;&lt;strong&gt;The definitive guide to the derivatives market, updated with contemporary examples and discussions&lt;/strong&gt; &lt;br&gt;Known as 'the bible' to business and economics professionals and a consistent best-seller, Options, Futures, and Other Derivatives gives readers a modern look at the derivatives market. By incorporating the industry's hottest topics, such as the securitisation and credit crisis, author John C. Hull helps bridge the gap between theory and practice. The 11th Edition covers all the latest regulations and trends, including the Black-Scholes-Merton formulas, overnight indexed swaps, and the valuation of commodity derivatives. &lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -13,7 +13,6 @@
         <dc:identifier opf:scheme="AMAZON">1292410655</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781292410654</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;John Hull&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-18T06:11:29+00:00"/>
         <meta name="calibre:title_sort" content="Options, Futures, and Other Derivatives, Global Edition"/>

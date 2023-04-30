@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Roestenburg, Raymond &amp; Bakker, Rob &amp; Williams, Rob" opf:role="aut">Raymond Roestenburg</dc:creator>
         <dc:creator opf:file-as="Roestenburg, Raymond &amp; Bakker, Rob &amp; Williams, Rob" opf:role="aut">Rob Bakker</dc:creator>
         <dc:creator opf:file-as="Roestenburg, Raymond &amp; Bakker, Rob &amp; Williams, Rob" opf:role="aut">Rob Williams</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-01-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;SummaryAkka in Action is a comprehensive tutorial on building message-oriented systems using Akka. The book takes a hands-on approach, where each new concept is followed by an example that shows you how it works, how to implement the code, and how to (unit) test it. &lt;/p&gt;
@@ -18,9 +18,9 @@
 &lt;p&gt;About the AuthorsA software craftsman and architect, Raymond Roestenburg is an Akka committer. Rob Bakker specializes in concurrent back-end systems and systems integration. Rob Williams has more than 20 years of product development experience. &lt;/p&gt;
 &lt;p&gt;Table of ContentsIntroducing Akka Up and running Test-driven development with actors Fault tolerance Futures Your first distributed Akka app Configuration, logging, and deployment Structural patterns for actors Routing messages Message channels Finite-state machines and agents System integration Streaming Clustering Actor persistence Performance tips Looking ahead&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">16040942</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781617291012</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1617291013</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">16040942</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">N3dbmwEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
@@ -28,9 +28,8 @@
         <dc:subject>General</dc:subject>
         <dc:subject>Business &amp; Productivity Software</dc:subject>
         <dc:subject>Computer Architecture</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Raymond Roestenburg&quot;: &quot;&quot;, &quot;Rob Bakker&quot;: &quot;&quot;, &quot;Rob Williams&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-03-26T19:00:00.005995+00:00"/>
+        <meta name="calibre:timestamp" content="2023-03-26T19:00:00+00:00"/>
         <meta name="calibre:title_sort" content="Akka in Action"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ba8b5dd6-af5d-4b9b-b510-4fd58d86ac25</dc:identifier>
         <dc:title>Apache ZooKeeper Essentials</dc:title>
         <dc:creator opf:file-as="Haloi, Saurav" opf:role="aut">Saurav Haloi</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-01-28T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;A fast-paced guide to using Apache ZooKeeper to coordinate services in distributed systems&lt;/p&gt;
@@ -33,7 +33,6 @@
         <dc:identifier opf:scheme="ISBN">9781784391324</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1784391328</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Saurav Haloi&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-03-25T16:57:42+00:00"/>
         <meta name="calibre:title_sort" content="Apache ZooKeeper Essentials"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">cdcb2a92-260b-4fa9-a71d-349881f48411</dc:identifier>
         <dc:title>Beginning Rust: From Novice to Professional</dc:title>
         <dc:creator opf:file-as="Milanesi, Carlo" opf:role="aut">Carlo Milanesi</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-03-22T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Learn to program with Rust in an easy, step-by-step manner on Unix, Linux shell, macOS and the Windows command line. As you read this book, you’ll build on the knowledge you gained in previous chapters and see what Rust has to offer. &lt;/p&gt;
@@ -31,7 +31,6 @@
         <dc:subject>General</dc:subject>
         <dc:subject>Programming</dc:subject>
         <dc:subject>Open Source</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Carlo Milanesi&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-21T10:01:27+00:00"/>
         <meta name="calibre:title_sort" content="Beginning Rust: From Novice to Professional"/>

@@ -6,7 +6,7 @@
         <dc:title>Introducing GitHub: A Non-Technical Guide</dc:title>
         <dc:creator opf:file-as="Bell, Peter &amp; Beer, Brent" opf:role="aut">Peter Bell</dc:creator>
         <dc:creator opf:file-as="Bell, Peter &amp; Beer, Brent" opf:role="aut">Brent Beer</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-11-11T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;If you’re new to GitHub, this concise book shows you just what you need to get started and no more. It’s perfect for project and product managers, stakeholders, and other team members who want to collaborate on a development project—whether it’s to review and comment on work in progress or to contribute specific changes. It’s also great for developers just learning GitHub. &lt;/p&gt;
@@ -25,7 +25,6 @@
         <dc:subject>Tools</dc:subject>
         <dc:subject>Internet</dc:subject>
         <dc:subject>Web Services &amp; APIs</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Peter Bell&quot;: &quot;&quot;, &quot;Brent Beer&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-13T06:41:21+00:00"/>
         <meta name="calibre:title_sort" content="Introducing GitHub: A Non-Technical Guide"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

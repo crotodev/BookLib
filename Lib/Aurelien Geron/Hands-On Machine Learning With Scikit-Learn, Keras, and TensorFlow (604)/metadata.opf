@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9a8ef553-99fc-49b7-9190-e4c85ef6426a</dc:identifier>
         <dc:title>Hands-On Machine Learning With Scikit-Learn, Keras, and TensorFlow</dc:title>
         <dc:creator opf:file-as="Géron, Aurélien" opf:role="aut">Aurélien Géron</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-10-04T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Through a recent series of breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This bestselling book uses concrete examples, minimal theory, and production-ready Python frameworks (Scikit-Learn, Keras, and TensorFlow) to help you gain an intuitive understanding of the concepts and tools for building intelligent systems. &lt;/p&gt;
@@ -28,7 +28,6 @@
         <dc:subject>Languages</dc:subject>
         <dc:subject>Python</dc:subject>
         <dc:subject>Deep Learning</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Aurélien Géron&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-30T15:41:16+00:00"/>
         <meta name="calibre:title_sort" content="Hands-On Machine Learning With Scikit-Learn, Keras, and TensorFlow"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6df9e959-6676-4b78-bf26-446303e7f4d0</dc:identifier>
         <dc:title>Hands-On Machine Learning for Algorithmic Trading: Design and Implement Investment Strategies Based on Smart Algorithms That Learn From Data Using Python</dc:title>
         <dc:creator opf:file-as="Jansen, Stefan" opf:role="aut">Stefan Jansen</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-12-31T13:25:44+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Brand New&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -14,7 +14,6 @@
         <dc:identifier opf:scheme="GOODREADS">43539641</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">178934641X</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Stefan Jansen&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-02-22T07:32:35+00:00"/>
         <meta name="calibre:title_sort" content="Hands-On Machine Learning for Algorithmic Trading: Design and Implement Investment Strategies Based on Smart Algorithms That Learn From Data Using Python"/>

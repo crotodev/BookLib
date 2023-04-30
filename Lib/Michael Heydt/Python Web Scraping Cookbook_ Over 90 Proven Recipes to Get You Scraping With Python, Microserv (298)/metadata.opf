@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">41fc336a-e1a5-45ed-9599-ae19b3343d35</dc:identifier>
         <dc:title>Python Web Scraping Cookbook: Over 90 Proven Recipes to Get You Scraping With Python, Microservices, Docker, and AWS</dc:title>
         <dc:creator opf:file-as="Heydt, Michael" opf:role="aut">Michael Heydt</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-02-09T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Untangle your web scraping complexities and access web data with ease using Python scriptsKey FeaturesHands-on recipes for advancing your web scraping skills to expert levelOne-stop solution guide to address complex and challenging web scraping tasks using PythonUnderstand web page structures and collect data from a website with easeBook DescriptionPython Web Scraping Cookbook is a solution-focused book that will teach you techniques to develop high-performance Scrapers, and deal with cookies, hidden form fields, Ajax-based sites and proxies. You'll explore a number of real-world scenarios where every part of the development or product life cycle will be fully covered. You will not only develop the skills to design reliable, high-performing data flows, but also deploy your codebase to Amazon Web Services (AWS). If you are involved in software engineering, product development, or data mining or in building data-driven products, you will find this book useful as each recipe has a clear purpose and objective. &lt;/p&gt;
@@ -23,7 +23,6 @@
         <dc:subject>Internet</dc:subject>
         <dc:subject>Search Engines</dc:subject>
         <dc:subject>Database Administration &amp; Management</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Michael Heydt&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-13T08:08:42+00:00"/>
         <meta name="calibre:title_sort" content="Python Web Scraping Cookbook: Over 90 Proven Recipes to Get You Scraping With Python, Microservices, Docker, and AWS"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

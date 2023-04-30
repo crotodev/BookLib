@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">46955eef-c535-48d8-b516-2f1a71810b9c</dc:identifier>
         <dc:title>The C++ Programming Language, 4th Edition</dc:title>
         <dc:creator opf:file-as="Stroustrup, Bjarne" opf:role="aut">Bjarne Stroustrup</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-05-09T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book features an enhanced, layflat binding, which allows the book to stay open more easily when placed on a flat surface. This special binding method—noticeable by a small space inside the spine—also increases durability. C++11 has arrived: thoroughly master it, with the definitive new guide from C++ creator Bjarne Stroustrup, C++ Programming Language, Fourth Edition! The brand-new edition of the worlds most trusted and widely read guide to C++, it has been comprehensively updated for the long-awaited C++11 standard. Extensively rewritten to present the C++11 language, standard library, and key design techniques as an integrated whole, Stroustrup thoroughly addresses changes that make C++11 feel like a whole new language, offering definitive guidance for leveraging its improvements in performance, reliability, and clarity. C++ programmers around the world recognize Bjarne Stoustrup as the go-to expert for the absolutely authoritative and exceptionally useful information they need to write outstanding C++ programs. Now, as C++11 compilers arrive and development organizations migrate to the new standard, they know exactly where to turn once more: Stoustrup C++ Programming Language, Fourth Edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -16,7 +16,6 @@
         <dc:subject>C++</dc:subject>
         <dc:subject>Programming</dc:subject>
         <dc:subject>Programming Languages</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Bjarne Stroustrup&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-13T07:00:56+00:00"/>
         <meta name="calibre:title_sort" content="C++ Programming Language, 4th Edition, The"/>

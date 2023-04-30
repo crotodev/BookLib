@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">5bcb0883-f5c5-425d-962f-a691ff471321</dc:identifier>
         <dc:title>Mastering Object-Oriented Python - Second Edition</dc:title>
         <dc:creator opf:file-as="Lott, Steven F." opf:role="aut">Steven F. Lott</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-06-14T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Gain comprehensive insights into programming practices, and code portability and reuse to build flexible and maintainable apps using object-oriented principles&lt;/p&gt;
@@ -59,7 +59,6 @@
         <dc:subject>COM051360 - COMPUTERS / Programming Languages / Python</dc:subject>
         <dc:subject>COM051210 - COMPUTERS / Programming / Object Oriented</dc:subject>
         <dc:subject>COM059000 - COMPUTERS / Computer Engineering</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Steven F. Lott&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-21T10:24:15+00:00"/>
         <meta name="calibre:title_sort" content="Mastering Object-Oriented Python - Second Edition"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">13040dd4-cb27-4fbd-a1ed-d88e589e9fa2</dc:identifier>
         <dc:title>Mastering Python for Networking and Security: Leverage the Scripts and Libraries of Python Version 3.7 and Beyond to Overcome Networking and Security Issues, 2nd Edition</dc:title>
         <dc:creator opf:file-as="Ortega, José Manuel" opf:role="aut">José Manuel Ortega</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-01-04T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -50,7 +50,6 @@
         <dc:identifier opf:scheme="ISBN">9781839217166</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1839217162</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;José Manuel Ortega&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-15T21:43:38+00:00"/>
         <meta name="calibre:title_sort" content="Mastering Python for Networking and Security: Leverage the Scripts and Libraries of Python Version 3.7 and Beyond to Overcome Networking and Security Issues, 2nd Edition"/>

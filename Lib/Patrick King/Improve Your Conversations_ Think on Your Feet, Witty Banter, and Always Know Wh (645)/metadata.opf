@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">65c4aef5-8454-425c-b695-d147e0abeee5</dc:identifier>
         <dc:title>Improve Your Conversations: Think on Your Feet, Witty Banter, and Always Know Wh</dc:title>
         <dc:creator opf:file-as="King, Patrick" opf:role="aut">Patrick King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-06-23T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Does your mind blank at the worst times in a conversation and create awkward silences? Do you want to think faster on your feet? Do you run out of things to say, and suck at keeping a conversation going?Or do you just wish you could be wittier and cleverer in every day conversation? Introverted? It's easier than you think... all you need to do is just improv your conversations!Improv(e) Your Conversations utilizes and teaches you how to use the ingenious framework from improv comedy and apply it directly to your every day social interactions and conversations... and can't we learn something from the greatest improv comedians in the world like Tina Fey and Will Ferrell?Improv comedy and memorable conversations have almost everything in common: from their premise, what makes them great, and their end goals. In this book, I have pieced together the 14 best actionable and practical techniques from the improv comedy world designed to create conversational flow and connection... and simply have better interactions. &lt;/p&gt;
@@ -20,7 +20,6 @@
         <dc:identifier opf:scheme="MOBI-ASIN">B06XJSG86S</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">MgAfswEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Patrick King&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-02-12T21:38:31+00:00"/>
         <meta name="calibre:title_sort" content="Improve Your Conversations: Think on Your Feet, Witty Banter, and Always Know Wh"/>

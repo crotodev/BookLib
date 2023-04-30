@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a828eb7c-167e-4f18-9988-9d02cb1ab3b9</dc:identifier>
         <dc:title>Database Design and Implementation: Second Edition</dc:title>
         <dc:creator opf:file-as="Sciore, Edward" opf:role="aut">Edward Sciore</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-02-28T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;About the Author&lt;/h3&gt;
@@ -18,7 +18,6 @@
         <dc:identifier opf:scheme="AMAZON">3030338355</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9783030338350</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Edward Sciore&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-03-03T17:26:19+00:00"/>
         <meta name="calibre:title_sort" content="Database Design and Implementation: Second Edition"/>

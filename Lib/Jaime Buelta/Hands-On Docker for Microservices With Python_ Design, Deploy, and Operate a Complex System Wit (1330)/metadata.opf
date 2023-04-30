@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">fd050cc7-cfb3-4265-a5c6-2327a821ca50</dc:identifier>
         <dc:title>Hands-On Docker for Microservices With Python: Design, Deploy, and Operate a Complex System With Multiple Microservices Using Docker and Kubernetes</dc:title>
         <dc:creator opf:file-as="Buelta, Jaime" opf:role="aut">Jaime Buelta</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-11-22T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -57,7 +57,6 @@
         <dc:subject>Internet</dc:subject>
         <dc:subject>Web Services &amp; APIs</dc:subject>
         <dc:subject>Distributed Systems</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Jaime Buelta&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-03-13T04:00:47+00:00"/>
         <meta name="calibre:title_sort" content="Hands-On Docker for Microservices With Python: Design, Deploy, and Operate a Complex System With Multiple Microservices Using Docker and Kubernetes"/>

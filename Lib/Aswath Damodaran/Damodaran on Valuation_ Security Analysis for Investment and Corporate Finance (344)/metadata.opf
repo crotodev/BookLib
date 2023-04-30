@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">250e89ee-db2e-428f-b539-be5decc79b52</dc:identifier>
         <dc:title>Damodaran on Valuation: Security Analysis for Investment and Corporate Finance</dc:title>
         <dc:creator opf:file-as="Damodaran, Aswath" opf:role="aut">Aswath Damodaran</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-10-19T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;"Aswath Damodaran is simply the best valuation teacher around. If you are interested in the theory or practice of valuation, you should have Damodaran on Valuation on your bookshelf. You can bet that I do."&lt;br&gt;-- Michael J. Mauboussin, Chief Investment Strategist, Legg Mason Capital Management and author of More Than You Know: Finding Financial Wisdom in Unconventional Places &lt;/p&gt;
@@ -43,7 +43,6 @@
         <dc:subject>Management &amp; Leadership</dc:subject>
         <dc:subject>Pricing</dc:subject>
         <dc:subject>EBC Converted</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Aswath Damodaran&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-14T05:24:48+00:00"/>
         <meta name="calibre:title_sort" content="Damodaran on Valuation: Security Analysis for Investment and Corporate Finance"/>

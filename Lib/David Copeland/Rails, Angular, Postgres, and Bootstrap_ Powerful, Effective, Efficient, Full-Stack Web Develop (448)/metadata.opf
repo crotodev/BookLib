@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">81426e33-3559-4c20-a7ad-6f6565491a88</dc:identifier>
         <dc:title>Rails, Angular, Postgres, and Bootstrap: Powerful, Effective, Efficient, Full-Stack Web Development</dc:title>
         <dc:creator opf:file-as="Copeland, David" opf:role="aut">David Copeland</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-08-02T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -34,7 +34,6 @@
         <dc:subject>Information Technology</dc:subject>
         <dc:subject>Ruby on Rails</dc:subject>
         <dc:subject>Rails 6</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;David Copeland&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-19T16:45:16+00:00"/>
         <meta name="calibre:title_sort" content="Rails, Angular, Postgres, and Bootstrap: Powerful, Effective, Efficient, Full-Stack Web Development"/>

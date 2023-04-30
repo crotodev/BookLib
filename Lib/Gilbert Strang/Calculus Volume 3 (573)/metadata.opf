@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">e56067a7-e10d-49d9-96af-e7fb7ea824cc</dc:identifier>
         <dc:title>Calculus Volume 3</dc:title>
         <dc:creator opf:file-as="Strang, Gilbert" opf:role="aut">Gilbert Strang</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-03-13T18:18:29+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Principles of Accounting is designed to meet the scope and sequence requirements of a two-semester accounting course that covers the fundamentals of financial and managerial accounting. Due to the comprehensive nature of the material, we are offering the book in two volumes. This book is specifically designed to appeal to both accounting and non-accounting majors, exposing students to the core concepts of accounting in familiar ways to build a strong foundation that can be applied across business fields. Each chapter opens with a relatable real-life scenario for today’s college student. Thoughtfully designed examples are presented throughout each chapter, allowing students to build on emerging accounting knowledge. Concepts are further reinforced through applicable connections to more detailed business processes. Students are immersed in the “why” as well as the “how” aspects of accounting in order to reinforce concepts and promote comprehension over rote memorization.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -15,7 +15,6 @@
         <dc:identifier opf:scheme="AMAZON">B07TQ2F4WD</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Reference</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Gilbert Strang&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-25T17:35:02+00:00"/>
         <meta name="calibre:title_sort" content="Calculus Volume 3"/>

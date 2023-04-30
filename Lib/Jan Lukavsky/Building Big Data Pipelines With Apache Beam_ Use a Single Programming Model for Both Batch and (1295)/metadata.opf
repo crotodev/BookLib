@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b66b4a5c-2df4-468d-bf77-2beee8d814df</dc:identifier>
         <dc:title>Building Big Data Pipelines With Apache Beam: Use a Single Programming Model for Both Batch and Stream Data Processing</dc:title>
         <dc:creator opf:file-as="Lukavský, Jan" opf:role="aut">Jan Lukavský</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-01-21T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -50,7 +50,6 @@
         <dc:identifier opf:scheme="GOODREADS">59893666</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781800564930</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Jan Lukavský&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-03-02T08:47:17+00:00"/>
         <meta name="calibre:title_sort" content="Building Big Data Pipelines With Apache Beam: Use a Single Programming Model for Both Batch and Stream Data Processing"/>

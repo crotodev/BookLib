@@ -6,7 +6,7 @@
         <dc:title>Quantitative Methods for Economics and Finance</dc:title>
         <dc:creator opf:file-as="Trinidad-Segovia, J. E. &amp; Sánchez-Granero, Miguel Ángel" opf:role="aut">J. E. Trinidad-Segovia</dc:creator>
         <dc:creator opf:file-as="Trinidad-Segovia, J. E. &amp; Sánchez-Granero, Miguel Ángel" opf:role="aut">Miguel Ángel Sánchez-Granero</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-02-12T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book is a collection of papers for the Special Issue “Quantitative Methods for Economics and Finance” of the journal Mathematics. This Special Issue reflects on the latest developments in different fields of economics and finance where mathematics plays a significant role. The book gathers 19 papers on topics such as volatility clusters and volatility dynamic, forecasting, stocks, indexes, cryptocurrencies and commodities, trade agreements, the relationship between volume and price, trading strategies, efficiency, regression, utility models, fraud prediction, or intertemporal choice.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -16,7 +16,6 @@
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>General</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;J. E. Trinidad-Segovia&quot;: &quot;&quot;, &quot;Miguel Ángel Sánchez-Granero&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-18T21:41:23+00:00"/>
         <meta name="calibre:title_sort" content="Quantitative Methods for Economics and Finance"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">038713fd-1ce1-4912-b0e7-24c084f15951</dc:identifier>
         <dc:title>Economics in One Lesson</dc:title>
         <dc:creator opf:file-as="Hazlitt, Henry" opf:role="aut">Henry Hazlitt</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-01-02T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book reduces the core of economic perspective to two great insights in one lesson: economics consists of looking not only at the short-term results of economic policy but at the long-term ones also, and consists at looking at the effects of policy not just on some groups but all groups.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -14,7 +14,6 @@
         <dc:identifier opf:scheme="AMAZON">0983541469</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Economics</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Henry Hazlitt&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2022-12-26T06:02:57+00:00"/>
         <meta name="calibre:title_sort" content="Economics in One Lesson"/>

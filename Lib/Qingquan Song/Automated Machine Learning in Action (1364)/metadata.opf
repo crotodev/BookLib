@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Song, Qingquan &amp; Jin, Haifeng &amp; Hu, Xia" opf:role="aut">Qingquan Song</dc:creator>
         <dc:creator opf:file-as="Song, Qingquan &amp; Jin, Haifeng &amp; Hu, Xia" opf:role="aut">Haifeng Jin</dc:creator>
         <dc:creator opf:file-as="Song, Qingquan &amp; Jin, Haifeng &amp; Hu, Xia" opf:role="aut">Xia Hu</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-01-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Optimize every stage of your machine learning pipelines with powerful automation components and cutting-edge tools like AutoKeras and KerasTuner. &lt;/p&gt;
@@ -23,10 +23,10 @@
 &lt;p&gt;About the author&lt;br&gt;&lt;strong&gt;Drs. Qingquan Song, Haifeng Jin, and Xia “Ben” Hu&lt;/strong&gt; are the creators of the AutoKeras automated deep learning library. &lt;/p&gt;
 &lt;p&gt;Table of Contents&lt;br&gt;PART 1 FUNDAMENTALS OF AUTOML&lt;br&gt;1 From machine learning to automated machine learning&lt;br&gt;2 The end-to-end pipeline of an ML project&lt;br&gt;3 Deep learning in a nutshell&lt;br&gt;PART 2 AUTOML IN PRACTICE&lt;br&gt;4 Automated generation of end-to-end ML solutions&lt;br&gt;5 Customizing the search space by creating AutoML pipelines&lt;br&gt;6 AutoML with a fully customized search space&lt;br&gt;PART 3 ADVANCED TOPICS IN AUTOML&lt;br&gt;7 Customizing the search method of AutoML&lt;br&gt;8 Scaling up AutoML&lt;br&gt;9 Wrapping up&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">ZCZoEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57732914</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781617298059</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1617298050</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">57732914</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">ZCZoEAAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Data Science</dc:subject>
@@ -35,9 +35,8 @@
         <dc:subject>Machine Learning</dc:subject>
         <dc:subject>Science</dc:subject>
         <dc:subject>General</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Qingquan Song&quot;: &quot;&quot;, &quot;Haifeng Jin&quot;: &quot;&quot;, &quot;Xia Hu&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2023-03-25T17:33:54.403205+00:00"/>
+        <meta name="calibre:timestamp" content="2023-03-25T17:33:54+00:00"/>
         <meta name="calibre:title_sort" content="Automated Machine Learning in Action"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

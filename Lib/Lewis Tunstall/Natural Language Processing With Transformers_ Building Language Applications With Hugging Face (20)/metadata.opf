@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Tunstall, Lewis &amp; Werra, Leandro von &amp; Wolf, Thomas" opf:role="aut">Lewis Tunstall</dc:creator>
         <dc:creator opf:file-as="Tunstall, Lewis &amp; Werra, Leandro von &amp; Wolf, Thomas" opf:role="aut">Leandro von Werra</dc:creator>
         <dc:creator opf:file-as="Tunstall, Lewis &amp; Werra, Leandro von &amp; Wolf, Thomas" opf:role="aut">Thomas Wolf</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-01-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Since their introduction in 2017, transformers have quickly become the dominant architecture for achieving state-of-the-art results on a variety of natural language processing tasks. If you're a data scientist or coder, this practical book shows you how to train and scale these large models using Hugging Face Transformers, a Python-based deep learning library. &lt;/p&gt;
@@ -30,7 +30,6 @@
         <dc:subject>NLP</dc:subject>
         <dc:subject>Programming</dc:subject>
         <dc:subject>Natural Language Processing</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Lewis Tunstall&quot;: &quot;&quot;, &quot;Leandro von Werra&quot;: &quot;&quot;, &quot;Thomas Wolf&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2022-12-14T19:00:49+00:00"/>
         <meta name="calibre:title_sort" content="Natural Language Processing With Transformers: Building Language Applications With Hugging Face"/>

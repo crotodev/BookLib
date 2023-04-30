@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">bc9baf33-b91d-42f3-a324-c85b66bdd9c4</dc:identifier>
         <dc:title>Python Automation Cookbook: 75 Python Automation Ideas for Web Scraping, Data Wrangling, and Processing Excel, Reports, Emails, and More, 2nd Edition</dc:title>
         <dc:creator opf:file-as="Buelta, Jaime" opf:role="aut">Jaime Buelta</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-05-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -60,7 +60,6 @@
         <dc:subject>Data Science</dc:subject>
         <dc:subject>Database Administration &amp; Management</dc:subject>
         <dc:subject>Data Visualization</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Jaime Buelta&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-03-13T04:09:42+00:00"/>
         <meta name="calibre:title_sort" content="Python Automation Cookbook: 75 Python Automation Ideas for Web Scraping, Data Wrangling, and Processing Excel, Reports, Emails, and More, 2nd Edition"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

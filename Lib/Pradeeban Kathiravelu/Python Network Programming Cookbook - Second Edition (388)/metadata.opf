@@ -6,7 +6,7 @@
         <dc:title>Python Network Programming Cookbook - Second Edition</dc:title>
         <dc:creator opf:file-as="Kathiravelu, Pradeeban &amp; Sarker, M. O. Faruque" opf:role="aut">Pradeeban Kathiravelu</dc:creator>
         <dc:creator opf:file-as="Kathiravelu, Pradeeban &amp; Sarker, M. O. Faruque" opf:role="aut">M. O. Faruque Sarker</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-08-09T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Discover practical solutions for a wide range of real-world network programming tasksAbout This Book* Solve real-world tasks in the area of network programming, system/networking administration, network monitoring, and more.* Familiarize yourself with the fundamentals and functionalities of SDN* Improve your skills to become the next-gen network engineer by learning the various facets of Python programmingWho This Book Is ForThis book is for network engineers, system/network administrators, network programmers, and even web application developers who want to solve everyday network-related problems. If you are a novice, you will develop an understanding of the concepts as you progress with this book. &lt;/p&gt;
@@ -21,7 +21,6 @@
         <dc:subject>COM043000 - COMPUTERS / Networking / General</dc:subject>
         <dc:subject>COM051000 - COMPUTERS / Programming / General</dc:subject>
         <dc:subject>COM051360 - COMPUTERS / Programming Languages / Python</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Pradeeban Kathiravelu&quot;: &quot;&quot;, &quot;M. O. Faruque Sarker&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-15T21:28:13+00:00"/>
         <meta name="calibre:title_sort" content="Python Network Programming Cookbook - Second Edition"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

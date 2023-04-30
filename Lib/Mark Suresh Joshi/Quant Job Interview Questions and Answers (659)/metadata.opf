@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Joshi, Mark Suresh &amp; Denson, Nick &amp; Downes, Andrew" opf:role="aut">Mark Suresh Joshi</dc:creator>
         <dc:creator opf:file-as="Joshi, Mark Suresh &amp; Denson, Nick &amp; Downes, Andrew" opf:role="aut">Nick Denson</dc:creator>
         <dc:creator opf:file-as="Joshi, Mark Suresh &amp; Denson, Nick &amp; Downes, Andrew" opf:role="aut">Andrew Downes</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-02-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Designed to get you a job in quantitative finance, this book contains over 225 interview questions taken from actual interviews in the City and Wall Street. Each question comes with a full detailed solution, discussion of what the interviewer is seeking and possible follow-up questions. Topics covered include option pricing, probability, mathematics, numerical algorithms and C++, as well as a discussion of the interview process and the non-technical interview. Mark Joshi wrote the popular introductory textbooks "the Concepts and Practice of Mathematical Finance" and "C++ Design Patterns and Derivatives Pricing. &lt;/p&gt;
@@ -20,7 +20,6 @@
         <dc:language>eng</dc:language>
         <dc:subject>Quantitative Finance</dc:subject>
         <dc:subject>Interviewing</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Mark Suresh Joshi&quot;: &quot;&quot;, &quot;Nick Denson&quot;: &quot;&quot;, &quot;Andrew Downes&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-02-20T00:07:40+00:00"/>
         <meta name="calibre:title_sort" content="Quant Job Interview Questions and Answers"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">dc665f35-bc3d-4172-a6e1-3f0f41083e5a</dc:identifier>
         <dc:title>Python Network Programming Techniques: 50 Real-World Recipes to Automate Infrastructure Networks and Overcome Networking Challenges With Python</dc:title>
         <dc:creator opf:file-as="Neidinger, Marcel" opf:role="aut">Marcel Neidinger</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-10-08T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -59,7 +59,6 @@
         <dc:subject>Python</dc:subject>
         <dc:subject>Networking</dc:subject>
         <dc:subject>Network Protocols</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Marcel Neidinger&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-03-17T20:01:56+00:00"/>
         <meta name="calibre:title_sort" content="Python Network Programming Techniques: 50 Real-World Recipes to Automate Infrastructure Networks and Overcome Networking Challenges With Python"/>

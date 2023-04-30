@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3e3f1cea-f873-4646-94f8-444fb8c8ba90</dc:identifier>
         <dc:title>Breakout Nations: In Pursuit of the Next Economic Miracles</dc:title>
         <dc:creator opf:file-as="Sharma, Ruchir" opf:role="aut">Ruchir Sharma</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-04-09T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;**International Bestseller &lt;/p&gt;
@@ -60,7 +60,6 @@
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Investments &amp; Securities</dc:subject>
         <dc:subject>General</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Ruchir Sharma&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-13T17:04:44+00:00"/>
         <meta name="calibre:title_sort" content="Breakout Nations: In Pursuit of the Next Economic Miracles"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

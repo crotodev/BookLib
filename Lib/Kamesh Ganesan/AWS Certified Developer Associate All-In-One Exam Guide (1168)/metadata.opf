@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">cee35229-e728-4772-903b-80b842dcbc3f</dc:identifier>
         <dc:title>AWS Certified Developer Associate All-In-One Exam Guide</dc:title>
         <dc:creator opf:file-as="Ganesan, Kamesh" opf:role="aut">Kamesh Ganesan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-12-03T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;This effective self-study system delivers complete coverage of every topic on the AWS Certified Developer Associate Exam&lt;/p&gt;
@@ -34,7 +34,6 @@
         <dc:subject>Computers</dc:subject>
         <dc:subject>Certification Guides</dc:subject>
         <dc:subject>General</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Kamesh Ganesan&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-02T16:43:39+00:00"/>
         <meta name="calibre:title_sort" content="AWS Certified Developer Associate All-In-One Exam Guide"/>

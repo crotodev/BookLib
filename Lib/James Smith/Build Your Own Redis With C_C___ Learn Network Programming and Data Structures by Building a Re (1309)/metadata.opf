@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f7b804cb-71d4-4003-a59f-0e1b453a049b</dc:identifier>
         <dc:title>Build Your Own Redis With C/C++: Learn Network Programming and Data Structures by Building a Redis-Like Server From Scratch With C/C++.</dc:title>
         <dc:creator opf:file-as="Smith, James" opf:role="aut">James Smith</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-01-24T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Learn network programming and data structures by building a Redis-like server from scratch with C/C++.&lt;/p&gt;
@@ -18,7 +18,6 @@
         <dc:identifier opf:scheme="ISBN">9798372815469</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B0BT2CT8XY</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;James Smith&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-03-10T17:23:57+00:00"/>
         <meta name="calibre:title_sort" content="Build Your Own Redis With C/C++: Learn Network Programming and Data Structures by Building a Redis-Like Server From Scratch With C/C++."/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

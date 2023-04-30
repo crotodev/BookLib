@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f7aa24f2-4534-4277-931d-53cb3125ac47</dc:identifier>
         <dc:title>Mastery</dc:title>
         <dc:creator opf:file-as="Greene, Robert" opf:role="aut">Robert Greene</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-11-13T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -29,7 +29,6 @@
         <dc:subject>Motivational &amp; Inspirational</dc:subject>
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Motivational</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Robert Greene&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-09T04:00:12+00:00"/>
         <meta name="calibre:title_sort" content="Mastery"/>

@@ -5,13 +5,12 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2873624c-a8e2-4d5d-8e9a-234fe22b80bb</dc:identifier>
         <dc:title>Mastering Machine Learning on AWS: Advanced Machine Learning in Python Using SageMaker, Apache Spark, and TensorFlow</dc:title>
         <dc:creator opf:file-as="Mengle, Saket" opf:role="aut">Saket Mengle</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-05-16T10:23:54+00:00</dc:date>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:identifier opf:scheme="AMAZON">B07QC3QPXY</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">46228090</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Saket Mengle&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-21T10:30:28+00:00"/>
         <meta name="calibre:title_sort" content="Mastering Machine Learning on AWS: Advanced Machine Learning in Python Using SageMaker, Apache Spark, and TensorFlow"/>

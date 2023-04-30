@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">024a1782-b96d-44bc-a0b8-4ad8d7482837</dc:identifier>
         <dc:title>Hands-On Data Analysis With Pandas - Second Edition: A Python Data Science Handbook for Data Collection, Wrangling, Analysis, and Visualization</dc:title>
         <dc:creator opf:file-as="Molin, Stefanie" opf:role="aut">Stefanie Molin</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-04-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Get to grips with pandas - a fast, versatile, and high-performance Python library for data discovery, data manipulation, data preparation, and handling data for analytical tasksKey Features: Perform efficient data analysis and manipulation tasks using pandas 1.xApply pandas to different real-world domains with the help of step-by-step examplesBecome well-versed in using pandas as an effective data exploration toolBook Description: Data analysis has become an essential skill in a variety of domains where knowing how to work with data and extract insights can generate significant value. Hands-On Data Analysis with Pandas will show you how to analyze your data, get started with machine learning, and work effectively with the Python libraries often used for data science, such as pandas, NumPy, matplotlib, seaborn, and scikit-learn. &lt;/p&gt;
@@ -20,7 +20,6 @@
         <dc:subject>ETL</dc:subject>
         <dc:subject>Reference</dc:subject>
         <dc:subject>Data Analysis</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Stefanie Molin&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-02-26T05:28:03+00:00"/>
         <meta name="calibre:title_sort" content="Hands-On Data Analysis With Pandas - Second Edition: A Python Data Science Handbook for Data Collection, Wrangling, Analysis, and Visualization"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

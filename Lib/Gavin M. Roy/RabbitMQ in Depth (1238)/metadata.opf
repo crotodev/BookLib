@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">cf322002-2bc6-4a2b-88a0-4d429d0fe3bf</dc:identifier>
         <dc:title>RabbitMQ in Depth</dc:title>
         <dc:creator opf:file-as="Roy, Gavin M." opf:role="aut">Gavin M. Roy</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-09-27T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -66,7 +66,6 @@
         <dc:subject>Web</dc:subject>
         <dc:subject>Web Programming</dc:subject>
         <dc:subject>Web Services &amp; APIs</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Gavin M. Roy&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-02-21T16:39:24+00:00"/>
         <meta name="calibre:title_sort" content="RabbitMQ in Depth"/>

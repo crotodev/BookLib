@@ -6,7 +6,7 @@
         <dc:title>The Pragmatic Programmer: Your Journey to Mastery</dc:title>
         <dc:creator opf:file-as="Thomas, David &amp; Hunt, Andrew" opf:role="aut">David Thomas</dc:creator>
         <dc:creator opf:file-as="Thomas, David &amp; Hunt, Andrew" opf:role="aut">Andrew Hunt</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-01-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;"One of the most significant books in my life. &lt;/p&gt;
@@ -18,7 +18,6 @@
         <dc:identifier opf:scheme="GOOGLE">-8pXyQEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780135956977</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;David Thomas&quot;: &quot;&quot;, &quot;Andrew Hunt&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-13T17:03:10+00:00"/>
         <meta name="calibre:title_sort" content="Pragmatic Programmer: Your Journey to Mastery, The"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

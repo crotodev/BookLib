@@ -28,10 +28,10 @@
 &lt;p&gt;&lt;strong&gt;Bhim P. Upadhyaya&lt;/strong&gt; is a certified enterprise architect, application architect, software engineer, Java and JEE developer, and big data and Scala enthusiast. In addition to his professional experience as a software architect working for more than 15 companies in the USA, he has more than half a decade of university teaching and research experience, including research work at the world’s largest (non-profit) organization, the United Nations. He has also served as a visiting scholar at the School of Information Technology and Electrical Engineering (ITEE) in the University of Queensland (Brisbane, Australia). He is the founder of EqualInformation, LLC (Sunnyvale, CA, USA), a company that focuses on data synthesis and visualization, web application design and development, enterprise architecture, and integration solutions. He has a master's degree in Software Management, a master's degree in Computer Science, a graduate certificate in Enterprise Architecture, and a bachelor's degree in Electrical and Electronic Engineering, with a specialization in Communications Engineering.&lt;/p&gt;
 &lt;p&gt;His other publications include the Springer textbook &lt;em&gt;Programming with Scala: Language Exploration&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Springer</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">CHWKDwAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9783030125615</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">3030125602</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1133106617</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">CHWKDwAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Languages</dc:subject>
@@ -43,7 +43,7 @@
         <meta name="calibre:series" content="Undergraduate Topics in Computer Science"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="6"/>
-        <meta name="calibre:timestamp" content="2023-04-29T06:13:21.207017+00:00"/>
+        <meta name="calibre:timestamp" content="2023-04-29T06:13:21+00:00"/>
         <meta name="calibre:title_sort" content="Data Structures and Algorithms With Scala: A Practitioner's Approach With Emphasis on Functional Programming"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

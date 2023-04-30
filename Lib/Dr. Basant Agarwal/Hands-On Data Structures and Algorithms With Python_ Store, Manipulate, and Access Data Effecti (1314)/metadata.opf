@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a2c3ee5a-8750-40d1-bab6-5d81854020d5</dc:identifier>
         <dc:title>Hands-On Data Structures and Algorithms With Python: Store, Manipulate, and Access Data Effectively and Boost the Performance of Your Applications, 3rd Edition</dc:title>
         <dc:creator opf:file-as="Agarwal, Basant" opf:role="aut">Dr. Basant Agarwal</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-07-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -51,7 +51,6 @@
         <dc:identifier opf:scheme="ISBN">9781801073448</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1801073449</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Dr. Basant Agarwal&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-03-12T19:28:34+00:00"/>
         <meta name="calibre:title_sort" content="Hands-On Data Structures and Algorithms With Python: Store, Manipulate, and Access Data Effectively and Boost the Performance of Your Applications, 3rd Edition"/>

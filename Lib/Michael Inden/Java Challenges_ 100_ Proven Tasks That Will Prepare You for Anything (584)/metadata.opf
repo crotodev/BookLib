@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">31a802c8-83f5-4286-bf23-2d27e0c53cba</dc:identifier>
         <dc:title>Java Challenges: 100+ Proven Tasks That Will Prepare You for Anything</dc:title>
         <dc:creator opf:file-as="Inden, Michael" opf:role="aut">Michael Inden</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-12-04T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -47,7 +47,6 @@
         <dc:subject>Study Aids</dc:subject>
         <dc:subject>Study &amp; Test-Taking Skills</dc:subject>
         <dc:subject>Programming</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Michael Inden&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-28T16:24:43+00:00"/>
         <meta name="calibre:title_sort" content="Java Challenges: 100+ Proven Tasks That Will Prepare You for Anything"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ab3e3ca5-ae32-447d-bc01-8840d8ec1a14</dc:identifier>
         <dc:title>Learning PHP, MySQL &amp; JavaScript: With jQuery, CSS &amp; HTML5</dc:title>
         <dc:creator opf:file-as="Nixon, Robin" opf:role="aut">Robin Nixon</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-12-02T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;The fully revised, updated and extended 4th edition of the hugely popular web development book - includes CSS, HTML5, jQuery and the mysqli extension. &lt;/p&gt;
@@ -34,7 +34,6 @@
         <dc:subject>Sql</dc:subject>
         <dc:subject>Web Design</dc:subject>
         <dc:subject>Web Programming</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Robin Nixon&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-14T05:34:16+00:00"/>
         <meta name="calibre:title_sort" content="Learning PHP, MySQL &amp; JavaScript: With jQuery, CSS &amp; HTML5"/>

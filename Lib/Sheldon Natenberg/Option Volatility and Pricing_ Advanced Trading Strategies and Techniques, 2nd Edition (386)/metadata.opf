@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">06e946fc-a3e3-4842-83f3-5a7416b4dc87</dc:identifier>
         <dc:title>Option Volatility and Pricing: Advanced Trading Strategies and Techniques, 2nd Edition</dc:title>
         <dc:creator opf:file-as="Natenberg, Sheldon" opf:role="aut">Sheldon Natenberg</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-11-21T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -37,7 +37,6 @@
         <dc:identifier opf:scheme="AMAZON">0071818774</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780071818773</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Sheldon Natenberg&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-15T20:44:17+00:00"/>
         <meta name="calibre:title_sort" content="Option Volatility and Pricing: Advanced Trading Strategies and Techniques, 2nd Edition"/>

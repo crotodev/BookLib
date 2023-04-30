@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">4fd8256f-0c51-43e7-9be8-07b3442f4e22</dc:identifier>
         <dc:title>Python Unit Test Automation: Automate, Organize, and Execute Unit Tests in Python</dc:title>
         <dc:creator opf:file-as="Pajankar, Ashwin" opf:role="aut">Ashwin Pajankar</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-12-03T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Learn how to automate unit tests of Python 3 with automation libraries, such as doctest, unittest, nose, nose2, pytest, and selenium. This book explores important concepts in software test automation and demonstrates how to automate, organize, and execute unit tests with Python. It also introduces readers to the concepts of web browser automation and logging. &lt;/p&gt;
@@ -24,7 +24,6 @@
         <dc:subject>Python</dc:subject>
         <dc:subject>General</dc:subject>
         <dc:subject>Programming</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Ashwin Pajankar&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-21T16:12:37+00:00"/>
         <meta name="calibre:title_sort" content="Python Unit Test Automation: Automate, Organize, and Execute Unit Tests in Python"/>

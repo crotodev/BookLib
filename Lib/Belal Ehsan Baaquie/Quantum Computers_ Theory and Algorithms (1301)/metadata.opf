@@ -6,7 +6,7 @@
         <dc:title>Quantum Computers: Theory and Algorithms</dc:title>
         <dc:creator opf:file-as="Baaquie, Belal Ehsan &amp; Kwek, Leong-Chuan" opf:role="aut">Belal Ehsan Baaquie</dc:creator>
         <dc:creator opf:file-as="Baaquie, Belal Ehsan &amp; Kwek, Leong-Chuan" opf:role="aut">Leong-Chuan Kwek</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-01-03T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book presents various theories and algorithms to create a quantum computer. The concept of the classical and quantum computers, and the concept of circuits and gates are reviewed. The example of the Deutsch and the Deutsch-Josca algorithm is discussed to illustrate some key features of quantum computing. The Grover algorithm, considered to be of major milestone of the subject, is discussed in detail to exemplify the techniques used in computer algorithms. The role of quantum superposition (also called quantum parallelism) and of quantum entanglement is discussed in order to understand the key advantages of a quantum over a classical computer.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -25,7 +25,6 @@
         <dc:subject>General</dc:subject>
         <dc:subject>Mathematics</dc:subject>
         <dc:subject>Discrete Mathematics</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Belal Ehsan Baaquie&quot;: &quot;&quot;, &quot;Leong-Chuan Kwek&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-03-04T02:40:45+00:00"/>
         <meta name="calibre:title_sort" content="Quantum Computers: Theory and Algorithms"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

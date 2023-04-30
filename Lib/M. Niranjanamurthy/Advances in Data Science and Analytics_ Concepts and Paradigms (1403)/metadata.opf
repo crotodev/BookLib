@@ -15,9 +15,9 @@
 &lt;p&gt;Data science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining, deep learning, and big data. Data analytics software is a more focused version of this and can even be considered part of the larger process. Analytics is devoted to realizing actionable insights that can be applied immediately based on existing queries. For the purposes of this volume, data science is an umbrella term that encompasses data analytics, data mining, machine learning, and several other related disciplines. While a data scientist is expected to forecast the future based on past patterns, data analysts extract meaningful insights from various data sources. &lt;/p&gt;
 &lt;p&gt;Although data mining and other related areas have been around for a few decades, data science and analytics are still quickly evolving, and the processes and technologies change, almost on a day-to-day basis. This volume provides an overview of some of the most important advances in these areas today, including practical coverage of the daily applications. Valuable as a learning tool for beginners in this area as well as a daily reference for engineers and scientists working in these areas, this is a must-have for any library.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Wiley</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781119792802</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1141551651</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">o5aZEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781119792802</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Data Science</dc:subject>
@@ -25,7 +25,7 @@
         <dc:subject>Desktop Applications</dc:subject>
         <dc:subject>General</dc:subject>
         <dc:subject>Information Technology</dc:subject>
-        <meta name="calibre:timestamp" content="2023-04-29T07:37:31.181134+00:00"/>
+        <meta name="calibre:timestamp" content="2023-04-29T07:37:31+00:00"/>
         <meta name="calibre:title_sort" content="Advances in Data Science and Analytics: Concepts and Paradigms"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

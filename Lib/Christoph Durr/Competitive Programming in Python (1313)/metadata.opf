@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7b4972d3-7734-4051-94ac-f2d3934786d4</dc:identifier>
         <dc:title>Competitive Programming in Python</dc:title>
         <dc:creator opf:file-as="Dürr, Christoph" opf:role="aut">Christoph Dürr</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-01-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -21,7 +21,6 @@
         <dc:identifier opf:scheme="AMAZON">1108716822</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781108716826</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Christoph Dürr&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-03-12T19:27:24+00:00"/>
         <meta name="calibre:title_sort" content="Competitive Programming in Python"/>

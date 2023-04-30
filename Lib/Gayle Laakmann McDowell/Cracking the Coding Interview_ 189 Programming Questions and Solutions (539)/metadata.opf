@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">5b1278b5-f989-4182-8ef9-b6c5bdffaecc</dc:identifier>
         <dc:title>Cracking the Coding Interview: 189 Programming Questions and Solutions</dc:title>
         <dc:creator opf:file-as="McDowell, Gayle Laakmann" opf:role="aut">Gayle Laakmann McDowell</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-10-14T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;I am not a recruiter. I am a software engineer. And as such, I know what it's like to be asked to whip up brilliant algorithms on the spot and then write flawless code on a whiteboard. I've been through this as a candidate and as an interviewer. &lt;/p&gt;
@@ -28,7 +28,6 @@
         <dc:identifier opf:scheme="GOOGLE">jD8iswEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Reference</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Gayle Laakmann McDowell&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-24T17:51:47+00:00"/>
         <meta name="calibre:title_sort" content="Cracking the Coding Interview: 189 Programming Questions and Solutions"/>

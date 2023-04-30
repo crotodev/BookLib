@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">cf3341bf-fbc1-439d-8c1a-8b24a74a2ca7</dc:identifier>
         <dc:title>The Firm: The Story of McKinsey and Its Secret Influence on American Business</dc:title>
         <dc:creator opf:file-as="McDonald, Duff" opf:role="aut">Duff McDonald</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-09-09T16:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;A behind-the-scenes, revelatory history of McKinsey &amp;amp; Co., America’s most influential and controversial business consulting firm, told by one of the nation’s leading financial journalists. &lt;/p&gt;
@@ -17,7 +17,6 @@
         <dc:identifier opf:scheme="AMAZON">1439190976</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">B00A287PG2</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Duff McDonald&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-02-10T20:02:47+00:00"/>
         <meta name="calibre:title_sort" content="Firm: The Story of McKinsey and Its Secret Influence on American Business, The"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">fc5ced8d-a17e-4970-942a-636a38aafc02</dc:identifier>
         <dc:title>Stochastic Differential Equations: An Introduction With Applications</dc:title>
         <dc:creator opf:file-as="Oksendal, Bernt" opf:role="aut">Bernt Oksendal</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2003-07-15T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -21,7 +21,6 @@
         <dc:identifier opf:scheme="ISBN">9783540047582</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">3540047581</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Bernt Oksendal&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-19T03:07:33+00:00"/>
         <meta name="calibre:title_sort" content="Stochastic Differential Equations: An Introduction With Applications"/>

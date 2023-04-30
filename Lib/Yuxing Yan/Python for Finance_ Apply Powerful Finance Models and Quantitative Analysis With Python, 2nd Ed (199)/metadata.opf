@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d53972e2-c2af-41a6-8eb8-d6164a37e1b0</dc:identifier>
         <dc:title>Python for Finance: Apply Powerful Finance Models and Quantitative Analysis With Python, 2nd Edition</dc:title>
         <dc:creator opf:file-as="Yan, Yuxing" opf:role="aut">Yuxing Yan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-06-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Learn and implement various Quantitative Finance concepts using the popular Python libraries&lt;/p&gt;
@@ -48,7 +48,6 @@
         <dc:subject>Finance</dc:subject>
         <dc:subject>Programming</dc:subject>
         <dc:subject>Python</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Yuxing Yan&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-08T19:37:20+00:00"/>
         <meta name="calibre:title_sort" content="Python for Finance: Apply Powerful Finance Models and Quantitative Analysis With Python, 2nd Edition"/>

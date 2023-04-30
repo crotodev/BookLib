@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1e5f4ada-9c3f-43b5-abfe-380809e0f327</dc:identifier>
         <dc:title>Love, Witches &amp; Other Delusions</dc:title>
         <dc:creator opf:file-as="Akatsuki, Natsume" opf:role="aut">Natsume Akatsuki</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-12-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Kazuma's first winter in another world isn't going so well. With companions like Aqua (Arch-priest), Megumin (Arch-wizard), and Darkness (Crusader), his party of advanced classes should be the most powerful in Axel--but they're so dysfunctional, even the easiest-seeming quest goes terribly awry, and they can barely save enough to afford a stable! When an opportunity arises to stay in a mansion, it's like a dream come true--the only catch is that they have to exorcise the evil spirits haunting it. Goddess Aqua is an expert with the undead, so the quest should be a piece of cake, right...? Unfortunately, with this useless goddess, things have a way of working out for the worst...&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -18,7 +18,6 @@
         <dc:subject>Fiction</dc:subject>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>General</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Natsume Akatsuki&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="この素晴らしい世界に祝福を! Konosuba: God's Blessing on This Wonderful World! Light Novel"/>
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:rating" content="8"/>

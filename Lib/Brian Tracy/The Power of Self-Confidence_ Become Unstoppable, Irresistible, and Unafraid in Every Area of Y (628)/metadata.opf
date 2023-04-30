@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">fa6cba5a-1ef8-4589-ab51-953a138db82f</dc:identifier>
         <dc:title>The Power of Self-Confidence: Become Unstoppable, Irresistible, and Unafraid in Every Area of Your Life</dc:title>
         <dc:creator opf:file-as="Tracy, Brian" opf:role="aut">Brian Tracy</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-08-30T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -60,7 +60,6 @@
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>General</dc:subject>
         <dc:subject>Motivational</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Brian Tracy&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-02-10T19:23:35+00:00"/>
         <meta name="calibre:title_sort" content="Power of Self-Confidence: Become Unstoppable, Irresistible, and Unafraid in Every Area of Your Life, The"/>

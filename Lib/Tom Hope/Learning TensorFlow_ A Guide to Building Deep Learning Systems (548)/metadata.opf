@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Hope, Tom &amp; Resheff, Yehezkel S. &amp; Lieder, Itay" opf:role="aut">Tom Hope</dc:creator>
         <dc:creator opf:file-as="Hope, Tom &amp; Resheff, Yehezkel S. &amp; Lieder, Itay" opf:role="aut">Yehezkel S. Resheff</dc:creator>
         <dc:creator opf:file-as="Hope, Tom &amp; Resheff, Yehezkel S. &amp; Lieder, Itay" opf:role="aut">Itay Lieder</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-08-09T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Roughly inspired by the human brain, deep neural networks trained with large amounts of data can solve complex tasks with unprecedented accuracy. This practical book provides an end-to-end guide to TensorFlow, the leading open source software library that helps you build and train neural networks for computer vision, natural language processing (NLP), speech recognition, and general predictive analytics. &lt;/p&gt;
@@ -27,7 +27,6 @@
         <dc:subject>Neural Networks</dc:subject>
         <dc:subject>Data Modeling &amp; Design</dc:subject>
         <dc:subject>Deep Learning</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Tom Hope&quot;: &quot;&quot;, &quot;Yehezkel S. Resheff&quot;: &quot;&quot;, &quot;Itay Lieder&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-24T21:48:44+00:00"/>
         <meta name="calibre:title_sort" content="Learning TensorFlow: A Guide to Building Deep Learning Systems"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

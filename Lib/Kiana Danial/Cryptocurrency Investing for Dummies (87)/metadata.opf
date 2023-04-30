@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">57c6bfd1-3b1c-4af0-a25b-490a9a0e8f49</dc:identifier>
         <dc:title>Cryptocurrency Investing for Dummies</dc:title>
         <dc:creator opf:file-as="Danial, Kiana" opf:role="aut">Kiana Danial</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-03-06T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;The ultimate guide to the world of cryptocurrencies!&lt;/p&gt;
@@ -50,7 +50,6 @@
         <dc:language>eng</dc:language>
         <dc:subject>Cryptocurrency</dc:subject>
         <dc:subject>Investing</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Kiana Danial&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2022-12-26T06:22:17+00:00"/>
         <meta name="calibre:title_sort" content="Cryptocurrency Investing for Dummies"/>

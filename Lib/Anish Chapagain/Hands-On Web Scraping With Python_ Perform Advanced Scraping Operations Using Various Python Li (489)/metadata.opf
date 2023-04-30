@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d71cf49d-fe1c-4137-aec9-0ceba4b2a8c0</dc:identifier>
         <dc:title>Hands-On Web Scraping With Python: Perform Advanced Scraping Operations Using Various Python Libraries and Tools Such as Selenium, Regex, and Others</dc:title>
         <dc:creator opf:file-as="Chapagain, Anish" opf:role="aut">Anish Chapagain</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-07-15T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Collect and scrape different complexities of data from the modern Web using the latest tools, best practices, and techniquesKey FeaturesLearn various scraping techniques using a range of Python libraries such as Scrapy and Beautiful SoupBuild scrapers and crawlers to extract relevant information from the webAutomate web scraping operations to bridge the accuracy gap and ease complex business needsBook DescriptionWeb scraping is an essential technique used in many organizations to scrape valuable data from web pages. This book will enable you to delve deeply into web scraping techniques and methodologies. This book will introduce you to the fundamental concepts of web scraping techniques and how they can be applied to multiple sets of web pages. We'll use powerful libraries from the Python ecosystem—such as Scrapy, lxml, pyquery, bs4, and others—to carry out web scraping operations. We will take an in-depth look at essential tasks to carry out simple to intermediate scraping operations such as identifying information from web pages, using patterns or attributes to retrieve information, and others. This book adopts a practical approach to web scraping concepts and tools, guiding you through a series of use cases and showing you how to use the best tools and techniques to efficiently scrape web pages. This book also covers the use of other popular web scraping tools, such as Selenium, Regex, and web-based APIs. &lt;/p&gt;
@@ -23,7 +23,6 @@
         <dc:subject>General</dc:subject>
         <dc:subject>Data Analytics</dc:subject>
         <dc:subject>Artificial Intelligence</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Anish Chapagain&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-21T16:09:14+00:00"/>
         <meta name="calibre:title_sort" content="Hands-On Web Scraping With Python: Perform Advanced Scraping Operations Using Various Python Libraries and Tools Such as Selenium, Regex, and Others"/>

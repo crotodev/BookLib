@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2cdca689-889b-4e3e-a049-bc1b6dd9fa27</dc:identifier>
         <dc:title>Machine Learning for Economics and Finance in Tensorflow 2: Deep Learning Models for Research and Industry</dc:title>
         <dc:creator opf:file-as="Hull, Isaiah" opf:role="aut">Isaiah Hull</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-11-26T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -32,7 +32,6 @@
         <dc:subject>General</dc:subject>
         <dc:subject>Information Technology</dc:subject>
         <dc:subject>Deep Learning</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Isaiah Hull&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-30T03:59:17+00:00"/>
         <meta name="calibre:title_sort" content="Machine Learning for Economics and Finance in Tensorflow 2: Deep Learning Models for Research and Industry"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b26abc95-4cb4-4607-b3c4-fa45f34e339b</dc:identifier>
         <dc:title>Applied Quantitative Finance: Using Python for Financial Analysis</dc:title>
         <dc:creator opf:file-as="Garita, Mauricio" opf:role="aut">Mauricio Garita</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-09-04T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book provides both conceptual knowledge of quantitative finance and a hands-on approach to using Python. It begins with a description of concepts prior to the application of Python with the purpose of understanding how to compute and interpret results. This book offers practical applications in the field of finance concerning Python, a language that is more and more relevant in the financial arena due to big data. This will lead to a better understanding of finance as it gives a descriptive process for students, academics and practitioners. &lt;/p&gt;
@@ -39,7 +39,6 @@
         <dc:subject>Theory</dc:subject>
         <dc:subject>Financial Modeling</dc:subject>
         <dc:subject>Financial Risk Management</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Mauricio Garita&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-14T17:39:47+00:00"/>
         <meta name="calibre:title_sort" content="Applied Quantitative Finance: Using Python for Financial Analysis"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

@@ -6,7 +6,7 @@
         <dc:title>Learn Algorithmic Trading: Build and Deploy Algorithmic Trading Systems and Strategies Using Python and Advanced Data Analysis</dc:title>
         <dc:creator opf:file-as="Ghosh, Sourav &amp; Donadio, Sebastien" opf:role="aut">Sourav Ghosh</dc:creator>
         <dc:creator opf:file-as="Ghosh, Sourav &amp; Donadio, Sebastien" opf:role="aut">Sebastien Donadio</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-11-07T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Understand the fundamentals of algorithmic trading to apply algorithms to real market data and analyze the results of real-world trading strategies&lt;/p&gt;
@@ -50,7 +50,6 @@
         <dc:subject>Python</dc:subject>
         <dc:subject>Programming</dc:subject>
         <dc:subject>Programming Languages</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Sourav Ghosh&quot;: &quot;&quot;, &quot;Sebastien Donadio&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-13T08:02:22+00:00"/>
         <meta name="calibre:title_sort" content="Learn Algorithmic Trading: Build and Deploy Algorithmic Trading Systems and Strategies Using Python and Advanced Data Analysis"/>

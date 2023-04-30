@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">32fbff72-6726-4801-878b-4715fb9599f6</dc:identifier>
         <dc:title>A Professor's Guide to Writing Essays: The No-Nonsense Plan for Better Writing</dc:title>
         <dc:creator opf:file-as="Neumann, Jacob" opf:role="aut">Jacob Neumann</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-11-03T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;"Essay writing doesn't have to be hard. In this book, a university professor and award-winning academic writer shows students an easy-to-follow plan for better essay writing. He boils down over 20 years of experience in teaching and publishing into the essential components of good writing. Dr. Neumann gives students detailed examples and thorough explanations on topics such as making arguments, creating effective introductions, and using transitions. This updated second edition includes a "Quick guide" overview of the composition process, as well as a bonus section on using citations. This book will help college students, graduate students, and high school students with all types of academic writing. Learn from Dr. Neumann's experience and expertise in writing and succeed in all of your academic writing endeavors. &lt;/p&gt;
@@ -14,7 +14,6 @@
         <dc:identifier opf:scheme="ISBN">9780692822524</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">NwpIMQAACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Jacob Neumann&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-13T17:41:19+00:00"/>
         <meta name="calibre:title_sort" content="Professor's Guide to Writing Essays: The No-Nonsense Plan for Better Writing, A"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

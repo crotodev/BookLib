@@ -6,7 +6,7 @@
         <dc:title>Python Machine Learning: Machine Learning and Deep Learning With Python, Scikit-Learn, and TensorFlow</dc:title>
         <dc:creator opf:file-as="Raschka, Sebastian &amp; Mirjalili, Vahid" opf:role="aut">Sebastian Raschka</dc:creator>
         <dc:creator opf:file-as="Raschka, Sebastian &amp; Mirjalili, Vahid" opf:role="aut">Vahid Mirjalili</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-09-23T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Key Features A practical approach to the frameworks of data science, machine learning, and deep learning Use the most powerful Python libraries to implement machine learning and deep learning Learn best practices to improve and optimize your machine learning systems and algorithms Book Description &lt;/p&gt;
@@ -23,7 +23,6 @@
         <dc:subject>Reference</dc:subject>
         <dc:subject>Science</dc:subject>
         <dc:subject>Python</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Sebastian Raschka&quot;: &quot;&quot;, &quot;Vahid Mirjalili&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-13T07:57:23+00:00"/>
         <meta name="calibre:title_sort" content="Python Machine Learning: Machine Learning and Deep Learning With Python, Scikit-Learn, and TensorFlow"/>

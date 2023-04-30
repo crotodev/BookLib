@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a3f692ee-4345-489c-8be6-e286c7529c7d</dc:identifier>
         <dc:title>Learning Functional Programming: Managing Code Complexity by Thinking Functionally</dc:title>
         <dc:creator opf:file-as="Widman, Jack" opf:role="aut">Jack Widman</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-08-23T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Learn how to think and write code like a functional programmer. With this practical guide, software developers familiar with object-oriented programming will dive into the core concepts of functional programming and learn how to use both functional and OOP features together on large or complex software projects. &lt;/p&gt;
@@ -22,7 +22,6 @@
         <dc:identifier opf:scheme="AMAZON">1098111753</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">t6DnzgEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Jack Widman&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2022-12-31T11:42:13+00:00"/>
         <meta name="calibre:title_sort" content="Learning Functional Programming: Managing Code Complexity by Thinking Functionally"/>

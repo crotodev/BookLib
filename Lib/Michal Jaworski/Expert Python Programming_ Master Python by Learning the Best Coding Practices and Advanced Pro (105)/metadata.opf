@@ -6,7 +6,7 @@
         <dc:title>Expert Python Programming: Master Python by Learning the Best Coding Practices and Advanced Programming Concepts, 4th Edition</dc:title>
         <dc:creator opf:file-as="Jaworski, Michal &amp; Ziadé, Tarek" opf:role="aut">Michal Jaworski</dc:creator>
         <dc:creator opf:file-as="Jaworski, Michal &amp; Ziadé, Tarek" opf:role="aut">Tarek Ziadé</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-05-28T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Attain a deep understanding of building, maintaining, packaging, and shipping robust Python applicationsKey Features: Discover the new features of Python, such as dictionary merge, the zoneinfo module, and structural pattern matchingCreate manageable code to run in various environments with different sets of dependenciesImplement effective Python data structures and algorithms to write, test, and optimize codeBook Description: Python is used in a wide range of domains owing to its simple yet powerful nature. Although writing Python code is easy, making it readable, reusable, and easy to maintain can be challenging. Complete with best practices, useful tools, and standards implemented by professional Python developers, this fourth edition will help you in not only overcoming such challenges but also learning Python's latest features and advanced concepts. &lt;/p&gt;
@@ -27,7 +27,6 @@
         <dc:subject>Application Development</dc:subject>
         <dc:subject>Python</dc:subject>
         <dc:subject>Programming</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Michal Jaworski&quot;: &quot;&quot;, &quot;Tarek Ziadé&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-26T19:07:14+00:00"/>
         <meta name="calibre:title_sort" content="Expert Python Programming: Master Python by Learning the Best Coding Practices and Advanced Programming Concepts, 4th Edition"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

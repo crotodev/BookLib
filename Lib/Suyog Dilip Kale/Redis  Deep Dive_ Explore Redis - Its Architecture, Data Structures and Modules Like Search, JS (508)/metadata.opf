@@ -6,7 +6,7 @@
         <dc:title>Redis¨ Deep Dive: Explore Redis - Its Architecture, Data Structures and Modules Like Search, JSON, AI, Graph, Timeseries (English Edition)</dc:title>
         <dc:creator opf:file-as="Kale, Suyog Dilip &amp; Kulkarni, Chinmay" opf:role="aut">Suyog Dilip Kale</dc:creator>
         <dc:creator opf:file-as="Kale, Suyog Dilip &amp; Kulkarni, Chinmay" opf:role="aut">Chinmay Kulkarni</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-02-18T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Complete reference guide to RedisÊKEY FEATURESÊÊ_ Complete coverage of Redis Modules._ Best practices, tips and tricks, and expert techniques to scale Redis._ Troubleshooting solutions to perform real-time faster data processing for client applications.ÊDESCRIPTIONÊÊThis book begins with teaching you to set up your own Redis environment, followed by Redis data structures, their architecture, and use cases. You get to learn the details about Redis Modules such as RediSearch, RedisJSON, RedisTimeSeries, RedisAI, and RedisGraph with specific business use-case examples. This book makes you a Redis Expert by getting you hands-on with best practices on Redis and some tricks to scale Redis activities. &lt;/p&gt;
@@ -27,7 +27,6 @@
         <dc:subject>Data Analytics</dc:subject>
         <dc:subject>Analytics</dc:subject>
         <dc:subject>Redis</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Suyog Dilip Kale&quot;: &quot;&quot;, &quot;Chinmay Kulkarni&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="4"/>
         <meta name="calibre:timestamp" content="2023-01-21T16:32:06+00:00"/>
         <meta name="calibre:title_sort" content="Redis¨ Deep Dive: Explore Redis - Its Architecture, Data Structures and Modules Like Search, JSON, AI, Graph, Timeseries (English Edition)"/>

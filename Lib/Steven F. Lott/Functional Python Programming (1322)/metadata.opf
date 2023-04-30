@@ -5,13 +5,12 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d9fbc483-64eb-42e8-83b0-5a2fbc873d14</dc:identifier>
         <dc:title>Functional Python Programming</dc:title>
         <dc:creator opf:file-as="Lott, Steven F." opf:role="aut">Steven F. Lott</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-07-30T04:00:00+00:00</dc:date>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:identifier opf:scheme="AMAZON">180020745X</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781800207455</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Steven F. Lott&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-03-12T20:48:03+00:00"/>
         <meta name="calibre:title_sort" content="Functional Python Programming"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d73174fa-2bfc-46f6-939d-a0a6777c3acc</dc:identifier>
         <dc:title>Pattern Recognition and Machine Learning</dc:title>
         <dc:creator opf:file-as="Bishop, Christopher M." opf:role="aut">Christopher M. Bishop</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2006-01-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;About the Author&lt;/h3&gt;
@@ -44,7 +44,6 @@
         <dc:subject>Machine Learning</dc:subject>
         <dc:subject>Statistics</dc:subject>
         <dc:subject>Probability &amp; Statistics</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Christopher M. Bishop&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-20T17:41:10+00:00"/>
         <meta name="calibre:title_sort" content="Pattern Recognition and Machine Learning"/>

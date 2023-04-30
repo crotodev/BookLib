@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1def7c5c-9dc1-418b-a199-d784013d4e65</dc:identifier>
         <dc:title>Distributed Machine Learning With Python: Accelerating Model Training and Serving With Distributed Systems</dc:title>
         <dc:creator opf:file-as="Wang, Guanhua" opf:role="aut">Guanhua Wang</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-04-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Review&lt;/h3&gt;
@@ -61,7 +61,6 @@
         <dc:subject>Data Science</dc:subject>
         <dc:subject>Data Modeling &amp; Design</dc:subject>
         <dc:subject>Data Warehousing</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Guanhua Wang&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-03-10T17:21:00+00:00"/>
         <meta name="calibre:title_sort" content="Distributed Machine Learning With Python: Accelerating Model Training and Serving With Distributed Systems"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a90aa732-6f98-4807-b00b-04a34b3b9513</dc:identifier>
         <dc:title>Math for Deep Learning: What You Need to Know to Understand Neural Networks</dc:title>
         <dc:creator opf:file-as="Kneusel, Ronald T." opf:role="aut">Ronald T. Kneusel</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-12-07T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Math for Deep Learning &lt;strong&gt;provides the essential math you need to understand deep learning discussions, explore more complex implementations, and better use the deep learning toolkits.&lt;/strong&gt; &lt;/p&gt;
@@ -16,7 +16,6 @@
         <dc:identifier opf:scheme="ISBN">9781718501904</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1718501900</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Ronald T. Kneusel&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-24T21:53:23+00:00"/>
         <meta name="calibre:title_sort" content="Math for Deep Learning: What You Need to Know to Understand Neural Networks"/>

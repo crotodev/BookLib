@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">78a603a3-4590-4d3a-8953-534274fb36e8</dc:identifier>
         <dc:title>Database Design for Mere Mortals: 25th Anniversary Edition</dc:title>
         <dc:creator opf:file-as="Hernandez, Michael J." opf:role="aut">Michael J. Hernandez</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-10-15T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -33,7 +33,6 @@
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Database Administration &amp; Management</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Michael J. Hernandez&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-02-05T22:04:38+00:00"/>
         <meta name="calibre:title_sort" content="Database Design for Mere Mortals: 25th Anniversary Edition"/>

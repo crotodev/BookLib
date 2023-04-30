@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2ad7e09d-198c-446c-a2ce-8069d83e1bde</dc:identifier>
         <dc:title>No Excuses!: The Power of Self-Discipline</dc:title>
         <dc:creator opf:file-as="Tracy, Brian" opf:role="aut">Brian Tracy</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-03-22T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Most people think success comes from good luck or enormous talent, but many successful people achieve their accomplishments in a simpler way: through self-discipline. No Excuses! shows you how you can achieve success in all three major areas of your life, including your personal goals, business and money goals, and overall happiness. &lt;/p&gt;
@@ -22,7 +22,6 @@
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Personal Success</dc:subject>
         <dc:subject>Motivational</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Brian Tracy&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-13T17:43:28+00:00"/>
         <meta name="calibre:title_sort" content="No Excuses!: The Power of Self-Discipline"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8c132a24-cfd4-49b3-bee1-2daaf045d1d6</dc:identifier>
         <dc:title>Machine Learning Automation With TPOT: Build, Validate, and Deploy Fully Automated Machine Learning Models With Python</dc:title>
         <dc:creator opf:file-as="Radecic, Dario" opf:role="aut">Dario Radecic</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-05-07T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Discover how TPOT can be used to handle automation in machine learning and explore the different types of tasks that TPOT can automateKey Features: Understand parallelism and how to achieve it in Python. &lt;/p&gt;
@@ -23,7 +23,6 @@
         <dc:subject>Programming</dc:subject>
         <dc:subject>Python</dc:subject>
         <dc:subject>Automation</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Dario Radecic&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-12-14T19:10:48+00:00"/>
         <meta name="calibre:title_sort" content="Machine Learning Automation With TPOT: Build, Validate, and Deploy Fully Automated Machine Learning Models With Python"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

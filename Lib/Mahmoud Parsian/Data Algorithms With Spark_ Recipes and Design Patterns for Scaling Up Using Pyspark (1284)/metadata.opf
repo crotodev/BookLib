@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a7bfa137-3b42-46a8-8bc7-a52ac9264b38</dc:identifier>
         <dc:title>Data Algorithms With Spark: Recipes and Design Patterns for Scaling Up Using Pyspark</dc:title>
         <dc:creator opf:file-as="Parsian, Mahmoud" opf:role="aut">Mahmoud Parsian</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-02-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -37,7 +37,6 @@
         <dc:subject>Open Source</dc:subject>
         <dc:subject>Programming</dc:subject>
         <dc:subject>Python</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Mahmoud Parsian&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-02-28T15:35:10+00:00"/>
         <meta name="calibre:title_sort" content="Data Algorithms With Spark: Recipes and Design Patterns for Scaling Up Using Pyspark"/>

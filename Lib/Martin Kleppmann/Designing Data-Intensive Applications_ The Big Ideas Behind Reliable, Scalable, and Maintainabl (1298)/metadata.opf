@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">e4f51e31-7ef4-45df-a326-6b6b72ac4012</dc:identifier>
         <dc:title>Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</dc:title>
         <dc:creator opf:file-as="Kleppmann, Martin" opf:role="aut">Martin Kleppmann</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-03-16T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -30,7 +30,6 @@
         <dc:subject>Data Modeling &amp; Design</dc:subject>
         <dc:subject>Business &amp; Productivity Software</dc:subject>
         <dc:subject>Databases</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Martin Kleppmann&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-03-03T04:16:23+00:00"/>
         <meta name="calibre:title_sort" content="Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2b1407cb-9afb-4be7-b18f-ece4a60622c5</dc:identifier>
         <dc:title>How to Write a Lot: A Practical Guide to Productive Academic Writing</dc:title>
         <dc:creator opf:file-as="Silvia, Paul J." opf:role="aut">Paul J. Silvia</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2007-01-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;All academics need to write, but many struggle to finish their dissertations, articles, books, or grant proposals. Writing is hard work and can be difficult to wedge into a frenetic academic schedule. How can we write it all while still having a life? &lt;/p&gt;
@@ -20,7 +20,6 @@
         <dc:subject>Self Help</dc:subject>
         <dc:subject>Psychology</dc:subject>
         <dc:subject>Reference</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Paul J. Silvia&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-21T10:02:42+00:00"/>
         <meta name="calibre:title_sort" content="How to Write a Lot: A Practical Guide to Productive Academic Writing"/>

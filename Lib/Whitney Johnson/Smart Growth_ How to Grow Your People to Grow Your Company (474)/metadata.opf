@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f55b2e7e-610d-4ab7-b66d-032f98aa27c4</dc:identifier>
         <dc:title>Smart Growth: How to Grow Your People to Grow Your Company</dc:title>
         <dc:creator opf:file-as="Johnson, Whitney" opf:role="aut">Whitney Johnson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-01-11T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -39,7 +39,6 @@
         <dc:identifier opf:scheme="AMAZON">1647821150</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Whitney Johnson&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-21T09:56:53+00:00"/>
         <meta name="calibre:title_sort" content="Smart Growth: How to Grow Your People to Grow Your Company"/>

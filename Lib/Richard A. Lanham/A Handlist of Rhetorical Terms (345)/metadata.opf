@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">84c9493c-85f7-4731-a57f-445523189223</dc:identifier>
         <dc:title>A Handlist of Rhetorical Terms</dc:title>
         <dc:creator opf:file-as="Lanham, Richard A." opf:role="aut">Richard A. Lanham</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1991-01-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;With a unique combination of alphabetical and descriptive lists, A Handlist of Rhetorical Terms provides in one convenient, accessible volume all the rhetorical terms--mostly Greek and Latin--that students of Western literature and rhetoric are likely to come across in their reading or will find useful in their writing. The Second Edition of this widely used work offers new features that will make it even more useful: * A completely revised alphabetical listing that defines nearly 1,000 terms used by scholars of formal rhetoric from classical Greece to the present day* A revised system of cross-references between terms* Many new examples and new, extended entries for central terms* A revised Terms-by-Type listing to identify unknown terms* A new typographical design for easier access&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -19,7 +19,6 @@
         <dc:subject>Welsh</dc:subject>
         <dc:subject>European</dc:subject>
         <dc:subject>Literary Criticism</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Richard A. Lanham&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-14T05:26:00+00:00"/>
         <meta name="calibre:title_sort" content="Handlist of Rhetorical Terms, A"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

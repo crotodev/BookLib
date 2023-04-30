@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">25f34541-e105-431b-8bcc-102b8dc20919</dc:identifier>
         <dc:title>Deep Learning From Scratch: Building With Python From First Principles</dc:title>
         <dc:creator opf:file-as="Weidman, Seth" opf:role="aut">Seth Weidman</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-01-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;With the resurgence of neural networks in the 2010s, deep learning has become essential for machine learning practitioners and even many software engineers. This book provides a comprehensive introduction for data scientists and software engineers with machine learning experience. You’ll start with deep learning basics and move quickly to the details of important advanced architectures, implementing everything from scratch along the way.&lt;/p&gt;
@@ -26,7 +26,6 @@
         <dc:subject>Computer Science</dc:subject>
         <dc:subject>Data Science</dc:subject>
         <dc:subject>General</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Seth Weidman&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-24T16:42:08+00:00"/>
         <meta name="calibre:title_sort" content="Deep Learning From Scratch: Building With Python From First Principles"/>

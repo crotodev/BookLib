@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1397a1e3-7171-40d4-addb-ce2892818091</dc:identifier>
         <dc:title>Beginning Git and Github: A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer</dc:title>
         <dc:creator opf:file-as="Tsitoara, Mariot" opf:role="aut">Mariot Tsitoara</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-12-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Learn the fundamentals of version control through step-by-step tutorials that will teach you the ins-and-outs of Git. This book is your complete guide to how Git and GitHub work in a professional team environment. &lt;/p&gt;
@@ -29,7 +29,6 @@
         <dc:subject>Internet</dc:subject>
         <dc:subject>Web Programming</dc:subject>
         <dc:subject>Information Technology</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Mariot Tsitoara&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-24T16:31:16+00:00"/>
         <meta name="calibre:title_sort" content="Beginning Git and Github: A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer"/>

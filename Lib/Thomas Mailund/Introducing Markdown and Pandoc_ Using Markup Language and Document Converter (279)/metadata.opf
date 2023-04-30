@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">67d7f410-2b12-41e6-885e-9c599e0cfc63</dc:identifier>
         <dc:title>Introducing Markdown and Pandoc: Using Markup Language and Document Converter</dc:title>
         <dc:creator opf:file-as="Mailund, Thomas" opf:role="aut">Thomas Mailund</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-08-16T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Discover how to write manuscripts in Markdown and translate them with Pandoc into different output formats. You’ll use Markdown to annotate text formatting information with a strong focus on semantic information: you can annotate your text with information about where chapters and sections start, but not how chapter and heading captions should be formatted. As a result, you’ll decouple the structure of a text from how it is visualized and make it easier for you to produce different kinds of output. The same text can easily be formatted as HTML, PDF, or Word documents, with various visual styles, by tools that understand the markup annotations. Finally, you’ll learn to use Pandoc, a tool for translating between different markup languages, such as LaTeX, HTML, and Markdown. This book will not describe all the functionality that Pandoc provides, but will teach you how to translate Markdown documents, how to customize your documents using templates, and how to extend Pandoc’s functionality using filters. If that is something you are interested in, Introducing Markdown and Pandoc will get you started. With this set of skills you’ll be able to write more efficiently without worrying about needless formatting and other distractions. &lt;/p&gt;
@@ -21,7 +21,6 @@
         <dc:subject>Open Source</dc:subject>
         <dc:subject>Internet</dc:subject>
         <dc:subject>Web Programming</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Thomas Mailund&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-13T07:37:14+00:00"/>
         <meta name="calibre:title_sort" content="Introducing Markdown and Pandoc: Using Markup Language and Document Converter"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

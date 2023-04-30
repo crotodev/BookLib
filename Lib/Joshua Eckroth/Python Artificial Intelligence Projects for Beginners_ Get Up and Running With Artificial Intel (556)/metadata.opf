@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">bfaf1799-98e3-47fb-86f3-6d7827529d9e</dc:identifier>
         <dc:title>Python Artificial Intelligence Projects for Beginners: Get Up and Running With Artificial Intelligence Using 8 Smart and Exciting AI Applications</dc:title>
         <dc:creator opf:file-as="Eckroth, Joshua" opf:role="aut">Joshua Eckroth</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-07-31T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Build smart applications by implementing real-world artificial intelligence projectsKey Features: Explore a variety of AI projects with PythonGet well-versed with different types of neural networks and popular deep learning algorithmsLeverage popular Python deep learning libraries for your AI projectsBook Description: Artificial Intelligence (AI) is the newest technology that's being employed among varied businesses, industries, and sectors. Python Artificial Intelligence Projects for Beginners demonstrates AI projects in Python, covering modern techniques that make up the world of Artificial Intelligence. &lt;/p&gt;
@@ -17,7 +17,6 @@
         <dc:identifier opf:scheme="GOOGLE">itzVuQEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B07G47PJKB</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Joshua Eckroth&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-24T22:00:31+00:00"/>
         <meta name="calibre:title_sort" content="Python Artificial Intelligence Projects for Beginners: Get Up and Running With Artificial Intelligence Using 8 Smart and Exciting AI Applications"/>

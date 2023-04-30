@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d0da98ad-e0ea-4387-b71a-4adca82780b2</dc:identifier>
         <dc:title>The Science of Likability: Charm, Wit, Humor, and the 16 Studies That Show You How to Master Them</dc:title>
         <dc:creator opf:file-as="King, Patrick" opf:role="aut">Patrick King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-07-26T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Are you interested in &lt;em&gt;100% scientific and proven&lt;/em&gt; ways to make friends quickly, negotiate anything you want, turn enemies into friends, gain trust, and just be &lt;em&gt;flat-out likable&lt;/em&gt;? &lt;br&gt;&lt;strong&gt;How about step by step, methodical, literally foolproof approaches to just make people want you around more?&lt;/strong&gt; &lt;/p&gt;
@@ -28,7 +28,6 @@
         <dc:subject>Self Help</dc:subject>
         <dc:subject>Business</dc:subject>
         <dc:subject>Sociology</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Patrick King&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="6"/>
         <meta name="calibre:timestamp" content="2023-02-12T21:32:13+00:00"/>
         <meta name="calibre:title_sort" content="Science of Likability: Charm, Wit, Humor, and the 16 Studies That Show You How to Master Them, The"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a88d4a5e-7b9d-48b2-ba08-db35a83754c4</dc:identifier>
         <dc:title>Grokking the Object-Oriented Interview</dc:title>
         <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-11-24T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Cracking the Java Interview is not easy, and one of the main reasons for that is Java is very vast. There are a lot of concepts and APIs to master to become a decent Java developer. &lt;/p&gt;
@@ -15,7 +15,6 @@
 &lt;p&gt;This is the single most important tip I can give you as a Java developer. Always, remember, your answers drive interviews, and these questions will show you how to drive Interviewer to your strong areas. All the best for the Java interview and if you have any questions or feedback you can always contact me on twitter javinpaul (http://twitter.com/javinpaul) or comment on my blogs Javarevisited(http://javarevisited.blogspot.com) and Java67(http://java67.com) &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:identifier opf:scheme="AMAZON">B08P55JZBX</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="6"/>
         <meta name="calibre:timestamp" content="2023-03-25T17:39:11+00:00"/>
         <meta name="calibre:title_sort" content="Grokking the Object-Oriented Interview"/>

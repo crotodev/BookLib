@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">5c374d8d-2678-4c5c-b52d-d3d7f9bf37e8</dc:identifier>
         <dc:title>Stochastic Calculus for Finance I: The Binomial Asset Pricing Model</dc:title>
         <dc:creator opf:file-as="Shreve, Steven" opf:role="aut">Steven Shreve</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2005-06-28T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -24,7 +24,6 @@
         <dc:identifier opf:scheme="AMAZON">0387249680</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780387249681</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Steven Shreve&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-19T03:17:21+00:00"/>
         <meta name="calibre:title_sort" content="Stochastic Calculus for Finance I: The Binomial Asset Pricing Model"/>

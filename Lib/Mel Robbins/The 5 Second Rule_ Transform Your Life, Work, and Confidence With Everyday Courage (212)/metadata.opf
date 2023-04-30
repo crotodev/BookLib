@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d9a1204b-bc31-43ce-a33f-44fee2771778</dc:identifier>
         <dc:title>The 5 Second Rule: Transform Your Life, Work, and Confidence With Everyday Courage</dc:title>
         <dc:creator opf:file-as="Robbins, Mel" opf:role="aut">Mel Robbins</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-02-27T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -50,7 +50,6 @@
         <dc:subject>Success</dc:subject>
         <dc:subject>Productivity</dc:subject>
         <dc:subject>Self-Improvement</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Mel Robbins&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-09T05:06:10+00:00"/>
         <meta name="calibre:title_sort" content="5 Second Rule: Transform Your Life, Work, and Confidence With Everyday Courage, The"/>

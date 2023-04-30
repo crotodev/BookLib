@@ -8,7 +8,7 @@
         <dc:creator opf:file-as="Raschka, Sebastian &amp; Liu, Yuxi &amp; Mirjalili, Vahid &amp; Dzhulgakov, Dmytro" opf:role="aut">Yuxi (hayden) Liu</dc:creator>
         <dc:creator opf:file-as="Raschka, Sebastian &amp; Liu, Yuxi &amp; Mirjalili, Vahid &amp; Dzhulgakov, Dmytro" opf:role="aut">Vahid Mirjalili</dc:creator>
         <dc:creator opf:file-as="Raschka, Sebastian &amp; Liu, Yuxi &amp; Mirjalili, Vahid &amp; Dzhulgakov, Dmytro" opf:role="aut">Dmytro Dzhulgakov</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-02-25T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book of the bestselling and widely acclaimed Python Machine Learning series is a comprehensive guide to machine and deep learning using PyTorch's simple to code framework. &lt;/p&gt;
@@ -33,7 +33,6 @@
         <dc:subject>Natural Language Processing</dc:subject>
         <dc:subject>Neural Networks</dc:subject>
         <dc:subject>Speech &amp; Audio Processing</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Sebastian Raschka&quot;: &quot;&quot;, &quot;Yuxi (hayden) Liu&quot;: &quot;&quot;, &quot;Vahid Mirjalili&quot;: &quot;&quot;, &quot;Dmytro Dzhulgakov&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-20T17:03:47+00:00"/>
         <meta name="calibre:title_sort" content="Machine Learning With PyTorch and Scikit-Learn: Develop Machine Learning and Deep Learning Models With Python"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

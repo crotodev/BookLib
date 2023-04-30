@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2e81803f-3bb4-4995-b8a1-01830bc39d48</dc:identifier>
         <dc:title>Grokking Algorithms an Illustrated Guide for Programmers and Other Curious People</dc:title>
         <dc:creator opf:file-as="Bhargava, Aditya Y." opf:role="aut">Aditya Y. Bhargava</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-01-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -48,7 +48,6 @@
         <dc:identifier opf:scheme="AMAZON">1617292230</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Science</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Aditya Y. Bhargava&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-03-04T02:41:55+00:00"/>
         <meta name="calibre:title_sort" content="Grokking Algorithms an Illustrated Guide for Programmers and Other Curious People"/>

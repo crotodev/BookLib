@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9d00b110-4181-4012-9488-f01436c7723e</dc:identifier>
         <dc:title>Microservice APIs: Using Python, Flask, FastAPI, OpenAPI and More</dc:title>
         <dc:creator opf:file-as="Peralta, Jose Haro" opf:role="aut">Jose Haro Peralta</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-01-10T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -50,9 +50,8 @@
         <dc:identifier opf:scheme="ISBN">9781617298417</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1617298417</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Jose Haro Peralta&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-03-25T17:18:51.849801+00:00"/>
+        <meta name="calibre:timestamp" content="2023-03-25T17:18:51+00:00"/>
         <meta name="calibre:title_sort" content="Microservice APIs: Using Python, Flask, FastAPI, OpenAPI and More"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
