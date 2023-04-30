@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1404</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">caaefada-b9b6-4be6-a8f3-a47ad09f440c</dc:identifier>
+        <dc:title>Apache Maven Cookbook</dc:title>
+        <dc:creator opf:file-as="Bharathan, Raghuram" opf:role="aut">Raghuram Bharathan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-28T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Over 90 hands-on recipes to successfully build and automate development life cycle tasks following Maven conventions and best practices&lt;/p&gt;
+&lt;h2&gt;About This Book&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the features of Apache Maven that makes it a powerful tool for build automation&lt;/li&gt;
+&lt;li&gt;Full of real-world scenarios covering multi-module builds and best practices to make the most out of Maven projects&lt;/li&gt;
+&lt;li&gt;A step-by-step tutorial guide full of pragmatic examples&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;Who This Book Is For&lt;/h2&gt;
+&lt;p&gt;If you are a Java developer or a manager who has experience with Apache Maven and want to extend your knowledge, then this is the ideal book for you.&lt;/p&gt;
+&lt;p&gt;Apache Maven Cookbook is for those who want to learn how Apache Maven can be used for build automation. It is also meant for those familiar with Apache Maven, but want to understand the finer nuances of Maven and solve specific problems.&lt;/p&gt;
+&lt;h2&gt;What You Will Learn&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Install Apache Maven successfully on your preferred OS&lt;/li&gt;
+&lt;li&gt;Explore the various features of Apache Maven to build efficient automation tools&lt;/li&gt;
+&lt;li&gt;Discover when and how to use the various Apache Maven plugins&lt;/li&gt;
+&lt;li&gt;Generate and publish your project documentation using Apache Maven&lt;/li&gt;
+&lt;li&gt;Analyze and control code quality and code coverage using Apache Maven&lt;/li&gt;
+&lt;li&gt;Build various types of Java projects as well as other binaries&lt;/li&gt;
+&lt;li&gt;Set up complex projects using the concept of inheritance&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;In Detail&lt;/h2&gt;
+&lt;p&gt;Apache Maven offers a comprehensive set of features to build, test, release, and deploy software projects and maintain enterprise development infrastructure.&lt;/p&gt;
+&lt;p&gt;This book is a hands-on guide that enables you to explore the vast potential of Apache Maven, the leading software build tool. You will start off by successfully installing Apache Maven on your favorite OS, and then you will create your first working project. Furthermore, the book walks you through setting up and using Maven with popular Java Integrated Development Environments (IDEs) so you can exploit Maven features to build standard Java applications. Above all, you will also learn to create site reports and documentation for your project along with handling typical build requirements and other advanced Maven usages.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Raghuram Bharathan is a postgraduate in computer applications from the National Institute of Technology, Trichy. In his career in the software industry, he has worked with Hewlett-Packard, Cisco, and ThoughtWorks, among others. He is the cofounder of Innoventes Technologies, a tech company involved in product engineering and providing services in mobile and web applications. He is experienced in enterprise web and mobile technologies and is well-versed in the setting up, maintenance, and usage of various build automation tools, such as ANT, Apache Maven, Gradle, and Buildr. He has been using Apache Maven for more than 7 years in his projects and is one of the top providers of answers for Maven in Stack Overflow.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781785289453</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00WX1CWM8</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1121602915</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">25846636</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">nGS4CAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Mobile Devices</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-04-30T02:38:55.744091+00:00"/>
+        <meta name="calibre:title_sort" content="Apache Maven Cookbook"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

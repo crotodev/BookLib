@@ -93,6 +93,10 @@
     "path_injected": true,
     "sort_history": [
       [
+        "timestamp",
+        false
+      ],
+      [
         "pubdate",
         true
       ],
@@ -992,5 +996,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1682748776.511858
+  "last_expired_trash_at": 1682782418.527024
 }

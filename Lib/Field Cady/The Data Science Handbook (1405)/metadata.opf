@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1405</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2610b67-13b7-4864-b602-2306c1f1e0cd</dc:identifier>
+        <dc:title>The Data Science Handbook</dc:title>
+        <dc:creator opf:file-as="Cady, Field" opf:role="aut">Field Cady</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-17T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;A comprehensive overview of data science covering the analytics, programming, and business skills necessary to master the discipline&lt;/p&gt;
+&lt;p&gt;Finding a good data scientist has been likened to hunting for a unicorn: the required combination of technical skills is simply very hard to find in one person. In addition, good data science is not just rote application of trainable skill sets; it requires the ability to think flexibly about all these areas and understand the connections between them. This book provides a crash course in data science, combining all the necessary skills into a unified discipline.&lt;/p&gt;
+&lt;p&gt;Unlike many analytics books, computer science and software engineering are given extensive coverage since they play such a central role in the daily work of a data scientist. The author also describes classic machine learning algorithms, from their mathematical foundations to real-world applications. Visualization tools are reviewed, and their central importance in data science is highlighted. Classical statistics is addressed to help readers think critically about the interpretation of data and its common pitfalls. The clear communication of technical results, which is perhaps the most undertrained of data science skills, is given its own chapter, and all topics are explained in the context of solving real-world data problems. The book also features:&lt;/p&gt;
+&lt;p&gt;• Extensive sample code and tutorials using Python™ along with its technical libraries&lt;/p&gt;
+&lt;p&gt;• Core technologies of “Big Data,” including their strengths and limitations and how they can be used to solve real-world problems&lt;/p&gt;
+&lt;p&gt;• Coverage of the practical realities of the tools, keeping theory to a minimum; however, when theory is presented, it is done in an intuitive way to encourage critical thinking and creativity&lt;/p&gt;
+&lt;p&gt;• A wide variety of case studies from industry&lt;/p&gt;
+&lt;p&gt;• Practical advice on the realities of being a data scientist today, including the overall workflow, where time is spent, the types of datasets worked on, and the skill sets needed&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The Data Science Handbook&lt;/em&gt; is an ideal resource for data analysis methodology and big data software tools. The book is appropriate for people who want to practice data science, but lack the required skill sets. This includes software professionals who need to better understand analytics and statisticians who need to understand software. Modern data science is a unified discipline, and it is presented as such. This book is also an appropriate reference for researchers and entry-level graduate students who need to learn real-world analytics and expand their skill set.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FIELD CADY&lt;/strong&gt; is the data scientist at the Allen Institute for Artificial Intelligence, where he develops tools that use machine learning to mine scientific literature. He has also worked at Google and several Big Data startups. He has a BS in physics and math from Stanford University, and an MS in computer science from Carnegie Mellon.&lt;/p&gt;
+&lt;h3&gt;From the Inside Flap&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;A comprehensive overview of data science covering the analytics, programming, and business skills necessary to master the discipline&lt;/p&gt;
+&lt;p&gt;Finding a good data scientist has been likened to hunting for a unicorn: the required combination of technical skills is simply very hard to find in one person. In addition, good data science is not just rote application of trainable skill sets; it requires the ability to think flexibly about all these areas and understand the connections between them. This book provides a crash course in data science, combining all the necessary skills into a unified discipline. &lt;/p&gt;
+&lt;p&gt;Unlike many analytics books, computer science and software engineering are given extensive coverage since they play such a central role in the daily work of a data scientist. The author also describes classic machine learning algorithms, from their mathematical foundations to real-world applications. Visualization tools are reviewed, and their central importance in data science is highlighted. Classical statistics is addressed to help readers think critically about the interpretation of data and its common pitfalls. The clear communication of technical results, which is perhaps the most undertrained of data science skills, is given its own chapter, and all topics are explained in the context of solving real-world data problems. The book also features: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Extensive sample code and tutorials using Python™ along with its technical libraries&lt;/li&gt;
+&lt;li&gt;Core technologies of “Big Data,” including their strengths and limitations and how they can be used to solve real-world problems&lt;/li&gt;
+&lt;li&gt;Coverage of the practical realities of the tools, keeping theory to a minimum; however, when theory is presented, it is done in an intuitive way to encourage critical thinking and creativity &lt;/li&gt;
+&lt;li&gt;A wide variety of case studies from industry&lt;/li&gt;
+&lt;li&gt;Practical advice on the realities of being a data scientist today, including the overall workflow, where time is spent, the types of datasets worked on, and the skill sets needed&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;The Data Science Handbook&lt;/em&gt; is an ideal resource for data analysis methodology and big data software tools. The book is appropriate for people who want to practice data science, but lack the required skill sets. This includes software professionals who need to better understand analytics and statisticians who need to understand software. Modern data science is a unified discipline, and it is presented as such. This book is also an appropriate reference for researchers and entry-level graduate students who need to learn real-world analytics and expand their skill set.&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;A comprehensive overview of data science covering the analytics, programming, and business skills necessary to master the discipline&lt;/p&gt;
+&lt;p&gt;Finding a good data scientist has been likened to hunting for a unicorn: the required combination of technical skills is simply very hard to find in one person. In addition, good data science is not just rote application of trainable skill sets; it requires the ability to think flexibly about all these areas and understand the connections between them. This book provides a crash course in data science, combining all the necessary skills into a unified discipline. &lt;/p&gt;
+&lt;p&gt;Unlike many analytics books, computer science and software engineering are given extensive coverage since they play such a central role in the daily work of a data scientist. The author also describes classic machine learning algorithms, from their mathematical foundations to real-world applications. Visualization tools are reviewed, and their central importance in data science is highlighted. Classical statistics is addressed to help readers think critically about the interpretation of data and its common pitfalls. The clear communication of technical results, which is perhaps the most undertrained of data science skills, is given its own chapter, and all topics are explained in the context of solving real-world data problems. The book also features: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Extensive sample code and tutorials using Python™ along with its technical libraries&lt;/li&gt;
+&lt;li&gt;Core technologies of “Big Data,” including their strengths and limitations and how they can be used to solve real-world problems&lt;/li&gt;
+&lt;li&gt;Coverage of the practical realities of the tools, keeping theory to a minimum; however, when theory is presented, it is done in an intuitive way to encourage critical thinking and creativity &lt;/li&gt;
+&lt;li&gt;A wide variety of case studies from industry&lt;/li&gt;
+&lt;li&gt;Practical advice on the realities of being a data scientist today, including the overall workflow, where time is spent, the types of datasets worked on, and the skill sets needed&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;The Data Science Handbook&lt;/em&gt; is an ideal resource for data analysis methodology and big data software tools. The book is appropriate for people who want to practice data science, but lack the required skill sets. This includes software professionals who need to better understand analytics and statisticians who need to understand software. Modern data science is a unified discipline, and it is presented as such. This book is also an appropriate reference for researchers and entry-level graduate students who need to learn real-world analytics and expand their skill set.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;FIELD CADY&lt;/strong&gt; is the data scientist at the Allen Institute for Artificial Intelligence, where he develops tools that use machine learning to mine scientific literature.&lt;/p&gt;
+&lt;p&gt;He has also worked at Google and several Big Data startups. He has a BS in physics and math from Stanford University, and an MS in computer science from Carnegie Mellon.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119092940</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1119092949</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1133040532</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-04-30T02:39:27.097831+00:00"/>
+        <meta name="calibre:title_sort" content="Data Science Handbook, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
