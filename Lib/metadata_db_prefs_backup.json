@@ -103,14 +103,6 @@
       [
         "timestamp",
         false
-      ],
-      [
-        "pubdate",
-        false
-      ],
-      [
-        "timestamp",
-        false
       ]
     ],
     "column_positions": {
@@ -996,5 +988,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1682782418.527024
+  "last_expired_trash_at": 1682908820.6829891
 }
