@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1419</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98372f9f-08d9-44dd-8420-043ed7dde1ab</dc:identifier>
+        <dc:title>Mastering Git: A Beginner's Guide</dc:title>
+        <dc:creator opf:file-as="Uzayr, Sufyan Bin" opf:role="aut">Sufyan Bin Uzayr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-04T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mastering Git: A Beginner’s Guide introduces developers of all ages to the wonderful and useful world of Git.&lt;/p&gt;
+&lt;p&gt;As far as software development is considered, the advent of Git has truly proven to be a milestone. If you are a software developer, you have probably already heard of Git. Its importance and functionality in the world of coding merits very high praise for a variety of reasons.&lt;/p&gt;
+&lt;p&gt;Computers now have become very amenable machines. You can remove a significant section of the text from your work accidentally, but there is no need to panic. Simply use the Undo option and you’re good. &lt;/p&gt;
+&lt;p&gt;This, however, was not the case in the early days of development. Back then, developers did not have access to any such technology, and it was only one person who used to own the master copy of a work. This person would divide the code into specific parts, which would subsequently be divided between developers, who would work on their part and make their completed submissions independent of each other. This was followed by a standard check, after which the old version was completely replaced by the new version. This was a very tedious process―unless someone had beenvery proactive with making copies of the code, the previous versions of a file were often effectively lost. &lt;/p&gt;
+&lt;p&gt;Thankfully, a significant breakthrough came in 1972 when developer Marc Rochkind invented the Source Code Control System (SCCS), which was the very first form of Version Control System (VCS). It was limited in terms of its functionality, and could allow only one person to work on it at a time, while concurrent management had to be handled using locks. But we have come a long way since then. &lt;/p&gt;
+&lt;p&gt;Today, Git is the single most-used VCS out there. Its influence on coding and development, in particular, the innovative use of "branches" in order to facilitate collaboration for projects, cannot be over-emphasized. Version Control has become an indispensable part of our lives, and being familiar with the functioning of Git is something employers deem highly important.&lt;/p&gt;
+&lt;p&gt;Mastering Git will prove to be of tremendous help to developers of all spheres in learning Git and Version Control. This book offers information on a wide array of subjects pertaining to Git, and even briefly touches upon its history, advantages, and disadvantages. &lt;em&gt;Mastering Git&lt;/em&gt; also offers tips on installation and different elements involved in its functioning, such as Repositories, Remotes, Aliases, Tagging, and Branches. Popular services and hosts for such Git projects as GitHub, GitLab, and Bitbucket are also discussed in detail. This book will prove to be a handy guide for both newbie learners and trained professionals.&lt;/p&gt;
+&lt;p&gt;Learn more about our other &lt;em&gt;Mastering&lt;/em&gt; titles at: &lt;/p&gt;
+&lt;p&gt;https://www.routledge.com/Mastering-Computer-Science/book-series/MCS &lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Sufyan bin Uzayr is a writer, coder and entrepreneur with over a decade of experience in the industry. He has authored several books in the past, pertaining to a diverse range of topics, ranging from History to Computers/IT.&lt;/p&gt;
+&lt;p&gt;Sufyan is the Director of Parakozm, a multinational IT company specializing in EdTech solutions. He also runs Zeba Academy, an online learning and teaching vertical with a focus on STEM fields.&lt;/p&gt;
+&lt;p&gt;Sufyan specializes in a wide variety of technologies, such as JavaScript, Dart, WordPress, Drupal, Linux and Python. He holds multiple degrees, including ones in Management, IT, Literature and Political Science.&lt;/p&gt;
+&lt;p&gt;Sufyan is a digital nomad, dividing his time between four countries. He has lived and taught in universities and educational institutions around the globe. Sufyan takes a keen interest in technology, politics, literature, history and sports, and in his spare time, he enjoys teaching coding and English to young students.&lt;/p&gt;
+&lt;p&gt;Learn more at sufyanism.com&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>CRC Press</dc:publisher>
+        <dc:identifier opf:scheme="DOI">9781032149837</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781032134154</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1032134151</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1140206935</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59091173</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">L-GrzgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mastering Computer Science</dc:subject>
+        <dc:subject>GitHub</dc:subject>
+        <meta name="calibre:series" content="Mastering Computer Science"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-05-10T23:42:18.502942+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering Git: A Beginner's Guide"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1410</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36b5ab70-33e6-4e6b-8a2a-9248b17f2f00</dc:identifier>
+        <dc:title>Modern Scala Projects</dc:title>
+        <dc:creator opf:file-as="Gurusamy, Ilango" opf:role="aut">Ilango Gurusamy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-30T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Develop robust, Scala-powered projects with the help of machine learning libraries such as SparkML to harvest meaningful insight&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Gain hands-on experience in building data science projects with Scala &lt;/li&gt;
+&lt;li&gt;Exploit powerful functionalities of machine learning libraries &lt;/li&gt;
+&lt;li&gt;Use machine learning algorithms and decision tree models for enterprise apps &lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Scala, together with the Spark Framework, forms a rich and powerful data processing ecosystem. Modern Scala Projects is a journey into the depths of this ecosystem. The machine learning (ML) projects presented in this book enable you to create practical, robust data analytics solutions, with an emphasis on automating data workflows with the Spark ML pipeline API. This book showcases or carefully cherry-picks from Scala's functional libraries and other constructs to help readers roll out their own scalable data processing frameworks. The projects in this book enable data practitioners across all industries gain insights into data that will help organizations have strategic and competitive advantage. &lt;/p&gt;
+&lt;p&gt;Modern Scala Projects focuses on the application of supervisory learning ML techniques that classify data and make predictions. You'll begin with working on a project to predict a class of flower by implementing a simple machine learning model. Next, you'll create a cancer diagnosis classification pipeline, followed by projects delving into stock price prediction, spam filtering, fraud detection, and a recommendation engine. &lt;/p&gt;
+&lt;p&gt;By the end of this book, you will be able to build efficient data science projects that fulfil your software requirements. &lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Create pipelines to extract data or analytics and visualizations &lt;/li&gt;
+&lt;li&gt;Automate your process pipeline with jobs that are reproducible &lt;/li&gt;
+&lt;li&gt;Extract intelligent data efficiently from large, disparate datasets &lt;/li&gt;
+&lt;li&gt;Automate the extraction, transformation, and loading of data &lt;/li&gt;
+&lt;li&gt;Develop tools that collate, model, and analyze data &lt;/li&gt;
+&lt;li&gt;Maintain the integrity of data as data flows become more complex &lt;/li&gt;
+&lt;li&gt;Develop tools that predict outcomes based on “pattern discovery” &lt;/li&gt;
+&lt;li&gt;Build really fast and accurate machine-learning models in Scala &lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;Modern Scala Projects is for Scala developers who would like to gain some hands-on experience with some interesting real-world projects. Prior programming experience with Scala is necessary.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Predict the class of a flower from the Iris Dataset&lt;/li&gt;
+&lt;li&gt;Build a Breast Cancer Prognosis Pipeline with the Power of Spark and Scala &lt;/li&gt;
+&lt;li&gt;Stock Price Predictions&lt;/li&gt;
+&lt;li&gt;Build a Spam Classification Pipeline&lt;/li&gt;
+&lt;li&gt;Build a fraud detection System&lt;/li&gt;
+&lt;li&gt;Build Flights Performance Prediction Model&lt;/li&gt;
+&lt;li&gt;Building a Recommendation Engine&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Ilango Gurusamy&lt;/strong&gt; holds an MS degree in computer science from California State University. He has lead Java projects at Northrop Grumman, AT&amp;amp;T, and such. He moved into Scala and Functional Programming. His current interests are IoT, navigational applications, and all things Scala related. A strategic thinker, speaker, and writer, he also loves yoga, skydiving, cars, dogs, and fishing. You can know more about his achievements in his blog, titled scalanirvana. His LinkedIn user name is ilangogurusamy&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781788624114</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1788624114</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1129146991</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Scala</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-05-01T06:21:25.829099+00:00"/>
+        <meta name="calibre:title_sort" content="Modern Scala Projects"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

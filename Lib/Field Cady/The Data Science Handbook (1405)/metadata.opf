@@ -45,11 +45,15 @@
 &lt;p&gt;He has also worked at Google and several Big Data startups. He has a BS in physics and math from Stanford University, and an MS in computer science from Carnegie Mellon.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Wiley</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781119092940</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">1119092949</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1133040532</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1119092949</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Scala</dc:subject>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-04-30T02:39:27.097831+00:00"/>
+        <meta name="calibre:timestamp" content="2023-04-30T02:39:27+00:00"/>
         <meta name="calibre:title_sort" content="Data Science Handbook, The"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

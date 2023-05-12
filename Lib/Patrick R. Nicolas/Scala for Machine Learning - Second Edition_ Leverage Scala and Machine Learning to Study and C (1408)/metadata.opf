@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1408</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2c5f219-e49f-4c3f-852a-db4e8ab2a53b</dc:identifier>
+        <dc:title>Scala for Machine Learning - Second Edition: Leverage Scala and Machine Learning to Study and Construct Systems That Can Learn From Data</dc:title>
+        <dc:creator opf:file-as="Nicolas, Patrick R." opf:role="aut">Patrick R. Nicolas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-26T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Leverage Scala and Machine Learning to study and construct systems that can learn from data&lt;/p&gt;
+&lt;p&gt;About This Book&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Explore a broad variety of data processing, machine learning, and genetic algorithms through diagrams, mathematical formulation, and updated source code in Scala&lt;/li&gt;
+&lt;li&gt;Take your expertise in Scala programming to the next level by creating and customizing AI applications&lt;/li&gt;
+&lt;li&gt;Experiment with different techniques and evaluate their benefits and limitations using real-world applications in a tutorial style&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Who This Book Is For&lt;/p&gt;
+&lt;p&gt;If you're a data scientist or a data analyst with a fundamental knowledge of Scala who wants to learn and implement various Machine learning techniques, this book is for you. All you need is a good understanding of the Scala programming language, a basic knowledge of statistics, a keen interest in Big Data processing, and this book!&lt;/p&gt;
+&lt;p&gt;What You Will Learn&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build dynamic workflows for scientific computing&lt;/li&gt;
+&lt;li&gt;Leverage open source libraries to extract patterns from time series&lt;/li&gt;
+&lt;li&gt;Write your own classification, clustering, or evolutionary algorithm&lt;/li&gt;
+&lt;li&gt;Perform relative performance tuning and evaluation of Spark&lt;/li&gt;
+&lt;li&gt;Master probabilistic models for sequential data&lt;/li&gt;
+&lt;li&gt;Experiment with advanced techniques such as regularization and kernelization&lt;/li&gt;
+&lt;li&gt;Dive into neural networks and some deep learning architecture&lt;/li&gt;
+&lt;li&gt;Apply some basic multiarm-bandit algorithms&lt;/li&gt;
+&lt;li&gt;Solve big data problems with Scala parallel collections, Akka actors, and Apache Spark clusters&lt;/li&gt;
+&lt;li&gt;Apply key learning strategies to a technical analysis of financial markets&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;In Detail&lt;/p&gt;
+&lt;p&gt;The discovery of information through data clustering and classification is becoming a key differentiator for competitive organizations. Machine learning applications are everywhere, from self-driving cars, engineering design, logistics, manufacturing, and trading strategies, to detection of genetic anomalies.&lt;/p&gt;
+&lt;p&gt;The book is your one stop guide that introduces you to the functional capabilities of the Scala programming language that are critical to the creation of machine learning algorithms such as dependency injection and implicits. You start by learning data preprocessing and filtering techniques. Following this, you'll move on to unsupervised learning techniques such as clustering and dimension reduction, followed by probabilistic graphical models such as Naive Bayes, hidden Markov models and Monte Carlo inference. Further, it covers the discriminative algorithms such as linear, logistic regression with regularization, kernelization, support vector machines, neural networks, and deep learning. You'll move on to evolutionary computing, multibandit algorithms, and reinforcement learning.&lt;/p&gt;
+&lt;p&gt;Finally, the book includes a comprehensive overview of parallel computing in Scala and Akka followed by a description of Apache Spark and its ML library. With updated codes based on the latest version of Scala and comprehensive examples, this book will ensure that you have more than just a solid fundamental knowledge in machine learning with Scala.&lt;/p&gt;
+&lt;p&gt;Style and approach&lt;/p&gt;
+&lt;p&gt;This book is designed as a tutorial with hands-on exercises using technical analysis of financial markets and corporate data. The approach of each chapter is such that it allows you to understand key concepts easily.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781787126206</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1141916105</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0753GCQCD</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Scala</dc:subject>
+        <meta name="calibre:timestamp" content="2023-05-01T02:57:07+00:00"/>
+        <meta name="calibre:title_sort" content="Scala for Machine Learning - Second Edition: Leverage Scala and Machine Learning to Study and Construct Systems That Can Learn From Data"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

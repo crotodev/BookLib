@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1418</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d55502d-e2f5-475f-a82d-609950734a47</dc:identifier>
+        <dc:title>Concurrent Data Processing in Elixir</dc:title>
+        <dc:creator opf:file-as="Gospodinov, Svilen" opf:role="aut">Svilen Gospodinov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Learn different ways of writing concurrent code in Elixir and increase your application's performance, without sacrificing scalability or fault-tolerance. Most projects benefit from running background tasks and processing data concurrently, but the world of OTP and various libraries can be challenging. Which Supervisor and what strategy to use? What about GenServer? Maybe you need back-pressure, but is GenStage, Flow, or Broadway a better choice? You will learn everything you need to know to answer these questions, start building highly concurrent applications in no time, and write code that's not only fast, but also resilient to errors and easy to scale.&lt;/p&gt;
+&lt;p&gt;Whether you are building a high-frequency stock trading application or a consumer web app, you need to know how to leverage concurrency to build applications that are fast and efficient. Elixir and the OTP offer a range of powerful tools, and this guide will show you how to choose the best tool for each job, and use it effectively to quickly start building highly concurrent applications.&lt;/p&gt;
+&lt;p&gt;Learn about Tasks, supervision trees, and the different types of Supervisors available to you. Understand why processes and process linking are the building blocks of concurrency in Elixir. Get comfortable with the OTP and use the GenServer behaviour to maintain process state for long-running jobs. Easily scale the number of running processes using the Registry. Handle large volumes of data and traffic spikes with GenStage, using back-pressure to your advantage. Create your first multi-stage data processing pipeline using producer, consumer, and producer-consumer stages. Process large collections with Flow, using MapReduce and more in parallel. Thanks to Broadway, you will see how easy it is to integrate with popular message broker systems, or even existing GenStage producers.&lt;/p&gt;
+&lt;p&gt;Start building the high-performance and fault-tolerant applications Elixir is famous for today.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Need:&lt;/p&gt;
+&lt;p&gt;You'll need Elixir 1.9+ and Erlang/OTP 22+ installed on a Mac OS X, Linux, or Windows machine.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Svilen Gospodinov&lt;/strong&gt; is a software engineer with a technical leadership and entrepreneurship background. As co-founder and CTO at Heresy, a workflow and analytics platform for Sales, he adopted Elixir from the very beginning and never looked back. He likes building products, writing, working on open source, and helping others.&lt;/p&gt;
+&lt;p&gt;--This text refers to the paperback edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pragmatic Bookshelf</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781680508192</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09GPDDK2N</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1139138121</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">56991925</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">2K1fzgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-05-10T15:34:38.359212+00:00"/>
+        <meta name="calibre:title_sort" content="Concurrent Data Processing in Elixir"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
