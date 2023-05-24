@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1423</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95f44f9c-0ef3-4689-a86a-58a3d879384c</dc:identifier>
+        <dc:title>Make: Electronics</dc:title>
+        <dc:creator opf:file-as="Platt, Charles" opf:role="aut">Charles Platt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"This is teaching at its best!" &lt;/p&gt;
+&lt;p&gt;--Hans Camenzind, inventor of the 555 timer (the world's most successful integrated circuit), and author of &lt;em&gt;Much Ado About Almost Nothing: Man's Encounter with the Electron&lt;/em&gt; (Booklocker.com)&lt;/p&gt;
+&lt;p&gt;"A fabulous book: well written, well paced, fun, and informative. I also love the sense of humor. It's very good at disarming the fear. And it's &lt;em&gt;gorgeous&lt;/em&gt;. I'll be recommending this book highly." &lt;/p&gt;
+&lt;p&gt;--Tom Igoe, author of Physical Computing and Making Things Talk &lt;/p&gt;
+&lt;p&gt;Want to learn the fundamentals of electronics in a fun, hands-on way? With &lt;em&gt;Make: Electronics&lt;/em&gt; , you'll start working on real projects as soon as you crack open the book. Explore all of the key components and essential principles through a series of fascinating experiments. You'll build the circuits first, &lt;em&gt;then&lt;/em&gt; learn the theory behind them!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Build working devices, from simple to complex&lt;/strong&gt; You'll start with the basics and then move on to more complicated projects. Go from switching circuits to integrated circuits, and from simple alarms to programmable microcontrollers. Step-by-step instructions and more than 500 full-color photographs and illustrations will help you use -- and understand -- electronics concepts and techniques.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discover by breaking things: experiment with components and learn from failure&lt;/li&gt;
+&lt;li&gt;Set up a tricked-out project space: make a work area at home, equipped with the tools and parts you'll need&lt;/li&gt;
+&lt;li&gt;Learn about key electronic components and their functions within a circuit&lt;/li&gt;
+&lt;li&gt;Create an intrusion alarm, holiday lights, wearable electronic jewelry, audio processors, a reflex tester, and a combination lock&lt;/li&gt;
+&lt;li&gt;Build an autonomous robot cart that can sense its environment and avoid obstacles&lt;/li&gt;
+&lt;li&gt;Get clear, easy-to-understand explanations of what you're doing and why&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;A "magnificent and rewarding book. . . . Every step of this structured instruction is expertly illustrated with photos and crisp diagrams. . . . This really is the best way to learn." --Kevin Kelly, in &lt;em&gt;Cool Tools.&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Want to learn the fundamentals of electronics in a fun, hands-on way? With &lt;em&gt;Make: Electronics&lt;/em&gt; , you'll start working on real projects as soon as you crack open the book. Explore all of the key components and essential principles through a series of fascinating experiments. You'll build the circuits first, &lt;em&gt;then&lt;/em&gt; learn the theory behind them! &lt;/p&gt;
+&lt;p&gt;Step-by-step instructions and more than 500 full-color photographs and illustrations will help you use--and understand--electronics concepts and techniques.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discovery by breaking things: experiment with components and learn from failure.&lt;/li&gt;
+&lt;li&gt;Create an intrusion alarm, holiday lights, wearable electronic jewelry, audio processors, a reflex tester, and a combination lock.&lt;/li&gt;
+&lt;li&gt;Build an autonomous robot cart that can sense its environment and avoid obstacles.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Charles Platt became interested in computers when he acquired an Ohio Scientific C4P in 1979. After writing and selling software by mail order, he taught classes in BASIC programming, MS-DOS, and subsequently Adobe Illustrator and Photoshop. He wrote five computer books during the 1980s. &lt;/p&gt;
+&lt;p&gt;He has also written science fiction novels such as The Silicon Man (published originally by Wired books) and Protektor (from Avon Books). He stopped writing science fiction when he started contributing to Wired magazine in 1993, and became one of its three senior writers a couple of years later. &lt;/p&gt;
+&lt;p&gt;Charles began contributing to Make magazine in its third issue and is currently a contributing editor. Make: Electronics is his first book for Make Books. Currently he is designing and building prototypes of medical equipment in his workshop in a northern Arizona wilderness area.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Make Community, LLC</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780596153748</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0596153740</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">6945716</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-05-24T06:27:09.331830+00:00"/>
+        <meta name="calibre:title_sort" content="Make: Electronics"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
