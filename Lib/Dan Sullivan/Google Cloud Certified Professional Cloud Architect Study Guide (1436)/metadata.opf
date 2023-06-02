@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1436</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d4c0588-1e8a-416d-b80d-69d0c1102339</dc:identifier>
+        <dc:title>Google Cloud Certified Professional Cloud Architect Study Guide</dc:title>
+        <dc:creator opf:file-as="Sullivan, Dan" opf:role="aut">Dan Sullivan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-12T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;An indispensable guide to the newest version of the Google Certified Professional Cloud Architect certification&lt;/p&gt;
+&lt;p&gt;The newly revised Second Edition of the &lt;em&gt;Google Cloud Certified Professional Cloud Architect Study Guide&lt;/em&gt; delivers a proven and effective roadmap to success on the latest Professional Cloud Architect accreditation exam from Google. You'll learn the skills you need to excel on the test and in the field, with coverage of every exam objective and competency, including focus areas of the latest exam such as Kubernetes, Anthos, and multi-cloud architectures. The book explores the design, analysis, development, operations, and migration components of the job, with intuitively organized lessons that align with the real-world job responsibilities of a Google Cloud professional and with the PCA exam topics. Architects need more than the ability to recall facts about cloud services, they need to be able to reason about design decisions. This study guide is unique in how it helps you learn to think like an architect: understand requirements, assess constraints, choose appropriate architecture patterns, and consider the operational characteristics of the systems you design. Review questions and practice exams use scenario-based questions like those on the certification exam to build the test taking skills you will need.&lt;/p&gt;
+&lt;p&gt;In addition to comprehensive material on compute resources, storage systems, networks, security, legal and regulatory compliance, reliability design, technical and business processes, and more, you'll get:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The chance to begin or advance your career as an in-demand Google Cloud IT professional&lt;/li&gt;
+&lt;li&gt;Invaluable opportunities to develop and practice the skills you'll need as a Google Cloud Architect&lt;/li&gt;
+&lt;li&gt;Access to the Sybex online learning center, with chapter review questions, full-length practice exams, hundreds of electronic flashcards, and a glossary of key terms&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;The ideal resource for anyone preparing for the Professional Cloud Architect certification from Google, &lt;em&gt;Google Cloud Certified Professional Cloud Architect Study Guide, 2nd Edition&lt;/em&gt; is also a must-read resource for aspiring and practicing cloud professionals seeking to expand or improve their technical skillset and improve their effectiveness in the field.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119871057</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1119871050</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1140485031</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-06-02T03:24:41.027752+00:00"/>
+        <meta name="calibre:title_sort" content="Google Cloud Certified Professional Cloud Architect Study Guide"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

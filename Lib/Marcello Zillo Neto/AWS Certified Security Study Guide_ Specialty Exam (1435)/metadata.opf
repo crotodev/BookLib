@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1435</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74d3c940-e1d9-4a61-9187-868a538c5bb0</dc:identifier>
+        <dc:title>AWS Certified Security Study Guide: Specialty Exam</dc:title>
+        <dc:creator opf:file-as="Neto, Marcello Zillo &amp; Sapata, Fernando &amp; Moraes, Alexandre M. S. P. &amp; Morais, Thiago &amp; Goldfarb, Dario Lucas" opf:role="aut">Marcello Zillo Neto</dc:creator>
+        <dc:creator opf:file-as="Neto, Marcello Zillo &amp; Sapata, Fernando &amp; Moraes, Alexandre M. S. P. &amp; Morais, Thiago &amp; Goldfarb, Dario Lucas" opf:role="aut">Fernando Sapata</dc:creator>
+        <dc:creator opf:file-as="Neto, Marcello Zillo &amp; Sapata, Fernando &amp; Moraes, Alexandre M. S. P. &amp; Morais, Thiago &amp; Goldfarb, Dario Lucas" opf:role="aut">Alexandre M. S. P. Moraes</dc:creator>
+        <dc:creator opf:file-as="Neto, Marcello Zillo &amp; Sapata, Fernando &amp; Moraes, Alexandre M. S. P. &amp; Morais, Thiago &amp; Goldfarb, Dario Lucas" opf:role="aut">Thiago Morais</dc:creator>
+        <dc:creator opf:file-as="Neto, Marcello Zillo &amp; Sapata, Fernando &amp; Moraes, Alexandre M. S. P. &amp; Morais, Thiago &amp; Goldfarb, Dario Lucas" opf:role="aut">Dario Lucas Goldfarb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-27T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Get prepared for the AWS Certified Security Specialty certification with this excellent resource&lt;/p&gt;
+&lt;p&gt;By earning the AWS Certified Security Specialty certification, IT professionals can gain valuable recognition as cloud security experts. The &lt;em&gt;AWS Certified Security Study Guide: Specialty (SCS-C01) Exam&lt;/em&gt; helps cloud security practitioners prepare for success on the certification exam. It’s also an excellent reference for professionals, covering security best practices and the implementation of security features for clients or employers.&lt;/p&gt;
+&lt;p&gt;Architects and engineers with knowledge of cloud computing architectures will find significant value in this book, which offers guidance on primary security threats and defense principles. Amazon Web Services security controls and tools are explained through real-world scenarios. These examples demonstrate how professionals can design, build, and operate secure cloud environments that run modern applications.&lt;/p&gt;
+&lt;p&gt;The study guide serves as a primary source for those who are ready to apply their skills and seek certification. It addresses how cybersecurity can be improved using the AWS cloud and its native security services. Readers will benefit from detailed coverage of AWS Certified Security Specialty Exam topics.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Covers all AWS Certified Security Specialty exam topics&lt;/li&gt;
+&lt;li&gt;Explains AWS cybersecurity techniques and incident response&lt;/li&gt;
+&lt;li&gt;Covers logging and monitoring using the Amazon cloud&lt;/li&gt;
+&lt;li&gt;Examines infrastructure security&lt;/li&gt;
+&lt;li&gt;Describes access management and data protection&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;With a single study resource, you can learn how to enhance security through the automation, troubleshooting, and development integration capabilities available with cloud computing. You will also discover services and tools to develop security plans that work in sync with cloud adoption.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Sybex</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119658818</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1119658810</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-06-02T03:19:22.876464+00:00"/>
+        <meta name="calibre:title_sort" content="AWS Certified Security Study Guide: Specialty Exam"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

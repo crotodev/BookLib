@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1433</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19311412-e4dd-4ca4-887c-88c4a647804e</dc:identifier>
+        <dc:title>AWS Certified Database Study Guide: Specialty (DBS-C01) Exam</dc:title>
+        <dc:creator opf:file-as="Arrais, Matheus &amp; Bravet, Rene Martinez &amp; Ciccone, Leonardo &amp; Cocharero, Angie Nobre &amp; Kurauchi, Erika" opf:role="aut">Matheus Arrais</dc:creator>
+        <dc:creator opf:file-as="Arrais, Matheus &amp; Bravet, Rene Martinez &amp; Ciccone, Leonardo &amp; Cocharero, Angie Nobre &amp; Kurauchi, Erika" opf:role="aut">Rene Martinez Bravet</dc:creator>
+        <dc:creator opf:file-as="Arrais, Matheus &amp; Bravet, Rene Martinez &amp; Ciccone, Leonardo &amp; Cocharero, Angie Nobre &amp; Kurauchi, Erika" opf:role="aut">Leonardo Ciccone</dc:creator>
+        <dc:creator opf:file-as="Arrais, Matheus &amp; Bravet, Rene Martinez &amp; Ciccone, Leonardo &amp; Cocharero, Angie Nobre &amp; Kurauchi, Erika" opf:role="aut">Angie Nobre Cocharero</dc:creator>
+        <dc:creator opf:file-as="Arrais, Matheus &amp; Bravet, Rene Martinez &amp; Ciccone, Leonardo &amp; Cocharero, Angie Nobre &amp; Kurauchi, Erika" opf:role="aut">Erika Kurauchi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-09T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Validate your AWS Cloud database skills!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;AWS Certified Database Study Guide: Specialty (DBS-C01) Exam&lt;/em&gt; focuses on helping you to understand the basic job role of a database administrator / architect and to prepare for taking the certification exam. This is your opportunity to take the next step in your career by expanding and validating your skills on the AWS Cloud, and performing a database-focused role. AWS is the frontrunner in cloud computing products and services, and this study guide will help you to gain an understanding of core AWS services, uses, and basic AWS database design and deployment best practices. AWS offers more than relational and nonrelation databases, they offer purpose built databases, which allow you to utilize database services prebuilt to meet your business requirements. If you are looking to take the Specialty (DBS-C01) exam, this Study Guide is what you need for comprehensive content and robust study tools that will help you gain the edge on exam day and throughout your career. &lt;/p&gt;
+&lt;p&gt;AWS Certified Database certification offers a great way for IT professionals to achieve industry recognition as cloud experts. This new study guide is perfect for you if you perform a database-focused role and want to pass the DBS-C01 exam to prove your knowledge of how to design and deploy secure and robust database applications on AWS technologies. IT cloud professionals who hold AWS certifications are in great demand, and this certification could take your career to the next level! &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Master all the key concepts you need to pass the AWS Certified Database Specialty (DBS-C01) Exam&lt;/li&gt;
+&lt;li&gt;Further your career by demonstrating your cloud computing expertise and your knowledge of databases and database services&lt;/li&gt;
+&lt;li&gt;Understand the concept of purpose built databases, allowing you to pick the right tool for the right job.&lt;/li&gt;
+&lt;li&gt;Review deployment and migration, management and operations, monitoring and troubleshooting, database security, and more&lt;/li&gt;
+&lt;li&gt;Access the Sybex online learning environment and test bank for interactive study aids and practice questions&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Readers will also get one year of FREE access after activation to Sybex’s superior online interactive learning environment and test bank, including hundreds of questions, a practice exam, electronic flashcards, and a glossary of key terms.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119778950</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1140169553</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-02T03:15:15.669895+00:00"/>
+        <meta name="calibre:title_sort" content="AWS Certified Database Study Guide: Specialty (DBS-C01) Exam"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

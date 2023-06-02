@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1430</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">110827e4-754d-4cf2-9a72-47723cbcf906</dc:identifier>
+        <dc:title>TypeScript for Beginners: The Ultimate Guide</dc:title>
+        <dc:creator opf:file-as="Uzayr, Sufyan Bin" opf:role="aut">Sufyan Bin Uzayr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-23T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Of late, TypeScript has risen in popularity owing to its ease of use and versatile compatibility. As such, more and more developers are looking to quickly and efficiently master TypeScript. If you’re looking for a detailed, yet easy to comprehend guide to TypeScript, your search ends here! &lt;/p&gt;
+&lt;p&gt;The book is a detailed guide that will help learners get started with TypeScript programming in no time. It talks about the basics and then moves on to practical exercises to help readers quickly gain the required knowledge. &lt;/p&gt;
+&lt;p&gt;The book is meant for both JavaScript developers and learners without a formal JS background. Furthermore, while a background in JavaScript programming might be of help, the book requires no prior coding background and can be easily mastered even by beginners. &lt;/p&gt;
+&lt;p&gt;What Will You Learn:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Detailed focus on TypeScript programming&lt;/li&gt;
+&lt;li&gt;Introduction to TypeScript concepts and paradigm&lt;/li&gt;
+&lt;li&gt;Introduction to TS architecture and components&lt;/li&gt;
+&lt;li&gt;OOP programming with TS&lt;/li&gt;
+&lt;li&gt;Web development in TypeScript&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Who Is This Book for:&lt;/p&gt;
+&lt;p&gt;Web developers looking to learn TypeScript; web development beginners; JavaScript developers; and frontend developers. &lt;/p&gt;
+&lt;p&gt;About the Author&lt;/p&gt;
+&lt;p&gt;Sufyan bin Uzayr is a writer, coder, and entrepreneur with more than a decade of experience in the industry. He has authored several books in the past, pertaining to a diverse range of topics, ranging from History to Computers/IT. Sufyan is the Director of Parakozm, a multinational IT company specializing in EdTech solutions. He also runs Zeba Academy, an online learning and teaching vertical with a focus on STEM fields. Sufyan specializes in a wide variety of technologies, such as JavaScript, Dart, WordPress, Drupal, Linux, and Python. He holds multiple degrees, including ones in Management, IT, Literature, and Political Science. Sufyan is a digital nomad, dividing his time between four countries. He has lived and taught in universities and educational institutions around the globe. Sufyan takes a keen interest in technology, politics, literature, history, and sports, and in his spare time, he enjoys teaching coding and English to young students.&lt;/p&gt;
+&lt;p&gt;Learn more at sufyanism.com &lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Sufyan bin Uzayr is a writer, coder and entrepreneur with over a decade of experience in the industry. He has authored several books in the past, pertaining to a diverse range of topics, ranging from History to Computers/IT. &lt;/p&gt;
+&lt;p&gt;Sufyan is the Director of Parakozm, a multinational IT company specializing in EdTech solutions. He also runs Zeba Academy, an online learning and teaching vertical with a focus on STEM fields. &lt;/p&gt;
+&lt;p&gt;Sufyan specializes in a wide variety of technologies, such as JavaScript, Dart, WordPress, Drupal, Linux and Python. He holds multiple degrees, including ones in Management, IT, Literature and Political Science. &lt;/p&gt;
+&lt;p&gt;Sufyan is a digital nomad, dividing his time between four countries. He has lived and taught in universities and educational institutions around the globe. Sufyan takes a keen interest in technology, politics, literature, history and sports, and in his spare time, he enjoys teaching coding and English to young students.&lt;/p&gt;
+&lt;p&gt;Learn more at sufyanism.com &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>CRC Press</dc:publisher>
+        <dc:identifier opf:scheme="DOI">9781032067582</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781000539967</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09QRRV9G2</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1140067243</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">117075845</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">P-lZEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>JavaScript</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <dc:subject>TypeScript</dc:subject>
+        <dc:subject>Syntactic Sugar</dc:subject>
+        <dc:subject>Boolean</dc:subject>
+        <dc:subject>Number</dc:subject>
+        <dc:subject>String</dc:subject>
+        <dc:subject>Array</dc:subject>
+        <dc:subject>Tuple</dc:subject>
+        <dc:subject>Enum</dc:subject>
+        <dc:subject>Any</dc:subject>
+        <dc:subject>Void</dc:subject>
+        <dc:subject>Never</dc:subject>
+        <dc:subject>Symbol</dc:subject>
+        <dc:subject>Scoping</dc:subject>
+        <dc:subject>Block Viewport</dc:subject>
+        <dc:subject>Interfaces</dc:subject>
+        <dc:subject>Access Modifiers</dc:subject>
+        <dc:subject>Abstract Class</dc:subject>
+        <dc:subject>Inferring Types</dc:subject>
+        <dc:subject>Generics</dc:subject>
+        <dc:subject>Namespaces</dc:subject>
+        <dc:subject>Export Validation</dc:subject>
+        <dc:subject>Deno</dc:subject>
+        <dc:subject>Debugging</dc:subject>
+        <dc:subject>Testing</dc:subject>
+        <dc:subject>Aurelia</dc:subject>
+        <dc:subject>Angular</dc:subject>
+        <dc:subject>React</dc:subject>
+        <meta name="calibre:series" content="The Ultimate Guide"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-06-02T03:09:18.165289+00:00"/>
+        <meta name="calibre:title_sort" content="TypeScript for Beginners: The Ultimate Guide"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

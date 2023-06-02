@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1432</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6fe91cee-f07a-4b75-bde3-8512a1eb4124</dc:identifier>
+        <dc:title>AWS Certified Cloud Practitioner Exam Guide: Build Your Cloud Computing Knowledge and Build Your Skills as an AWS Certified Cloud Practitioner</dc:title>
+        <dc:creator opf:file-as="Daswani, Rajesh" opf:role="aut">Rajesh Daswani</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-23T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Develop proficiency in AWS technologies and validate your skills by becoming an AWS Certified Cloud Practitioner&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop the skills to design highly available and fault-tolerant solutions in the cloud&lt;/li&gt;
+&lt;li&gt;Learn how to adopt best-practice security measures in your cloud applications&lt;/li&gt;
+&lt;li&gt;Achieve credibility through industry-recognized AWS Cloud Practitioner certification&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Amazon Web Services is the largest cloud computing service provider in the world. Its foundational certification, AWS Certified Cloud Practitioner (CLF-C01), is the first step to fast-tracking your career in cloud computing. This certification will add value even to those in non-IT roles, including professionals from sales, legal, and finance who may be working with cloud computing or AWS projects. If you are a seasoned IT professional, this certification will make it easier for you to prepare for more technical certifications to progress up the AWS ladder and improve your career prospects.&lt;/p&gt;
+&lt;p&gt;The book is divided into four parts. The first part focuses on the fundamentals of cloud computing and the AWS global infrastructure. The second part examines key AWS technology services, including compute, network, storage, and database services. The third part covers AWS security, the shared responsibility model, and several security tools. In the final part, you'll study the fundamentals of cloud economics and AWS pricing models and billing practices.&lt;/p&gt;
+&lt;p&gt;Complete with exercises that highlight best practices for designing solutions, detailed use cases for each of the AWS services, quizzes, and two complete practice tests, this CLF-C01 exam study guide will help you gain the knowledge and hands-on experience necessary to ace the AWS Certified Cloud Practitioner exam.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Create an AWS account to access AWS cloud services in a secure and isolated environment&lt;/li&gt;
+&lt;li&gt;Understand identity and access management (IAM), encryption, and multifactor authentication (MFA) protection&lt;/li&gt;
+&lt;li&gt;Configure multifactor authentication for your IAM accounts&lt;/li&gt;
+&lt;li&gt;Configure AWS services such as EC2, ECS, Lambda, VPCs, and Route53&lt;/li&gt;
+&lt;li&gt;Explore various storage and database services such as S3, EBS, and Amazon RDS&lt;/li&gt;
+&lt;li&gt;Study the fundamentals of modern application design to shift from a monolithic to microservices architecture&lt;/li&gt;
+&lt;li&gt;Design highly available solutions with decoupling ingrained in your design architecture&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;If you're looking to advance your career and gain expertise in cloud computing, with particular focus on the AWS platform, this book is for you. This guide will help you ace the AWS Certified Cloud Practitioner Certification exam, enabling you to embark on a rewarding career in cloud computing. No previous IT experience is essential to get started with this book, since it covers core IT fundamentals from the ground up.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;What is Cloud Computing?&lt;/li&gt;
+&lt;li&gt;Introduction to AWS and the Global Infrastructure &lt;/li&gt;
+&lt;li&gt;Exploring AWS Accounts, Multi-Account Strategy, and AWS Organizations&lt;/li&gt;
+&lt;li&gt;Identity and Access Management&lt;/li&gt;
+&lt;li&gt;Amazon Simple Storage Service (S3)&lt;/li&gt;
+&lt;li&gt;AWS Networking Services – VPCs, Route53, and CloudFront&lt;/li&gt;
+&lt;li&gt;AWS Compute Services&lt;/li&gt;
+&lt;li&gt;AWS Database Services&lt;/li&gt;
+&lt;li&gt;High Availability and Elasticity on AWS&lt;/li&gt;
+&lt;li&gt;Application Integration Services&lt;/li&gt;
+&lt;li&gt;Analytics on AWS&lt;/li&gt;
+&lt;li&gt;Automation and Deployment on AWS&lt;/li&gt;
+&lt;li&gt;Management and Governance on AWS&lt;/li&gt;
+&lt;li&gt;Implementing Security in AWS&lt;/li&gt;
+&lt;li&gt;Billing and Pricing&lt;/li&gt;
+&lt;li&gt;Mock Tests&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781801075930</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09BQQ4WLP</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1140665215</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">60166219</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-06-02T03:14:19.795815+00:00"/>
+        <meta name="calibre:title_sort" content="AWS Certified Cloud Practitioner Exam Guide: Build Your Cloud Computing Knowledge and Build Your Skills as an AWS Certified Cloud Practitioner"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

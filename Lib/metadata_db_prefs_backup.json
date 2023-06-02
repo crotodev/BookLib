@@ -17,6 +17,10 @@
   ],
   "gui_view_history": [
     [
+      1431,
+      "Learn React with TypeScript"
+    ],
+    [
       1409,
       "Scala Puzzlers"
     ],
@@ -71,10 +75,6 @@
     [
       26,
       "How to Become a Straight-A Student"
-    ],
-    [
-      611,
-      "Crossing the Atlantic to Meet the Nation"
     ]
   ],
   "library_view books view state": {
@@ -988,5 +988,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1683909732.974924
+  "last_expired_trash_at": 1685675217.5157802
 }
