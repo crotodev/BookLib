@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1441</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc5b0b4c-84c1-44cb-b73a-55972319da43</dc:identifier>
+        <dc:title>Mastering Go: Harness the Power of Go to Build Professional Utilities and Concurrent Servers and Services</dc:title>
+        <dc:creator opf:file-as="Tsoukalos, Mihalis" opf:role="aut">Mihalis Tsoukalos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.19.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-30T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Master key features of Go, including advanced concepts like concurrency and working with JSON, to create and optimize real-world services, network servers, and clients&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;This third edition of the bestselling guide to advanced Go programming has been overhauled and expanded to cover RESTful servers, the WebSocket protocol, and Go generics&lt;/li&gt;
+&lt;li&gt;Use real-world exercises to build high-performance network servers and powerful command line utilities&lt;/li&gt;
+&lt;li&gt;Packed with practical examples and utilities to apply to your own development work and administrative tasks&lt;/li&gt;
+&lt;li&gt;Get clear explanations about Go nuances and features to simplify Go development&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Mastering Go is the essential guide to putting Go to work on real production systems. This freshly updated third edition includes topics like creating RESTful servers and clients, understanding Go generics, and developing gRPC servers and clients.&lt;/p&gt;
+&lt;p&gt;Mastering Go was written for programmers who want to explore the capabilities of Go in practice. As you work your way through the chapters, you'll gain confidence and a deep understanding of advanced Go concepts, including concurrency and the operation of the Go Garbage Collector, using Go with Docker, writing powerful command-line utilities, working with JavaScript Object Notation (JSON) data, and interacting with databases. You'll also improve your understanding of Go internals to optimize Go code and use data types and data structures in new and unexpected ways.&lt;/p&gt;
+&lt;p&gt;This essential Go programming book will also take you through the nuances and idioms of Go with exercises and resources to fully embed your newly acquired knowledge.&lt;/p&gt;
+&lt;p&gt;With the help of Mastering Go, you'll become an expert Go programmer by building Go systems and implementing advanced Go techniques in your projects.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Use Go in production&lt;/li&gt;
+&lt;li&gt;Write reliable, high-performance concurrent code&lt;/li&gt;
+&lt;li&gt;Manipulate data structures including slices, arrays, maps, and pointers&lt;/li&gt;
+&lt;li&gt;Develop reusable packages with reflection and interfaces&lt;/li&gt;
+&lt;li&gt;Become familiar with generics for effective Go programming&lt;/li&gt;
+&lt;li&gt;Create concurrent RESTful servers, and build gRPC clients and servers&lt;/li&gt;
+&lt;li&gt;Define Go structures for working with JSON data&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;You'll need to know the basics of Go before you get started with this book, but beyond that, anyone can sink their teeth into it. It's written primarily for Go programmers who have a bit of experience with the language and want to become expert practitioners.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;A Quick Introduction to Go&lt;/li&gt;
+&lt;li&gt;Basic Go Data Types&lt;/li&gt;
+&lt;li&gt;Composite Data Types&lt;/li&gt;
+&lt;li&gt;Reflection and Interfaces&lt;/li&gt;
+&lt;li&gt;Go Packages and Functions&lt;/li&gt;
+&lt;li&gt;Telling a UNIX System What to Do&lt;/li&gt;
+&lt;li&gt;Go Concurrency&lt;/li&gt;
+&lt;li&gt;Building Web Services&lt;/li&gt;
+&lt;li&gt;Working with TCP/IP and WebSocket&lt;/li&gt;
+&lt;li&gt;Working with REST APIs&lt;/li&gt;
+&lt;li&gt;Code Testing and Profiling&lt;/li&gt;
+&lt;li&gt;Working with gRPC&lt;/li&gt;
+&lt;li&gt;Go Generics &lt;/li&gt;
+&lt;li&gt;Appendix&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Mihalis Tsoukalos&lt;/strong&gt; holds a BSc in Mathematics from the University of Patras and an MSc in IT from University College London, UK. His previous books, Go Systems Programming and Mastering Go, have become a must-read for Unix and Linux systems professionals. He works as a Unix systems engineer, database administrator, and mathematician. He enjoys writing technical articles and has written for Sys Admin, MacTech, C/C++ Users Journal, USENIX; login:, Linux Journal, Linux User and Developer, Linux Format, and Linux Voice. His research interests include time series, indexing, and databases.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781801079310</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1801079315</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1141320151</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58883237</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-06-15T18:20:16.603638+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering Go: Harness the Power of Go to Build Professional Utilities and Concurrent Servers and Services"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

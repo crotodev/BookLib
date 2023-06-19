@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1440</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49714ec8-280d-4c19-997d-9e06a8b15c0f</dc:identifier>
+        <dc:title>Azure Databricks Cookbook: Accelerate and Scale Real-Time Analytics Solutions Using the Apache Spark-Based Analytics Service</dc:title>
+        <dc:creator opf:file-as="Raj, Phani &amp; Jaiswal, Vinod" opf:role="aut">Phani Raj</dc:creator>
+        <dc:creator opf:file-as="Raj, Phani &amp; Jaiswal, Vinod" opf:role="aut">Vinod Jaiswal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.19.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-17T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Get to grips with building and productionizing end-to-end big data solutions in Azure and learn best practices for working with large datasets&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Integrate with Azure Synapse Analytics, Cosmos DB, and Azure HDInsight Kafka Cluster to scale and analyze your projects and build pipelines&lt;/li&gt;
+&lt;li&gt;Use Databricks SQL to run ad hoc queries on your data lake and create dashboards&lt;/li&gt;
+&lt;li&gt;Productionize a solution using CI/CD for deploying notebooks and Azure Databricks Service to various environments&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Azure Databricks is a unified collaborative platform for performing scalable analytics in an interactive environment. The Azure Databricks Cookbook provides recipes to get hands-on with the analytics process, including ingesting data from various batch and streaming sources and building a modern data warehouse.&lt;/p&gt;
+&lt;p&gt;The book starts by teaching you how to create an Azure Databricks instance within the Azure portal, Azure CLI, and ARM templates. You'll work through clusters in Databricks and explore recipes for ingesting data from sources, including files, databases, and streaming sources such as Apache Kafka and EventHub. The book will help you explore all the features supported by Azure Databricks for building powerful end-to-end data pipelines. You'll also find out how to build a modern data warehouse by using Delta tables and Azure Synapse Analytics. Later, you'll learn how to write ad hoc queries and extract meaningful insights from the data lake by creating visualizations and dashboards with Databricks SQL. Finally, you'll deploy and productionize a data pipeline as well as deploy notebooks and Azure Databricks service using continuous integration and continuous delivery (CI/CD).&lt;/p&gt;
+&lt;p&gt;By the end of this Azure book, you'll be able to use Azure Databricks to streamline different processes involved in building data-driven apps.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Read and write data from and to various Azure resources and file formats&lt;/li&gt;
+&lt;li&gt;Build a modern data warehouse with Delta Tables and Azure Synapse Analytics&lt;/li&gt;
+&lt;li&gt;Explore jobs, stages, and tasks and see how Spark lazy evaluation works&lt;/li&gt;
+&lt;li&gt;Handle concurrent transactions and learn performance optimization in Delta tables&lt;/li&gt;
+&lt;li&gt;Learn Databricks SQL and create real-time dashboards in Databricks SQL&lt;/li&gt;
+&lt;li&gt;Integrate Azure DevOps for version control, deploying, and productionizing solutions with CI/CD pipelines&lt;/li&gt;
+&lt;li&gt;Discover how to use RBAC and ACLs to restrict data access&lt;/li&gt;
+&lt;li&gt;Build end-to-end data processing pipeline for near real-time data analytics&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This recipe-based book is for data scientists, data engineers, big data professionals, and machine learning engineers who want to perform data analytics on their applications. Prior experience of working with Apache Spark and Azure is necessary to get the most out of this book.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Creating an Azure Databricks Service&lt;/li&gt;
+&lt;li&gt;Reading and Writing Data from and to Various Azure Services and File Formats&lt;/li&gt;
+&lt;li&gt;Understanding Spark Query Execution&lt;/li&gt;
+&lt;li&gt;Working with Streaming Data&lt;/li&gt;
+&lt;li&gt;Integrating with Azure Key-Vault, App Configuration and Log Analytics&lt;/li&gt;
+&lt;li&gt;Exploring Delta Lake in Azure Databricks&lt;/li&gt;
+&lt;li&gt;Implementing Near-Real-Time Analytics and Building Modern Data Warehouse &lt;/li&gt;
+&lt;li&gt;Databricks SQL&lt;/li&gt;
+&lt;li&gt;DevOps Integrations and Implementing CI/CD for Azure Databricks&lt;/li&gt;
+&lt;li&gt;Understanding Security and Monitoring in Azure Databricks&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"I found this book to be really useful for Azure and Databricks developers. It has an excellent way of explaining code snippets in a visual and organized way. The author's style of explaining things is great and gets to the point quickly. Provided the environment is ready, even beginners and intermediate developers can get to work right away without needing anyone’s help. The book covers security and access control as well, which is very important in the cloud." -- Ram Ghadiyaram, Senior Big Data Engineer - VP/ Enterprise Cloud Platform, JP Morgan Chase &amp;amp; Co. &lt;/p&gt;
+&lt;p&gt;"If you're the type who needs to get hands-on immediately, this is the book for you. This book starts you off in a stepwise fashion to enable you to create your Azure account, all the way through to creating simple and then more complex apps in Azure Databricks." -- Buck Woody, Applied Data Scientist at Azure Data Services Team, Microsoft&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Phani Raj&lt;/strong&gt; is an Azure data architect at Microsoft. He has more than 12 years of IT experience and works primarily on the architecture, design, and development of complex data warehouses, OLTP, and big data solutions on Azure for customers across the globe.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vinod Jaiswal&lt;/strong&gt; is a data engineer at Microsoft. He has more than 13 years of IT experience and works primarily on the architecture, design, and development of complex data warehouses, OLTP, and big data solutions on Azure using Azure data services for a variety of customers. He has also worked on designing and developing real-time data processing and analytics reports from the data ingested from streaming systems using Azure Databricks.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781789809718</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1789809711</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1139768299</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-06-12T17:00:54.307023+00:00"/>
+        <meta name="calibre:title_sort" content="Azure Databricks Cookbook: Accelerate and Scale Real-Time Analytics Solutions Using the Apache Spark-Based Analytics Service"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
