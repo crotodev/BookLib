@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1445</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1557347f-d29f-47a1-8f50-6898022f9bf9</dc:identifier>
+        <dc:title>The Fine Art of Small Talk: How to Start a Conversation, Keep It Going, Build Networking Skills – and Leave a Positive Impression!</dc:title>
+        <dc:creator opf:file-as="Fine, Debra" opf:role="aut">Debra Fine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.19.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-06T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;In this bestselling guide to social success, communication expert Debra Fine reveals the techniques and strategies anyone can use to make small talk in any situation. &lt;/p&gt;
+&lt;p&gt;Help is on the way with &lt;em&gt;The Fine Art of Small Talk&lt;/em&gt; , the classic guide that’s now revised for the modern era. Small talk is more than just chitchat; it’s a valuable tool to help you climb the corporate ladder, widen your business and social circles, and boost your self-confidence. With practical advice and simple conversation “cheat sheets,” this book offers easy-to-learn techniques that will allow you to feel comfortable in any type of social situation—from a video meeting to a first date to a cocktail party where you don’t know a soul. Nationally recognized communication expert Debra Fine will show you how to: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Learn to connect&lt;/strong&gt; with others regardless of the occasion, event, or situation &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Come across as composed and self-assured&lt;/strong&gt; when entertaining &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Avoid awkward silences&lt;/strong&gt; and “foot in mouth” disease &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Convey warmth and enthusiasm&lt;/strong&gt; so that other people feel good about being near you &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Make a positive, lasting impression&lt;/strong&gt; from the minute you say hello. &lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Once you master &lt;em&gt;The Fine Art of Small Talk&lt;/em&gt; , you’ll excel at making others feel included, valued, and comfortable. Let Debra Fine turn you into a small-talk expert—and watch the contacts, business deals, and social relationships multiply before your eyes! &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Bestselling author, keynote speaker, and communication expert&lt;a href="https://www.goodreads.com/author/show/53580.Debra_Fine"&gt; &lt;strong&gt;Debra Fine&lt;/strong&gt;&lt;/a&gt; is the author of the bestselling book &lt;em&gt;The Fine Art of Small Talk&lt;/em&gt; and &lt;em&gt;The Fine Art of the Big Talk&lt;/em&gt; , both translated and published in 20+ countries around the world, as well as &lt;em&gt;Beyond Texting: The Fine Art of Face-To-Face Communication for Teenagers&lt;/em&gt;. &lt;br&gt;Fine is also a 20+ year member of the National Speakers Association, presenting her programs to hundreds of audiences around the world, and her media appearances include &lt;em&gt;The Today Show, The Early Show, NPR Morning Edition, Fox Business News,&lt;/em&gt; CNN, CBS Sunday Morning, and the &lt;em&gt;New York Times&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Vibhatsu</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780306831218</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">030683121X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Verbal</dc:subject>
+        <dc:subject>Communication</dc:subject>
+        <dc:subject>Skills</dc:subject>
+        <dc:subject>Techniques</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-06-19T03:10:07.387416+00:00"/>
+        <meta name="calibre:title_sort" content="Fine Art of Small Talk: How to Start a Conversation, Keep It Going, Build Networking Skills – and Leave a Positive Impression!, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
