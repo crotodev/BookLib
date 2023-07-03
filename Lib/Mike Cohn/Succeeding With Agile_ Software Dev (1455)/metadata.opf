@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1455</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3588dc6-b1eb-4dea-b14e-8c083c3a4989</dc:identifier>
+        <dc:title>Succeeding With Agile: Software Development Using Scrum</dc:title>
+        <dc:creator opf:file-as="Cohn, Mike" opf:role="aut">Mike Cohn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-26T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Proven, 100% Practical Guidance for Making Scrum and Agile Work in Any Organization&lt;/p&gt;
+&lt;p&gt;This is the definitive, realistic, actionable guide to starting fast with Scrum and agile–and then succeeding over the long haul. Leading agile consultant and practitioner Mike Cohn presents detailed recommendations, powerful tips, and real-world case studies drawn from his unparalleled experience helping hundreds of software organizations make Scrum and agile work.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Succeeding with Agile&lt;/em&gt; is for pragmatic software professionals who want real answers to the most difficult challenges they face in implementing Scrum. Cohn covers every facet of the transition: getting started, helping individuals transition to new roles, structuring teams, scaling up, working with a distributed team, and finally, implementing effective metrics and continuous improvement.&lt;/p&gt;
+&lt;p&gt;Throughout, Cohn presents “Things to Try Now” sections based on his most successful advice. Complementary “Objection” sections reproduce typical conversations with those resisting change and offer practical guidance for addressing their concerns. Coverage includes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Practical ways to get started immediately–and “get good” &lt;em&gt;fast&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Overcoming individual resistance to the changes Scrum requires&lt;/li&gt;
+&lt;li&gt;Staffing Scrum projects and building effective teams&lt;/li&gt;
+&lt;li&gt;Establishing “improvement communities” of people who are passionate about driving change&lt;/li&gt;
+&lt;li&gt;Choosing which agile technical practices to use or experiment with&lt;/li&gt;
+&lt;li&gt;Leading self-organizing teams&lt;/li&gt;
+&lt;li&gt;Making the most of Scrum sprints, planning, and quality techniques&lt;/li&gt;
+&lt;li&gt;Scaling Scrum to distributed, multiteam projects&lt;/li&gt;
+&lt;li&gt;Using Scrum on projects with complex sequential processes or challenging compliance and governance requirements&lt;/li&gt;
+&lt;li&gt;Understanding Scrum’s impact on HR, facilities, and project management&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Whether you've completed a few sprints or multiple agile projects and whatever your role–manager, developer, coach, ScrumMaster, product owner, analyst, team lead, or project lead–this book will help you succeed with your very next project. Then, it will help you go much further: &lt;em&gt;It will help you transform your entire development organization.&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Praise for&lt;/strong&gt; Succeeding with Agile&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;“Understanding the mechanics of an agile process is just not enough. Mike Cohn has compiled a superb and comprehensive collection of advice that will help individuals and teams with the intricate task of adopting and adapting agile processes to fit their specific challenges. This book will become the definitive handbook for agile teams.”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Colin Bird&lt;/strong&gt; , Global Head of Agile, EMC Consulting&lt;/p&gt;
+&lt;p&gt;“Mike Cohn’s experience working with so many different organizations in the adoption of agile methods shines through with practical approaches and valuable insights. If you really want agile methods to stick, this is the book to read.”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Jeff Honious&lt;/strong&gt; , Vice President, Innovation, Reed Elsevier&lt;/p&gt;
+&lt;p&gt;“Mike Cohn has done it again. &lt;em&gt;Succeeding with Agile&lt;/em&gt; is based on his experience, and all of our experience, with agile to date. He covers from the earliest days of the project up to maturity and offers advice for the individual, the team, and the enterprise. No matter where you are in the agile cycle, this book has something for you!”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Ron Jeffries&lt;/strong&gt; , www.XProgramming.com&lt;/p&gt;
+&lt;p&gt;“If you want to start or take the next step in agile software development, this book is for you. It discusses issues, great solutions, and helpful guidelines when scaling up in agile projects. We used the guidelines from this book extensively when we introduced agile in a large, FDA-regulated department.”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Christ Vriens&lt;/strong&gt; , Department Head of MiPlaza, part of Philips Research&lt;/p&gt;
+&lt;p&gt;“If making the move to agile has always baffled you, then this book will unlock its mysteries. Mike Cohn gives us all the definitive, no-nonsense guide to transforming your organization into a high-powered, innovative, and competitive success.”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Steve Greene&lt;/strong&gt; , Senior Director, Program Management and Agile Development, www.salesforce.com&lt;/p&gt;
+&lt;p&gt;“Mike Cohn is a great advisor for transforming your software organization. This book is a distillation of everything Mike has learned over the years working with companies that are trying to become more agile. If you are thinking of going agile, pick up this book.”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Christopher Fry&lt;/strong&gt; , Ph.D., Vice President Development, Platform, www.salesforce.com&lt;/p&gt;
+&lt;p&gt;“Whether you’re just starting out or have some Scrum experience under your belt, in &lt;em&gt;Succeeding with Agile&lt;/em&gt; , Mike Cohn provides a wealth of information to guide you in your quest toward continuous improvement. Throughout the book, concepts are reinforced with practical everyday advice, including how to handle objections and thought-provoking ‘things to try now.’ An extensive list of recommended readings round this out to be a must have book.”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Nikki Rohm&lt;/strong&gt; , Studio Director Project and Resource Management, Electronic Arts&lt;/p&gt;
+&lt;p&gt;“The first steps along the path of improving your software process with Scrum are hard, and every step reveals new challenges. In &lt;em&gt;Succeeding with Agile&lt;/em&gt; , Mike Cohn shows how other organizations have followed this path, how you can learn from them to have a successful implementation of Scrum, and put your organization on the path of constant improvement and delivery of value.”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Johanes Brodwall&lt;/strong&gt; , Chief Scientist, Steria Norway&lt;/p&gt;
+&lt;p&gt;“I began to recommend Mike Cohn’s new book as soon as I began to review it. It seems that as soon as someone asked me a question about some corner of agile development, I would realize that I had just read something excellent in one of Mike’s chapters. I am so glad the book is finally out so I can stop saying, ‘Mike Cohn has a great new book coming out soon that will talk about this problem.’ Now I can say, ‘Mike’s book is out! Get it!’”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Linda Rising&lt;/strong&gt; , Coauthor with Mary Lynn Manns of &lt;em&gt;Fearless Change: Patterns for Introducing New Ideas&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“The title says it all; this is an astonishingly insightful and pragmatic guide to succeeding with agile software development. If you only read one agile book, this is the one. I want to give it to all my clients now!”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Henrik Kniberg&lt;/strong&gt; , Agile Coach, Agile Alliance Board Member, Author of &lt;em&gt;Scrum and XP from the Trenches&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“Mike Cohn blends thorough theoretical knowledge with practical hands-on techniques. This is another great agile book from Mike. It will help your team, your department, or your whole organization &lt;em&gt;Succeed with Agile&lt;/em&gt;.”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Matt Truxaw&lt;/strong&gt; , Application Delivery Manager, Kaiser Permanente IT, Certified Scrum Master&lt;/p&gt;
+&lt;p&gt;“Mike Cohn’s new book is the definitive guide for companies transitioning to Scrum. Its contents are practical and easily accessible. Get it, read it, and apply it!”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Roman Pichler&lt;/strong&gt; , Author of &lt;em&gt;Agile Product Management with Scrum&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“ &lt;em&gt;Succeeding with Agile&lt;/em&gt; is at once enormously practical, deeply insightful, and a pleasure to read. It combines great ideas with stories and examples from around the software industry and will appeal to a wide range of readers, from those looking to adopt a new company-wide agile process to developers who just need to improve the way a team is running a single project.”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Andrew Stellman&lt;/strong&gt; , Developer, Project Manager, and Author of &lt;em&gt;Head First PMP&lt;/em&gt; , &lt;em&gt;Beautiful Teams&lt;/em&gt; , &lt;em&gt;Applied Software Project Management&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“Adopting agile methods is hard enough on a greenfield web app in a small company. Transforming an enterprise is another matter. This book captures challenges like the ones we faced and offers insight and, more importantly, practical approaches.”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Michael Wollin&lt;/strong&gt; , Senior Development Manager, Broadcast Production Systems, CNN&lt;/p&gt;
+&lt;p&gt;“Mike Cohn has put together a fantastic book of guidelines to not only start the Scrum implementation, but to turn your entire corporation into an agile community. I have already implemented many of the recommendations included in this text and have seen a positive influence on the support for Scrum within our organization.”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;James Tischart&lt;/strong&gt; , CSM, CSP, CTFL, Vice President, Product Delivery, Mx Logic, Inc&lt;/p&gt;
+&lt;p&gt;“In &lt;em&gt;Succeeding with Agile&lt;/em&gt; , Mike Cohn has scoured and sifted through the collective experience and lessons of not only scores of different projects, teams, and organizations from his own agile experience, but also from the experience of countless others. He provides real-world stories from the trenches, useful data and studies, and invaluable insights into what has and hasn’t worked well when adopting, adapting, and scaling Scrum. What I like best about the book is where Mike provides wisdom on several different alternatives and approaches and the circumstances in which each is most suitable.”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Brad Appleton&lt;/strong&gt; , Internal Agile Consultant at a Fortune 100 telecommunications company&lt;/p&gt;
+&lt;p&gt;“I believe Mike Cohn’s book will answer many questions and issues that people and teams struggle with in terms of how to improve collaboration, communication, quality, and team productivity. I especially appreciate and agree with Mike’s statement that ‘there can be no end state in a process that calls for continuous improvement.’ This is hard work and it requires persistence, teamwork, and good people. I plan to make &lt;em&gt;Succeeding with Agile&lt;/em&gt; mandatory reading within my organization, just like we did with his book on &lt;em&gt;Agile Estimating and Planning&lt;/em&gt;.”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Scott Spencer&lt;/strong&gt; , Vice President Engineering, First American CoreLogic, Inc.&lt;/p&gt;
+&lt;p&gt;“Mike Cohn has done it again. This comprehensive study of agile software development provides numerous techniques and methodologies to achieve success. I enthusiastically recommend this book to anyone who wants to start using agile or wants to improve their software development process.”&lt;/p&gt;
+&lt;p&gt;– &lt;strong&gt;Benoit Houle&lt;/strong&gt; , Senior Development Manager, BioWare (a Division of Electronic Arts)&lt;/p&gt;
+&lt;p&gt;“There’s no doubt that Mike Cohn’s new book will become the reference on how to run software projects with Scrum. The book is very carefully crafted and avoids the trap of giving you the one, simple recipe to all your problems. Though mainly centered on Scrum, Mike draws on various other techniques to produce a handbook that is thorough and complete. This is not a hasty mash-up supported by just an act of fa...&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Proven, 100% Practical Guidance for Making Scrum and Agile Work in Any Organization&lt;/p&gt;
+&lt;p&gt;This is the definitive, realistic, actionable guide to starting fast with Scrum and agile–and then succeeding over the long haul. Leading agile consultant and practitioner Mike Cohn presents detailed recommendations, powerful tips, and real-world case studies drawn from his unparalleled experience helping hundreds of software organizations make Scrum and agile work.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Succeeding with Agile&lt;/em&gt; is for pragmatic software professionals who want real answers to the most difficult challenges they face in implementing Scrum. Cohn covers every facet of the transition: getting started, helping individuals transition to new roles, structuring teams, scaling up, working with a distributed team, and finally, implementing effective metrics and continuous improvement.&lt;/p&gt;
+&lt;p&gt;Throughout, Cohn presents “Things to Try Now” sections based on his most successful advice. Complementary “Objection” sections reproduce typical conversations with those resisting change and offer practical guidance for addressing their concerns. Coverage includes &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Practical ways to get started immediately–and “get good” &lt;em&gt;fast&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Overcoming individual resistance to the changes Scrum requires&lt;/li&gt;
+&lt;li&gt;Staffing Scrum projects and building effective teams&lt;/li&gt;
+&lt;li&gt;Establishing “improvement communities” of people who are passionate about driving change&lt;/li&gt;
+&lt;li&gt;Choosing which agile technical practices to use or experiment with&lt;/li&gt;
+&lt;li&gt;Leading self-organizing teams&lt;/li&gt;
+&lt;li&gt;Making the most of Scrum sprints, planning, and quality techniques&lt;/li&gt;
+&lt;li&gt;Scaling Scrum to distributed, multiteam projects&lt;/li&gt;
+&lt;li&gt;Using Scrum on projects with complex sequential processes or challenging compliance and governance requirements&lt;/li&gt;
+&lt;li&gt;Understanding Scrum’s impact on HR, facilities, and project management&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Whether you've completed a few sprints or multiple agile projects and whatever your role–manager, developer, coach, ScrumMaster, product owner, analyst, team lead, or project lead–this book will help you succeed with your very next project. Then, it will help you go much further: &lt;em&gt;It will help you transform your entire development organization.&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Mike Cohn&lt;/strong&gt; is the founder of Mountain Goat Software, through which he provides training and consulting on Scrum and agile software development. Mike specializes in helping companies adopt Scrum and become more agile as a way of building extremely high performance development organizations. In addition to this book, he is the author of &lt;em&gt;User Stories Applied for Agile Software Development, Agile Estimating and Planning,&lt;/em&gt; and books on Java and C++ programming.&lt;/p&gt;
+&lt;p&gt;With more than 25 years of experience, Mike has previously been a technology executive in companies of various sizes, from start-up to Fortune 40. He has also written articles for &lt;em&gt;Better Software&lt;/em&gt; , &lt;em&gt;IEEE Computer&lt;/em&gt; , &lt;em&gt;Cutter IT Journal&lt;/em&gt; , &lt;em&gt;Software Test and Quality Engineering&lt;/em&gt; , &lt;em&gt;Agile Times&lt;/em&gt; , and the &lt;em&gt;C/C++ Users Journal&lt;/em&gt;. Mike is a frequent speaker at industry conferences and is a founding member of the Agile Alliance and Scrum Alliance. He is also a Certified Scrum Trainer, having cotaught the first Certified ScrumMaster class with Ken Schwaber in May 2003.&lt;/p&gt;
+&lt;p&gt;For more information, visit www.mountaingoatsoftware.com.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780321579362</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0321579364</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-07-03T17:58:32.723908+00:00"/>
+        <meta name="calibre:title_sort" content="Succeeding With Agile: Software Development Using Scrum"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1456</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c76357f-5fa4-412d-acfd-07380737e6dd</dc:identifier>
+        <dc:title>Scrum for Dummies</dc:title>
+        <dc:creator opf:file-as="Layton, Mark C." opf:role="aut">Mark C. Layton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-20T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Practice an agile form of management to stop wasting time and money&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Scrum For Dummies&lt;/em&gt; is an easy to use guide to managing the tricky transition from a traditional project management methodology to the new and most popular agile framework. As the most efficient, successful methodology for team project management, Scrum relies on transparency, flexibility, and fluidity to deliver a final product that fulfills the needs of all stakeholders. Written in easy-to-read &lt;em&gt;Dummies&lt;/em&gt; style, this book walks you through the core principles of Scrum and provides a roadmap for tangible implementation.&lt;/p&gt;
+&lt;p&gt;The vast majority of projects go over budget, and billions of dollars are wasted every year on overruns. Put a stop to this wasteful leakage by switching to a management style that keeps all participants informed, up-to-date, and accountable. Authored by a Certified Scrum Trainer, Mark Layton, &lt;em&gt;Scrum For Dummies&lt;/em&gt; covers the key ideas and processes behind Scrum methodologies, and presents the inner workings of the plan in an engaging and accessible format. Topics include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Scrum values, roles, artifacts, and activities that make up the principle of this methodology&lt;/li&gt;
+&lt;li&gt;When and how best to use Scrum&lt;/li&gt;
+&lt;li&gt;The differences between Scrum and other agile methodologies&lt;/li&gt;
+&lt;li&gt;Using Scrum for IT, finance, construction, health care, and more&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;The book also delves into the everyday use of Scrum, and how it can help you achieve your own personal goals outside of work. There's a reason why scrum is quickly becoming the standard approach to project management—it works! If you want to stop wasting time and start producing more effectively, &lt;em&gt;Scrum For Dummies&lt;/em&gt; is the guide that will get you there.&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Learn to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Integrate scrum into your agile project management strategy&lt;/li&gt;
+&lt;li&gt;Differentiate scrum from other frameworks&lt;/li&gt;
+&lt;li&gt;Apply the core principles of scrum to a variety of functions&lt;/li&gt;
+&lt;li&gt;Execute a scrum project&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Save time and money with Scrum&lt;/p&gt;
+&lt;p&gt;Ready to get agile with your project management? Scrum makes the transition to agile project management effortless, and this plain-English guide walks you through the core principles so you can keep your projects on time and on budget. Discover what makes scrum different, how it lowers costs and speeds project completion, and how to put it to work. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dive into scrum—&lt;/strong&gt; start off with an overview of the scrum framework, agile principles, and scrum values&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Why scrum scores big—&lt;/strong&gt; discover what scrum offers both product management and development teams&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Up and running—&lt;/strong&gt; plan your first scrum project, create a product roadmap, and learn to assemble the ideal development team&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sprint for the finish—&lt;/strong&gt; learn the importance of sprints and how to plan, review, and maximize them&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scrum works everywhere—&lt;/strong&gt; see how scrum works for software development, tangible goods production, healthcare, law enforcement, education, and publishing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Make business better—&lt;/strong&gt; put scrum to work in portfolio management, IT, HR, finance, and customer service&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Your daily scrum—&lt;/strong&gt; find out how scrum can help in planning family activities and life goals&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Open the book and find:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How to handle a product backlog&lt;/li&gt;
+&lt;li&gt;What makes scrum development teams unique&lt;/li&gt;
+&lt;li&gt;Tips for using scrum in sales and marketing&lt;/li&gt;
+&lt;li&gt;Challenges and how to meet them&lt;/li&gt;
+&lt;li&gt;How scrum benefits manufacturing&lt;/li&gt;
+&lt;li&gt;Secrets of speeding products to market&lt;/li&gt;
+&lt;li&gt;FBI scrum stories&lt;/li&gt;
+&lt;li&gt;Ten key metrics for scrum&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Mark C. Layton,&lt;/strong&gt; known globally as Mr. Agile, is an organizational strategist and PMI certification instructor with over 20 years experience in project, program and large-scale portfolio management. A former cryptographic specialist who focuses in cybersecurity, he is a distinguished graduate of the US Air Force's Leadership School, the chair of the Los Angeles Agile Leadership Network and a Certified Scrum Trainer.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>For Dummies</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781118905753</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">111890575X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-07-03T17:59:27.923721+00:00"/>
+        <meta name="calibre:title_sort" content="Scrum for Dummies"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

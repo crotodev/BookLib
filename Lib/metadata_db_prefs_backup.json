@@ -17,6 +17,22 @@
   ],
   "gui_view_history": [
     [
+      1450,
+      "Project Management Handbook Agile"
+    ],
+    [
+      1451,
+      "Agile Software Engineering Skills"
+    ],
+    [
+      1454,
+      "Scrum: The Complete Guide to the Agile Project Management Framework that Helps the Software Development Lean Team to Efficiently Structure and Simplify the Work & Solve Problems in Half the Time"
+    ],
+    [
+      1448,
+      "The Little Go Book"
+    ],
+    [
       1431,
       "Learn React with TypeScript"
     ],
@@ -59,22 +75,6 @@
     [
       640,
       "The Confidence Game: Why We Fall for It . . . Every Time"
-    ],
-    [
-      208,
-      "The Art of Seduction"
-    ],
-    [
-      623,
-      "Sacco and Vanzetti: The Italian American Legacy"
-    ],
-    [
-      622,
-      "Dei Verbum"
-    ],
-    [
-      26,
-      "How to Become a Straight-A Student"
     ]
   ],
   "library_view books view state": {
@@ -988,5 +988,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1687921841.859534
+  "last_expired_trash_at": 1688394379.1189497
 }

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1452</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36c76dc3-aef7-4071-9ee1-c9590d67a0c4</dc:identifier>
+        <dc:title>Agile Estimating and Planning</dc:title>
+        <dc:creator opf:file-as="Cohn, Mike" opf:role="aut">Mike Cohn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-11-02T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Detailed, Proven Techniques for Estimating and Planning Any Agile Project&lt;/h3&gt;
+&lt;p&gt;Agile Estimating and Planning is the definitive, practical guide to estimating and planning agile projects. In this book, Agile Alliance cofounder Mike Cohn discusses the philosophy of agile estimating and planning and shows you exactly how to get the job done, with real-world examples and case studies. &lt;/p&gt;
+&lt;p&gt;Concepts are clearly illustrated and readers are guided, step by step, toward how to answer the following questions: What will we build? How big will it be? When must it be done? How much can I really complete by then? You will first learn what makes a good plan-and then what makes it agile.&lt;/p&gt;
+&lt;p&gt;Using the techniques in Agile Estimating and Planning, you can stay agile from start to finish, saving time, conserving resources, and accomplishing more. Highlights include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Why conventional prescriptive planning fails and why agile planning works&lt;/li&gt;
+&lt;li&gt;How to estimate feature size using story points and ideal days--and when to use each&lt;/li&gt;
+&lt;li&gt;How and when to re-estimate&lt;/li&gt;
+&lt;li&gt;How to prioritize features using both financial and nonfinancial approaches&lt;/li&gt;
+&lt;li&gt;How to split large features into smaller, more manageable ones&lt;/li&gt;
+&lt;li&gt;How to plan iterations and predict your team's initial rate of progress&lt;/li&gt;
+&lt;li&gt;How to schedule projects that have unusually high uncertainty or schedule-related risk&lt;/li&gt;
+&lt;li&gt;How to estimate projects that will be worked on by multiple teams&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Agile Estimating and Planning supports any agile, semiagile, or iterative process, including Scrum, XP, Feature-Driven Development, Crystal, Adaptive Software Development, DSDM, Unified Process, and many more. It will be an indispensable resource for every development manager, team leader, and team member.&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Praise for &lt;em&gt;Agile Estimating and Planning&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Traditional, deterministic approaches to planning and estimating simply don't cut it on the slippery slopes of today's dynamic, change-driven projects. Mike Cohn's breakthrough book gives us not only the philosophy, but also the guidelines and a proven set of tools that we need to succeed in planning, estimating, and scheduling projects with a high uncertainty factor. At the same time, the author never loses sight of the need to deliver business value to the customer each step of the way." &lt;/p&gt;
+&lt;p&gt;―Doug DeCarlo, author of &lt;em&gt;eXtreme Project Management: Using Leadership, Principles and Tools to Deliver Value in the Face of Volatility&lt;/em&gt; (Jossey-Bass, 2004) &lt;/p&gt;
+&lt;p&gt;"We know how to build predictive plans and manage them. But building plans that only estimate the future and then embrace change, challenge most of our training and skills. In Agile Estimating and Planning, Mike Cohn once again fills a hole in the Agile practices, this time by showing us a workable approach to Agile estimating and planning. Mike delves into the nooks and crannies of the subject and anticipates many of the questions and nuances of this topic. Students of Agile processes will recognize that this book is truly about agility, bridging many of the practices between Scrum and ExtremeProgramming." &lt;/p&gt;
+&lt;p&gt;―Ken Schwaber, Scrum evangelist, Agile Alliance cofounder, and signatory to the Agile Manifesto &lt;/p&gt;
+&lt;p&gt;"In Agile Estimating and Planning, Mike Cohn has, for the first time, brought together most everything that the Agile community has learned about the subject. The book is clear, well organized, and a pleasant and valuable read. It goes into all the necessary detail, and at the same time keeps the reader's burden low. We can dig in as deeply as we need to, without too much detail before we need it. The book really brings together everything we have learned about Agile estimation and planning over the past decade. It will serve its readers well." &lt;/p&gt;
+&lt;p&gt;―Ron Jeffries, www.XProgramming.com, author of &lt;em&gt;Extreme Programming Installed&lt;/em&gt; (Addison-Wesley, 2001) and &lt;em&gt;Extreme Programming Adventures in C#&lt;/em&gt; (Microsoft Press, 2004) &lt;/p&gt;
+&lt;p&gt;"Agile Estimating and Planning provides a view of planning that's balanced between theory and practice, and it is supported by enough concrete experiences to lend it credibility. I particularly like the quote 'planning is a quest for value.' It points to a new, more positive attitude toward planning that goes beyond the 'necessary evil' view that I sometimes hold." &lt;/p&gt;
+&lt;p&gt;―Kent Beck, author of &lt;em&gt;Extreme Programming Explained, Second Edition&lt;/em&gt; (Addison-Wesley, 2005) &lt;/p&gt;
+&lt;p&gt;"Up-front planning is still the most critical part of software development. Agile software development requires Agile planning techniques. This book shows you how to employ Agile planning in a succinct, practical, and easy-to-follow manner." &lt;/p&gt;
+&lt;p&gt;―Adam Rogers, Ultimate Software &lt;/p&gt;
+&lt;p&gt;"Mike does a great follow-up to &lt;em&gt;User Stories Applied&lt;/em&gt; by continuing to provide Agile teams with the practical approaches and techniques to increase agility. In this book, Mike provides time-proven and well-tested methods for being successful with the multiple levels of planning and estimating required by Agile. This book is the first to detail the disciplines of Agile estimating and planning, in ways that rival my 1980 civil engineering texts on CPM Planning and Estimating." &lt;/p&gt;
+&lt;p&gt;―Ryan Martens, President and Founder, Rally Software Development Corporation&lt;/p&gt;
+&lt;p&gt;"With insight and clarity, Mike Cohn shows how to effectively produce software of high business value. With Agile estimation and planning, you focus effort where it really counts, and continue to do so as circumstances change." &lt;/p&gt;
+&lt;p&gt;―Rick Mugridge, Rimu Research Ltd., and lead author, &lt;em&gt;Fit for Developing Software&lt;/em&gt; (Prentice Hall, 2005) &lt;/p&gt;
+&lt;p&gt;"Finally! The groundbreaking book my clients have been clamoring for! &amp;lt;&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Mike Cohn&lt;/strong&gt; is the founder of Mountain Goat Software, a process and project management consultancy and training firm. With more than twenty years of experience, Mike has been a technology executive in companies ranging from start-ups to Fortune 40s, and is a founding member of the Agile Alliance. He frequently contributes to industry-related magazines and presents regularly at conferences. He is the author of &lt;em&gt;User Stories Applied&lt;/em&gt; (Addison-Wesley, 2004).&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pearson</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780131479418</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0131479415</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-07-03T14:57:24.666353+00:00"/>
+        <meta name="calibre:title_sort" content="Agile Estimating and Planning"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
