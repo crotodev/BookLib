@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1458</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">489f16e5-0b7b-4aef-92c4-28e763db3d54</dc:identifier>
+        <dc:title>BDD in Action, Second Edition: Behavior-Driven Development for the Whole Software Lifecycle</dc:title>
+        <dc:creator opf:file-as="Smart, John Ferguson" opf:role="aut">John Ferguson Smart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-02T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Deliver software that does what it’s supposed to do! Behavior-Driven Development guides your software projects to success with collaboration, communication techniques, and concrete requirements you can turn into automated tests. &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;BDD in Action, Second Edition&lt;/em&gt; you’ll learn how to: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Implement and improve BDD practices&lt;/li&gt;
+&lt;li&gt;Prioritize features from business goals&lt;/li&gt;
+&lt;li&gt;Facilitate an example mapping session&lt;/li&gt;
+&lt;li&gt;Write automated acceptance tests&lt;/li&gt;
+&lt;li&gt;Scale up your automated acceptance tests&lt;/li&gt;
+&lt;li&gt;Deliver accurate reporting and documentation&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Around half of all software projects fail to deliver on requirements. Behavior-Driven Development (BDD) helps make sure that yours isn’t one of them. &lt;em&gt;Behavior-Driven Development in Action, Second Edition&lt;/em&gt; teaches you how to ensure that everyone involved in a software project—from developers to non-technical stakeholders—are in agreement on goals and objectives. It lays out the communication skills, collaborative practices, and useful automation tools that will let you seamlessly succeed with BDD. Now in its second edition, this revised bestseller has been extensively updated with new techniques for incorporating BDD into large-scale and enterprise development practices such as Agile and DevOps. &lt;/p&gt;
+&lt;p&gt;Foreword by Daniel Terhorst-North. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the Technology &lt;/p&gt;
+&lt;p&gt;Behavior-Driven Development is a collaborative software design technique that organizes examples of an application’s desired behavior into a concrete, testable specification. Because the BDD process gathers input from all areas of an organization, it maximizes the likelihood your software will satisfy both end users and business stakeholders. The established collaboration practices and automation strategies in this book will help you maximize the benefits of BDD for your dev team and your business clients. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the Book &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;BDD in Action, Second Edition&lt;/em&gt; , you’ll learn to seamlessly integrate BDD into your existing development process. This thoroughly revised new edition now shows how to integrate BDD with DevOps and large-scale Agile systems. Practical examples introduce cross-functional team communication skills, leading a successful requirements analysis, and how to set up automated acceptance criteria. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What’s Inside &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How BDD positively affects teamwork, dynamics, and collaboration with stakeholders&lt;/li&gt;
+&lt;li&gt;Help teams discover and analyze requirements, uncover assumptions, and reduce risks&lt;/li&gt;
+&lt;li&gt;Make acceptance, integration, and unit testing more effective&lt;/li&gt;
+&lt;li&gt;Automate reporting and living documentation to improve transparency&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;About the Reader &lt;/p&gt;
+&lt;p&gt;For all development teams. No experience with BDD required. Examples in Java, JavaScript, and TypeScript can be easily expressed in your chosen language. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the Author &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;John Ferguson Smart&lt;/strong&gt; is the creator of the Serenity BDD framework and founder of the Serenity Dojo training school. &lt;strong&gt;Jan Molak&lt;/strong&gt; is the author of the Serenity/JS testing framework, Jenkins Build Monitor, and other CD and testing tools. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Table of Contents &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PART 1 - FIRST STEPS&lt;/strong&gt;&lt;br&gt;1 Building software that makes a difference&lt;br&gt;2 Introducing Behavior-Driven Development&lt;br&gt;3 BDD: The whirlwind tour&lt;br&gt;&lt;strong&gt;PART 2 - WHAT DO I WANT? DEFINING REQUIREMENTS USING BDD&lt;/strong&gt;&lt;br&gt;4 Speculate: From business goals to prioritized features&lt;br&gt;5 Describing and prioritizing features&lt;br&gt;6 Illustrating features with examples&lt;br&gt;7 From examples to executable specifications&lt;br&gt;&lt;strong&gt;PART 3 - HOW DO I BUILD IT? CODING THE BDD WAY&lt;/strong&gt;&lt;br&gt;8 From executable specifications to automated acceptance tests&lt;br&gt;9 Writing solid automated acceptance tests&lt;br&gt;10 Automating acceptance criteria for the UI layer&lt;br&gt;11 Test automation design patterns for the UI layer&lt;br&gt;12 Scalable test automation with the Screenplay Pattern&lt;br&gt;13 BDD and executable specifications for microservices and APIs&lt;br&gt;14 Executable specifications for existing systems with Serenity/JS&lt;br&gt;15 Portable test automation with Serenity/JS&lt;br&gt;16 Living documentation and release evidence&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"John and Jan describe valuable techniques with their customary clarity and detail. I found myself nodding along, as well as having a couple of 'Aha!' moments myself. I am delighted that BDD still has this much traction and interest nearly 20 years on, and I am grateful to John and Jan for producing this new edition of such a comprehensive resource." —From the Foreword by Daniel Terhorst-North, practitioner consultant &lt;/p&gt;
+&lt;p&gt;"If understanding how your own software should work is ever a hard question, you should read this book."—Kevin Liao, Sotheby's &lt;/p&gt;
+&lt;p&gt;"An approachable and accessible introduction. I recommend it to developers who want to quickly adopt BDD for their projects." —Lorenzo De Leon, West Monroe Partners&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;John Ferguson Smart&lt;/strong&gt; is a specialist in BDD, automated testing, and software lifecycle development optimization. He is the founder of the Serenity Dojo, an online training platform for testers who want to become world-class Agile Test Automation Engineers, and the creator of the Serenity BDD test automation framework. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jan Molak&lt;/strong&gt; is a trainer, speaker and consultant. He is the author of the Serenity/JS testing framework, Jenkins Build Monitor, and numerous other tools in the continuous delivery and testing space.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781617297533</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1617297534</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-07-04T16:27:07.622517+00:00"/>
+        <meta name="calibre:title_sort" content="BDD in Action, Second Edition: Behavior-Driven Development for the Whole Software Lifecycle"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

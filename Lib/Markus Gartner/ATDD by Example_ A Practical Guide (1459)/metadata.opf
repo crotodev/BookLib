@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1459</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f33bc85f-fb40-4b1c-86d9-9372cf988ee5</dc:identifier>
+        <dc:title>ATDD by Example: A Practical Guide to Acceptance Test-Driven Development</dc:title>
+        <dc:creator opf:file-as="Gärtner, Markus" opf:role="aut">Markus Gärtner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-26T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;With Acceptance Test-Driven Development (ATDD), business customers, testers, and developers can collaborate to produce testable requirements that help them build higher quality software more rapidly. However, ATDD is still widely misunderstood by many practitioners. ATDD by Example is the first practical, entry-level, hands-on guide to implementing and successfully applying it. &lt;/p&gt;
+&lt;p&gt;ATDD pioneer Markus Gärtner walks readers step by step through deriving the right systems from business users, and then implementing fully automated, functional tests that accurately reflect business requirements, are intelligible to stakeholders, and promote more effective development.&lt;/p&gt;
+&lt;p&gt;Through two end-to-end case studies, Gärtner demonstrates how ATDD can be applied using diverse frameworks and languages. Each case study is accompanied by an extensive set of artifacts, including test automation classes, step definitions, and full sample implementations. These realistic examples illuminate ATDD’s fundamental principles, show how ATDD fits into the broader development process, highlight tips from Gärtner’s extensive experience, and identify crucial pitfalls to avoid. Readers will learn to&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Master the thought processes associated with successful ATDD implementation&lt;/li&gt;
+&lt;li&gt;Use ATDD with Cucumber to describe software in ways businesspeople can understand&lt;/li&gt;
+&lt;li&gt;Test web pages using ATDD tools&lt;/li&gt;
+&lt;li&gt;Bring ATDD to Java with the FitNesse wiki-based acceptance test framework&lt;/li&gt;
+&lt;li&gt;Use examples more effectively in Behavior-Driven Development (BDD)&lt;/li&gt;
+&lt;li&gt;Specify software collaboratively through innovative workshops&lt;/li&gt;
+&lt;li&gt;Implement more user-friendly and collaborative test automation&lt;/li&gt;
+&lt;li&gt;Test more cleanly, listen to test results, and refactor tests for greater value&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;If you’re a tester, analyst, developer, or project manager, this book offers a concrete foundation for achieving real benefits with ATDD now–and it will help you reap even more value as you gain experience.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Markus Gärtner,&lt;/strong&gt; works as an agile tester, trainer, coach, and consultant with it-agile GmbH, in Hamburg, Germany. He founded the German Agile Testing and Exploratory workshop in 2011, and cofounded the European chapter of Weekend Testing in 2010. A black-belt instructor in the Miagi-Do school of software testing, he contributes to the Agile Alliance FTT-Pattern writing community and the Software Craftsmanship movement. Gärtner regularly presents at agile and testing conferences around the world, has written extensively about agile testing, and regularly teaches ATDD and context-driven testing. He blogs at shino.de/blog. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780321784155</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B008G1H3EG</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">XYU5R9Win1UC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-07-04T17:25:10.117245+00:00"/>
+        <meta name="calibre:title_sort" content="ATDD by Example: A Practical Guide to Acceptance Test-Driven Development"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

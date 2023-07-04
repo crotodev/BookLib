@@ -17,6 +17,10 @@
   ],
   "gui_view_history": [
     [
+      304,
+      "The Pragmatic Programmer: Your Journey to Mastery"
+    ],
+    [
       1450,
       "Project Management Handbook Agile"
     ],
@@ -71,10 +75,6 @@
     [
       646,
       "Expanding the View"
-    ],
-    [
-      640,
-      "The Confidence Game: Why We Fall for It . . . Every Time"
     ]
   ],
   "library_view books view state": {
@@ -988,5 +988,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1688394379.1189497
+  "last_expired_trash_at": 1688407088.484246
 }

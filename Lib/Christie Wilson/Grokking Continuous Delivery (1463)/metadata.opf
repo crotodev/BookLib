@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1463</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">afb1a714-d2a6-499c-bf09-8b13c9ceae0d</dc:identifier>
+        <dc:title>Grokking Continuous Delivery</dc:title>
+        <dc:creator opf:file-as="Wilson, Christie" opf:role="aut">Christie Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-08T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Build and use systems that safely automate software delivery from testing through release with this jargon-busting guide to continuous delivery pipelines. &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Grokking Continuous Delivery&lt;/em&gt; you will learn how to: &lt;/p&gt;
+&lt;p&gt;Design effective CD pipelines for new and legacy projects&lt;br&gt;Keep your software projects release-ready&lt;br&gt;Maintain effective tests&lt;br&gt;Scale CD across multiple applications&lt;br&gt;Ensure pipelines give the right signals at the right time&lt;br&gt;Use version control as the source of truth&lt;br&gt;Safely automate deployments with metrics&lt;br&gt;Describe CD in a way that makes sense to your colleagues &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Grokking Continuous Delivery&lt;/em&gt; teaches you the design and purpose of continuous delivery systems that you can use with any language or stack. You’ll learn directly from your mentor Christie Wilson, Google engineer and co-creator of the Tekton CI/CD framework. Using crystal-clear, well-illustrated examples, Christie lays out the practical nuts and bolts of continuous delivery for developers and pipeline designers. In each chapter, you’ll uncover the proper approaches to solve the real-world challenges of setting up a CD pipeline. With this book as your roadmap, you’ll have a clear plan for bringing CD to your team without the need for costly trial-and-error experimentation. &lt;/p&gt;
+&lt;p&gt;About the technology&lt;br&gt;Keep your codebase release-ready. A continuous delivery pipeline automates version control, testing, and deployment with minimal developer intervention. Master the tools and practices of continuous delivery, and you’ll be able to add features and push updates quickly and consistently. &lt;/p&gt;
+&lt;p&gt;About the book&lt;br&gt;&lt;em&gt;Grokking Continuous Delivery&lt;/em&gt; is a friendly guide to setting up and working with a continuous delivery pipeline. Each chapter takes on a different scenario you’ll face when setting up a CD system, with real-world examples like automated scaling and testing legacy applications. Taking a tool-agnostic approach, author Christie Wilson guides you each step of the way with illustrations, crystal-clear explanations, and practical exercises to lock in what you’re learning. &lt;/p&gt;
+&lt;p&gt;What's inside &lt;/p&gt;
+&lt;p&gt;Design effective CD pipelines for new and legacy projects&lt;br&gt;Ensure your pipelines give the right signals at the right times&lt;br&gt;Version control as the source of truth&lt;br&gt;Safely automate deployments &lt;/p&gt;
+&lt;p&gt;About the reader&lt;br&gt;For software engineers who want to add CD to their development process. &lt;/p&gt;
+&lt;p&gt;About the author&lt;br&gt;&lt;strong&gt;Christie Wilson&lt;/strong&gt; is a software engineer at Google, where she co-created Tekton, a cloud-native CI/CD platform built on Kubernetes. &lt;/p&gt;
+&lt;p&gt;Table of Contents &lt;/p&gt;
+&lt;p&gt;PART 1 Introducing continuous delivery&lt;br&gt;1 Welcome to Grokking Continuous Delivery&lt;br&gt;2 A basic pipeline&lt;br&gt;PART 2 Keeping software in a deliverable state at all times&lt;br&gt;3 Version control is the only way to roll&lt;br&gt;4 Use linting effectively&lt;br&gt;5 Dealing with noisy tests&lt;br&gt;6 Speeding up slow test suites&lt;br&gt;7 Give the right signals at the right times&lt;br&gt;PART 3 Making delivery easy&lt;br&gt;8 Easy delivery starts with version control&lt;br&gt;9 Building securely and reliably&lt;br&gt;10 Deploying confidently&lt;br&gt;PART 4 CD design&lt;br&gt;11 Starter packs: From zero to CD&lt;br&gt;12 Scripts are code, too&lt;br&gt;13 Pipeline design&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0BHF66L9T</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>MEAP Version 6</dc:subject>
+        <meta name="calibre:timestamp" content="2023-07-04T17:45:58.758254+00:00"/>
+        <meta name="calibre:title_sort" content="Grokking Continuous Delivery"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

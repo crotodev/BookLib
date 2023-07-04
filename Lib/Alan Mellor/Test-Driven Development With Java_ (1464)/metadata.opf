@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1464</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">944dfe79-71bf-463d-8efa-f1e2a33ce22b</dc:identifier>
+        <dc:title>Test-Driven Development With Java: Create Higher-Quality Software by Writing Tests First With SOLID and Hexagonal Architecture</dc:title>
+        <dc:creator opf:file-as="Mellor, Alan" opf:role="aut">Alan Mellor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-13T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Drive development with automated tests and gain the confidence you need to write high-quality software&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Get up and running with common design patterns and TDD best practices&lt;/li&gt;
+&lt;li&gt;Learn to apply the rhythms of TDD – arrange, act, assert and red, green, refactor&lt;/li&gt;
+&lt;li&gt;Understand the challenges of implementing TDD in the Java ecosystem and build a plan&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Test-driven development enables developers to craft well-designed code and prevent defects. It’s a simple yet powerful tool that helps you focus on your code design, while automatically checking that your code works correctly. Mastering TDD will enable you to effectively utilize design patterns and become a proficient software architect.&lt;/p&gt;
+&lt;p&gt;The book begins by explaining the basics of good code and bad code, bursting common myths, and why Test-driven development is crucial. You’ll then gradually move toward building a sample application using TDD, where you’ll apply the two key rhythms -- red, green, refactor and arrange, act, assert. Next, you’ll learn how to bring external systems such as databases under control by using dependency inversion and test doubles. As you advance, you’ll delve into advanced design techniques such as SOLID patterns, refactoring, and hexagonal architecture. You’ll also balance your use of fast, repeatable unit tests against integration tests using the test pyramid as a guide. The concluding chapters will show you how to implement TDD in real-world use cases and scenarios and develop a modern REST microservice backed by a Postgres database in Java 17.&lt;/p&gt;
+&lt;p&gt;By the end of this book, you’ll be thinking differently about how you design code for simplicity and how correctness can be baked in as you go.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Discover how to write effective test cases in Java&lt;/li&gt;
+&lt;li&gt;Explore how TDD can be incorporated into crafting software&lt;/li&gt;
+&lt;li&gt;Find out how to write reusable and robust code in Java&lt;/li&gt;
+&lt;li&gt;Uncover common myths about TDD and understand its effectiveness&lt;/li&gt;
+&lt;li&gt;Understand the accurate rhythm of implementing TDD&lt;/li&gt;
+&lt;li&gt;Get to grips with the process of refactoring and see how it affects the TDD process&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is for expert Java developers and software architects crafting high-quality software in Java. Test-Driven Development with Java can be picked up by anyone with a strong working experience in Java who is planning to use Test-driven development for their upcoming projects.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Building the Case for TDD&lt;/li&gt;
+&lt;li&gt;Using TDD to Create Good Code&lt;/li&gt;
+&lt;li&gt;Dispelling Common Myths about TDD&lt;/li&gt;
+&lt;li&gt;Building a typical application using TDD&lt;/li&gt;
+&lt;li&gt;Writing our First Test&lt;/li&gt;
+&lt;li&gt;Following the Rhythms of TDD&lt;/li&gt;
+&lt;li&gt;Driving Design: TDD and SOLID&lt;/li&gt;
+&lt;li&gt;Test Doubles: Stubs and Mocks&lt;/li&gt;
+&lt;li&gt;Hexagonal Architecture: Decoupling external systems&lt;/li&gt;
+&lt;li&gt;FIRST Tests and the Test Pyramid&lt;/li&gt;
+&lt;li&gt;Exploring TDD with Quality Assurance&lt;/li&gt;
+&lt;li&gt;Test First, Test Later, Test Never&lt;/li&gt;
+&lt;li&gt;Driving the domain layer&lt;/li&gt;
+&lt;li&gt;Driving the database layer&lt;/li&gt;
+&lt;li&gt;Driving the Web Layer&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Alan Mellor is an academy lead at BJSS, training the next generation of consulting software engineers, and the author of Java OOP Done Right: Create object-oriented code you can be proud of with modern Java. Alan started with a Sinclair ZX81 computer with 1K of RAM and is very happy to have better computers now. Alan's work includes industrial control in C, web applications for e-commerce, gaming, and banking in Java and Go, and document warehousing in C++. His most visible code is part of Nokia Bounce and the RAF Red Arrows flight simulator if you go back far enough.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781803236230</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">180323623X</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">R_6lEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Bioinformatics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Buyer's Guides</dc:subject>
+        <dc:subject>TDD</dc:subject>
+        <dc:subject>Test-driven Development</dc:subject>
+        <dc:subject>Java Unit Test</dc:subject>
+        <dc:subject>JUnit</dc:subject>
+        <dc:subject>Mockito</dc:subject>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-07-04T17:59:45.379340+00:00"/>
+        <meta name="calibre:title_sort" content="Test-Driven Development With Java: Create Higher-Quality Software by Writing Tests First With SOLID and Hexagonal Architecture"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

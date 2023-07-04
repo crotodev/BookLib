@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1460</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0c973a4-6e8e-4074-9db3-7bff7397bd96</dc:identifier>
+        <dc:title>Continuous Integration : A Practical Guide to Designing and Developing Pipelines</dc:title>
+        <dc:creator opf:file-as="Merode, Henry van" opf:role="aut">Henry van Merode</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-30T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Use continuous Integration (CI) and continuous delivery (CD) to improve the speed of software delivery. This book presents a game changer―how to use pipelines to automate the software delivery process. The theories about CI/CD are much the same, but the book covers what the development of pipelines looks like and how testing of pipelines themselves should be performed.&lt;/p&gt;
+&lt;p&gt;Most teams just plunge into coding, without thinking about the CI/CD process itself. Why don’t we use the same development method for pipelines that we use for apps? &lt;/p&gt;
+&lt;p&gt;Pipelines code development undergoes similar stages as application code development, such as requirements analysis, development, testing, implementation, operations, and monitoring. This is the starting point of the book. It describes the current challenges with pipeline development and how this process can be improved and structured. It describes in detail how to design pipelines and shows examples in BPMN 2.0 notation.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You’ll Learn &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Know the shortcomings and challenges of current pipeline development such as misalignment between the pipeline engineer and the team’s workflow, the use of infrastructure as code (IaC), and pipeline security&lt;/li&gt;
+&lt;li&gt;Understand the need for CI/CD requirements through the book's non-exhaustive list of more than 60 CI/CD requirements provided to inspire and increase awareness&lt;/li&gt;
+&lt;li&gt;See how certain choices affect the way a pipeline is designed (and realized)&lt;/li&gt;
+&lt;li&gt;Become familiar with branching strategy, build strategy, test strategy, release strategy, and deployment strategy that are explained in detail in the book, including their effect on pipeline design&lt;/li&gt;
+&lt;li&gt;Know how pipelines can be unit tested, using a real-world example&lt;/li&gt;
+&lt;li&gt;Know how performance bottlenecks in a pipeline occur, how they can be detected, and how they can be solved&lt;/li&gt;
+&lt;li&gt;View a complete implementation, including code, showing how the guidelines in this book are applied to a real use case&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For&lt;/p&gt;
+&lt;p&gt;DevOps engineers and solution architects involved with automating the software supply chain and using application lifecycle management (ALM)/integration platforms such as Jenkins, CircleCI, Bamboo, and Azure DevOps; intermediate and experienced DevOps engineers (developers, ops engineers, test engineers); and ICT managers interested in the CI/CD pipeline development domain&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Use continuous Integration (CI) and continuous delivery (CD) to improve the speed of software delivery. This book presents a game changer―how to use pipelines to automate the software delivery process. The theories about CI/CD are much the same, but the book covers what the development of pipelines looks like and how testing of pipelines themselves should be performed.&lt;/p&gt;
+&lt;p&gt;Most teams just plunge into coding, without thinking about the CI/CD process itself. Why don’t we use the same development method for pipelines that we use for apps?&lt;/p&gt;
+&lt;p&gt;Pipelines code development undergoes similar stages as application code development, such as requirements analysis, development, testing, implementation, operations, and monitoring. This is the starting point of the book. It describes the current challenges with pipeline development and how this process can be improved and structured. It describes in detail how to design pipelines and shows examples in BPMN 2.0 notation.&lt;/p&gt;
+&lt;p&gt;What You’ll Learn &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Know the shortcomings and challenges of current pipeline development such as misalignment between the pipeline engineer and the team’s workflow, the use of infrastructure as code (IaC), and pipeline security&lt;/li&gt;
+&lt;li&gt;Understand the need for CI/CD requirements through the book's non-exhaustive list of more than 60 CI/CD requirements provided to inspire and increase awareness&lt;/li&gt;
+&lt;li&gt;See how certain choices affect the way a pipeline is designed (and realized)&lt;/li&gt;
+&lt;li&gt;Become familiar with branching strategy, build strategy, test strategy, release strategy, and deployment strategy that are explained in detail in the book, including their effect on pipeline design&lt;/li&gt;
+&lt;li&gt;Know how pipelines can be unit tested, using a real-world example&lt;/li&gt;
+&lt;li&gt;Know how performance bottlenecks in a pipeline occur, how they can be detected, and how they can be solved&lt;/li&gt;
+&lt;li&gt;View a complete implementation, including code, showing how the guidelines in this book are applied to a real use case&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Henry van Merode&lt;/strong&gt; is a Solution Architect with over 30 years of experience in ICT within several financial organizations. His experience spans a wide range of technologies and platforms, from IBM Mainframe to Cloud systems on AWS and Azure. He developed, designed, and architected major financial systems such as Internet Banking and Order Management systems, with a focus on performance, high availability, reliability, maintainability, and security. Last 8 years, Henry’s expertise has been extended with Continuous Integration, Continuous Delivery, and automated pipelines. As an Azure DevOps community lead, Henry likes to talk about this subject and promotes automating the software supply chain to the teams at his work.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484292273</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484292278</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-07-04T17:32:22.933352+00:00"/>
+        <meta name="calibre:title_sort" content="Continuous Integration : A Practical Guide to Designing and Developing Pipelines"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
