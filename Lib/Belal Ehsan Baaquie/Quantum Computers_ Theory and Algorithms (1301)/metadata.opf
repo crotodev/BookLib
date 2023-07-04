@@ -6,7 +6,7 @@
         <dc:title>Quantum Computers: Theory and Algorithms</dc:title>
         <dc:creator opf:file-as="Baaquie, Belal Ehsan &amp; Kwek, Leong-Chuan" opf:role="aut">Belal Ehsan Baaquie</dc:creator>
         <dc:creator opf:file-as="Baaquie, Belal Ehsan &amp; Kwek, Leong-Chuan" opf:role="aut">Leong-Chuan Kwek</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-01-03T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book presents various theories and algorithms to create a quantum computer. The concept of the classical and quantum computers, and the concept of circuits and gates are reviewed. The example of the Deutsch and the Deutsch-Josca algorithm is discussed to illustrate some key features of quantum computing. The Grover algorithm, considered to be of major milestone of the subject, is discussed in detail to exemplify the techniques used in computer algorithms. The role of quantum superposition (also called quantum parallelism) and of quantum entanglement is discussed in order to understand the key advantages of a quantum over a classical computer.&lt;/p&gt;&lt;/div&gt;</dc:description>

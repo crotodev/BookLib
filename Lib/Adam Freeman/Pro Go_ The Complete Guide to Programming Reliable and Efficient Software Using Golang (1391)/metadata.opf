@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6b799dd7-dd42-436b-8a65-1f3471c43a41</dc:identifier>
         <dc:title>Pro Go: The Complete Guide to Programming Reliable and Efficient Software Using Golang</dc:title>
         <dc:creator opf:file-as="Freeman, Adam" opf:role="aut">Adam Freeman</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-01-13T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Best-selling author Adam Freeman explains how to get the most from Go, starting from the basics and building up to the most advanced and sophisticated features. You will learn how Go builds on a simple and consistent type system to create a comprehensive and productive development experience that produces fast and robust applications that run across platforms.&lt;/p&gt;

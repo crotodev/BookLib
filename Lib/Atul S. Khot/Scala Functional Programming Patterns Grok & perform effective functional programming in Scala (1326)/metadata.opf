@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d67e0113-88c3-4b97-a388-7ba0481913a9</dc:identifier>
         <dc:title>Scala Functional Programming Patterns Grok &amp; perform effective functional programming in Scala</dc:title>
         <dc:creator opf:file-as="Khot, Atul S." opf:role="aut">Atul S. Khot</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-12-18T17:15:24+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta name="calibre:timestamp" content="2023-03-12T20:57:36+00:00"/>

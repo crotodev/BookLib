@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b30ffea2-3a22-4ab4-a4b2-41826affa18b</dc:identifier>
         <dc:title>Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals From Market and Alternative Data for Systematic Trading Strategies With Python, 2nd Edition</dc:title>
         <dc:creator opf:file-as="Jansen, Stefan" opf:role="aut">Stefan Jansen</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-07-30T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Leverage machine learning to design and back-test automated trading strategies for real-world markets using pandas, TA-Lib, scikit-learn, LightGBM, SpaCy, Gensim, TensorFlow 2, Zipline, backtrader, Alphalens, and pyfolio.&lt;/p&gt;

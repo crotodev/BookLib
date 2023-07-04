@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">76c2bc83-e244-4d6e-90f0-96b60cf6d650</dc:identifier>
         <dc:title>Practical Scala DSLs: Real-World Applications Using Domain Specific Languages</dc:title>
         <dc:creator opf:file-as="Riti, Pierluigi" opf:role="aut">Pierluigi Riti</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-11-30T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Build domain specific languages (DSLs) using Java's most popular functional programming language: Scala. This book introduces the basics of Scala and DSLs using a series of practical examples. In &lt;em&gt;Practical Scala DSLs&lt;/em&gt; , you’ll learn to create pragmatic and complete code examples that explain the actual use of DSLs with Scala: a web API and microservices; a custom language; a mobile app; a Forex system; a game; and cloud applications. &lt;br&gt;At the end of this unique book, you’ll be able to describe the differences between external and internal DSLs; understand when and how to apply DSLs; create DSLs using Scala; and even create a DSL using another programming language.&lt;br&gt;&lt;strong&gt;What You'll Learn&lt;/strong&gt; &lt;/p&gt;

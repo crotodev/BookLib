@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8789288a-3580-42a4-90fc-4a606049c657</dc:identifier>
         <dc:title>Encyclopedia of Electronic Components Volume 2: LEDs, LCDs, Audio, Thyristors, Digital Logic, and Amplification</dc:title>
         <dc:creator opf:file-as="Platt, Charles" opf:role="aut">Charles Platt</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-12-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Want to know how to use an electronic component? This second book of a three-volume set includes key information on electronics parts for your projectscomplete with photographs, schematics, and diagrams. You'll learn what each one does, how it works, why it's useful, and what variants exist. No matter how much you know about electronics, you'll find fascinating details you've never come across before.&lt;/p&gt;
@@ -23,7 +23,7 @@
         <dc:identifier opf:scheme="ISBN">9781449334185</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1120791947</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:timestamp" content="2023-05-24T06:28:15.505081+00:00"/>
+        <meta name="calibre:timestamp" content="2023-05-24T06:28:15+00:00"/>
         <meta name="calibre:title_sort" content="Encyclopedia of Electronic Components Volume 2: LEDs, LCDs, Audio, Thyristors, Digital Logic, and Amplification"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

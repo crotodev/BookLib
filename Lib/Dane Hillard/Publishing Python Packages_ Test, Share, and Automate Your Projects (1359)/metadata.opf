@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">daef6c17-8887-4497-8f3e-a08b1d93f790</dc:identifier>
         <dc:title>Publishing Python Packages: Test, Share, and Automate Your Projects</dc:title>
         <dc:creator opf:file-as="Hillard, Dane" opf:role="aut">Dane Hillard</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-01-10T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;

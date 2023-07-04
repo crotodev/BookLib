@@ -6,7 +6,7 @@
         <dc:title>Azure Databricks Cookbook: Accelerate and Scale Real-Time Analytics Solutions Using the Apache Spark-Based Analytics Service</dc:title>
         <dc:creator opf:file-as="Raj, Phani &amp; Jaiswal, Vinod" opf:role="aut">Phani Raj</dc:creator>
         <dc:creator opf:file-as="Raj, Phani &amp; Jaiswal, Vinod" opf:role="aut">Vinod Jaiswal</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.19.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-09-17T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Get to grips with building and productionizing end-to-end big data solutions in Azure and learn best practices for working with large datasets&lt;/p&gt;
@@ -50,12 +50,12 @@
 &lt;p&gt;&lt;strong&gt;Phani Raj&lt;/strong&gt; is an Azure data architect at Microsoft. He has more than 12 years of IT experience and works primarily on the architecture, design, and development of complex data warehouses, OLTP, and big data solutions on Azure for customers across the globe.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vinod Jaiswal&lt;/strong&gt; is a data engineer at Microsoft. He has more than 13 years of IT experience and works primarily on the architecture, design, and development of complex data warehouses, OLTP, and big data solutions on Azure using Azure data services for a variety of customers. He has also worked on designing and developing real-time data processing and analytics reports from the data ingested from streaming systems using Azure Databricks.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781789809718</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1789809711</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1139768299</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781789809718</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-06-12T17:00:54.307023+00:00"/>
+        <meta name="calibre:timestamp" content="2023-06-12T17:00:54+00:00"/>
         <meta name="calibre:title_sort" content="Azure Databricks Cookbook: Accelerate and Scale Real-Time Analytics Solutions Using the Apache Spark-Based Analytics Service"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

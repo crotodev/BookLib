@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2b0e24d2-271c-4166-b5c0-1cbcbc1d829e</dc:identifier>
         <dc:title>Data Structures &amp; Algorithms &amp; Scala A Practitioner's Approach &amp; Emphasis on Functional Programming</dc:title>
         <dc:creator opf:file-as="Upadhyaya, Bhim P." opf:role="aut">Bhim P. Upadhyaya</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-12-18T19:35:11+00:00</dc:date>
         <dc:language>en</dc:language>
         <dc:subject>Artificial Intelligence</dc:subject>

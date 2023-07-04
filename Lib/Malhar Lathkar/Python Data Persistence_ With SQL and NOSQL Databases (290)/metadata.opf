@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f0ae1254-410d-4f53-b0ec-d678083de156</dc:identifier>
         <dc:title>Python Data Persistence: With SQL and NOSQL Databases</dc:title>
         <dc:creator opf:file-as="Lathkar, Malhar" opf:role="aut">Malhar Lathkar</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-09-19T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Designed to provide an insight into the SQL and MySQL database concepts using pythonDESCRIPTIONPython is becoming increasingly popular among data scientists. However, analysis and visualization tools need to interact with the data stored in various formats such as relational and NOSQL databases. &lt;/p&gt;

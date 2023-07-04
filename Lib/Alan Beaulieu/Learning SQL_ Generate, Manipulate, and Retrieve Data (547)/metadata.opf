@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">5de3ce9c-b037-4ab7-aee6-9ae6b5101bab</dc:identifier>
         <dc:title>Learning SQL: Generate, Manipulate, and Retrieve Data</dc:title>
         <dc:creator opf:file-as="Beaulieu, Alan" opf:role="aut">Alan Beaulieu</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-03-04T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;As data floods into your company, you need to put it to work right away—and SQL is the best tool for the job. With the latest edition of this introductory guide, author Alan Beaulieu helps developers get up to speed with SQL fundamentals for writing database applications, performing administrative tasks, and generating reports. You’ll find new chapters on SQL and big data, analytic functions, and working with very large databases. &lt;/p&gt;

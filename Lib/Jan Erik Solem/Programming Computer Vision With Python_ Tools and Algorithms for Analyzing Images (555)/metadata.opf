@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f884a734-3ed1-4871-bef1-fbc878148557</dc:identifier>
         <dc:title>Programming Computer Vision With Python: Tools and Algorithms for Analyzing Images</dc:title>
         <dc:creator opf:file-as="Solem, Jan Erik" opf:role="aut">Jan Erik Solem</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-01-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;If you want a basic understanding of computer vision’s underlying theory and algorithms, this hands-on introduction is the ideal place to start. You’ll learn techniques for object recognition, 3D reconstruction, stereo imaging, augmented reality, and other computer vision applications as you follow clear examples written in Python. &lt;/p&gt;

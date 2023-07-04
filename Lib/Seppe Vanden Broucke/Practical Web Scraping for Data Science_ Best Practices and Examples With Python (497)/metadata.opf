@@ -6,7 +6,7 @@
         <dc:title>Practical Web Scraping for Data Science: Best Practices and Examples With Python</dc:title>
         <dc:creator opf:file-as="Broucke, Seppe Vanden &amp; Baesens, Bart" opf:role="aut">Seppe Vanden Broucke</dc:creator>
         <dc:creator opf:file-as="Broucke, Seppe Vanden &amp; Baesens, Bart" opf:role="aut">Bart Baesens</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-04-18T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book provides a complete and modern guide to web scraping, using Python as the programming language, without glossing over important details or best practices. Written with a data science audience in mind, the book explores both scraping and the larger context of web technologies in which it operates, to ensure full understanding. The authors recommend web scraping as a powerful tool for any data scientist’s arsenal, as many data science projects start by obtaining an appropriate data set. &lt;/p&gt;

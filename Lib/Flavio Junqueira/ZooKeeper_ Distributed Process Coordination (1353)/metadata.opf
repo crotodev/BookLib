@@ -6,7 +6,7 @@
         <dc:title>ZooKeeper: Distributed Process Coordination</dc:title>
         <dc:creator opf:file-as="Junqueira, Flavio &amp; Reed, Benjamin" opf:role="aut">Flavio Junqueira</dc:creator>
         <dc:creator opf:file-as="Junqueira, Flavio &amp; Reed, Benjamin" opf:role="aut">Benjamin Reed</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-11-18T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Building distributed applications is difficult enough without having to coordinate the actions that make them work. This practical guide shows how Apache ZooKeeper helps you manage distributed systems, so you can focus mainly on application logic. Even with ZooKeeper, implementing coordination tasks is not trivial, but this book provides good practices to give you a head start, and points out caveats that developers and administrators alike need to watch for along the way. &lt;/p&gt;

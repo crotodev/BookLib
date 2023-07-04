@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1cae34f6-82db-41f4-ae48-785a175cf2c0</dc:identifier>
         <dc:title>Encyclopedia of Electronic Components Volume 3: Sensors for Location, Presence, Proximity, Orientation, Oscillation, Force, Load, Human Input, Liquid ... Light, Heat, Sound, and Electricity</dc:title>
         <dc:creator opf:file-as="Platt, Charles" opf:role="aut">Charles Platt</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-01-25T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Want to know how to use an electronic component? This third book of a three-volume set includes key information on electronics parts for your projects--complete with photographs, schematics, and diagrams. You'll learn what each one does, how it works, why it's useful, and what variants exist. No matter how much you know about electronics, you'll find fascinating details you've never come across before.&lt;/p&gt;
@@ -23,17 +23,17 @@
 &lt;p&gt;Charles Platt is a Contributing Editor and regular columnist for Make magazine, where he writes about electronics. He is the author of the highly successful introductory hands-on book, Make:Electronics, and is writing a sequel to that book in addition to volumes 2 and 3 of the Encyclopedia of Electronic Components. &lt;/p&gt;
 &lt;p&gt;Platt was a Senior Writer for Wired magazine, and has written various computer books. As a prototype designer, he created semi-automated rapid cooling devices with medical applications, and air-deployable equipment for first responders. He was the sole author of four mathematical-graphics software packages, and has been fascinated by electronics since he put together a telephone answering machine from a tape recorder and military-surplus relays at age 15. He lives in a Northern Arizona wilderness area, where he has his own workshop for prototype fabrication and projects that he writes about for Make magazine.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781449334314</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1449334318</dc:identifier>
-        <dc:identifier opf:scheme="BARNESNOBLE">1123181235</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">22726877</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781449334314</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">zwp7zgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1123181235</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Reference</dc:subject>
         <meta name="calibre:series" content="Encyclopedia of Electronic Components"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2023-05-24T06:21:50.675564+00:00"/>
+        <meta name="calibre:timestamp" content="2023-05-24T06:21:50+00:00"/>
         <meta name="calibre:title_sort" content="Encyclopedia of Electronic Components Volume 3: Sensors for Location, Presence, Proximity, Orientation, Oscillation, Force, Load, Human Input, Liquid ... Light, Heat, Sound, and Electricity"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3994c0ac-68a2-4245-aa18-00a508b9bd4d</dc:identifier>
         <dc:title>Scala for Data Science: Leverage the Power of Scala With Different Tools to Build Scalable, Robust Data Science Applications</dc:title>
         <dc:creator opf:file-as="Bugnion, Pascal" opf:role="aut">Pascal Bugnion</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-01-28T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Leverage the power of Scala with different tools to build scalable, robust data science applications&lt;/p&gt;

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">e39a6161-efe1-4e53-a68d-78a5be4961d9</dc:identifier>
         <dc:title>Deep differentiable reinforcement learning and optimal trading</dc:title>
         <dc:creator opf:file-as="Jaisson, Thibault" opf:role="aut">Thibault Jaisson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:description>Quantitative Finance, . doi:10.1080/14697688.2022.2062431</dc:description>
         <dc:publisher>Routledge</dc:publisher>

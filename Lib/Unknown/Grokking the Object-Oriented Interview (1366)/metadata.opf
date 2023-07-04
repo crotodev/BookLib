@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a88d4a5e-7b9d-48b2-ba08-db35a83754c4</dc:identifier>
         <dc:title>Grokking the Object-Oriented Interview</dc:title>
         <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-11-24T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Cracking the Java Interview is not easy, and one of the main reasons for that is Java is very vast. There are a lot of concepts and APIs to master to become a decent Java developer. &lt;/p&gt;

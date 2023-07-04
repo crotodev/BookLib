@@ -6,7 +6,7 @@
         <dc:title>Data Structures and Algorithms With Python</dc:title>
         <dc:creator opf:file-as="Lee, Kent D. &amp; Hubbard, Steve" opf:role="aut">Kent D. Lee</dc:creator>
         <dc:creator opf:file-as="Lee, Kent D. &amp; Hubbard, Steve" opf:role="aut">Steve Hubbard</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-01-12T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This clearly structured and easy to read textbook explains the concepts and techniques required to write programs that can handle large amounts of data efficiently. &lt;/p&gt;

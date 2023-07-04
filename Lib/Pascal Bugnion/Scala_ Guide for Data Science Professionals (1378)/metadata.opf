@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Bugnion, Pascal &amp; Manivannan, Arun &amp; Nicolas, Patrick R." opf:role="aut">Pascal Bugnion</dc:creator>
         <dc:creator opf:file-as="Bugnion, Pascal &amp; Manivannan, Arun &amp; Nicolas, Patrick R." opf:role="aut">Arun Manivannan</dc:creator>
         <dc:creator opf:file-as="Bugnion, Pascal &amp; Manivannan, Arun &amp; Nicolas, Patrick R." opf:role="aut">Patrick R. Nicolas</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-02-24T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Scala will be a valuable tool to have on hand during your data science journey for everything from data cleaning to cutting-edge machine learningAbout This BookBuild data science and data engineering solutions with easeAn in-depth look at each stage of the data analysis process — from reading and collecting data to distributed analyticsExplore a broad variety of data processing, machine learning, and genetic algorithms through diagrams, mathematical formulations, and source codeWho This Book Is ForThis learning path is perfect for those who are comfortable with Scala programming and now want to enter the field of data science. Some knowledge of statistics is expected. &lt;/p&gt;

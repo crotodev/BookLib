@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Song, Qingquan &amp; Jin, Haifeng &amp; Hu, Xia" opf:role="aut">Qingquan Song</dc:creator>
         <dc:creator opf:file-as="Song, Qingquan &amp; Jin, Haifeng &amp; Hu, Xia" opf:role="aut">Haifeng Jin</dc:creator>
         <dc:creator opf:file-as="Song, Qingquan &amp; Jin, Haifeng &amp; Hu, Xia" opf:role="aut">Xia Hu</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-01-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Optimize every stage of your machine learning pipelines with powerful automation components and cutting-edge tools like AutoKeras and KerasTuner. &lt;/p&gt;

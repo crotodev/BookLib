@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d0b0f8bb-87fd-4944-b1d4-fab678ad88c1</dc:identifier>
         <dc:title>Akka in Action, Second Edition</dc:title>
         <dc:creator opf:file-as="Abraham, Francisco Lopez-Sancho" opf:role="aut">Francisco Lopez-Sancho Abraham</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-06-20T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Use Akka to solve the big problems of distributed systems—from multithreading and concurrency, to handling scalability and failure. &lt;/p&gt;

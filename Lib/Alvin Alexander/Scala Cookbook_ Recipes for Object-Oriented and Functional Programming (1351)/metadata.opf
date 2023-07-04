@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2ba5133d-417a-4d2f-a6aa-fd3a3a8c9c73</dc:identifier>
         <dc:title>Scala Cookbook: Recipes for Object-Oriented and Functional Programming</dc:title>
         <dc:creator opf:file-as="Alexander, Alvin" opf:role="aut">Alvin Alexander</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-03-15T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;

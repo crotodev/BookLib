@@ -8,7 +8,7 @@
         <dc:creator opf:file-as="Cormen, Thomas H. &amp; Leiserson, Charles E. &amp; Rivest, Ronald L. &amp; Stein, Clifford" opf:role="aut">Charles E. Leiserson</dc:creator>
         <dc:creator opf:file-as="Cormen, Thomas H. &amp; Leiserson, Charles E. &amp; Rivest, Ronald L. &amp; Stein, Clifford" opf:role="aut">Ronald L. Rivest</dc:creator>
         <dc:creator opf:file-as="Cormen, Thomas H. &amp; Leiserson, Charles E. &amp; Rivest, Ronald L. &amp; Stein, Clifford" opf:role="aut">Clifford Stein</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>MIT Press</dc:publisher>
         <dc:language>en</dc:language>

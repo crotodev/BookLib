@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c201ab98-db9e-4c90-8655-c27090c8fbd2</dc:identifier>
         <dc:title>Theological Integrity</dc:title>
         <dc:creator opf:file-as="Williams, Rowan" opf:role="aut">Rowan Williams</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <dc:subject>REL-144</dc:subject>

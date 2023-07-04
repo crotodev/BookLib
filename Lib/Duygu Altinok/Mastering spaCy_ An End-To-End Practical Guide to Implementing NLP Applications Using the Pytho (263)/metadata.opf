@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">092466d0-cc17-4728-bbe6-55164e454646</dc:identifier>
         <dc:title>Mastering spaCy: An End-To-End Practical Guide to Implementing NLP Applications Using the Python Ecosystem</dc:title>
         <dc:creator opf:file-as="Altinok, Duygu" opf:role="aut">Duygu Altinok</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-07-09T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Build end-to-end industrial-strength NLP models using advanced morphological and syntactic features in spaCy to create real-world applications with ease&lt;/p&gt;

@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Tunstall, Lewis &amp; Werra, Leandro von &amp; Wolf, Thomas" opf:role="aut">Lewis Tunstall</dc:creator>
         <dc:creator opf:file-as="Tunstall, Lewis &amp; Werra, Leandro von &amp; Wolf, Thomas" opf:role="aut">Leandro von Werra</dc:creator>
         <dc:creator opf:file-as="Tunstall, Lewis &amp; Werra, Leandro von &amp; Wolf, Thomas" opf:role="aut">Thomas Wolf</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-01-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Since their introduction in 2017, transformers have quickly become the dominant architecture for achieving state-of-the-art results on a variety of natural language processing tasks. If you're a data scientist or coder, this practical book shows you how to train and scale these large models using Hugging Face Transformers, a Python-based deep learning library. &lt;/p&gt;

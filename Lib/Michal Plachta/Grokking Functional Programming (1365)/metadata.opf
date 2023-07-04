@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1a1d9497-a22c-473d-9447-a287a6703cab</dc:identifier>
         <dc:title>Grokking Functional Programming</dc:title>
         <dc:creator opf:file-as="Płachta, Michał" opf:role="aut">Michał Płachta</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;There’s no need to fear going functional! This friendly, lively, and engaging guide is perfect for any perplexed programmer. It lays out the principles of functional programming in a simple and concise way that will help you grok what FP is really all about. &lt;/p&gt;

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">41b1d7f5-420a-4d28-a56c-53769b9b73ae</dc:identifier>
         <dc:title>Website Scraping With Python: Using BeautifulSoup and Scrapy</dc:title>
         <dc:creator opf:file-as="Hajba, Gábor László" opf:role="aut">Gábor László Hajba</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-09-14T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6cd94646-904c-4ca6-b14b-f1f21b85d024</dc:identifier>
         <dc:title>Fast Python for Data Science</dc:title>
         <dc:creator opf:file-as="Antao, Tiago" opf:role="aut">Tiago Antao</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-06-25T04:00:00+00:00</dc:date>
         <dc:publisher>Manning</dc:publisher>
         <dc:identifier opf:scheme="AMAZON">1782175113</dc:identifier>

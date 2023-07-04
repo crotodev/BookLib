@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c14164ae-4a45-4a8e-b4f0-fafff191c22d</dc:identifier>
         <dc:title>Bayesian Portfolio Analysis</dc:title>
         <dc:creator opf:file-as="Doron Avramov*, Guofu Zhou" opf:role="aut">Doron Avramov*, Guofu Zhou</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <dc:subject>Annu. Rev. Fin. Econ. 2010.2:25-47</dc:subject>

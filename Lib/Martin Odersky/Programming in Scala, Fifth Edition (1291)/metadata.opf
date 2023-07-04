@@ -8,7 +8,7 @@
         <dc:creator opf:file-as="Odersky, Martin &amp; Spoon, Lex &amp; Venners, Bill &amp; Sommers, Frank" opf:role="aut">Lex Spoon</dc:creator>
         <dc:creator opf:file-as="Odersky, Martin &amp; Spoon, Lex &amp; Venners, Bill &amp; Sommers, Frank" opf:role="aut">Bill Venners</dc:creator>
         <dc:creator opf:file-as="Odersky, Martin &amp; Spoon, Lex &amp; Venners, Bill &amp; Sommers, Frank" opf:role="aut">Frank Sommers</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-02-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book emphasis on the popular language for the Java platform that blends object-oriented and functional programming concepts into a unique and powerful tool for developers. --&lt;/p&gt;&lt;/div&gt;</dc:description>

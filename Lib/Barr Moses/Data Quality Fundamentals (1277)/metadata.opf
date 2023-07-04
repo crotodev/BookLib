@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6821f2e9-0d7b-4254-8d9e-05588e9edefe</dc:identifier>
         <dc:title>Data Quality Fundamentals</dc:title>
         <dc:creator opf:file-as="Moses, Barr" opf:role="aut">Barr Moses</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-09-15T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Do your product dashboards look funky? Are your quarterly reports stale? Is the dataset you're using broken or just plain wrong? These problems affect almost every team, yet they're usually addressed on an ad hoc basis and in a reactive manner. If you answered yes to any of the questions above, this book is for you. &lt;/p&gt;

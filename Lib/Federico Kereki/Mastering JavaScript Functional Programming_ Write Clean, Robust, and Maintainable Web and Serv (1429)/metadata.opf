@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">e6ecf6fd-1e75-4eb5-aad6-abb0118c9f7e</dc:identifier>
         <dc:title>Mastering JavaScript Functional Programming: Write Clean, Robust, and Maintainable Web and Server Code Using Functional JavaScript and TypeScript</dc:title>
         <dc:creator opf:file-as="Kereki, Federico" opf:role="aut">Federico Kereki</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-04-28T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Apply functional programming techniques to write testable terser code for frontend and backend development with improved clarity, concurrency, and performancePurchase of the print or Kindle book includes a free PDF eBookKey FeaturesApply functional programming concepts and techniques to everyday JavaScript or TypeScript programmingMaster functional programming in JavaScript and TypeScript to solve real-world development problemsApply functional programming to get better testable programs with higher modularity and reusabilityBook DescriptionFunctional programming is a programming paradigm that uses functions for developing software. This book is filled with examples that enable you to leverage the latest JavaScript and TypeScript versions to produce modern and clean code, as well as teach you to how apply functional programming techniques to develop more efficient algorithms, write more concise code, and simplify unit testing. &lt;/p&gt;
@@ -22,7 +22,7 @@
         <dc:subject>Web</dc:subject>
         <dc:subject>General</dc:subject>
         <dc:subject>Programming</dc:subject>
-        <meta name="calibre:timestamp" content="2023-06-02T03:08:42.780738+00:00"/>
+        <meta name="calibre:timestamp" content="2023-06-02T03:08:42+00:00"/>
         <meta name="calibre:title_sort" content="Mastering JavaScript Functional Programming: Write Clean, Robust, and Maintainable Web and Server Code Using Functional JavaScript and TypeScript"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

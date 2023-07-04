@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">bbd15f45-130b-41a9-bb65-9978a6a783d8</dc:identifier>
         <dc:title>Dei Verbum</dc:title>
         <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <dc:subject>REL-144</dc:subject>

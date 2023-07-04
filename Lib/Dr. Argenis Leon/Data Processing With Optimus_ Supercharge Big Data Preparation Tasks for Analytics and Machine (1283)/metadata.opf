@@ -6,7 +6,7 @@
         <dc:title>Data Processing With Optimus: Supercharge Big Data Preparation Tasks for Analytics and Machine Learning With Optimus Using Dask and PySpark</dc:title>
         <dc:creator opf:file-as="Leon, Argenis &amp; Aguirre, Luis" opf:role="aut">Dr. Argenis Leon</dc:creator>
         <dc:creator opf:file-as="Leon, Argenis &amp; Aguirre, Luis" opf:role="aut">Luis Aguirre</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-09-03T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Written by the core Optimus team, this comprehensive guide will help you to understand how Optimus improves the whole data processing landscapeKey FeaturesLoad, merge, and save small and big data efficiently with OptimusLearn Optimus functions for data analytics, feature engineering, machine learning, cross-validation, and NLPDiscover how Optimus improves other data frame technologies and helps you speed up your data processing tasksBook DescriptionOptimus is a Python library that works as a unified API for data cleaning, processing, and merging data. It can be used for handling small and big data on your local laptop or on remote clusters using CPUs or GPUs. &lt;/p&gt;

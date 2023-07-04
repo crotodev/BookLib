@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">cfaae942-216a-443f-93e1-dc4e987fd065</dc:identifier>
         <dc:title>Reactive Streams in Java: Concurrency With RxJava, Reactor, and Akka Streams</dc:title>
         <dc:creator opf:file-as="Davis, Adam L." opf:role="aut">Adam L. Davis</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-11-29T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;

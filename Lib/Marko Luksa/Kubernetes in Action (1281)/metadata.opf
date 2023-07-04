@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">450de23d-b168-4217-a96a-2049cb96cc02</dc:identifier>
         <dc:title>Kubernetes in Action</dc:title>
         <dc:creator opf:file-as="Luksa, Marko" opf:role="aut">Marko Luksa</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-01-20T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;

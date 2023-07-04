@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">0d98fad5-8d41-460f-ab72-a155fac3647d</dc:identifier>
         <dc:title>Functional Programming in Go: Apply Functional Techniques in Golang to Improve the Testability, Readability, and Security of Your Code</dc:title>
         <dc:creator opf:file-as="Meeus, Dylan" opf:role="aut">Dylan Meeus</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-03-10T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Leverage core functional programming (FP) concepts to write more maintainable and testable code in Go&lt;/p&gt;

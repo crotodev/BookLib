@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">25e83d65-53d7-4ae1-9df9-b547a037477a</dc:identifier>
         <dc:title>Real-Time Analytics</dc:title>
         <dc:creator opf:file-as="Ellis, Byron" opf:role="aut">Byron Ellis</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-06-19T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;strong&gt;Construct a robust end-to-end solution for analyzing and visualizing streaming data&lt;/strong&gt; Real-time analytics is the hottest topic in data analytics today. In &lt;em&gt;Real-Time Analytics: Techniques to Analyze and Visualize Streaming Data&lt;/em&gt; , expert Byron Ellis teaches data analysts technologies to build an effective real-time analytics platform. This platform can then be used to make sense of the constantly changing data that is beginning to outpace traditional batch-based analysis platforms. &lt;/p&gt;

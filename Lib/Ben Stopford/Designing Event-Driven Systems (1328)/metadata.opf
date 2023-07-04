@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">542229e5-8e97-47ff-8369-76d35183087a</dc:identifier>
         <dc:title>Designing Event-Driven Systems</dc:title>
         <dc:creator opf:file-as="Stopford, Ben" opf:role="aut">Ben Stopford</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-03-15T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Many forces affect software today: larger datasets, geographical disparities, complex company structures, and the growing need to be fast and nimble in the face of change. Proven approaches such as service-oriented and event-driven architectures are joined by newer techniques such as microservices, reactive architectures, DevOps, and stream processing. Many of these patterns are successful by themselves, but as this practical ebook demonstrates, they provide a more holistic and compelling approach when applied together. Author Ben Stopford explains how service-based architectures and stream processing tools such as Apache Kafka can help you build business-critical systems. You'll learn how to apply patterns including Event Sourcing and CQRS, and how to build multi-team systems with microservices and SOA using patterns such as "inside out databases" and "event streams as a source of truth. &lt;/p&gt;

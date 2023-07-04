@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7fac0ca7-1951-4a4a-8f5d-be5cb9c6b73d</dc:identifier>
         <dc:title>Docker Deep Dive: Harness the Full Potential of Your Applications With Docker</dc:title>
         <dc:creator opf:file-as="Poulton, Nigel" opf:role="aut">Nigel Poulton</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-10-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Start from scratch and develop the essential skills needed to create, deploy, and manage cloud-native applications using DockerKey Features* Get a solid understanding of Docker and containers* Overcome common problems while containerizing an application* Master Docker commands needed for creating, deploying, and running applicationsBook DescriptionMost applications, even the funky cloud-native microservices ones, need high-performance, production-grade infrastructure to run on. Having impeccable knowledge of Docker will help you to thrive in the modern cloud-first world. With this book, you'll gain the skills you need to work with Docker and its containers. &lt;/p&gt;

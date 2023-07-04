@@ -6,7 +6,7 @@
         <dc:title>The ANSI C Programming Language</dc:title>
         <dc:creator opf:file-as="Kernighan, Brian W &amp; Ritchie, Dennis M" opf:role="aut">Brian W Kernighan</dc:creator>
         <dc:creator opf:file-as="Kernighan, Brian W &amp; Ritchie, Dennis M" opf:role="aut">Dennis M Ritchie</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <dc:subject>Programming</dc:subject>

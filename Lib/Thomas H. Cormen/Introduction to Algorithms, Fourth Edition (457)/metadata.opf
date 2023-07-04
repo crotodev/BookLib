@@ -8,7 +8,7 @@
         <dc:creator opf:file-as="Cormen, Thomas H. &amp; Leiserson, Charles E. &amp; Rivest, Ronald L. &amp; Stein, Clifford" opf:role="aut">Charles E. Leiserson</dc:creator>
         <dc:creator opf:file-as="Cormen, Thomas H. &amp; Leiserson, Charles E. &amp; Rivest, Ronald L. &amp; Stein, Clifford" opf:role="aut">Ronald L. Rivest</dc:creator>
         <dc:creator opf:file-as="Cormen, Thomas H. &amp; Leiserson, Charles E. &amp; Rivest, Ronald L. &amp; Stein, Clifford" opf:role="aut">Clifford Stein</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-04-05T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A comprehensive update of the leading algorithms text, with new material on matchings in bipartite graphs, online algorithms, machine learning, and other topics. &lt;/p&gt;

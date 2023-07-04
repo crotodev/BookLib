@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Roestenburg, Raymond &amp; Bakker, Rob &amp; Williams, Rob" opf:role="aut">Raymond Roestenburg</dc:creator>
         <dc:creator opf:file-as="Roestenburg, Raymond &amp; Bakker, Rob &amp; Williams, Rob" opf:role="aut">Rob Bakker</dc:creator>
         <dc:creator opf:file-as="Roestenburg, Raymond &amp; Bakker, Rob &amp; Williams, Rob" opf:role="aut">Rob Williams</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-01-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;SummaryAkka in Action is a comprehensive tutorial on building message-oriented systems using Akka. The book takes a hands-on approach, where each new concept is followed by an example that shows you how it works, how to implement the code, and how to (unit) test it. &lt;/p&gt;

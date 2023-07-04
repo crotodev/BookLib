@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c5616804-cda2-4586-b362-4e38a4da14e9</dc:identifier>
         <dc:title>Using Asyncio in Python: Understanding Python's Asynchronous Programming Features</dc:title>
         <dc:creator opf:file-as="Hattingh, Caleb" opf:role="aut">Caleb Hattingh</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-01-30T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;If you’re among the Python developers put off by asyncio’s complexity, it’s time to take another look. Asyncio is complicated because it aims to solve problems in concurrent network programming for both framework and end-user developers. The features you need to consider are a small subset of the whole asyncio API, but picking out the right features is the tricky part. That’s where this practical book comes in. &lt;/p&gt;

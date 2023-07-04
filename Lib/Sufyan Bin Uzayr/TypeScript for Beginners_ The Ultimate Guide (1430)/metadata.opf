@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">110827e4-754d-4cf2-9a72-47723cbcf906</dc:identifier>
         <dc:title>TypeScript for Beginners: The Ultimate Guide</dc:title>
         <dc:creator opf:file-as="Uzayr, Sufyan Bin" opf:role="aut">Sufyan Bin Uzayr</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-03-23T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Of late, TypeScript has risen in popularity owing to its ease of use and versatile compatibility. As such, more and more developers are looking to quickly and efficiently master TypeScript. If you’re looking for a detailed, yet easy to comprehend guide to TypeScript, your search ends here! &lt;/p&gt;
@@ -30,12 +30,12 @@
 &lt;p&gt;Sufyan is a digital nomad, dividing his time between four countries. He has lived and taught in universities and educational institutions around the globe. Sufyan takes a keen interest in technology, politics, literature, history and sports, and in his spare time, he enjoys teaching coding and English to young students.&lt;/p&gt;
 &lt;p&gt;Learn more at sufyanism.com &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>CRC Press</dc:publisher>
-        <dc:identifier opf:scheme="DOI">9781032067582</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9781000539967</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B09QRRV9G2</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1140067243</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">117075845</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">P-lZEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09QRRV9G2</dc:identifier>
+        <dc:identifier opf:scheme="DOI">9781032067582</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781000539967</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Languages</dc:subject>
@@ -71,7 +71,7 @@
         <dc:subject>React</dc:subject>
         <meta name="calibre:series" content="The Ultimate Guide"/>
         <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2023-06-02T03:09:18.165289+00:00"/>
+        <meta name="calibre:timestamp" content="2023-06-02T03:09:18+00:00"/>
         <meta name="calibre:title_sort" content="TypeScript for Beginners: The Ultimate Guide"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

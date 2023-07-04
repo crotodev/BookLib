@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d9ee85d3-4644-4e3d-9b5b-f0db234caabc</dc:identifier>
         <dc:title>Software Development With Go: Cloud-Native Programming Using Golang With Linux and Docker</dc:title>
         <dc:creator opf:file-as="Tolaram, Nanik" opf:role="aut">Nanik Tolaram</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-12-29T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Gain insights into the different challenges that can be solved using Go, with a focus on containers, Linux, security, networking, user interfaces and other relevant cloud based topics. This book reviews the necessary tools to create container-based cloud solutions with Go, a programming language that was born out of the need to address scalable, high availability cloud computing architecture needs inside Google. &lt;/p&gt;

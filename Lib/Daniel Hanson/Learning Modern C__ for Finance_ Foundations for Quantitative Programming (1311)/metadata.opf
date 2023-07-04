@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">53e8c5fa-ecfc-4a78-a091-31e2d122e335</dc:identifier>
         <dc:title>Learning Modern C++ for Finance: Foundations for Quantitative Programming</dc:title>
         <dc:creator opf:file-as="Hanson, Daniel" opf:role="aut">Daniel Hanson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-04-04T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A lot of financial modeling has gravitated toward Python, R, and VBA, but many developers hit a wall with these languages when it comes to performance. This practical book demonstrates why C++ is still one of the dominant production-quality languages for financial applications and systems. Many programmers believe that C++ is too difficult to learn. Author Daniel Hanson demonstrates that this is no longer the case. &lt;/p&gt;

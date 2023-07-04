@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">4725ddfe-b7bb-42c2-a4b8-16a6d94eff16</dc:identifier>
         <dc:title>Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging</dc:title>
         <dc:creator opf:file-as="Yves Hilpisch" opf:role="aut">Yves Hilpisch</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-10-03T00:00:00+00:00</dc:date>
         <dc:publisher>John Wiley &amp; Sons</dc:publisher>
         <dc:language>eng</dc:language>

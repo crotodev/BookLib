@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">af721dff-1f17-41dd-8406-5275773bb0a1</dc:identifier>
         <dc:title>Quantitative Trading With R: Understanding Mathematical and Computational Tools From a Quant's Perspective</dc:title>
         <dc:creator opf:file-as="Georgakopoulos, Harry" opf:role="aut">Harry Georgakopoulos</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-01-06T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Quantitative Trading with R offers readers a glimpse into the daily activities of quants/traders who deal with financial data analysis and the formulation of model-driven trading strategies. &lt;/p&gt;

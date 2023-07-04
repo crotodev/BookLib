@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a89763f8-befa-4dd8-8198-f6405e04184b</dc:identifier>
         <dc:title>An Equilibrium Characterization of the Term Structure</dc:title>
         <dc:creator opf:file-as="Vasicek, Oldrich" opf:role="aut">Oldrich Vasicek</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <dc:subject>Quantitative Finance</dc:subject>

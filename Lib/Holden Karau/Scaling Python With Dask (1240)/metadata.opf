@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">e5dbd0f6-69ae-41b8-a5b9-14f1e4736037</dc:identifier>
         <dc:title>Scaling Python With Dask</dc:title>
         <dc:creator opf:file-as="Karau, Holden" opf:role="aut">Holden Karau</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-02-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Modern systems contain multicore CPUs and GPUs that have the potential for parallel computing. But many scientific Python tools were not designed to leverage this parallelism. With this short but thorough resource, data scientists and Python programmers will learn how the Dask open source library for parallel computing provides APIs that make it easy to parallelize PyData libraries including NumPy, pandas, and scikit-learn. Author Holden Karau shows you how to use Dask computations in local systems and then scale to the cloud for heavier workloads. This practical book explains why Dask is popular among industry experts and academics and is used by organizations that include Walmart, Capital One, Harvard Medical School, and NASA. With this book, you'll learn: What Dask is, where you can use it, and how it compares with other tools How to use Dask for batch data parallel processing Key distributed system concepts for working with Dask Methods for using Dask with higher-level APIs and building blocks How to work with integrated libraries such as scikit-learn, pandas, and PyTorch How to use Dask with GPUs.&lt;/p&gt;&lt;/div&gt;</dc:description>

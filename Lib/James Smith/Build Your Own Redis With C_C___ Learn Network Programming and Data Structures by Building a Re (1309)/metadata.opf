@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f7b804cb-71d4-4003-a59f-0e1b453a049b</dc:identifier>
         <dc:title>Build Your Own Redis With C/C++: Learn Network Programming and Data Structures by Building a Redis-Like Server From Scratch With C/C++.</dc:title>
         <dc:creator opf:file-as="Smith, James" opf:role="aut">James Smith</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-01-24T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Learn network programming and data structures by building a Redis-like server from scratch with C/C++.&lt;/p&gt;

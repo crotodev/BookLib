@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8935f171-e271-4918-aab1-fb838eec727f</dc:identifier>
         <dc:title>Scala in Action</dc:title>
         <dc:creator opf:file-as="Raychaudhuri, Nilanjan" opf:role="aut">Nilanjan Raychaudhuri</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-04-08T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Summary &lt;/p&gt;

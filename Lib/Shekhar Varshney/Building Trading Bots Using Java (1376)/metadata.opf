@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3a9d1315-98dc-4d56-aaaf-648e36588291</dc:identifier>
         <dc:title>Building Trading Bots Using Java</dc:title>
         <dc:creator opf:file-as="Varshney, Shekhar" opf:role="aut">Shekhar Varshney</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-12-08T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Build an automated currency trading bot from scratch with java. In this book, you will learn about the nitty-gritty of automated trading and have a closer look at Java, the Spring Framework, event-driven programming, and other open source APIs, notably Google's Guava API. And of course, development will all be test-driven with unit testing coverage. &lt;/p&gt;

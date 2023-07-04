@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">024a1782-b96d-44bc-a0b8-4ad8d7482837</dc:identifier>
         <dc:title>Hands-On Data Analysis With Pandas - Second Edition: A Python Data Science Handbook for Data Collection, Wrangling, Analysis, and Visualization</dc:title>
         <dc:creator opf:file-as="Molin, Stefanie" opf:role="aut">Stefanie Molin</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-04-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Get to grips with pandas - a fast, versatile, and high-performance Python library for data discovery, data manipulation, data preparation, and handling data for analytical tasksKey Features: Perform efficient data analysis and manipulation tasks using pandas 1.xApply pandas to different real-world domains with the help of step-by-step examplesBecome well-versed in using pandas as an effective data exploration toolBook Description: Data analysis has become an essential skill in a variety of domains where knowing how to work with data and extract insights can generate significant value. Hands-On Data Analysis with Pandas will show you how to analyze your data, get started with machine learning, and work effectively with the Python libraries often used for data science, such as pandas, NumPy, matplotlib, seaborn, and scikit-learn. &lt;/p&gt;

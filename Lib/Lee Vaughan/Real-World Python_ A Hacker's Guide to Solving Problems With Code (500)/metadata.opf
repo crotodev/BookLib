@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1058629f-1234-421e-9580-0e95c7282acf</dc:identifier>
         <dc:title>Real-World Python: A Hacker's Guide to Solving Problems With Code</dc:title>
         <dc:creator opf:file-as="Vaughan, Lee" opf:role="aut">Lee Vaughan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-11-05T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;A project-based approach to learning Python programming for beginners. Intriguing projects teach you how to tackle challenging problems with code. &lt;/p&gt;

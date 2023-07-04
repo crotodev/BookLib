@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8958b530-fdbf-4eb8-8795-b216e6174fad</dc:identifier>
         <dc:title>Distributed Computing With Python</dc:title>
         <dc:creator opf:file-as="Pierfederici, Francesco" opf:role="aut">Francesco Pierfederici</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-04-11T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;

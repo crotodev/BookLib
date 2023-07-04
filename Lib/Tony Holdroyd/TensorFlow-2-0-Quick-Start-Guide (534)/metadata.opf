@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7020137a-28e0-4c59-8d76-6391235ab7e0</dc:identifier>
         <dc:title>TensorFlow-2-0-Quick-Start-Guide</dc:title>
         <dc:creator opf:file-as="Holdroyd, Tony" opf:role="aut">Tony Holdroyd</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-03-28T14:24:11+00:00</dc:date>
         <dc:language>en</dc:language>
         <dc:subject>Deep Learning</dc:subject>

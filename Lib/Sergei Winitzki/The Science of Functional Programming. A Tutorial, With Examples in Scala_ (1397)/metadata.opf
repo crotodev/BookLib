@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">740c3625-cba5-4ada-8123-4ae7d46ee9cc</dc:identifier>
         <dc:title>The Science of Functional Programming. A Tutorial, With Examples in Scala.</dc:title>
         <dc:creator opf:file-as="Winitzki, Sergei" opf:role="aut">Sergei Winitzki</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book is a pedagogical in-depth tutorial and reference on the theory of functional programming (FP) as practiced in the early 21st century. Starting from issues found in practical coding, the book builds up the theoretical intuition, knowledge, and techniques that programmers need for rigorous reasoning about types and code. Examples are given in Scala, but most of the material applies equally to other FP languages.&lt;/p&gt;&lt;/div&gt;</dc:description>

@@ -8,7 +8,7 @@
         <dc:creator opf:file-as="Raschka, Sebastian &amp; Liu, Yuxi &amp; Mirjalili, Vahid &amp; Dzhulgakov, Dmytro" opf:role="aut">Yuxi (hayden) Liu</dc:creator>
         <dc:creator opf:file-as="Raschka, Sebastian &amp; Liu, Yuxi &amp; Mirjalili, Vahid &amp; Dzhulgakov, Dmytro" opf:role="aut">Vahid Mirjalili</dc:creator>
         <dc:creator opf:file-as="Raschka, Sebastian &amp; Liu, Yuxi &amp; Mirjalili, Vahid &amp; Dzhulgakov, Dmytro" opf:role="aut">Dmytro Dzhulgakov</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-02-25T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book of the bestselling and widely acclaimed Python Machine Learning series is a comprehensive guide to machine and deep learning using PyTorch's simple to code framework. &lt;/p&gt;

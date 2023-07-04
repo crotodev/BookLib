@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">37a6a13e-2607-4081-be8e-c8e9fece7676</dc:identifier>
         <dc:title>Data Structures and Algorithms With Scala: A Practitioner's Approach With Emphasis on Functional Programming</dc:title>
         <dc:creator opf:file-as="Upadhyaya, Bhim P." opf:role="aut">Bhim P. Upadhyaya</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-26T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This practically-focused textbook presents a concise tutorial on data structures and algorithms using the object-functional language Scala. The material builds upon the foundation established in the title &lt;em&gt;Programming with Scala: Language Exploration&lt;/em&gt; by the same author, which can be treated as a companion text for those less familiar with Scala.&lt;/p&gt;

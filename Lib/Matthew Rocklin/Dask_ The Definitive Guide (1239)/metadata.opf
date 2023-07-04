@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Rocklin, Matthew &amp; Powers, Matthew &amp; Pelgrim, Richard" opf:role="aut">Matthew Rocklin</dc:creator>
         <dc:creator opf:file-as="Rocklin, Matthew &amp; Powers, Matthew &amp; Pelgrim, Richard" opf:role="aut">Matthew Powers</dc:creator>
         <dc:creator opf:file-as="Rocklin, Matthew &amp; Powers, Matthew &amp; Pelgrim, Richard" opf:role="aut">Richard Pelgrim</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-02-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The exponentially-increasing volume and complexity of data make scalability and reliability increasingly challenging issues. But while modern systems contain multi-core CPUs and GPUs that have the potential for parallel computing, many Python tools weren't designed to leverage this parallelism. Using Dask to parallelize Python workflows delivers a competitive advantage by reducing turn-around time, freeing you to work on more interesting or complex data problems.&lt;/p&gt;&lt;/div&gt;</dc:description>

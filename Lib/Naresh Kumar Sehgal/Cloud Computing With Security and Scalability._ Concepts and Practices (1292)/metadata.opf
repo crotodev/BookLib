@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Sehgal, Naresh Kumar &amp; Bhatt, Pramod Chandra P. &amp; Acken, John M." opf:role="aut">Naresh Kumar Sehgal</dc:creator>
         <dc:creator opf:file-as="Sehgal, Naresh Kumar &amp; Bhatt, Pramod Chandra P. &amp; Acken, John M." opf:role="aut">Pramod Chandra P. Bhatt</dc:creator>
         <dc:creator opf:file-as="Sehgal, Naresh Kumar &amp; Bhatt, Pramod Chandra P. &amp; Acken, John M." opf:role="aut">John M. Acken</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-09-03T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book provides readers with an overview of Cloud Computing, starting with historical background on mainframe computers and early networking protocols, leading to current concerns such as hardware and systems security, performance, emerging areas of IoT, Edge Computing, and healthcare etc. Readers will benefit from the in-depth discussion of cloud computing usage and the underlying architectures. The authors explain carefully the “why’s and how’s” of Cloud Computing, so engineers will find this book an invaluable source of information to the topic. This third edition includes new material on Cloud Computing Scalability, as well as best practices for using dynamic cloud infrastructure, and cloud operations management with cost optimizations. Several new examples and analysis of cloud security have been added, including ARM architecture and https protocol.&lt;/p&gt;

@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Kakarla, Ramcharan &amp; Krishnan, Sundar &amp; Alla, Sridhar" opf:role="aut">Ramcharan Kakarla</dc:creator>
         <dc:creator opf:file-as="Kakarla, Ramcharan &amp; Krishnan, Sundar &amp; Alla, Sridhar" opf:role="aut">Sundar Krishnan</dc:creator>
         <dc:creator opf:file-as="Kakarla, Ramcharan &amp; Krishnan, Sundar &amp; Alla, Sridhar" opf:role="aut">Sridhar Alla</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-12-18T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Discover the capabilities of PySpark and its application in the realm of data science. This comprehensive guide with hand-picked examples of daily use cases will walk you through the end-to-end predictive model-building cycle with the latest techniques and tricks of the trade. &lt;/p&gt;

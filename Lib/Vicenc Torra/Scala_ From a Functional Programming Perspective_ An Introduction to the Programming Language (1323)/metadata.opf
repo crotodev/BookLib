@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">4497bb85-5cee-48a4-9320-4c4844da7ee7</dc:identifier>
         <dc:title>Scala: From a Functional Programming Perspective: An Introduction to the Programming Language</dc:title>
         <dc:creator opf:file-as="Torra, Vicenç" opf:role="aut">Vicenç Torra</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-09-20T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book gives an introduction to the programming language Scala. It presents it from a functional programming perspective. The book explains with detail functional programming and recursivity, and includes chapters on lazy and eager evaluation, streams, higher-order functions (including map, fold, reduce, and aggregate), and algebraic data types. The book also describes the object-oriented aspects of Scala, as they are a fundamental part of the language. In addition, the book includes a chapter on parallelism in Scala, giving an overview of the actor model.&lt;/p&gt;&lt;/div&gt;</dc:description>

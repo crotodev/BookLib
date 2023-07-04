@@ -6,7 +6,7 @@
         <dc:title>Pro Git</dc:title>
         <dc:creator opf:file-as="Chacon, Scott &amp; Straub, Ben" opf:role="aut">Scott Chacon</dc:creator>
         <dc:creator opf:file-as="Chacon, Scott &amp; Straub, Ben" opf:role="aut">Ben Straub</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-11-09T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;em&gt;Pro Git (Second Edition)&lt;/em&gt; is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro. &lt;/p&gt;

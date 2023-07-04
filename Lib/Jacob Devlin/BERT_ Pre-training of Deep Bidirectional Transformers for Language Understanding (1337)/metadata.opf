@@ -8,7 +8,7 @@
         <dc:creator opf:file-as="Devlin, Jacob &amp; Chang, Ming-Wei &amp; Lee, Kenton &amp; Toutanova, Kristina" opf:role="aut">Ming-Wei Chang</dc:creator>
         <dc:creator opf:file-as="Devlin, Jacob &amp; Chang, Ming-Wei &amp; Lee, Kenton &amp; Toutanova, Kristina" opf:role="aut">Kenton Lee</dc:creator>
         <dc:creator opf:file-as="Devlin, Jacob &amp; Chang, Ming-Wei &amp; Lee, Kenton &amp; Toutanova, Kristina" opf:role="aut">Kristina Toutanova</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <dc:subject>Deep Learning</dc:subject>

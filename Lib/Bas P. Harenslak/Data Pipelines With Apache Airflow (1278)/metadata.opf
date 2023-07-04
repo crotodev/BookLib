@@ -6,7 +6,7 @@
         <dc:title>Data Pipelines With Apache Airflow</dc:title>
         <dc:creator opf:file-as="Harenslak, Bas P. &amp; Ruiter, Julian de" opf:role="aut">Bas P. Harenslak</dc:creator>
         <dc:creator opf:file-as="Harenslak, Bas P. &amp; Ruiter, Julian de" opf:role="aut">Julian de Ruiter</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-04-27T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Data Pipelines with Apache Airflow teaches you how to build and maintain effective data pipelines. &lt;/p&gt;

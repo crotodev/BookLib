@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Bengfort, Benjamin &amp; Bilbro, Rebecca &amp; Ojeda, Tony" opf:role="aut">Benjamin Bengfort</dc:creator>
         <dc:creator opf:file-as="Bengfort, Benjamin &amp; Bilbro, Rebecca &amp; Ojeda, Tony" opf:role="aut">Rebecca Bilbro</dc:creator>
         <dc:creator opf:file-as="Bengfort, Benjamin &amp; Bilbro, Rebecca &amp; Ojeda, Tony" opf:role="aut">Tony Ojeda</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-06-11T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;From news and speeches to informal chatter on social media, natural language is one of the richest and most underutilized sources of data. Not only does it come in a constant stream, always changing and adapting in context; it also contains information that is not conveyed by traditional data sources. The key to unlocking natural language is through the creative application of text analytics. This practical book presents a data scientist’s approach to building language-aware products with applied machine learning. &lt;/p&gt;

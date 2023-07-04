@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6920179a-ed58-4fbb-81dc-1f6ebd538137</dc:identifier>
         <dc:title>The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future</dc:title>
         <dc:creator opf:file-as="Guillebeau, Chris" opf:role="aut">Chris Guillebeau</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-05-08T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;strong&gt;Lead a life of adventure, meaning and purpose—&lt;/strong&gt; and &lt;strong&gt;earn a good living.&lt;/strong&gt; &lt;/p&gt;
@@ -77,16 +77,16 @@
 &lt;p&gt;Next, I wanted to look at businesses started by people all over the world. About half of our stories come from the United States, and half come from the rest of the world. From Silicon Valley to Atlanta, the U.S. is a hub for entrepreneurship, both in terms of values and ease of startup. But as we’ll see, people from all over the world are creating their own microbusinesses, sometimes following the U.S. model and other times doing it independently. &lt;/p&gt;
 &lt;p&gt;Finally, in making the last selections for the studies presented here, I had a bias toward “interesting” stories. Not every business needs to be sexy or trendworthy—in fact, many of the ones here aren’t—but I liked stories that highlighted originality and creativity. Two years ago in Minneapolis, Lisa Sellman attracted my attention by telling me about her dog care business. At first, I didn’t think much of it. How profitable could a dog care business be? But then Lisa told me how much money she made: $88,000 the previous year and on track to clear six figures the next. All of a sudden I was interested. How did Lisa do it?.?.?.?and what lessons could we learn from her?&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Crown</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780307951526</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">0307951529</dc:identifier>
-        <dc:identifier opf:scheme="BARNESNOBLE">1110776519</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">13530874</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">LLQ2AC66ZLEC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0307951529</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780307951526</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">13530874</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1110776519</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business</dc:subject>
         <dc:subject>Self Help</dc:subject>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-06-02T03:08:10.768209+00:00"/>
+        <meta name="calibre:timestamp" content="2023-06-02T03:08:10+00:00"/>
         <meta name="calibre:title_sort" content="$100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future, The"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

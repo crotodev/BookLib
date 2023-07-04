@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">65b9093c-777c-45c0-9ef6-60d92a18bcb5</dc:identifier>
         <dc:title>AWS Automation Cookbook: Continuous Integration and Continuous Deployment Using AWS Services</dc:title>
         <dc:creator opf:file-as="Swaraj, Nikit" opf:role="aut">Nikit Swaraj</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-11-24T05:00:00+00:00</dc:date>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:identifier opf:scheme="GOODREADS">37545118</dc:identifier>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1b4e07bf-da56-4df6-9f1d-cda6462de5b1</dc:identifier>
         <dc:title>Cloud Native Python</dc:title>
         <dc:creator opf:file-as="Sethi, Manish" opf:role="aut">Manish Sethi</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-07-21T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;

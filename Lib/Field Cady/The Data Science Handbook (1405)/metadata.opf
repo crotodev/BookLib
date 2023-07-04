@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a2610b67-13b7-4864-b602-2306c1f1e0cd</dc:identifier>
         <dc:title>The Data Science Handbook</dc:title>
         <dc:creator opf:file-as="Cady, Field" opf:role="aut">Field Cady</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-02-17T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;A comprehensive overview of data science covering the analytics, programming, and business skills necessary to master the discipline&lt;/p&gt;

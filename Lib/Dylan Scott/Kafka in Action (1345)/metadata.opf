@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Scott, Dylan &amp; Gamov, Viktor &amp; Klein, Dave" opf:role="aut">Dylan Scott</dc:creator>
         <dc:creator opf:file-as="Scott, Dylan &amp; Gamov, Viktor &amp; Klein, Dave" opf:role="aut">Viktor Gamov</dc:creator>
         <dc:creator opf:file-as="Scott, Dylan &amp; Gamov, Viktor &amp; Klein, Dave" opf:role="aut">Dave Klein</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-02-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Master the wicked-fast Apache Kafka streaming platform through hands-on examples and real-world projects. &lt;/p&gt;

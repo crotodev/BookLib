@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c94e3d60-afde-4ed6-889d-08f07c423436</dc:identifier>
         <dc:title>Akka Concurrency</dc:title>
         <dc:creator opf:file-as="Wyatt, Derek" opf:role="aut">Derek Wyatt</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-02-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;

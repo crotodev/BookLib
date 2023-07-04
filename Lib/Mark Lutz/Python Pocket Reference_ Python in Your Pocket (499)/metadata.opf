@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">0028159f-12fd-4be0-8ba5-3b12563859c3</dc:identifier>
         <dc:title>Python Pocket Reference: Python in Your Pocket</dc:title>
         <dc:creator opf:file-as="Lutz, Mark" opf:role="aut">Mark Lutz</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-01-22T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Updated for both Python 3.4 and 2.7, this convenient pocket guide is the perfect on-the-job quick reference. Youâ??ll find concise, need-to-know information on Python types and statements, special method names, built-in functions and exceptions, commonly used standard library modules, and other prominent Python tools. The handy index lets you pinpoint exactly what you need. &lt;/p&gt;

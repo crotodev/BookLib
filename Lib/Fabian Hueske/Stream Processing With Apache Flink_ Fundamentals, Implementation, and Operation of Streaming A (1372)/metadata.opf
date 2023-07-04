@@ -6,7 +6,7 @@
         <dc:title>Stream Processing With Apache Flink: Fundamentals, Implementation, and Operation of Streaming Applications</dc:title>
         <dc:creator opf:file-as="Hueske, Fabian &amp; Kalavri, Vasiliki" opf:role="aut">Fabian Hueske</dc:creator>
         <dc:creator opf:file-as="Hueske, Fabian &amp; Kalavri, Vasiliki" opf:role="aut">Vasiliki Kalavri</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-04-11T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Get started with Apache Flink, the open source framework that powers some of the world’s largest stream processing applications. With this practical book, you’ll explore the fundamental concepts of parallel stream processing and discover how this technology differs from traditional batch data processing. &lt;/p&gt;

@@ -6,7 +6,7 @@
         <dc:title>Introducing GitHub: A Non-Technical Guide</dc:title>
         <dc:creator opf:file-as="Bell, Peter &amp; Beer, Brent" opf:role="aut">Peter Bell</dc:creator>
         <dc:creator opf:file-as="Bell, Peter &amp; Beer, Brent" opf:role="aut">Brent Beer</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-11-11T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;If you’re new to GitHub, this concise book shows you just what you need to get started and no more. It’s perfect for project and product managers, stakeholders, and other team members who want to collaborate on a development project—whether it’s to review and comment on work in progress or to contribute specific changes. It’s also great for developers just learning GitHub. &lt;/p&gt;

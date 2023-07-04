@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">84f2726a-319d-402b-93ba-55d62b1ba345</dc:identifier>
         <dc:title>Time Series Algorithms Recipes: Implement Machine Learning and Deep Learning Techniques With Python</dc:title>
         <dc:creator opf:file-as="Kulkarni, Akshay R" opf:role="aut">Akshay R Kulkarni</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-12-16T18:05:08+00:00</dc:date>
         <dc:identifier opf:scheme="ISBN">9781484289778</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">75523774</dc:identifier>

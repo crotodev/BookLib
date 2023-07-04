@@ -6,7 +6,7 @@
         <dc:title>Natural Language Processing Recipes: Unlocking Text Data With Machine Learning and Deep Learning Using Python</dc:title>
         <dc:creator opf:file-as="Kulkarni, Akshay &amp; Shivananda, Adarsha" opf:role="aut">Akshay Kulkarni</dc:creator>
         <dc:creator opf:file-as="Kulkarni, Akshay &amp; Shivananda, Adarsha" opf:role="aut">Adarsha Shivananda</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-01-29T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Implement natural language processing applications with Python using a problem-solution approach. This book has numerous coding exercises that will help you to quickly deploy natural language processing techniques, such as text classification, parts of speech identification, topic modeling, text summarization, text generation, entity extraction, and sentiment analysis. Natural Language Processing Recipes starts by offering solutions for cleaning and preprocessing text data and ways to analyze it with advanced algorithms. You’ll see practical applications of the semantic as well as syntactic analysis of text, as well as complex natural language processing approaches that involve text normalization, advanced preprocessing, POS tagging, and sentiment analysis. You will also learn various applications of machine learning and deep learning in natural language processing. &lt;/p&gt;

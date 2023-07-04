@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6b9d65b9-8be5-4a2c-abbc-84dd5fce4d26</dc:identifier>
         <dc:title>Advanced Forecasting with Python: With State-of-the-Art-Models Including LSTMs, Facebook’s Prophet, and Amazon’s DeepAR</dc:title>
         <dc:creator opf:file-as="Korstanje, Joos" opf:role="aut">Joos Korstanje</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>Apress</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781484271506</dc:identifier>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">bfddf4dc-a495-4ebe-9600-cd2915559db4</dc:identifier>
         <dc:title>The Well-Grounded Python Developer MEAP V05</dc:title>
         <dc:creator opf:file-as="Farrell, Doug" opf:role="aut">Doug Farrell</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-08-29T00:00:24+00:00</dc:date>
         <dc:description>MEAP Version 5</dc:description>
         <dc:publisher>Manning</dc:publisher>

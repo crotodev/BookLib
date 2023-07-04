@@ -6,7 +6,7 @@
         <dc:title>Java 17 Recipes: A Problem-Solution Approach</dc:title>
         <dc:creator opf:file-as="Juneau, Josh &amp; Manelli, Luciano" opf:role="aut">Josh Juneau</dc:creator>
         <dc:creator opf:file-as="Juneau, Josh &amp; Manelli, Luciano" opf:role="aut">Luciano Manelli</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-02-25T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Quickly find solutions to dozens of common programming problems encountered while building Java applications, with recipes presented in the popular problem-solution format. Look up the programming problem that you want to resolve. Read the solution. Apply the solution directly in your own code. Problem solved!Java 17 Recipes is updated to reflect changes in specification and implementation since the Java 9 edition of this book. Java 17 is the next long-term support release (LTS) of the core Java Standard Edition (SE) version 17 which also includes some of the features from previous short term support (STS) releases of Java 16 and previous versions. This new edition covers of some of the newest features, APIs, and more such as pattern matching for switch, Restore Always-Strict-Floating-Point-Semantics, enhanced pseudo-random number generators, the vector API, sealed classes, and enhancements in the use of String. Source code for all recipes is available in a dedicated GitHub repository. This must-have reference belongs in your library. &lt;/p&gt;

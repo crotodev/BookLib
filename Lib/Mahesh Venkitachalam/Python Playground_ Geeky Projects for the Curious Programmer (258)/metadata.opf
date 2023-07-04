@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">40b91aa5-4b30-4afe-a2ea-fe2983050fd8</dc:identifier>
         <dc:title>Python Playground: Geeky Projects for the Curious Programmer</dc:title>
         <dc:creator opf:file-as="Venkitachalam, Mahesh" opf:role="aut">Mahesh Venkitachalam</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-10-01T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Python is a powerful programming language that’s easy to learn and fun to play with. But once you’ve gotten a handle on the basics, what do you do next? &lt;/p&gt;

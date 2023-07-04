@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">01a26820-3ef8-44ff-a5ee-4da4dc4a89a4</dc:identifier>
         <dc:title>Essential Statistics for Data Science: A Concise Crash Course</dc:title>
         <dc:creator opf:file-as="Zhu, Mu" opf:role="aut">Mu Zhu</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-07-04T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;em&gt;Essential Statistics for Data Science: A Concise Crash Course&lt;/em&gt; is for students entering a serious graduate program or advanced undergraduate teaching in data science without knowing enough statistics. The three part text introduces readers to the basics of probability and random variables and guides them towards relatively advanced topics in both frequentist and Bayesian in a matter of weeks. &lt;/p&gt;

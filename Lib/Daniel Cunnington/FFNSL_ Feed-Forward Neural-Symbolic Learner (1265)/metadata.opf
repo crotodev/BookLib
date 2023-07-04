@@ -8,7 +8,7 @@
         <dc:creator opf:file-as="Cunnington, Daniel &amp; Law, Mark &amp; Russo, Alessandra &amp; Lobo, Jorge" opf:role="aut">Mark Law</dc:creator>
         <dc:creator opf:file-as="Cunnington, Daniel &amp; Law, Mark &amp; Russo, Alessandra &amp; Lobo, Jorge" opf:role="aut">Alessandra Russo</dc:creator>
         <dc:creator opf:file-as="Cunnington, Daniel &amp; Law, Mark &amp; Russo, Alessandra &amp; Lobo, Jorge" opf:role="aut">Jorge Lobo</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-01-13T13:37:23+00:00</dc:date>
         <dc:description>Machine Learning, https://doi.org/10.1007/s10994-022-06278-6</dc:description>
         <dc:publisher>Springer US</dc:publisher>

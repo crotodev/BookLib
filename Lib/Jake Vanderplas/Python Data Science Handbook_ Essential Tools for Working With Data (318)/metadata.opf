@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6a37a86d-5d48-457c-9bf5-cfe411487a59</dc:identifier>
         <dc:title>Python Data Science Handbook: Essential Tools for Working With Data</dc:title>
         <dc:creator opf:file-as="VanderPlas, Jake" opf:role="aut">Jake Vanderplas</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-11-21T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;For many researchers, Python is a first-class tool mainly because of its libraries for storing, manipulating, and gaining insight from data. Several resources exist for individual pieces of this data science stack, but only with the Python Data Science Handbook do you get them all—IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and other related tools. &lt;/p&gt;

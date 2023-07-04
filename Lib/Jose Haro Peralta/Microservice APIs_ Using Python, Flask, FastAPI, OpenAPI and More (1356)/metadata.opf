@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9d00b110-4181-4012-9488-f01436c7723e</dc:identifier>
         <dc:title>Microservice APIs: Using Python, Flask, FastAPI, OpenAPI and More</dc:title>
         <dc:creator opf:file-as="Peralta, Jose Haro" opf:role="aut">Jose Haro Peralta</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-01-10T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;

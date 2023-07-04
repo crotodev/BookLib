@@ -9,7 +9,7 @@
         <dc:creator opf:file-as="Tandon, Akash &amp; Ryza, Sandy &amp; Laserson, Uri &amp; Owen, Sean &amp; Wills, Josh" opf:role="aut">Uri Laserson</dc:creator>
         <dc:creator opf:file-as="Tandon, Akash &amp; Ryza, Sandy &amp; Laserson, Uri &amp; Owen, Sean &amp; Wills, Josh" opf:role="aut">Sean Owen</dc:creator>
         <dc:creator opf:file-as="Tandon, Akash &amp; Ryza, Sandy &amp; Laserson, Uri &amp; Owen, Sean &amp; Wills, Josh" opf:role="aut">Josh Wills</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-06-24T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The amount of data being generated today is staggering--and growing. Apache Spark has emerged as the de facto tool to analyze big data and is now a critical part of the data science toolbox. Updated for Spark 3.0, this practical guide brings together Spark, statistical methods, and real-world datasets to teach you how to approach analytics problems using PySpark, Spark's Python API, and other best practices in Spark programming. &lt;/p&gt;

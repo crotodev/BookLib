@@ -6,7 +6,7 @@
         <dc:title>Practical Real-Time Data Processing and Analytics: Distributed Computing and Event Processing Using Apache Spark, Flink, Storm, and Kafka</dc:title>
         <dc:creator opf:file-as="Saxena, Shilpi &amp; Gupta, Saurabh" opf:role="aut">Shilpi Saxena</dc:creator>
         <dc:creator opf:file-as="Saxena, Shilpi &amp; Gupta, Saurabh" opf:role="aut">Saurabh Gupta</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-09-28T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A practical guide to help you tackle different real-time data processing and analytics problems using the best tools for each scenarioAbout This BookLearn about the various challenges in real-time data processing and use the right tools to overcome themThis book covers popular tools and frameworks such as Spark, Flink, and Apache Storm to solve all your distributed processing problemsA practical guide filled with examples, tips, and tricks to help you perform efficient Big Data processing in real-timeWho This Book Is ForIf you are a Java developer who would like to be equipped with all the tools required to devise an end-to-end practical solution on real-time data streaming, then this book is for you. Basic knowledge of real-time processing would be helpful, and knowing the fundamentals of Maven, Shell, and Eclipse would be great. &lt;/p&gt;

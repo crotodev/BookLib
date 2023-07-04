@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">371f11d0-687b-4b1e-8d72-accb107d891d</dc:identifier>
         <dc:title>Practical Data Migration</dc:title>
         <dc:creator opf:file-as="Morris, Johny" opf:role="aut">Johny Morris</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-02-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book is for executives, practitioners, and project managers who are tasked with the movement of data from old systems to a new repository. It is designed as a teach yourself guide and uses a series of steps developed in real life situations that will get you from an empty new system to one that is populated, working and backed by the user population. The first edition of this book was the first to provide a non-proprietary methodology for data migration. It quickly became the primary text on the subject. This new edition is updated to take account of changes in technology and the maturing of the market for Data Migration services. It guarantees to get the dirty old data out of your legacy systems and transform it into clean new data. The most recent figures suggest that nearly 40% of Data Migration projects are over time, over budget or fail entirely. Various studies have shown that using a proven methodology greatly increases the chances of on time, on budget, and zero defect migrations. Stick with Practical Data Migration and you will have vastly increased the chance of still having a career at the end of the project!&lt;/p&gt;&lt;/div&gt;</dc:description>

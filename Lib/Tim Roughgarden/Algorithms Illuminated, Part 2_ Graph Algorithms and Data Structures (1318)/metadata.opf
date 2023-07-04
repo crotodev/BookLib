@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ed5a6e0f-f7c9-4e25-8840-0bdd6aa28385</dc:identifier>
         <dc:title>Algorithms Illuminated, Part 2: Graph Algorithms and Data Structures</dc:title>
         <dc:creator opf:file-as="Roughgarden, Tim" opf:role="aut">Tim Roughgarden</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-08-05T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Accessible, no-nonsense, and programming language-agnostic introduction to algorithms. Includes solutions to all quizzes and selected problems, and a series of YouTube videos by the author accompanies the book. Part 2 covers graph search and its applications, shortest-path algorithms, and the applications and implementation of several data structures: heaps, search trees, hash tables, and bloom filters. (Part 1 is not a prerequisite.)&lt;/p&gt;&lt;/div&gt;</dc:description>

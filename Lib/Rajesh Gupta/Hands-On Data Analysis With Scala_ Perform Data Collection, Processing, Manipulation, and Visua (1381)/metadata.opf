@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f8285729-682c-42f1-ab04-0b33791b3f71</dc:identifier>
         <dc:title>Hands-On Data Analysis With Scala: Perform Data Collection, Processing, Manipulation, and Visualization With Scala</dc:title>
         <dc:creator opf:file-as="Gupta, Rajesh" opf:role="aut">Rajesh Gupta</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-05-03T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Master scala's advanced techniques to solve real-world problems in data analysis and gain valuable insights from your data&lt;/p&gt;

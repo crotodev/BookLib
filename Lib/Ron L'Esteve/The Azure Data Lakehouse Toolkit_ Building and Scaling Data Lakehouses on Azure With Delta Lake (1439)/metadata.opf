@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">33f2be0b-1c9e-4c6b-8c52-4ecc26a88835</dc:identifier>
         <dc:title>The Azure Data Lakehouse Toolkit: Building and Scaling Data Lakehouses on Azure With Delta Lake, Apache Spark, Databricks, Synapse Analytics, and Snowflake</dc:title>
         <dc:creator opf:file-as="L'Esteve, Ron" opf:role="aut">Ron L'Esteve</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.19.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-07-14T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Design and implement a modern data lakehouse on the Azure Data Platform using Delta Lake, Apache Spark, Azure Databricks, Azure Synapse Analytics, and Snowflake. This book teaches you the intricate details of the Data Lakehouse Paradigm and how to efficiently design a cloud-based data lakehouse using highly performant and cutting-edge Apache Spark capabilities using Azure Databricks, Azure Synapse Analytics, and Snowflake. You will learn to write efficient PySpark code for batch and streaming ELT jobs on Azure. And you will follow along with practical, scenario-based examples showing how to apply the capabilities of Delta Lake and Apache Spark to optimize performance, and secure, share, and manage a high volume, high velocity, and high variety of data in your lakehouse with ease.&lt;br&gt;The patterns of success that you acquire from reading this book will help you hone your skills to build high-performing and scalable ACID-compliant lakehouses using flexible and cost-efficient decoupled storage and compute capabilities. Extensive coverage of Delta Lake ensures that you are aware of and can benefit from all that this new, open source storage layer can offer. In addition to the deep examples on Databricks in the book, there is coverage of alternative platforms such as Synapse Analytics and Snowflake so that you can make the right platform choice for your needs.&lt;br&gt;After reading this book, you will be able to implement Delta Lake capabilities, including Schema Evolution, Change Feed, Live Tables, Sharing, and Clones to enable better business intelligence and advanced analytics on your data within the Azure Data Platform. &lt;/p&gt;
@@ -40,11 +40,11 @@
 &lt;p&gt;Ron is a gifted presenter and trainer, known for his innate ability to clearly articulate and explain complex topics to audiences of all skill levels. He applies a practical and business-oriented approach by taking transformational ideas from concept to scale. He is a true enabler of positive and impactful change by championing a growth mindset. &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Apress</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781484282328</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">1484282329</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1141655927</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484282329</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-06-12T14:41:10.976046+00:00"/>
+        <meta name="calibre:timestamp" content="2023-06-12T14:41:10+00:00"/>
         <meta name="calibre:title_sort" content="Azure Data Lakehouse Toolkit: Building and Scaling Data Lakehouses on Azure With Delta Lake, Apache Spark, Databricks, Synapse Analytics, and Snowflake, The"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

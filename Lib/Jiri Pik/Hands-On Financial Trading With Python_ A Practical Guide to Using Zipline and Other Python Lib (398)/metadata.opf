@@ -6,7 +6,7 @@
         <dc:title>Hands-On Financial Trading With Python: A Practical Guide to Using Zipline and Other Python Libraries for Backtesting Trading Strategies</dc:title>
         <dc:creator opf:file-as="Pik, Jiri &amp; Ghosh, Sourav" opf:role="aut">Jiri Pik</dc:creator>
         <dc:creator opf:file-as="Pik, Jiri &amp; Ghosh, Sourav" opf:role="aut">Sourav Ghosh</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-04-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Discover how to build and backtest algorithmic trading strategies with ZiplineKey Features: Get to grips with market data and stock analysis and visualize data to gain quality insightsFind out how to systematically approach quantitative research and strategy generation/backtesting in algorithmic tradingLearn how to navigate the different features in Python's data analysis librariesBook Description: Algorithmic trading helps you stay ahead of the markets by devising strategies in quantitative analysis to gain profits and cut losses. &lt;/p&gt;

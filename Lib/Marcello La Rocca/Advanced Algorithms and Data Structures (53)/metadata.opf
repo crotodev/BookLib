@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">82b80a65-51f0-434a-b26c-a632f6a041df</dc:identifier>
         <dc:title>Advanced Algorithms and Data Structures</dc:title>
         <dc:creator opf:file-as="Rocca, Marcello La" opf:role="aut">Marcello La Rocca</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-06-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Advanced Algorithms and Data Structures &lt;strong&gt;introduces a collection of algorithms for complex programming challenges in data analysis, machine learning, and graph computing.&lt;/strong&gt; &lt;/p&gt;

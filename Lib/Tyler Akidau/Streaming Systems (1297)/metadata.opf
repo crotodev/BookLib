@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">79f03c1d-3812-4cd4-b38f-b0f919858b63</dc:identifier>
         <dc:title>Streaming Systems</dc:title>
         <dc:creator opf:file-as="Akidau, Tyler" opf:role="aut">Tyler Akidau</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-07-30T00:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Streaming data is a big deal in big data these days. As more and more businesses seek to tame the massive unbounded data sets that pervade our world, streaming systems have finally reached a level of maturity sufficient for mainstream adoption. With this practical guide, data engineers, data scientists, and developers will learn how to work with streaming data in a conceptual and platform-agnostic way. &lt;/p&gt;

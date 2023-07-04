@@ -6,7 +6,7 @@
         <dc:title>High Performance Python: Practical Performant Programming for Humans</dc:title>
         <dc:creator opf:file-as="Gorelick, Micha &amp; Ozsvald, Ian" opf:role="aut">Micha Gorelick</dc:creator>
         <dc:creator opf:file-as="Gorelick, Micha &amp; Ozsvald, Ian" opf:role="aut">Ian Ozsvald</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-10-22T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Your Python code may run correctly, but you need it to run faster. By exploring the fundamental theory behind design choices, the updated edition of this practical guide, expanded and enhanced for Python 3, helps you gain a deeper understanding of Python's implementation. You'll learn how to locate performance bottlenecks and significantly speed up your code in high-data-volume programs. &lt;/p&gt;

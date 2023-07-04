@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Hastie, Trevor &amp; Tibshirani, Robert &amp; Friedman, Jerome" opf:role="aut">Trevor Hastie</dc:creator>
         <dc:creator opf:file-as="Hastie, Trevor &amp; Tibshirani, Robert &amp; Friedman, Jerome" opf:role="aut">Robert Tibshirani</dc:creator>
         <dc:creator opf:file-as="Hastie, Trevor &amp; Tibshirani, Robert &amp; Friedman, Jerome" opf:role="aut">Jerome Friedman</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-01-15T05:00:00+00:00</dc:date>
         <dc:publisher>Springer</dc:publisher>
         <dc:language>eng</dc:language>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">135f5a16-6400-4e6d-9441-6079d7300484</dc:identifier>
         <dc:title>Python Natural Language Processing Cookbook Over 50 recipes to understand analyze and generate text for implementing</dc:title>
         <dc:creator opf:file-as="Antić, Zhenya" opf:role="aut">Zhenya Antić</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-03-19T04:56:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold; font-family: 'Helvetica Neue'"&gt;Get to grips with solving real-world NLP problems, such as dependency parsing, information extraction, topic modeling, and text data visualization&lt;/p&gt;

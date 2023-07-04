@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d1502937-55ca-4cf4-b123-2eea064241cb</dc:identifier>
         <dc:title>Algorithms Illuminated, Part 1: The Basics</dc:title>
         <dc:creator opf:file-as="Roughgarden, Tim" opf:role="aut">Tim Roughgarden</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-03-15T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Algorithms are the heart and soul of computer science. Their applications range from network routing and computational genomics to public-key cryptography and machine learning. Studying algorithms can make you a better programmer, a clearer thinker, and a master of technical interviews. Algorithms Illuminated is an accessible introduction to the subject for anyone with at least a little programming experience. The exposition emphasizes the big picture and conceptual understanding over low-level implementation and mathematical details---like a transcript of what an expert algorithms tutor would say over a series of one-on-one lessons. Part 1 covers asymptotic analysis and big-O notation, divide-and-conquer algorithms and the master method, randomized algorithms, and several famous algorithms for sorting and selection.&lt;/p&gt;&lt;/div&gt;</dc:description>

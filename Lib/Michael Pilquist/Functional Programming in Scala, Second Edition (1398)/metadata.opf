@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Pilquist, Michael &amp; Chiusano, Paul &amp; Bjarnasson, Rúnar" opf:role="aut">Michael Pilquist</dc:creator>
         <dc:creator opf:file-as="Pilquist, Michael &amp; Chiusano, Paul &amp; Bjarnasson, Rúnar" opf:role="aut">Paul Chiusano</dc:creator>
         <dc:creator opf:file-as="Pilquist, Michael &amp; Chiusano, Paul &amp; Bjarnasson, Rúnar" opf:role="aut">Rúnar Bjarnasson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-06-20T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Discover the power that functional programming brings to your Scala code. This international bestseller has been revised with new exercises, annotations, and full coverage of Scala 3. &lt;/p&gt;

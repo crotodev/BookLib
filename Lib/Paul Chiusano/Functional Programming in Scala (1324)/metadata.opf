@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">07bae310-18e6-404c-9123-4a165111df60</dc:identifier>
         <dc:title>Functional Programming in Scala</dc:title>
         <dc:creator opf:file-as="Chiusano, Paul" opf:role="aut">Paul Chiusano</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-09-14T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Summary &lt;/p&gt;

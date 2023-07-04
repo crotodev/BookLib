@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">104641de-f9d3-4122-8f9b-7242345b1cf2</dc:identifier>
         <dc:title>Network Programming in Python: The Basic: A Detailed Guide to Python 3 Network Programming and Management</dc:title>
         <dc:creator opf:file-as="Galbraith, John" opf:role="aut">John Galbraith</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-05-03T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;For programmers who need to use Python for network-related activities and apps&lt;/p&gt;

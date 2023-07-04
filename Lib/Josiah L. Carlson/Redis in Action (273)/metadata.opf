@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1ea11fcb-e0c1-456b-8948-193576e684ac</dc:identifier>
         <dc:title>Redis in Action</dc:title>
         <dc:creator opf:file-as="Carlson, Josiah L." opf:role="aut">Josiah L. Carlson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-06-28T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;SummaryRedis in Action introduces Redis and walks you through examples that demonstrate how to use it effectively. You'll begin by getting Redis set up properly and then exploring the key-value model. Then, you'll dive into real use cases including simple caching, distributed ad targeting, and more. You'll learn how to scale Redis from small jobs to massive datasets. Experienced developers will appreciate chapters on clustering and internal scripting to make Redis easier to use. &lt;/p&gt;

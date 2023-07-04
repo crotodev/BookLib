@@ -6,7 +6,7 @@
         <dc:title>SBT in Action</dc:title>
         <dc:creator opf:file-as="Suereth, Joshua &amp; Farwell, Matthew" opf:role="aut">Joshua Suereth</dc:creator>
         <dc:creator opf:file-as="Suereth, Joshua &amp; Farwell, Matthew" opf:role="aut">Matthew Farwell</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-01-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Simple Build Tool: sbt. The idea of a high quality build tool for Scala is indeed simple, but sbt itself is richly-featured and powerful. Documentation for sbt is sparse, and the blogs, tutorials, and other bits scattered across the web leave you wanting a comprehensive, accurate picture of how to build Scala projects effectively and efficiently. This book will help you transform ugly, complex builds into a streamlined, automated, and repeatable process. &lt;/p&gt;

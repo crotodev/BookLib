@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2460424c-c20e-4bd6-8805-0a6dd6f0ed94</dc:identifier>
         <dc:title>Learn React With TypeScript: A Beginner's Guide to Reactive Web Development With React 18 and TypeScript</dc:title>
         <dc:creator opf:file-as="Rippon, Carl" opf:role="aut">Carl Rippon</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-03-03T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Reading, navigating, and debugging a large frontend codebase is a major issue faced by frontend developers. This book is designed to help web developers like you learn about ReactJS and TypeScript, both of which power large-scale apps for many organizations.&lt;br&gt;This second edition of Learn React with TypeScript is updated, enhanced, and improved to cover new features of React 18 including hooks, state management libraries, and features of TypeScript 4. The book will enable you to create well-structured and reusable React components that are easy to read and maintain, leveraging modern design patterns.&lt;br&gt;You’ll be able to ensure that all your components are type-safe, making the most of TypeScript features, including some advanced types. You’ll also learn how to manage complex states using Redux and how to interact with a GraphQL web API. Finally, you’ll discover how to write robust unit tests for React components using Jest.&lt;br&gt;By the end of the book, you’ll be well-equipped to use both React and TypeScript.Key Features&lt;/p&gt;
@@ -24,9 +24,9 @@
 &lt;li&gt;Create automated component tests&lt;/li&gt;
 &lt;li&gt;Who this book is forThis book is for experienced frontend developers looking to build large scale web applications using React and TypeScript. Intermediate knowledge of JavaScript, HTML and CSS is a prerequisite.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781804611050</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1143173904</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">xbevEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781804611050</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Internet</dc:subject>
@@ -34,7 +34,7 @@
         <dc:subject>Web Design</dc:subject>
         <dc:subject>Languages</dc:subject>
         <dc:subject>JavaScript</dc:subject>
-        <meta name="calibre:timestamp" content="2023-06-02T03:10:25.263369+00:00"/>
+        <meta name="calibre:timestamp" content="2023-06-02T03:10:25+00:00"/>
         <meta name="calibre:title_sort" content="Learn React With TypeScript: A Beginner's Guide to Reactive Web Development With React 18 and TypeScript"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

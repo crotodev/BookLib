@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9b31d55e-c747-425f-84d6-80123d8ea102</dc:identifier>
         <dc:title>Algorithmic Trading &amp; DMA: An Introduction to Direct Access Trading Strategies</dc:title>
         <dc:creator opf:file-as="Johnson, Barry" opf:role="aut">Barry Johnson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-02-17T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Algorithmic trading and Direct Market Access (DMA) are important tools helping both buy and sell-side traders to achieve best execution (Note: the focus is on institutional sized orders, not those of individuals/retail traders).&lt;/p&gt;
