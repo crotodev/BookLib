@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1467</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df5a1bd1-d862-4456-8e5d-9025996a9b61</dc:identifier>
+        <dc:title>Data Wrangling: Concepts, Applications and Tools</dc:title>
+        <dc:creator opf:file-as="Niranjanamurthy, M. &amp; Sheoran, Kavita &amp; Dhand, Geetika &amp; Kaur, Prabhjot" opf:role="aut">M. Niranjanamurthy</dc:creator>
+        <dc:creator opf:file-as="Niranjanamurthy, M. &amp; Sheoran, Kavita &amp; Dhand, Geetika &amp; Kaur, Prabhjot" opf:role="aut">Kavita Sheoran</dc:creator>
+        <dc:creator opf:file-as="Niranjanamurthy, M. &amp; Sheoran, Kavita &amp; Dhand, Geetika &amp; Kaur, Prabhjot" opf:role="aut">Geetika Dhand</dc:creator>
+        <dc:creator opf:file-as="Niranjanamurthy, M. &amp; Sheoran, Kavita &amp; Dhand, Geetika &amp; Kaur, Prabhjot" opf:role="aut">Prabhjot Kaur</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-07-20T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;DATA WRANGLING Written and edited by some of the world’s top experts in the field, this exciting new volume provides state-of-the-art research and latest technological breakthroughs in data wrangling, its theoretical concepts, practical applications, and tools for solving everyday problems. Data wrangling is the process of cleaning and unifying messy and complex data sets for easy access and analysis. This process typically includes manually converting and mapping data from one raw form into another format to allow for more convenient consumption and organization of the data. Data wrangling is increasingly ubiquitous at today’s top firms. Data cleaning focuses on removing inaccurate data from your data set whereas data wrangling focuses on transforming the data’s format, typically by converting “raw” data into another format more suitable for use. Data wrangling is a necessary component of any business. Data wrangling solutions are specifically designed and architected to handle diverse, complex data at any scale, including many applications, such as Datameer, Infogix, Paxata, Talend, Tamr, TMMData, and Trifacta. This book synthesizes the processes of data wrangling into a comprehensive overview, with a strong focus on recent and rapidly evolving agile analytic processes in data-driven enterprises, for businesses and other enterprises to use to find solutions for their everyday problems and practical applications. Whether for the veteran engineer, scientist, or other industry professional, this book is a must have for any library.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119879688</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">5LnGEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Civil</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <meta name="calibre:timestamp" content="2023-07-05T16:00:36.623764+00:00"/>
+        <meta name="calibre:title_sort" content="Data Wrangling: Concepts, Applications and Tools"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
