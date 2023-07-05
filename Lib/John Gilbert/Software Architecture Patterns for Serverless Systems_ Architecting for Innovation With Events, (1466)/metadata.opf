@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1466</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d4541cf-979e-4927-961b-9712fa51ed3f</dc:identifier>
+        <dc:title>Software Architecture Patterns for Serverless Systems: Architecting for Innovation With Events, Autonomous Services, and Micro Frontends</dc:title>
+        <dc:creator opf:file-as="Gilbert, John" opf:role="aut">John Gilbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-30T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;A professional's guide to solving complex problems while designing modern software&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn best practices for designing enterprise-grade software systems from a seasoned CTO&lt;/li&gt;
+&lt;li&gt;Deeper your understanding of system reliability, maintainability, and scalability&lt;/li&gt;
+&lt;li&gt;Elevate your skills to a professional level by learning the most effective software design patterns and architectural concepts&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;As businesses are undergoing a digital transformation to keep up with competition, it is now more important than ever for IT professionals to design systems to keep up with the rate of change while maintaining stability.&lt;/p&gt;
+&lt;p&gt;This book takes you through the architectural patterns that power enterprise-grade software systems and the key architectural elements that enable change (such as events, autonomous services, and micro frontends), along with showing you how to implement and operate anti-fragile systems.&lt;/p&gt;
+&lt;p&gt;First, you'll divide up a system and define boundaries so that your teams can work autonomously and accelerate innovation. You'll cover low-level event and data patterns that support the entire architecture, while getting up and running with the different autonomous service design patterns.&lt;/p&gt;
+&lt;p&gt;Next, the book will focus on best practices for security, reliability, testability, observability, and performance. You'll combine all that you've learned and build upon that foundation, exploring the methodologies of continuous experimentation, deployment, and delivery before delving into some final thoughts on how to start making progress.&lt;/p&gt;
+&lt;p&gt;By the end of this book, you'll be able to architect your own event-driven, serverless systems that are ready to adapt and change so that you can deliver value at the pace needed by your business.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Explore architectural patterns to create anti-fragile systems that thrive with change&lt;/li&gt;
+&lt;li&gt;Focus on DevOps practices that empower self-sufficient, full-stack teams&lt;/li&gt;
+&lt;li&gt;Build enterprise-scale serverless systems&lt;/li&gt;
+&lt;li&gt;Apply microservices principles to the frontend&lt;/li&gt;
+&lt;li&gt;Discover how SOLID principles apply to software and database architecture&lt;/li&gt;
+&lt;li&gt;Create event stream processors that power the event sourcing and CQRS pattern&lt;/li&gt;
+&lt;li&gt;Deploy a multi-regional system, including regional health checks, latency-based routing, and replication&lt;/li&gt;
+&lt;li&gt;Explore the Strangler pattern for migrating legacy systems&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is for software architects who want to learn more about different software design patterns and best practices. This isn't a beginner's manual – you'll need an intermediate level of programming proficiency and software design to get started. You'll get the most out of this software design book if you already know the basics of the cloud, but it isn't a prerequisite.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Architecting for Innovation &lt;/li&gt;
+&lt;li&gt;Defining Boundaries and Letting Go &lt;/li&gt;
+&lt;li&gt;Taming the Presentation Tier&lt;/li&gt;
+&lt;li&gt;Trusting Facts and Eventual Consistency&lt;/li&gt;
+&lt;li&gt;Turning the Cloud into the Database &lt;/li&gt;
+&lt;li&gt;A Best Friend for the Frontend&lt;/li&gt;
+&lt;li&gt;Bridging Intersystem Gaps&lt;/li&gt;
+&lt;li&gt;Reacting to Events with More Events&lt;/li&gt;
+&lt;li&gt;Choreographing Deployment and Delivery&lt;/li&gt;
+&lt;li&gt;Don't Delay, Start Experimenting&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"In Software Architecture Patterns for Serverless Systems, author John Gilbert goes right for the heart of providing innovative patterns that provide automated and efficient operations. John masterfully applies his experience of being a CTO, his 30 years of software architecture, and his experience as an established author. On top of that, the serverless expertise and diversity of the reviewers of this masterpiece are absolutely humbling. John Gilbert is helping us get to the next chapter in the story that started back in the Portsmouth Block Mills where the concept of assembly lines emerged, then taken to an international level with Henry Ford's assembly line in his factories, and finally, moved forward by Toyota and the Lean, Scrum, and Agile methodologies. Now we see it truly applied to software architecture and development. Let's join John on this journey […] to exponentially magnify our architecture's efficiency."&lt;/p&gt;
+&lt;p&gt;Ed Price, Senior Program Manager of Architectural Publishing, Microsoft | Azure Architecture Center&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;John Gilbert&lt;/strong&gt; is a CTO with over 30 years of experience in architecting and delivering software systems across many industries. His cloud journey has spanned all the levels of cloud maturity, from lift and shift and software-defined infrastructure to microservices and continuous deployment. He was an early serverless adopter and put his first serverless workloads into production just months after AWS Lambda's introduction. He has also authored Cloud Native Development Patterns and Best Practices and JavaScript Cloud Native Development Cookbook. He finds delivering serverless solutions to be, by far, the most fun and satisfying, as they force us to rewire how we reason about systems and enable us to accomplish far more with much less effort and risk.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781800207035</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1800207034</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1139822728</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-07-05T03:20:59.451983+00:00"/>
+        <meta name="calibre:title_sort" content="Software Architecture Patterns for Serverless Systems: Architecting for Innovation With Events, Autonomous Services, and Micro Frontends"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

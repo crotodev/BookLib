@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1467</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">367ba22f-a776-4f1e-be94-46644941966e</dc:identifier>
+        <dc:title>Solutions Architect's Handbook: Kick-Start Your Career as a Solutions Architect by Learning Architecture Design Principles and Strategies</dc:title>
+        <dc:creator opf:file-as="Shrivastava, Saurabh &amp; Srivastav, Neelanjali &amp; Sheth, Rajesh &amp; Karmarkar, Rohan &amp; Arora, Kamal" opf:role="aut">Saurabh Shrivastava</dc:creator>
+        <dc:creator opf:file-as="Shrivastava, Saurabh &amp; Srivastav, Neelanjali &amp; Sheth, Rajesh &amp; Karmarkar, Rohan &amp; Arora, Kamal" opf:role="aut">Neelanjali Srivastav</dc:creator>
+        <dc:creator opf:file-as="Shrivastava, Saurabh &amp; Srivastav, Neelanjali &amp; Sheth, Rajesh &amp; Karmarkar, Rohan &amp; Arora, Kamal" opf:role="aut">Rajesh Sheth</dc:creator>
+        <dc:creator opf:file-as="Shrivastava, Saurabh &amp; Srivastav, Neelanjali &amp; Sheth, Rajesh &amp; Karmarkar, Rohan &amp; Arora, Kamal" opf:role="aut">Rohan Karmarkar</dc:creator>
+        <dc:creator opf:file-as="Shrivastava, Saurabh &amp; Srivastav, Neelanjali &amp; Sheth, Rajesh &amp; Karmarkar, Rohan &amp; Arora, Kamal" opf:role="aut">Kamal Arora</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-17T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;From fundamentals and design patterns to the different strategies for creating secure and reliable architectures in AWS cloud, learn everything you need to become a successful solutions architect.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Purchase of the print or Kindle book includes a free eBook in the PDF format.&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;"For new or existing solutions architects looking to keep their skills sharp in the cloud era, this book hits all the key areas."&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;-Rajesh Sheth, GM, Messaging and Streaming, AWS&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;"...the go-to guide for understanding various functions in the age of cloud computing."&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;-Rohan Karmarkar, Director, Solutions Architecture, AWS&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;"...you will find very important nuggets of knowledge that will help you be a successful solutions architect, and open up a new world of infinite possibilities!"&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;-Kamal Arora, Senior Manager, Solutions Architecture, AWS&lt;/p&gt;
+&lt;p&gt;Becoming a solutions architect requires a hands-on approach, and this edition of the Solutions Architect's Handbook brings exactly that. This handbook will teach you how to create robust, scalable, and fault-tolerant solutions and next-generation architecture designs in a cloud environment. It will also help you build effective product strategies for your business and implement them from start to finish.&lt;/p&gt;
+&lt;p&gt;This new edition features additional chapters on disruptive technologies, such as Internet of Things (IoT), quantum computing, data engineering, and machine learning. It also includes updated discussions on cloud-native architecture, blockchain data storage, and mainframe modernization with public cloud.&lt;/p&gt;
+&lt;p&gt;The Solutions Architect's Handbook provides an understanding of solution architecture and how it fits into an agile enterprise environment. It will take you through the journey of solution architecture design by providing detailed knowledge of design pillars, advanced design patterns, anti-patterns, and the cloud-native aspects of modern software design.&lt;/p&gt;
+&lt;p&gt;By the end of this handbook, you'll have learned the techniques needed to create efficient architecture designs that meet your business requirements.&lt;/p&gt;
+&lt;p&gt;• Explore the various roles of a solutions architect in the enterprise landscape&lt;br&gt;• Implement key design principles and patterns to build high-performance cost-effective solutions&lt;br&gt;• Choose the best strategies to secure your architectures and increase their availability&lt;br&gt;• Modernize legacy applications with the help of cloud integration&lt;br&gt;• Understand how big data processing, machine learning, and IoT fit into modern architecture&lt;br&gt;• Integrate a DevOps mindset to promote collaboration, increase operational efficiency, and streamline production&lt;/p&gt;
+&lt;p&gt;This book is for software developers, system engineers, DevOps engineers, architects, and team leaders who already work in the IT industry and aspire to become solutions architect professionals.&lt;/p&gt;
+&lt;p&gt;Existing solutions architects who want to expand their skillset or get a better understanding of new technologies will also learn valuable new skills.&lt;/p&gt;
+&lt;p&gt;To get started, you'll need a good understanding of the real-world software development process and general programming experience in any language.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781801819060</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09PC156PJ</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1140897938</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">60450628</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-07-05T03:26:55.344467+00:00"/>
+        <meta name="calibre:title_sort" content="Solutions Architect's Handbook: Kick-Start Your Career as a Solutions Architect by Learning Architecture Design Principles and Strategies"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
