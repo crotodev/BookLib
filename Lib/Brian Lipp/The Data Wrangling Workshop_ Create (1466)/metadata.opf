@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1466</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">937eabbf-8607-401e-943c-66b6be6b8b05</dc:identifier>
+        <dc:title>The Data Wrangling Workshop: Create Your Own Actionable Insights Using Data From Multiple Raw Sources, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Lipp, Brian" opf:role="aut">Brian Lipp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;A beginner's guide to simplifying Extract, Transform, Load (ETL) processes with the help of hands-on tips, tricks, and best practices, in a fun and interactive way&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Explore data wrangling with the help of real-world examples and business use cases&lt;/li&gt;
+&lt;li&gt;Study various ways to extract the most value from your data in minimal time&lt;/li&gt;
+&lt;li&gt;Boost your knowledge with bonus topics, such as random data generation and data integrity checks&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;While a huge amount of data is readily available to us, it is not useful in its raw form. For data to be meaningful, it must be curated and refined.&lt;/p&gt;
+&lt;p&gt;If you're a beginner, then The Data Wrangling Workshop will help to break down the process for you. You'll start with the basics and build your knowledge, progressing from the core aspects behind data wrangling, to using the most popular tools and techniques.&lt;/p&gt;
+&lt;p&gt;This book starts by showing you how to work with data structures using Python. Through examples and activities, you'll understand why you should stay away from traditional methods of data cleaning used in other languages and take advantage of the specialized pre-built routines in Python. Later, you'll learn how to use the same Python backend to extract and transform data from an array of sources, including the internet, large database vaults, and Excel financial tables. To help you prepare for more challenging scenarios, the book teaches you how to handle missing or incorrect data, and reformat it based on the requirements from your downstream analytics tool.&lt;/p&gt;
+&lt;p&gt;By the end of this book, you will have developed a solid understanding of how to perform data wrangling with Python, and learned several techniques and best practices to extract, clean, transform, and format your data efficiently, from a diverse array of sources.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Get to grips with the fundamentals of data wrangling&lt;/li&gt;
+&lt;li&gt;Understand how to model data with random data generation and data integrity checks&lt;/li&gt;
+&lt;li&gt;Discover how to examine data with descriptive statistics and plotting techniques&lt;/li&gt;
+&lt;li&gt;Explore how to search and retrieve information with regular expressions&lt;/li&gt;
+&lt;li&gt;Delve into commonly-used Python data science libraries&lt;/li&gt;
+&lt;li&gt;Become well-versed with how to handle and compensate for missing data&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;The Data Wrangling Workshop is designed for developers, data analysts, and business analysts who are looking to pursue a career as a full-fledged data scientist or analytics expert. Although this book is for beginners who want to start data wrangling, prior working knowledge of the Python programming language is necessary to easily grasp the concepts covered here. It will also help to have a rudimentary knowledge of relational databases and SQL.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction to Data Wrangling with Python&lt;/li&gt;
+&lt;li&gt;Advanced Operations on Built-In Data Structures&lt;/li&gt;
+&lt;li&gt;Introduction to Numpy, Pandas, and Matplotlib&lt;/li&gt;
+&lt;li&gt;A Deep Dive into Data Wrangling with Python&lt;/li&gt;
+&lt;li&gt;Get Comfortable with Different Kinds of Data Sources&lt;/li&gt;
+&lt;li&gt;Learning with Hidden Secrets of Data Wrangling&lt;/li&gt;
+&lt;li&gt;Advanced Web Scrapping and Data Gathering&lt;/li&gt;
+&lt;li&gt;RDBMS and SQL&lt;/li&gt;
+&lt;li&gt;Applications in Business Use Cases and Conclusion of the Course&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Brian Lipp&lt;/strong&gt; is a technology polygot who is always in search of interesting and innovative technology. His current languages of choice are Python, Go, and Scala.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Shubhadeep Roychowdhury&lt;/strong&gt; holds a master's degree in computer science from West Bengal University of Technology and certifications in machine learning from Stanford. He works as a senior software engineer at a Paris-based cybersecurity startup, where he is applying state-of-the-art computer vision and data engineering algorithms and tools to develop cutting-edge products. He often writes about algorithm implementation in Python and similar topics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dr. Tirthajyoti Sarkar&lt;/strong&gt; works as a senior principal engineer in the semiconductor technology domain, where he applies cutting-edge data science/machine learning techniques for design automation and predictive analytics. He writes regularly about Python programming and data science topics. He holds a Ph.D. from the University of Illinois and certifications in artificial intelligence and machine learning from Stanford and MIT.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781839215001</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1839215003</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-07-05T15:08:15.320490+00:00"/>
+        <meta name="calibre:title_sort" content="Data Wrangling Workshop: Create Your Own Actionable Insights Using Data From Multiple Raw Sources, 2nd Edition, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
