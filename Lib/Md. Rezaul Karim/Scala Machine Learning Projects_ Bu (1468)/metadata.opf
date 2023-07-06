@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1468</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58756d32-a03f-4a7f-9d6f-082c761bdc84</dc:identifier>
+        <dc:title>Scala Machine Learning Projects: Build Real-World Machine Learning and Deep Learning Projects With Scala</dc:title>
+        <dc:creator opf:file-as="Karim, Md. Rezaul" opf:role="aut">Md. Rezaul Karim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-30T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Powerful smart applications using deep learning algorithms to dominate numerical computing, deep learning, and functional programming.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Explore machine learning techniques with prominent open source Scala libraries such as Spark ML, H2O, MXNet, Zeppelin, and DeepLearning4j &lt;/li&gt;
+&lt;li&gt;Solve real-world machine learning problems by delving complex numerical computing with Scala functional programming in a scalable and faster way&lt;/li&gt;
+&lt;li&gt;Cover all key aspects such as collection, storing, processing, analyzing, and evaluation required to build and deploy machine models on computing clusters using Scala Play framework.&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Machine learning has had a huge impact on academia and industry by turning data into actionable information. Scala has seen a steady rise in adoption over the past few years, especially in the fields of data science and analytics. This book is for data scientists, data engineers, and deep learning enthusiasts who have a background in complex numerical computing and want to know more hands-on machine learning application development. &lt;/p&gt;
+&lt;p&gt;If you're well versed in machine learning concepts and want to expand your knowledge by delving into the practical implementation of these concepts using the power of Scala, then this book is what you need! Through 11 end-to-end projects, you will be acquainted with popular machine learning libraries such as Spark ML, H2O, DeepLearning4j, and MXNet.&lt;/p&gt;
+&lt;p&gt;At the end, you will be able to use numerical computing and functional programming to carry out complex numerical tasks to develop, build, and deploy research or commercial projects in a production-ready environment.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Apply advanced regression techniques to boost the performance of predictive models&lt;/li&gt;
+&lt;li&gt;Use different classification algorithms for business analytics &lt;/li&gt;
+&lt;li&gt;Generate trading strategies for Bitcoin and stock trading using ensemble techniques&lt;/li&gt;
+&lt;li&gt;Train Deep Neural Networks (DNN) using H2O and Spark ML&lt;/li&gt;
+&lt;li&gt;Utilize NLP to build scalable machine learning models &lt;/li&gt;
+&lt;li&gt;Learn how to apply reinforcement learning algorithms such as Q-learning for developing ML application&lt;/li&gt;
+&lt;li&gt;Learn how to use autoencoders to develop a fraud detection application&lt;/li&gt;
+&lt;li&gt;Implement LSTM and CNN models using DeepLearning4j and MXNet&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who This Book Is For&lt;/h4&gt;
+&lt;p&gt;If you want to leverage the power of both Scala and Spark to make sense of Big Data, then this book is for you. If you are well versed with machine learning concepts and wants to expand your knowledge by delving into the practical implementation using the power of Scala, then this book is what you need! Strong understanding of Scala Programming language is recommended. Basic familiarity with machine Learning techniques will be more helpful.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Analyzing Insurance Severity Claim&lt;/li&gt;
+&lt;li&gt;Analyzing Outgoing Customers through Churn Prediction&lt;/li&gt;
+&lt;li&gt;High Frequency Bitcoin Price Prediction from Historical and Live Data&lt;/li&gt;
+&lt;li&gt;Population Scale Clustering and Ethnicity Analysis &lt;/li&gt;
+&lt;li&gt;Topic Modelling in NLP: A Better Insight to Large-Scale Texts&lt;/li&gt;
+&lt;li&gt;Model-based Movie Recommendation Engine&lt;/li&gt;
+&lt;li&gt;Deep Reinforcement Learning using Markov Decision Process (MDP) &lt;/li&gt;
+&lt;li&gt;Using Deep Belief Networks in Bank Marketing&lt;/li&gt;
+&lt;li&gt;Fraud Analytics using Autoencoders and Anomaly Detection &lt;/li&gt;
+&lt;li&gt;Human Activity Recognition using RNN &lt;/li&gt;
+&lt;li&gt;Image Classification using CNN &lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781788479042</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1788479041</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-07-05T16:24:19.660019+00:00"/>
+        <meta name="calibre:title_sort" content="Scala Machine Learning Projects: Build Real-World Machine Learning and Deep Learning Projects With Scala"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
