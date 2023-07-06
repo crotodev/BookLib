@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1469</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3bdbac9c-4889-4a50-9b52-9c348d0e29da</dc:identifier>
+        <dc:title>Mastering TypeScript: Build Enterprise-Ready, Modular Web Applications Using TypeScript 4 and Modern Frameworks, 4th Edition</dc:title>
+        <dc:creator opf:file-as="Rozentals, Nathan" opf:role="aut">Nathan Rozentals</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-23T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Learn all you need to know to work with TypeScript, explore modern web application frameworks, and build modular systems using industry standard architectural principles and design patterns&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Explore TypeScript 4's key elements and advanced language features&lt;/li&gt;
+&lt;li&gt;Use TypeScript with modern frameworks such as Angular, Vue, React, RxJS and Node&lt;/li&gt;
+&lt;li&gt;Understand TDD, serverless techniques, micro frontends, and other industry-standard best practices to create high-quality and modular apps&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;TypeScript is both a language and a set of tools to generate JavaScript, designed by Anders Hejlsberg at Microsoft to help developers write enterprise-scale JavaScript.&lt;/p&gt;
+&lt;p&gt;Mastering Typescript is a golden standard for budding and experienced developers. With a structured approach that will get you up and running with Typescript quickly, this book will introduce core concepts, then build on them to help you understand (and apply) the more advanced language features. You'll learn by doing while acquiring the best programming practices along the way.&lt;/p&gt;
+&lt;p&gt;This fourth edition also covers a variety of modern JavaScript and TypeScript frameworks, comparing their strengths and weaknesses. You'll explore Angular, React, Vue, RxJs, Express, NodeJS, and others. You'll get up to speed with unit and integration testing, data transformation, serverless technologies, and asynchronous programming. Next, you'll learn how to integrate with existing JavaScript libraries, control your compiler options, and use decorators and generics.&lt;/p&gt;
+&lt;p&gt;By the end of the book, you will have built a comprehensive set of web applications, having integrated them into a single cohesive website using micro front-end techniques. This book is about learning the language, understanding when to apply its features, and selecting the framework that fits your real-world project perfectly.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Gain insights into core and advanced TypeScript language features&lt;/li&gt;
+&lt;li&gt;Integrate with existing JavaScript libraries and third-party frameworks&lt;/li&gt;
+&lt;li&gt;Build full working applications using JavaScript frameworks, such as Angular, React, Vue, and more&lt;/li&gt;
+&lt;li&gt;Create test suites for your application with Jest and Selenium&lt;/li&gt;
+&lt;li&gt;Apply industry-standard design patterns to build modular code&lt;/li&gt;
+&lt;li&gt;Develop web server solutions using NodeJS and Express&lt;/li&gt;
+&lt;li&gt;Design and implement serverless API solutions&lt;/li&gt;
+&lt;li&gt;Explore micro front-end technologies and techniques&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;If you are keen to learn TypeScript, this book will give you all the necessary knowledge and skills to tackle any TypeScript project. It will also give you an understanding of what application frameworks are out there, and which one to choose for your next project. If you are already an experienced JS or TypeScript developer, then this book will take your skills to the next level. No JS experience is required to get started ― we'll teach you all you need to know.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Up and Running Quickly&lt;/li&gt;
+&lt;li&gt;Exploring the Type System&lt;/li&gt;
+&lt;li&gt;Interfaces, Classes, Inheritance, and Modules&lt;/li&gt;
+&lt;li&gt;Generics and Advanced Type Inference&lt;/li&gt;
+&lt;li&gt;Asynchronous Language Features&lt;/li&gt;
+&lt;li&gt;Decorators&lt;/li&gt;
+&lt;li&gt;Integration with JavaScript&lt;/li&gt;
+&lt;li&gt;Strict Compiler Options&lt;/li&gt;
+&lt;li&gt;Using Observables to Trasform Data&lt;/li&gt;
+&lt;li&gt;Test-Driven Development&lt;/li&gt;
+&lt;li&gt;Angular&lt;/li&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;Vue&lt;/li&gt;
+&lt;li&gt;Node and Express&lt;/li&gt;
+&lt;li&gt;An AWS Serverless API&lt;/li&gt;
+&lt;li&gt;Micro Front-ends&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p style="font-style: italic"&gt;"Mastering TypeScript, Fourth Edition is a great source of learning material for developers of all levels. Whether you're learning TypeScript for the first time, or looking to improve your existing skills, this book has something for you. The full stack application content is a fantastic addition too!"&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Ethan Arrowood - Software Engineer at Microsoft, Speaker, and Open Source Contributor&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Nathan Rozentals&lt;/strong&gt; has been writing commercial software for over 30 years, in C, C++, Java and C#. He picked up TypeScript within a week after its initial release in October 2012 and realized how much TypeScript could help when writing JavaScript. He was one of the first people to start blogging about TypeScript, discussing early frameworks such as Backbone, Marionette, ExtJS and AngularJs. He knew he'd hit the mark when Microsoft staff started to reference his blog posts in their CodePlex discussion forums.&lt;/p&gt;
+&lt;p&gt;Nathan’s TypeScript solutions now control User Interfaces in IoT devices, run as stand-alone applications for Point-of-Sale solutions, provide complex application configuration web sites, and are used for mission-critical server APIs.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781800564732</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1800564732</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-07-06T14:40:08.491421+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering TypeScript: Build Enterprise-Ready, Modular Web Applications Using TypeScript 4 and Modern Frameworks, 4th Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

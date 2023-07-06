@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1470</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">051dc38b-da0c-4f31-9a29-545cb940ef3c</dc:identifier>
+        <dc:title>Advanced TypeScript Programming Projects</dc:title>
+        <dc:creator opf:file-as="O'Hanlon, Peter" opf:role="aut">Peter O'Hanlon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-26T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Gain in-depth knowledge of TypeScript and the latest ECMAScript standards by building robust web applications across different domains&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Apply the cutting-edge features of TypeScript 3.0 to build high-performance, maintainable applications &lt;/li&gt;
+&lt;li&gt;Learn through practical examples of using TypeScript with popular frameworks, such as Angular and React &lt;/li&gt;
+&lt;li&gt;Focus on building high-quality applications that are modular, scalable and adaptable&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;With the demand for ever more complex websites, the need to write robust, standard-compliant JavaScript has never been greater. TypeScript is modern JavaScript with the support of a first-class type system, which makes it simpler to write complex web systems. With this book, you'll explore core concepts and learn by building a series of websites and TypeScript apps. &lt;/p&gt;
+&lt;p&gt;You'll start with an introduction to TypeScript features that are often overlooked in other books, before moving on to creating a simple markdown parser. You'll then explore React and get up to speed with creating a client-side contacts manager. Next, the book will help you discover the Angular framework and use the MEAN stack to create a photo gallery. Later sections will assist you in creating a GraphQL Angular Todo app and then writing a Socket.IO chatroom. The book will also lead you through developing your final Angular project which is a mapping app. As you progress, you'll gain insights into React with Docker and microservices. You'll even focus on how to build an image classification program with machine learning using TensorFlow. Finally, you'll learn to combine TypeScript and C# to create an ASP.NET Core-based music library app. &lt;/p&gt;
+&lt;p&gt;By the end of this book, you'll be able to confidently use TypeScript 3.0 and different JavaScript frameworks to build high-quality apps.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Discover how to use TypeScript to write code using common patterns &lt;/li&gt;
+&lt;li&gt;Get to grips with using popular frameworks and libraries with TypeScript &lt;/li&gt;
+&lt;li&gt;Leverage the power of both server and client using TypeScript &lt;/li&gt;
+&lt;li&gt;Learn how to apply exciting new paradigms such as GraphQL and TensorFlow &lt;/li&gt;
+&lt;li&gt;Use popular cloud-based authenticated services &lt;/li&gt;
+&lt;li&gt;Combine TypeScript with C# to create ASP.NET Core applications&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is for programmers and web developers who are familiar with TypeScript and want to put their knowledge to work by building real-world complex applications. Prior experience with any other web framework is not required.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Advanced TypeScript Features&lt;/li&gt;
+&lt;li&gt;Creating a Markdown Editor with TypeScript Type System&lt;/li&gt;
+&lt;li&gt;A React Bootstrap Personal Contacts Manager&lt;/li&gt;
+&lt;li&gt;The TypeScript MEAN stack - building a photo gallery&lt;/li&gt;
+&lt;li&gt;Angular ToDo app with GraphQL and Apollo&lt;/li&gt;
+&lt;li&gt;Building A Chatroom Application using Socket.IO&lt;/li&gt;
+&lt;li&gt;Building Cloud Based Mapping Application with Angular and Firebase&lt;/li&gt;
+&lt;li&gt;Building a CRM application using React and Microservices&lt;/li&gt;
+&lt;li&gt;Image recognition with Vue.js and Tensorflow.js&lt;/li&gt;
+&lt;li&gt;Building an ASP.NET Core Music Library&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Peter O Hanlon&lt;/strong&gt; has been a professional developer for nearly 30 years. In this time, he has developed desktop and web applications of all types and sizes. During his development career, Peter has worked with languages such as C, C++, BASIC, Pascal, and JavaScript. For the last 18 years or so, Peter has concentrated on C# WPF, JavaScript, and now TypeScript. Over the years, Peter has been a Code Project MVP several times, a member of the Intel Innovator program, as well as competing in the Intel Ultimate Coder 2 contest. Peter is always keen to embrace new technologies and languages, which has led him to be actively involved in technologies such as augmented and mixed reality, computer vision, artificial intelligence, and gesture recognition.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781789133042</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1789133041</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">rukOxQEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-07-06T14:40:38.747391+00:00"/>
+        <meta name="calibre:title_sort" content="Advanced TypeScript Programming Projects"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

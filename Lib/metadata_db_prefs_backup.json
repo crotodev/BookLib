@@ -17,6 +17,10 @@
   ],
   "gui_view_history": [
     [
+      1471,
+      "Essential TypeScript 4: From Beginner to Pro"
+    ],
+    [
       1468,
       "Scala Machine Learning Projects: Build Real-World Machine Learning and Deep Learning Projects With Scala"
     ],
@@ -71,10 +75,6 @@
     [
       1267,
       "Streaming Data: Understanding the Real-Time Pipeline"
-    ],
-    [
-      701,
-      "Behavioral Finance and Your Portfolio: A Navigation Guide for Building Wealth"
     ]
   ],
   "library_view books view state": {
@@ -988,5 +988,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1688569307.701476
+  "last_expired_trash_at": 1688654027.0790348
 }

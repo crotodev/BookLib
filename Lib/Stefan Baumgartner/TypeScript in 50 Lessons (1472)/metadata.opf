@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1472</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">edc717f2-c565-4aac-b578-b31de8bfd5b7</dc:identifier>
+        <dc:title>TypeScript in 50 Lessons</dc:title>
+        <dc:creator opf:file-as="Baumgartner, Stefan" opf:role="aut">Stefan Baumgartner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-20T07:20:31+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In “TypeScript in 50 Lessons”, Stefan Baumgartner breaks down the quirks of TypeScript into short, manageable lessons. You’ll make sense of TypeScript concepts, tooling for TypeScript and how to get most out of it without learning a new language. Everything TypeScript explained, from start to finish. &lt;/p&gt;
+&lt;p&gt;Written for seasoned and not-so-seasoned developers who know enough JavaScript to be dangerous, or want to dive deeper into TypeScript. With code walkthroughs, hands-on examples and common gotchas, that’s a book you might want to keep close. &lt;/p&gt;
+&lt;p&gt;You’ll learn:&lt;br&gt;•TypeScript concepts, and how to make sense of them all.&lt;br&gt;•TypeScript tooling, needed to use the language effectively.&lt;br&gt;•How to get most out of TypeScript without learning a new language.&lt;br&gt;•Structural type systems, their semantics, and why they matter.&lt;br&gt;•Low-maintenance types and how to write types once, and let them grow automatically as code evolves.&lt;br&gt;•How to bend the type system to make it fit the needs of your projects.&lt;br&gt;•TypeScript culture and how the language is evolving. &lt;/p&gt;
+&lt;p&gt;Table of Contents: &lt;/p&gt;
+&lt;p&gt;1.TypeScript for Smashing People&lt;br&gt;2.Functions&lt;br&gt;3.Union and Intersection Types&lt;br&gt;4.Generics&lt;br&gt;5.Conditional Types&lt;br&gt;6.Thinking in Types&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">B08NT8VM5M</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-07-06T14:41:39.858263+00:00"/>
+        <meta name="calibre:title_sort" content="TypeScript in 50 Lessons"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
