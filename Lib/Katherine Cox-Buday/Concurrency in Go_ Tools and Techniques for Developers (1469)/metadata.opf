@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1469</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92f6a5d1-93a1-42c5-b6c3-b2e1bf29289b</dc:identifier>
+        <dc:title>Concurrency in Go: Tools and Techniques for Developers</dc:title>
+        <dc:creator opf:file-as="Cox-Buday, Katherine" opf:role="aut">Katherine Cox-Buday</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-11T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Concurrency can be notoriously difficult to get right, but fortunately, the Go open source programming language makes working with concurrency tractable and even easy. If you're a developer familiar with Go, this practical book demonstrates best practices and patterns to help you incorporate concurrency into your systems. &lt;/p&gt;
+&lt;p&gt;Author Katherine Cox-Buday takes you step-by-step through the process. You'll understand how Go chooses to model concurrency, what issues arise from this model, and how you can compose primitives within this model to solve problems. Learn the skills and tooling you need to confidently write and implement concurrent systems of any size. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand how Go addresses fundamental problems that make concurrency difficult to do correctly &lt;/li&gt;
+&lt;li&gt;Learn the key differences between concurrency and parallelism &lt;/li&gt;
+&lt;li&gt;Dig into the syntax of Go's memory synchronization primitives &lt;/li&gt;
+&lt;li&gt;Form patterns with these primitives to write maintainable concurrent code &lt;/li&gt;
+&lt;li&gt;Compose patterns into a series of practices that enable you to write large, distributed systems that scale &lt;/li&gt;
+&lt;li&gt;Learn the sophistication behind goroutines and how Go's runtime stitches everything together &lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Incorporated</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781491941195</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1123863796</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-07-06T02:56:34.506599+00:00"/>
+        <meta name="calibre:title_sort" content="Concurrency in Go: Tools and Techniques for Developers"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
