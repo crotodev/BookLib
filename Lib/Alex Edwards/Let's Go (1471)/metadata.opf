@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1471</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8da92381-465c-4951-8ecd-33b378689cf5</dc:identifier>
+        <dc:title>Let's Go</dc:title>
+        <dc:creator opf:file-as="Edwards, Alex" opf:role="aut">Alex Edwards</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Go is a great language for building web applications. But teaching yourself from blog posts and the standard-library documentation can often leave you with more questions than answers. &lt;/p&gt;
+&lt;p&gt;You might be wondering: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Where can I see a concrete example of a real-world web application? &lt;/li&gt;
+&lt;li&gt;How is it best to structure and organize my code? &lt;/li&gt;
+&lt;li&gt;How do I make sure I’m not making any mistakes when it comes to security? &lt;/li&gt;
+&lt;li&gt;How do I use modules to manage and version control dependencies? &lt;/li&gt;
+&lt;li&gt;And how do I effectively test my web application? &lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Let’s Go answers these questions for you — and a whole lot more. &lt;/p&gt;
+&lt;p&gt;The book guides you through the start-to-finish build of a real-world application, so you'll gain all the knowledge, understanding and confidence needed to create production-quality applications with Go.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="GOODREADS">43429043</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-07-06T02:59:28.802295+00:00"/>
+        <meta name="calibre:title_sort" content="Let's Go"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

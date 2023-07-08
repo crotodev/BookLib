@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1468</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce107f97-692e-490c-9a6e-e5020799f877</dc:identifier>
+        <dc:title>Build Systems With Go: Everything a Gopher Must Know</dc:title>
+        <dc:creator opf:file-as="Tirado, Juan M." opf:role="aut">Juan M. Tirado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-08T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h4 style="font-size: medium"&gt;Everything a Gopher must know in a single book!!!&lt;/h4&gt;
+&lt;p style="font-weight: bold"&gt;New ebook design!!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Second edition (v0.2.0)&lt;/strong&gt; with revisited content, enhanced explanations, a new chapter about Cgo, and more awesome gophers. &lt;/p&gt;
+&lt;p&gt;Because to build a system you need more than a collection of loops, this book offers the reader a complete explanation of the most useful aspects of the Go language, and how to use them with existing tools from the Go ecosystem. Do not stay in the basics, move forward and learn how to build systems with restful APIs, gRPC messaging, powerful loggers, middleware, SQL/noSQL databases, data streaming, and more. A book written for new adopters and experienced developers.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;More than 200 runnable examples.&lt;/li&gt;
+&lt;li&gt;Code available in GitHub (https://github.com/juanmanuel-tirado/savetheworldwithgo).&lt;/li&gt;
+&lt;li&gt;Concise explanations from basic to advanced levels.&lt;/li&gt;
+&lt;li&gt;Explore advanced topics: reflection, concurrency, benchmarking, profiling, etc.&lt;/li&gt;
+&lt;li&gt;Learn how developers use Go: modules, tags, CLIs, encodings, etc.&lt;/li&gt;
+&lt;li&gt;Learn how to build systems with gRPC, Kafka, Cassandra, MySQL, Cobra, and more.&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Contents&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Part I: The GO language 
+&lt;ul style="margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px"&gt;
+&lt;li&gt;First steps with Go&lt;/li&gt;
+&lt;li&gt;The basics&lt;/li&gt;
+&lt;li&gt;Arrays, slices, and maps&lt;/li&gt;
+&lt;li&gt;Structs, methods and interfaces&lt;/li&gt;
+&lt;li&gt;Reflection&lt;/li&gt;
+&lt;li&gt;Concurrency&lt;/li&gt;
+&lt;li&gt;Input/Output&lt;/li&gt;
+&lt;li&gt;Encodings&lt;/li&gt;
+&lt;li&gt;HTTP&lt;/li&gt;
+&lt;li&gt;Templates &lt;/li&gt;
+&lt;li&gt;Testing&lt;/li&gt;
+&lt;li&gt;Modules and documentation&lt;/li&gt;
+&lt;li&gt;Cgo&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Part II: Building systems 
+&lt;ul style="margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px"&gt;
+&lt;li&gt;Protocol buffers&lt;/li&gt;
+&lt;li&gt;gRPC&lt;/li&gt;
+&lt;li&gt;Logging with Zerolog &lt;/li&gt;
+&lt;li&gt;Command line interface&lt;/li&gt;
+&lt;li&gt;Relational databases&lt;/li&gt;
+&lt;li&gt;NoSQL databases&lt;/li&gt;
+&lt;li&gt;Kafka&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;The author&lt;/p&gt;
+&lt;p&gt;Juan M. Tirado holds a Ph. D. in computer science and has been a researcher at the UC3M, INRIA, and the University of Cambridge. He is interested in how data can be used to enhance large scale distributed systems, and helps companies to design and implement data-driven solutions. He runs the blog jmtirado.net where you can find his most recent posts. In his free time, he enjoys music, mountaineering, and tapas in no particular order.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">B091FX4CZX</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781789803365</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1132463320</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B091FX4CZX</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57672364</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-07-06T02:55:15.575963+00:00"/>
+        <meta name="calibre:title_sort" content="Build Systems With Go: Everything a Gopher Must Know"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

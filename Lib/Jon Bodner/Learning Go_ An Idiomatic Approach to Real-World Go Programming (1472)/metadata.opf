@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1472</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61a9cd76-d5fe-49c5-adc6-e44a92dc3eef</dc:identifier>
+        <dc:title>Learning Go: An Idiomatic Approach to Real-World Go Programming</dc:title>
+        <dc:creator opf:file-as="Bodner, Jon" opf:role="aut">Jon Bodner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-23T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Go is rapidly becoming the preferred language for building web services. While there are plenty of tutorials available that teach Go's syntax to developers with experience in other programming languages, tutorials aren't enough. They don't teach Go's idioms, so developers end up recreating patterns that don't make sense in a Go context. This practical guide provides the essential background you need to write clear and idiomatic Go. &lt;/p&gt;
+&lt;p&gt;No matter your level of experience, you'll learn how to think like a Go developer. Author Jon Bodner introduces the design patterns experienced Go developers have adopted and explores the rationale for using them. You'll also get a preview of Go's upcoming generics support and how it fits into the language. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn how to write idiomatic code in Go and design a Go project &lt;/li&gt;
+&lt;li&gt;Understand the reasons for the design decisions in Go &lt;/li&gt;
+&lt;li&gt;Set up a Go development environment for a solo developer or team &lt;/li&gt;
+&lt;li&gt;Learn how and when to use reflection, unsafe, and cgo &lt;/li&gt;
+&lt;li&gt;Discover how Go's features allow the language to run efficiently &lt;/li&gt;
+&lt;li&gt;Know which Go features you should use sparingly or not at all &lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781492077213</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1492077216</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1137946330</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">55841848</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">CzfgzQEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-07-06T03:02:09.865157+00:00"/>
+        <meta name="calibre:title_sort" content="Learning Go: An Idiomatic Approach to Real-World Go Programming"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
