@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f7b804cb-71d4-4003-a59f-0e1b453a049b</dc:identifier>
         <dc:title>Build Your Own Redis With C/C++: Learn Network Programming and Data Structures by Building a Redis-Like Server From Scratch With C/C++.</dc:title>
         <dc:creator opf:file-as="Smith, James" opf:role="aut">James Smith</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-01-24T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Learn network programming and data structures by building a Redis-like server from scratch with C/C++.&lt;/p&gt;
@@ -14,7 +14,7 @@
 &lt;li&gt;&lt;strong&gt;Why from scratch?&lt;/strong&gt; A quote from Richard Feynman: "What I cannot create, I do not understand". Human understandings are filled with holes aka "things I don't know I don't know". Building from scratch is a way to ensure your understanding is complete.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Why C?&lt;/strong&gt; C is widely used in system programming and infrastructure software. Learn how C is used in real projects, with straightforward C code, no prior C/C++ experience required.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Why a book?&lt;/strong&gt; The Redis project is a complex software system built with lots of effort, which can be harder to grasp for beginners. The book breaks down the core concepts into easy-to-digest steps.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Independently Published</dc:publisher>
+        <dc:publisher>Independently published</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9798372815469</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B0BT2CT8XY</dc:identifier>
         <dc:language>eng</dc:language>

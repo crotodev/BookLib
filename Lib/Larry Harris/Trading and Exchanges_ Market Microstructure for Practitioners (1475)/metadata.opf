@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1475</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1be799ae-4668-4e4c-add3-e64b8a37d6ed</dc:identifier>
+        <dc:title>Trading and Exchanges: Market Microstructure for Practitioners</dc:title>
+        <dc:creator opf:file-as="Harris, Larry" opf:role="aut">Larry Harris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-09-30T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This book is about trading, the people who trade securities and contracts, the marketplaces where they trade, and the rules that govern it. Readers will learn about investors, brokers, dealers, arbitrageurs, retail traders, day traders, rogue traders, and gamblers; exchanges, boards of trade, dealer networks, ECNs (electronic communications networks), crossing markets, and pink sheets. Also covered in this text are single price auctions, open outcry auctions, and brokered markets limit orders, market orders, and stop orders. Finally, the author covers the areas of program trades, block trades, and short trades, price priority, time precedence, public order precedence, and display precedence, insider trading, scalping, and bluffing, and investing, speculating, and gambling. &lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"Knowledge and information about the stock market are vital tools for investors as they shape their strategies and portfolios. Professor Harris's truly unique, unassailably practical, and plain English presentation offers investors, newcomers and veterans alike, valuable and easy to understand insights that heighten individual confidence and the opportunity for success. A smarter, more informed investor is a more discriminating and successful investor."--Dick Grasso, former Chairman and CEO, New York Stock Exchange&lt;/p&gt;
+&lt;p&gt;"The inner (and outer) workings of the trading mechanism is a highly complex subject with often unappreciated relevance for anyone who has virtually any involvement in the financial markets. Writing with a clarity and a pace that Hemingway would have applauded, Larry Harris shines a bright light on both the latest theory and current practices, and he then probes deeply and thoughtfully into their implications for market participants."--Martin L. Leibowitz, Ph.D., Managing Director of Morgan Stanley and former Vice Chairman and Chief Investment Officer, TIAA-CREF&lt;/p&gt;
+&lt;p&gt;"Professor Harris has written an extraordinary book detailing the complex workings of modern equity markets. This book provides a wealth of institutional detail, and an integrated framework for understanding how markets actually work. It will surely be a standard reference book for all who work in or study the markets for many years to come."--Maureen O'Hara, Acting Director in Graduate Studies at the Samuel Curtis Johnson Graduate School of Management at Cornell University&lt;/p&gt;
+&lt;p&gt;"Larry Harris is arguably the foremost expert on market microstructure. ... With his illustrious background you might suspect he knows of what he speaks. After you read this book, you will be convinced of it. &lt;em&gt;Trading and Exchanges&lt;/em&gt; is the most comprehensive treatment of market microstructure I have seen. ... Harris offers something for everyone with an interest in trading. ... [He] presents his subject matter, which could be so daunting to many of us, in a surprisingly accessible and entertaining style. Despite this engaging style, he does not compromise on breadth or depth. ... &lt;em&gt;Trading and Exchanges&lt;/em&gt; is indispensable for anyone who cares about trading. What's more, it is entertaining."-- &lt;em&gt;Journal of Investment Management&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"The people who trade securities and contracts, the marketplaces where they trade, the rules that govern trading, and differences between investing, speculating, and gambling are all addressed in this volume.-- &lt;em&gt;Business Horizons&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;". . . &lt;em&gt;Trading and Exchanges&lt;/em&gt; is about as comprehensive a book about the markets and trading as you are going to find. . .[T]his book is . . .organized so that you can flip to any topic and be certain of in depth coverage and accessible explanations supported by graphs and tables. Harris touches on just about every aspect of market economics, structure and regulation, from the players. . .to the game. This book is an objective, and more important, practical survey of an area of financial economics that has become increasingly, and needlessly, complex. . . Harris keeps us on the straight and narrow. We are unable to drift into that disingenuous and murky world of trading advice based on personal success, or failure in the markets. . .Whether you are a novice or veteran investor, trader, dealer or broker, Trading and Exchanges cracks the code on practically every facet of market microstructures. It is a trading bible."-- &lt;em&gt;TurtleTrader.com&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Larry Harris holds the Fred V. Keenan Chair in Finance at the University of Southern California Marshall School of Business. In July 2002, Professor Harris was appointed Chief Economist of the U.S. Securities and Exchange Commission, where he served until June 2004. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780195144703</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0195144708</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1101401630</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">1290158</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Rd9hDRR1Yx4C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Business</dc:subject>
+        <meta name="calibre:series" content="Financial Management Association Survey and Synthesis"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-07-08T17:43:01.738259+00:00"/>
+        <meta name="calibre:title_sort" content="Trading and Exchanges: Market Microstructure for Practitioners"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
