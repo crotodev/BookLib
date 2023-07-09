@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1484</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6481d3d-d626-4f86-bc5a-821480e2f383</dc:identifier>
+        <dc:title>Generative Adversarial Networks and Deep Learning</dc:title>
+        <dc:creator opf:file-as="Raut, Roshani &amp; Pathak, Pranav D &amp; Sakhare, Sachin R &amp; Patil, Sonali" opf:role="aut">Roshani Raut</dc:creator>
+        <dc:creator opf:file-as="Raut, Roshani &amp; Pathak, Pranav D &amp; Sakhare, Sachin R &amp; Patil, Sonali" opf:role="aut">Pranav D Pathak</dc:creator>
+        <dc:creator opf:file-as="Raut, Roshani &amp; Pathak, Pranav D &amp; Sakhare, Sachin R &amp; Patil, Sonali" opf:role="aut">Sachin R Sakhare</dc:creator>
+        <dc:creator opf:file-as="Raut, Roshani &amp; Pathak, Pranav D &amp; Sakhare, Sachin R &amp; Patil, Sonali" opf:role="aut">Sonali Patil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-10T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This book explores how to use generative adversarial networks in a variety of applications and emphasises their substantial advancements over traditional generative models. This book's major goal is to concentrate on cutting-edge research in deep learning and generative adversarial networks, which includes creating new tools and methods for processing text, images, and audio. &lt;/p&gt;
+&lt;p&gt;A Generative Adversarial Network (GAN) is a class of machine learning framework and is the next emerging network in deep learning applications. Generative Adversarial Networks(GANs) have the feasibility to build improved models, as they can generate the sample data as per application requirements. There are various applications of GAN in science and technology, including computer vision, security, multimedia and advertisements, image generation, image translation,text-to-images synthesis, video synthesis, generating high-resolution images, drug discovery, etc.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Features&lt;/em&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presents a comprehensive guide on how to use GAN for images and videos.&lt;/li&gt;
+&lt;li&gt;Includes case studies of Underwater Image Enhancement Using Generative Adversarial Network, Intrusion detection using GAN&lt;/li&gt;
+&lt;li&gt;Highlights the inclusion of gaming effects using deep learning methods&lt;/li&gt;
+&lt;li&gt;Examines the significant technological advancements in GAN and its real-world application.&lt;/li&gt;
+&lt;li&gt;Discusses as GAN challenges and optimal solutions&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;The book addresses scientific aspects for a wider audience such as junior and senior engineering, undergraduate and postgraduate students, researchers, and anyone interested in the trends development and opportunities in GAN and Deep Learning.&lt;/p&gt;
+&lt;p&gt;The material in the book can serve as a reference in libraries, accreditation agencies, government agencies, and especially the academic institution of higher education intending to launch or reform their engineering curriculum&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>CRC Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781032068107</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1032068108</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1142121077</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">77312379</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>This book explores how to use generative adversarial networks in a variety of applications and emphasises their substantial advancements over traditional generative models. This bookâ••s major goal is to concentrate on cutting-edge research in deep learning and generative adversarial networks</dc:subject>
+        <dc:subject>which includes creating new tools and methods for processing text</dc:subject>
+        <dc:subject>images</dc:subject>
+        <dc:subject>and audio.The book addresses scientific aspects for a wider audience such as junior and senior engineering</dc:subject>
+        <dc:subject>undergraduate and postgraduate students</dc:subject>
+        <dc:subject>researchers</dc:subject>
+        <dc:subject>and anyone interested in the trends development and opportunities in GAN and deep learning.The material in the book can serve as a reference in libraries</dc:subject>
+        <dc:subject>accreditation agencies</dc:subject>
+        <dc:subject>government agencies</dc:subject>
+        <dc:subject>and especially the academic institutions of higher education intending to launch or reform their engineering curriculum.A generative adversarial network (GAN) is a class of machine learning framework and is the next emerging network in deep learning applications. Generative adversarial networks (GANs) have the feasibility to build improved models</dc:subject>
+        <dc:subject>as they can generate the sample data as per the application requirements. There are various applications of GAN in science and technology</dc:subject>
+        <dc:subject>including computer vision</dc:subject>
+        <dc:subject>Security</dc:subject>
+        <dc:subject>multimedia and advertisements</dc:subject>
+        <dc:subject>image generation</dc:subject>
+        <dc:subject>image translation</dc:subject>
+        <dc:subject>text-to-images synthesis</dc:subject>
+        <dc:subject>video synthesis</dc:subject>
+        <dc:subject>generating high-resolution images</dc:subject>
+        <dc:subject>drug discovery</dc:subject>
+        <dc:subject>etc.Features:</dc:subject>
+        <dc:subject>Deep Learning; Machine Learning; Artificial Intelligence; Computer Vision</dc:subject>
+        <meta name="calibre:timestamp" content="2023-07-09T15:50:35.557462+00:00"/>
+        <meta name="calibre:title_sort" content="Generative Adversarial Networks and Deep Learning"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

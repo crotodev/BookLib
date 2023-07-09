@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1483</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9d2ec17-b9f2-46c7-a851-edbf30b96cec</dc:identifier>
+        <dc:title>Systematic Trading: A Unique New Method for Designing Trading and Investing Systems</dc:title>
+        <dc:creator opf:file-as="Carver, Robert" opf:role="aut">Robert Carver</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-14T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This is not just another book with yet another trading system. This is a complete guide to developing your own systems to help you make and execute trading and investing decisions. It is intended for everyone who wishes to systematise their financial decision making, either completely or to some degree. &lt;/p&gt;
+&lt;p&gt;Author Robert Carver draws on financial theory, his experience managing systematic hedge fund strategies and his own in-depth research to explain why systematic trading makes sense and demonstrates how it can be done safely and profitably. Every aspect, from creating trading rules to position sizing, is thoroughly explained. The framework described here can be used with all assets, including equities, bonds, forex and commodities. &lt;/p&gt;
+&lt;p&gt;There is no magic formula that will guarantee success, but cutting out simple mistakes will improve your performance. You'll learn how to avoid common pitfalls such as over-complicating your strategy, being too optimistic about likely returns, taking excessive risks and trading too frequently. &lt;/p&gt;
+&lt;p&gt;Important features include: &lt;/p&gt;
+&lt;p&gt;- The theory behind systematic trading: why and when it works, and when it doesn't.&lt;br&gt;- Simple and effective ways to design effective strategies.&lt;br&gt;- A complete position management framework which can be adapted for your needs.&lt;br&gt;- How fully systematic traders can create or adapt trading rules to forecast prices.&lt;br&gt;- Making discretionary trading decisions within a systematic framework for position management.&lt;br&gt;- Why traditional long only investors should use systems to ensure proper diversification, and avoid costly and unnecessary portfolio churn.&lt;br&gt;- Adapting strategies depending on the cost of trading and how much capital is being used.&lt;br&gt;- Practical examples from UK, US and international markets showing how the framework can be used. &lt;/p&gt;
+&lt;p&gt;Systematic Trading is detailed, comprehensive and full of practical advice. It provides a unique new approach to system development and a must for anyone considering using systems to make some, or all, of their investment decisions.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harriman House</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780857194459</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1122372926</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Systematic Trading</dc:subject>
+        <meta name="calibre:timestamp" content="2023-07-09T15:49:58.027683+00:00"/>
+        <meta name="calibre:title_sort" content="Systematic Trading: A Unique New Method for Designing Trading and Investing Systems"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

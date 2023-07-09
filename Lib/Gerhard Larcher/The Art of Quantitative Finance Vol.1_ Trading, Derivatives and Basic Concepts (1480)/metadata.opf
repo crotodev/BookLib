@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1480</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1e96143-f1e9-45ef-99c0-ee8e53f0d907</dc:identifier>
+        <dc:title>The Art of Quantitative Finance Vol.1: Trading, Derivatives and Basic Concepts</dc:title>
+        <dc:creator opf:file-as="Larcher, Gerhard" opf:role="aut">Gerhard Larcher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-30T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This textbook offers an easily understandable introduction to the fundamental concepts of financial mathematics and financial engineering. The author presents and discusses the basic concepts of financial engineering and illustrates how to trade and to analyze financial products with numerous examples. Special attention is given to the valuation of basic financial derivatives. In the final section of the book, the author introduces the Wiener Stock Price Model and the basic principles of Black-Scholes theory. The book’s aim is to introduce readers to the basic techniques of modern financial mathematics in a way that is intuitive and easy to follow, and to provide financial mathematicians with insights into practical requirements when applying financial mathematical techniques in the real world. &lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;This textbook offers an easily understandable introduction to the fundamental concepts of financial mathematics and financial engineering. The author presents and discusses the basic concepts of financial engineering and illustrates how to trade and to analyze financial products with numerous examples. Special attention is given to the valuation of basic financial derivatives. In the final section of the book, the author introduces the Wiener Stock Price Model and the basic principles of Black-Scholes theory. The book’s aim is to introduce readers to the basic techniques of modern financial mathematics in a way that is intuitive and easy to follow, and to provide financial mathematicians with insights into practical requirements when applying financial mathematical techniques in the real world. &lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Prof. Gerhard Larcher is full Professor for Financial Mathematics and Head of the Institute for Financial Mathematics and Applied Number Theory at the Johannes Kepler University Linz in Austria. He is the spokesperson of the project 'Quasi-Monte Carlo Methods: Theory and Applications', a special research program funded by the Austrian government.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Springer</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783031238727</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">3031238729</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1142728894</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">123165879</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">sOW2EAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Financial Engineering</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Applied</dc:subject>
+        <dc:subject>Insurance</dc:subject>
+        <dc:subject>Risk Assessment &amp; Management</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <meta name="calibre:series" content="Springer Texts in Business and Economics"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="2"/>
+        <meta name="calibre:timestamp" content="2023-07-09T15:47:00.230271+00:00"/>
+        <meta name="calibre:title_sort" content="Art of Quantitative Finance Vol.1: Trading, Derivatives and Basic Concepts, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
