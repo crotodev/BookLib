@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1491</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2d66c27-a7a7-4ae5-ad5f-6c8de30cf9d6</dc:identifier>
+        <dc:title>Build It. Fix It. Own It: A Beginner's Guide to Building and Upgrading a PC</dc:title>
+        <dc:creator opf:file-as="McFedries, Paul" opf:role="aut">Paul McFedries</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-07T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;BUILD IT. FIX it. OWN IT.&lt;/p&gt;
+&lt;p&gt;A Beginner’s Guide to Building and Upgrading a PC&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Build It. Fix It. Own It.&lt;/em&gt; is the ultimate beginner’s guide to building and fixing your own PC. With a friendly, knowledgeable tone, this book shows the beginning PC builder everything he or she needs to know to build a computer or upgrade an existing one. &lt;/p&gt;
+&lt;p&gt;We step you through the parts that lurk inside a PC, from the motherboard and power supply to the CPU, memory, hard drive, video card, sound card, and networking hardware. In each case, you will learn how the hardware works, what it does, what types of hardware are available, and what to look for when buying the hardware.&lt;/p&gt;
+&lt;p&gt;Then we walk you step-by-step though a series of PC building projects. We show you how to build five different types of PC: a basic business PC, a home theater PC, a high-performance PC, a killer gaming PC, and a budget PC. And if building a new PC from scratch isn’t in your budget, we show you how to resurrect an old PC by swapping out a few key components.&lt;/p&gt;
+&lt;p&gt;When you have your PC built and running, we show you how to set up a wireless network and the BIOS and maintain your new rig.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Build It. Fix It. Own It.&lt;/em&gt; is the ultimate PC builder’s guide, even if you’ve never ventured inside a PC case before!&lt;/p&gt;
+&lt;p&gt;Author Bio&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Paul McFedries&lt;/strong&gt; is one of the industry’s most well known and respected technical writers and is a passionate computer tinkerer. He is the author of more than 70 computer books that have sold more than three million copies worldwide. His recent titles include the Sams Publishing books &lt;em&gt;Windows Vista Unleashed&lt;/em&gt; and &lt;em&gt;Windows Home Server Unleashed&lt;/em&gt; and the Que Publishing books &lt;em&gt;Networking with Microsoft Windows Vista&lt;/em&gt; , &lt;em&gt;Formulas and Functions with Microsoft Excel 2007&lt;/em&gt; , &lt;em&gt;Tricks of the Microsoft Office 2007 Gurus&lt;/em&gt; , and &lt;em&gt;Microsoft Access 2007 Forms, Reports, and Queries&lt;/em&gt;. Paul also is the proprietor of Word Spy (www.wordspy.com), a website devoted to tracking new words and phrases as they enter the English language.&lt;/p&gt;
+&lt;p&gt;Category Hardware&lt;/p&gt;
+&lt;p&gt;Covers PC Hardware&lt;/p&gt;
+&lt;p&gt;User Level Beginner—Intermediate&lt;/p&gt;
+&lt;h3&gt;Excerpt. © Reprinted by permission. All rights reserved.&lt;/h3&gt;
+&lt;p&gt;Introduction &lt;/p&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In this Introduction&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build It. Fix It. Own It!&lt;/li&gt;
+&lt;li&gt;Who Should Read This Book?&lt;/li&gt;
+&lt;li&gt;Conventions Used in This Book&lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-style: italic"&gt;Man is a shrewd inventor, and is ever taking the hint of a new machine from his own structure, adapting some secret of his own anatomy in iron, wood, and leather, to some required function in the work of the world.&lt;/p&gt;
+&lt;p&gt;—-Ralph Waldo Emerson, &lt;em&gt;English Traits&lt;/em&gt;&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;As technology advances, it reverses the characteristics of every situation again and again. The age of automation is going to be the age of "do it yourself."&lt;/p&gt;
+&lt;p&gt;—Marshall McLuhan&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;Home-made, home-made! But aren't we all?&lt;/p&gt;
+&lt;p&gt;—-Elizabeth Bishop, &lt;em&gt;Crusoe in England&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The 1950s were a hobbyist's paradise with magazines such as &lt;em&gt;Mechanix Illustrated&lt;/em&gt; and &lt;em&gt;Popular Mechanics&lt;/em&gt; showing the do-it-yourselfer how to build a go-kart for the kids and how to soup up his lawnmower with an actual motor! Fifty years later, we're now firmly entrenched in what some people are calling the age of tech DIY, where geeks of all persuasions—and both sexes—engage in various forms of digital tinkering and hardware hacking.&lt;/p&gt;
+&lt;p&gt;One of the main thrusts of this hobbyist renaissance is that it's better to make something yourself than to buy it. When you purchase something, you're really only renting it until its inevitable obsolescence. However, if you make it yourself, you own it and you can delay (often for a very long time) obsolescence by upgrading and repairing the device.&lt;/p&gt;
+&lt;p&gt;Unfortunately, building most digital devices isn't easy for the beginner because it requires soldering skills, working with complex tools such as multimeters, and knowing the difference between a resistor and a capacitor. However, there's one digital device that doesn't require any of these skills or knowledge, and so can be built by any curious and motivated beginner, a PC:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All the parts you need—the case, power supply, motherboard, processor, memory, hard drive, expansion cards, and peripherals—are readily available online or from big-box retailers or electronics stores.&lt;/li&gt;
+&lt;li&gt;All the tools you need—really not much more than a screwdriver or two, a pair of needle-nose pliers, and perhaps a nut driver—are part of most people's toolkits or can be easily obtained.&lt;/li&gt;
+&lt;li&gt;All the techniques you need—inserting chips and cards, connecting cables, and tightening screws—are simple and straightforward.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Add to this the simple fact that building your own computer is much better than buying one because the machine you end up with is &lt;em&gt;exactly&lt;/em&gt; the one you want, not some faceless machine designed for the masses and loaded with tons of crapware you never asked for and don't want. Besides, building your own PC is both educational and just plain fun, so it's no wonder that so many people nowadays are going (or would like to go) the build-it-yourself route.&lt;/p&gt;
+&lt;h2&gt;Build It. Fix It. Own It!&lt;/h2&gt;
+&lt;p&gt;Welcome, then, to &lt;em&gt;Built It. Fix It. Own It.&lt;/em&gt; , the book that will be your guide on this build-it-yourself path. This book will show you everything you need to know to build a computer or upgrade an existing one. Even if you've never looked inside a computer and wouldn't know a motherboard from an expansion board or a CPU from a GPU, this book will give you the know-how and confidence to build a computer with your bare hands.&lt;/p&gt;
+&lt;p&gt;To that end, the first part of the book takes you through the various PC parts: from the case, motherboard, and power supply, to the processor, memory, hard drive, video card, sound card, and networking hardware. In each case, you learn how the hardware works, what it does, what types of hardware are available, and what to look for when buying the hardware. The first part of the book also includes a chapter full of tips, techniques, and cautionary tales for purchasing PC parts (see Chapter 7), a chapter that runs through all the basic skills you need to build and upgrade a PC (Chapter 8), and a chapter on how to scavenge parts from on old PC (see Chapter 9).&lt;/p&gt;
+&lt;p&gt;The second part of the book takes you through a series of projects. The first five chapters show you how to build five different types of PC: a basic business PC; a home theater PC; a high-performance PC; a killer gaming PC; and a budget PC. Another chapter shows you how to upgrade an old PC and you then learn how to put together a network that uses both wired and wireless connections. The final chapter in Part II explains how to maintain a PC, from cleaning the components to updating the motherboard BIOS and device drivers to basic hard drive maintenance.&lt;/p&gt;
+&lt;h2&gt;Who Should Read This Book?&lt;/h2&gt;
+&lt;p&gt;This book is aimed at budding computer hobbyists who want to try their hand at building a PC from scratch and at upgrading an old PC to get more life or performance out of it. This book should also appeal to people who have tried other books in the same field, only to find them too intimidating, too simplistic, or too cutesy.&lt;/p&gt;
+&lt;p&gt;To that end, this book includes the following features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Buyer's guides that enable you to make smart and informed choices when purchasing hardware&lt;/li&gt;
+&lt;li&gt;Easy-to-follow explanations of key concepts for new users&lt;/li&gt;
+&lt;li&gt;In-depth coverage of all topics for more experienced users&lt;/li&gt;
+&lt;li&gt;Extensive use of clear and detailed photos to illustrate hardware and all building and upgrading techniques&lt;/li&gt;
+&lt;li&gt;Tips, tricks, and shortcuts to make building and upgrading a PC easier and faster&lt;/li&gt;
+&lt;li&gt;Real-world projects you can relate to&lt;/li&gt;
+&lt;li&gt;A friendly and lightly humorous tone that I hope will help you feel at home with the subject and keep boredom at bay&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;Conventions Used in This Book&lt;/h2&gt;
+&lt;p&gt;To make your life easier, this book includes various features and conventions that help you get the most out of this book and out of building a PC:&lt;/p&gt;
+&lt;p&gt;Steps&lt;/p&gt;
+&lt;p&gt;Throughout the book, I've broken many building, upgrading, and repairing tasks into easy-to-follow step-by-step procedures.&lt;/p&gt;
+&lt;p&gt;Things you type&lt;/p&gt;
+&lt;p&gt;Whenever I suggest that you type something, what you type appears in a &lt;strong&gt;bold monospace&lt;/strong&gt; font.&lt;/p&gt;
+&lt;p&gt;Filenames, folder names, and code&lt;/p&gt;
+&lt;p&gt;These things appear in a monospace font.&lt;/p&gt;
+&lt;p&gt;Commands&lt;/p&gt;
+&lt;p&gt;Commands and their syntax use the monospace font, too. Command placeholders (which stand for what you actually type) appear in an &lt;em&gt;italic monospace&lt;/em&gt; font.&lt;/p&gt;
+&lt;p&gt;Pull-down menu commands&lt;/p&gt;
+&lt;p&gt;I use the following style for all application menu commands: &lt;em&gt;Menu&lt;/em&gt; , &lt;em&gt;Command&lt;/em&gt; , where &lt;em&gt;Menu&lt;/em&gt; is the name of the menu you pull down and &lt;em&gt;Command&lt;/em&gt; is the name of the command you select. Here's an example: File, Open. This means you pull down the File menu and select the Open command.&lt;/p&gt;
+&lt;p&gt;This book also uses the following boxes to draw your attention to important (or merely interesting) information:&lt;/p&gt;
+&lt;p&gt;Note - The Note box presents asides that give you more information about the current topic. These tidbits provide extra insights that offer a better understanding of the task.&lt;/p&gt;
+&lt;p&gt;Caution - The all-important Caution box tells you about potential accidents waiting to happen. There are always ways to mess things up when you're working with computers. These boxes help you avoid those traps and pitfalls.&lt;/p&gt;
+&lt;p&gt;Tip - The Tip box tells you about methods that are easier, faster, or more efficient than the standard methods.&lt;/p&gt;
+&lt;p&gt;© Copyright Pearson Education. All rights reserved.&lt;/p&gt;
+&lt;p&gt;--This text refers to an alternate kindle_edition edition.&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;BUILD IT. FIX it. OWN IT. A Beginner's Guide to Building and Upgrading a PC "Build It. Fix It. Own It." is the ultimate beginner's guide to building and fixing your own PC. With a friendly, knowledgeable tone, this book shows the beginning PC builder everything he or she needs to know to build a computer or upgrade an existing one. We step you through the parts that lurk inside a PC, from the motherboard and power supply to the CPU, memory, hard drive, video card, sound card, and networking hardware. In each case, you will learn how the hardware works, what it does, what types of hardware are available, and what to look for when buying the hardware. Then we walk you step-by-step though a series of PC building projects. We show you how to build five different types of PC: a basic business PC, a home theater PC, a high-performance PC, a killer gaming PC, and a budget PC. And if building a new PC from scratch isn't in your budget, we show you how to resurrect an old PC by swapping out a few key components. When you have your PC built and running, we show you how to set up a wireless network and the BIOS and maintain your new rig. "Build It. Fix It. Own It." is the ultimate PC builder's guide, even if you've never ventured inside a PC case before! Author Bio Paul McFedries is one of the industry's most well known and respected technical writers and is a passionate computer tinkerer. He is the author of more than 70 computer books that have sold more than three million copies worldwide. His recent titles include the Sams Publishing books "Windows Vista Unleashed" and "Windows Home Server Unleashed" and the Que Publishing books "Networking with Microsoft Windows Vista," "Formulas and Functions with Microsoft Excel 2007," "Tricks of the Microsoft Office 2007 Gurus," and "Microsoft Access 2007 Forms, Reports, and Queries." Paul also is the proprietor of Word Spy (www.wordspy.com), a website devoted to tracking new words and phrases as they enter the English language. Category Hardware Covers PC Hardware User Level Beginner-Intermediate --This text refers to an alternate kindle_edition edition.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Paul McFedries&lt;/strong&gt; is a full-time technical writer and passionate computer tinkerer. He is the author of more than 70 computer books that have sold more than three million copies worldwide. His recent titles include the Sams Publishing books &lt;em&gt;Windows Vista Unleashed&lt;/em&gt; and &lt;em&gt;Windows Home Server Unleashed&lt;/em&gt; and the Que Publishing books &lt;em&gt;Networking with Windows Vista&lt;/em&gt; ; &lt;em&gt;Formulas and Functions with Microsoft Excel 2007&lt;/em&gt; ; &lt;em&gt;Tricks of the Microsoft Office 2007 Gurus&lt;/em&gt; ; and &lt;em&gt;Microsoft Access 2007 Forms, Reports, and Queries&lt;/em&gt;. Paul also is the proprietor of Word Spy (www.wordspy.com), a website devoted to tracking new words and phrases as they enter the English language.&lt;/p&gt;
+&lt;p&gt;--This text refers to an alternate kindle_edition edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>QUE</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780789738271</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B004V9O96W</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1100841119</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">22259079</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">_yEmKNR-FWAC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Hardware</dc:subject>
+        <dc:subject>Personal Computers</dc:subject>
+        <dc:subject>PCs</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-07-13T15:35:53.242394+00:00"/>
+        <meta name="calibre:title_sort" content="Build It. Fix It. Own It: A Beginner's Guide to Building and Upgrading a PC"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

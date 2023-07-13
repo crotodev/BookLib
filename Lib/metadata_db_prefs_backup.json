@@ -17,6 +17,22 @@
   ],
   "gui_view_history": [
     [
+      1381,
+      "Hands-On Data Analysis With Scala: Perform Data Collection, Processing, Manipulation, and Visualization With Scala"
+    ],
+    [
+      1483,
+      "Systematic Trading: A Unique New Method for Designing Trading and Investing Systems"
+    ],
+    [
+      1405,
+      "The Data Science Handbook"
+    ],
+    [
+      1351,
+      "Scala Cookbook: Recipes for Object-Oriented and Functional Programming"
+    ],
+    [
       1471,
       "Essential TypeScript 4: From Beginner to Pro"
     ],
@@ -59,66 +75,9 @@
     [
       1431,
       "Learn React with TypeScript"
-    ],
-    [
-      1409,
-      "Scala Puzzlers"
-    ],
-    [
-      1402,
-      "Essential Statistics for Data Science: a Concise Crash Course"
-    ],
-    [
-      1346,
-      "Reinforcement Learning for Finance: Solve Problems in Finance With CNN and RNN Using the TensorFlow Library"
-    ],
-    [
-      1267,
-      "Streaming Data: Understanding the Real-Time Pipeline"
     ]
   ],
   "library_view books view state": {
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    },
-    "column_positions": {
-      "#solutions": 12,
-      "authors": 2,
-      "formats": 14,
-      "id": 13,
-      "languages": 11,
-      "last_modified": 10,
-      "ondevice": 0,
-      "path": 15,
-      "pubdate": 9,
-      "publisher": 8,
-      "rating": 5,
-      "series": 7,
-      "size": 4,
-      "tags": 6,
-      "timestamp": 3,
-      "title": 1
-    },
-    "column_sizes": {
-      "#solutions": 100,
-      "authors": 350,
-      "formats": 0,
-      "id": 0,
-      "languages": 0,
-      "last_modified": 0,
-      "path": 0,
-      "pubdate": 90,
-      "publisher": 208,
-      "rating": 0,
-      "series": 279,
-      "size": 88,
-      "tags": 412,
-      "timestamp": 96,
-      "title": 350
-    },
-    "formats_injected": true,
     "hidden_columns": [
       "id",
       "rating",
@@ -127,11 +86,16 @@
       "last_modified",
       "languages"
     ],
-    "id_injected": true,
-    "languages_injected": true,
     "last_modified_injected": true,
+    "languages_injected": true,
+    "formats_injected": true,
+    "id_injected": true,
     "path_injected": true,
     "sort_history": [
+      [
+        "authors",
+        true
+      ],
       [
         "timestamp",
         false
@@ -144,7 +108,47 @@
         "timestamp",
         false
       ]
-    ]
+    ],
+    "column_positions": {
+      "ondevice": 0,
+      "id": 13,
+      "title": 1,
+      "authors": 2,
+      "timestamp": 3,
+      "size": 4,
+      "rating": 5,
+      "tags": 6,
+      "series": 7,
+      "publisher": 8,
+      "formats": 14,
+      "path": 15,
+      "pubdate": 9,
+      "last_modified": 10,
+      "languages": 11,
+      "#solutions": 12
+    },
+    "column_sizes": {
+      "id": 0,
+      "title": 350,
+      "authors": 350,
+      "timestamp": 96,
+      "size": 88,
+      "rating": 0,
+      "tags": 412,
+      "series": 279,
+      "publisher": 208,
+      "formats": 0,
+      "path": 0,
+      "pubdate": 90,
+      "last_modified": 0,
+      "languages": 0,
+      "#solutions": 100
+    },
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    }
   },
   "books view split pane state": {
     "column_positions": {
@@ -988,5 +992,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1688654027.0790348
+  "last_expired_trash_at": 1689093599.145674
 }
