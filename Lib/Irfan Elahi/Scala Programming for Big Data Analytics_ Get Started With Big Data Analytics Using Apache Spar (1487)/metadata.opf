@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1487</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbc643e4-1c47-46b1-8301-e697c2565d57</dc:identifier>
+        <dc:title>Scala Programming for Big Data Analytics: Get Started With Big Data Analytics Using Apache Spark</dc:title>
+        <dc:creator opf:file-as="Elahi, Irfan" opf:role="aut">Irfan Elahi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-06T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Gain the key language concepts and programming techniques of Scala in the context of big data analytics and Apache Spark. The book begins by introducing you to Scala and establishes a firm contextual understanding of why you should learn this language, how it stands in comparison to Java, and how Scala is related to Apache Spark for big data analytics. Next, you’ll set up the Scala environment ready for examining your first Scala programs. This is followed by sections on Scala fundamentals including mutable/immutable variables, the type hierarchy system, control flow expressions and code blocks.&lt;br&gt;The author discusses functions at length and highlights a number of associated concepts such as functional programming and anonymous functions. The book then delves deeper into Scala’s powerful collections system because many of Apache Spark’s APIs bear a strong resemblance to Scala collections. &lt;br&gt;Along the way you’ll see the development life cycle of a Scala program. This involves compiling and building programs using the industry-standard Scala Build Tool (SBT). You’ll cover guidelines related to dependency management using SBT as this is critical for building large Apache Spark applications. &lt;em&gt;Scala Programming for Big Data Analytics&lt;/em&gt; concludes by demonstrating how you can make use of the concepts to write programs that run on the Apache Spark framework. These programs will provide distributed and parallel computing, which is critical for big data analytics.&lt;br&gt;&lt;strong&gt;What You Will Learn&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;See the fundamentals of Scala as a general-purpose programming language&lt;/li&gt;
+&lt;li&gt;Understand functional programming and object-oriented programming constructs in Scala&lt;/li&gt;
+&lt;li&gt;Use Scala collections and functions &lt;/li&gt;
+&lt;li&gt;Develop, package and run Apache Spark applications for big data analytics&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Who This Book Is For&lt;/strong&gt;&lt;br&gt;Data scientists, data analysts and data engineers who intend to use Apache Spark for large-scale analytics. &lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Gain the key language concepts and programming techniques of Scala in the context of big data analytics and Apache Spark. The book begins by introducing you to Scala and establishes a firm contextual understanding of why you should learn this language, how it stands in comparison to Java, and how Scala is related to Apache Spark for big data analytics. Next, you’ll set up the Scala environment ready for examining your first Scala programs. You’ll start with code blocks that allow you to group and execute related statements together as a block and see the implications for Scala’s type system. &lt;br&gt;The author discusses functions at length and highlights a number of associated concepts such as zero-parity functions, single-line functions, and anonymous functions. Along the way you’ll see the development life cycle of a Scala program. This involves compiling and building programs using the industry-standard Scala Build Tool (SBT). You’ll cover guidelines related to dependency management using SBT as this is critical for building large Apache Spark applications. &lt;br&gt;&lt;em&gt;Scala Programming for Big Data Analytics&lt;/em&gt; concludes by demonstrating how you can make use of the concepts to write programs that run on the Apache Spark framework. These programs will provide distributed and parallel computing, which is critical for big data analytics.&lt;br&gt;You will: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;See the fundamentals of Scala as a general-purpose programming language &lt;/li&gt;
+&lt;li&gt;Understand functional programming and object-oriented programming constructs in Scala &lt;/li&gt;
+&lt;li&gt;Comprehend the use and various features of Scala REPL (shell) &lt;/li&gt;
+&lt;li&gt;Use Scala collections and functions &lt;/li&gt;
+&lt;li&gt;Employ functional programming constructs&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Irfan Elahi is a senior consultant in Deloitte Australia specializing in big data and machine learning. His primary focus lies in using big data and machine learning to support business growth with multifaceted and strong ties to the telecommunications, energy, retail and media industries. He has worked on a number of projects in Australia to design, prototype, develop, and deploy production-grade big data solutions in Amazon Web Services (AWS) and Azure to support a number of use-cases ranging from enterprise data warehousing, ETL offloading, analytics, batch processing and stream processing while employing leading commercial Hadoop solutions such as Cloudera and Hortonworks. He has worked closely with clients’ systems and software engineering teams using DevOps to enhance the continuous integration and continuous deployment (CICD) processes and manage a Hadoop cluster’s operations and security. &lt;br&gt;In addition to his technology competencies, Irfan has recently presented at the DataWorks Summit in Sydney on the subject of in-memory big data technologies and in a number of meetups all around the world. He also remains involved delivering knowledge-transfer sessions, training and workshops about big data and machine learning, both within his firm and at clients. He also has launched Udemy courses on Apache Spark for big data analytics and R programming for data science with more than 18,000 students from 145 countries enrolled. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484248096</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484248090</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1130751708</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-07-11T16:58:03.313041+00:00"/>
+        <meta name="calibre:title_sort" content="Scala Programming for Big Data Analytics: Get Started With Big Data Analytics Using Apache Spark"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

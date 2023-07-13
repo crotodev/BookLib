@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1488</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1ecd92c-6504-41c7-a6c7-9710b7781102</dc:identifier>
+        <dc:title>Generative AI With Python and TensorFlow 2: Create Images, Text, and Music With VAEs, GANs, LSTMs, Transformer Models</dc:title>
+        <dc:creator opf:file-as="Babcock, Joseph &amp; Bali, Raghav" opf:role="aut">Joseph Babcock</dc:creator>
+        <dc:creator opf:file-as="Babcock, Joseph &amp; Bali, Raghav" opf:role="aut">Raghav Bali</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Fun and exciting projects to learn what artificial minds can create&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Code examples are in TensorFlow 2, which make it easy for PyTorch users to follow along&lt;/li&gt;
+&lt;li&gt;Look inside the most famous deep generative models, from GPT to MuseGAN&lt;/li&gt;
+&lt;li&gt;Learn to build and adapt your own models in TensorFlow 2.x&lt;/li&gt;
+&lt;li&gt;Explore exciting, cutting-edge use cases for deep generative AI&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Machines are excelling at creative human skills such as painting, writing, and composing music. Could you be more creative than generative AI?&lt;/p&gt;
+&lt;p&gt;In this book, you'll explore the evolution of generative models, from restricted Boltzmann machines and deep belief networks to VAEs and GANs. You'll learn how to implement models yourself in TensorFlow and get to grips with the latest research on deep neural networks.&lt;/p&gt;
+&lt;p&gt;There's been an explosion in potential use cases for generative models. You'll look at Open AI's news generator, deepfakes, and training deep learning agents to navigate a simulated environment.&lt;/p&gt;
+&lt;p&gt;Recreate the code that's under the hood and uncover surprising links between text, image, and music generation.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Export the code from GitHub into Google Colab to see how everything works for yourself&lt;/li&gt;
+&lt;li&gt;Compose music using LSTM models, simple GANs, and MuseGAN&lt;/li&gt;
+&lt;li&gt;Create deepfakes using facial landmarks, autoencoders, and pix2pix GAN&lt;/li&gt;
+&lt;li&gt;Learn how attention and transformers have changed NLP&lt;/li&gt;
+&lt;li&gt;Build several text generation pipelines based on LSTMs, BERT, and GPT-2&lt;/li&gt;
+&lt;li&gt;Implement paired and unpaired style transfer with networks like StyleGAN&lt;/li&gt;
+&lt;li&gt;Discover emerging applications of generative AI like folding proteins and creating videos from images&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This is a book for Python programmers who are keen to create and have some fun using generative models. To make the most out of this book, you should have a basic familiarity with math and statistics for machine learning.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;An Introduction to Generative AI: "Drawing" Data from Models&lt;/li&gt;
+&lt;li&gt;Setting Up a TensorFlow Lab&lt;/li&gt;
+&lt;li&gt;Building Blocks of Deep Neural Networks&lt;/li&gt;
+&lt;li&gt;Teaching Networks to Generate Digits&lt;/li&gt;
+&lt;li&gt;Painting Pictures with Neural Networks Using VAEs&lt;/li&gt;
+&lt;li&gt;Image Generation with GANs&lt;/li&gt;
+&lt;li&gt;Style Transfer with GANs&lt;/li&gt;
+&lt;li&gt;Deepfakes with GANs&lt;/li&gt;
+&lt;li&gt;The Rise of Methods for Text Generation&lt;/li&gt;
+&lt;li&gt;NLP 2.0: Using Transformers to Generate Text&lt;/li&gt;
+&lt;li&gt;Composing Music with Generative Models&lt;/li&gt;
+&lt;li&gt;Play Video Games with Generative AI: GAIL&lt;/li&gt;
+&lt;li&gt;Emerging Applications in Generative AI&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p style="font-style: italic"&gt;"The book takes a hands-on approach with practical exercises that when implemented rewards you with rich knowledge! You can learn how to create an AI that composes music or how to create deep fakes. Numerous topics around generative AI are covered and you get a broad overview about the current status in this field of machine learning. If you want a quick and practical introduction to generative AI, this book is for you!"&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Philip Vollet, Senior Data Engineer at KPMG, Developer and Owner of Moonwalk&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;"If your job is in the intersection of computers and creativity, this book is for you. You'll get to learn how to use generative models for your various creative arts, such as creating life-like characters, speeches for your game characters, and background music for a story you want to tell. So get the book to help your creative juices flow better!"&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Koo Ping Shung, President &amp;amp; Co-founder AI Professionals Association and LinkedIn Top Voice&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;"Generative models are currently enabling some of the most powerful and creative machine learning based applications. As they become easier to train, accessible, and more widely-adopted, new applications and opportunities will emerge for machine learning engineers in diverse fields and industries. The authors cover a wide spectrum of topics in this book making it one of the most comprehensive resources for anyone interested in learning about generative models such as VAEs and GANs, including theory and applications."&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Elvis Saravia, Independent Machine Learning Researcher and Engineer, Technical Product Marketing Manager at Facebook AI, and Founder of dair.ai&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Joseph Babcock&lt;/strong&gt; has spent more than a decade working with big data and AI in the e-commerce, digital streaming, and quantitative finance domains. Through his career he has worked on recommender systems, petabyte scale cloud data pipelines, A/B testing, causal inference, and time series analysis. He completed his PhD studies at Johns Hopkins University, applying machine learning to the field of drug discovery and genomics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Raghav Bali&lt;/strong&gt; is an author of multiple well received books and a Senior Data Scientist at one of the world’s largest healthcare organizations. His work involves research and development of enterprise-level solutions based on Machine Learning, Deep Learning, and Natural Language Processing for Healthcare and Insurance-related use cases. His previous experiences include working at Intel and American Express. Raghav has a master’s degree (gold medalist) from the International Institute of Information Technology, Bangalore.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781800200883</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1800200889</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1139910726</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-07-11T17:56:30.678940+00:00"/>
+        <meta name="calibre:title_sort" content="Generative AI With Python and TensorFlow 2: Create Images, Text, and Music With VAEs, GANs, LSTMs, Transformer Models"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

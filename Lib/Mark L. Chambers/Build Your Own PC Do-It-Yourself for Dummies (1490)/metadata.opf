@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1490</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1bbcf3d3-0a21-462c-b331-7c755b57ab95</dc:identifier>
+        <dc:title>Build Your Own PC Do-It-Yourself for Dummies</dc:title>
+        <dc:creator opf:file-as="Chambers, Mark L." opf:role="aut">Mark L. Chambers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-03T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;If you’ve dreamed about having a customized multimedia PC or one tricked out for your favorite games, build your own and make your dreams come true! &lt;em&gt;Build Your Own PC Do-It-Yourself For Dummies&lt;/em&gt; makes it easy. &lt;/p&gt;
+&lt;p&gt;Not only is building your own PC a really rewarding project, it can also save you a nice chunk of cash. This step-by-step guide helps you decide what you need, teaches you what all those computer terms mean, and tells you exactly how to put the pieces together. It shows you:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What tools you need (not as many as you might think!)&lt;/li&gt;
+&lt;li&gt;All about operating systems&lt;/li&gt;
+&lt;li&gt;How to install CD and DVD drives&lt;/li&gt;
+&lt;li&gt;The scoop on sound and video, and how to put a sound system together from start to finish&lt;/li&gt;
+&lt;li&gt;How to connect a monitor and install a modem&lt;/li&gt;
+&lt;li&gt;All about setting up and configuring the hard drive&lt;/li&gt;
+&lt;li&gt;Secrets for securing your system, and more&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Included is a bonus DVD showing you how to install the motherboard, CPU, RAM, ports, hard drive, video and sound cards, a DVD drive, and more. With &lt;em&gt;Build Your Own PC Do-It-Yourself For Dummies,&lt;/em&gt; you can have the computer you want plus the satisfaction of doing it yourself!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; CD-ROM/DVD and other supplementary materials are not included as part of eBook file.&lt;/p&gt;
+&lt;h3&gt;From the Inside Flap&lt;/h3&gt;
+&lt;p&gt;Do-it-Yourself&lt;/p&gt;
+&lt;p&gt;Build the custom PC you want — just the way you want it — and have fun doing it!&lt;/p&gt;
+&lt;p&gt;Are you frustrated because you can't buy the PC you want? Have you ever wanted to create your own custom PC but were unfamiliar with all of the parts and terminology? This book is your new best friend!&lt;/p&gt;
+&lt;p&gt;This illustrated, hands-on guide will help you choose the best components for the PC that's right for you. Inside the book, we walk you through the assembly process in simple, can-do language. Plus, you get a bonus DVD containing 45 minutes of step-by-step video instructions that show you how to build your own PC. It's like having an expert right beside you all the way!&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Do-it-Yourself&lt;/p&gt;
+&lt;p&gt;Build the custom PC you want — just the way you want it — and have fun doing it!&lt;/p&gt;
+&lt;p&gt;Are you frustrated because you can't buy the PC you want? Have you ever wanted to create your own custom PC but were unfamiliar with all of the parts and terminology? This book is your new best friend!&lt;/p&gt;
+&lt;p&gt;This illustrated, hands-on guide will help you choose the best components for the PC that's right for you. Inside the book, we walk you through the assembly process in simple, can-do language. Plus, you get a bonus DVD containing 45 minutes of step-by-step video instructions that show you how to build your own PC. It's like having an expert right beside you all the way!&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Mark L. Chambers has been building, customizing, and repairing PCs for over 20 years for himself and clients. As a consultant, he helps everyday folks update, maintain, and troubleshoot PCs.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780470196113</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0470196114</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1013389847</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:series" content="For Dummies Books"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-07-13T15:35:02.793898+00:00"/>
+        <meta name="calibre:title_sort" content="Build Your Own PC Do-It-Yourself for Dummies"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
