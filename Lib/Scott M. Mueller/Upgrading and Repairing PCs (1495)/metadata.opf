@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1495</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f984e601-aa32-4341-901c-939f5f2f8fbf</dc:identifier>
+        <dc:title>Upgrading and Repairing PCs</dc:title>
+        <dc:creator opf:file-as="Mueller, Scott M." opf:role="aut">Scott M. Mueller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-11T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;DVD-ROM&lt;/strong&gt; Includes &lt;strong&gt;3 hours&lt;/strong&gt; of new how-to video&lt;/p&gt;
+&lt;p&gt;For more than 25 years, &lt;em&gt;Upgrading and Repairing PCs&lt;/em&gt; has been the world’s #1 guide to PC hardware: The single source for reliable information on how PCs work, troubleshooting and fixing problems, adding hardware, optimizing performance, and building new PCs. This 22nd edition offers beefed-up coverage of the newest hardware innovations and maintenance techniques, plus more than two hours of new video.&lt;/p&gt;
+&lt;p&gt;Scott Mueller delivers practical answers about PC processors, mother-boards, buses, BIOSes, memory, SSD and HDD storage, video, audio, networks, Internet connectivity, power, and much more. You’ll find the industry’s best coverage of diagnostics, testing, and repair―plus cutting-edge discussions of improving PC performance via overclocking and other techniques.&lt;/p&gt;
+&lt;p&gt;Mueller has taught thousands of professionals in person and millions more through his books and videos― &lt;em&gt;nobody knows more about keeping PCs running perfectly&lt;/em&gt;. Whether you’re a professional technician, a small business owner trying to save money, or a home PC enthusiast, this is the only PC hardware book you need!&lt;/p&gt;
+&lt;p&gt;NEW IN THIS EDITION&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The newest processors, including Intel’s latest Core i Haswell processors and AMD’s Kaveri core processors. &lt;/li&gt;
+&lt;li&gt;Everything you need to know about the latest GPU technology from NVIDIA and AMD, including developments in OpenGL, DirectX, and Mantle. &lt;/li&gt;
+&lt;li&gt;New firmware innovations like the InSyde BIOS, Back to BIOS buttons, and all the updated settings available for the newest processors and chipsets. &lt;/li&gt;
+&lt;li&gt;The latest in updated home networking standards, from blazing fast 802.11ac Wi-Fi to HomeGrid and G.hn powerline networking. &lt;/li&gt;
+&lt;li&gt;Ever larger storage, thanks to new technologies like helium-filled hard disks, shingled magnetic recording, and Cfast and XQD for flash memory. &lt;/li&gt;
+&lt;li&gt;Emerging interfaces such as mSATA, USB 3.1, and M.2 &lt;/li&gt;
+&lt;li&gt;Updated coverage of building PCs from scratch―from choosing and assembling hardware through BIOS setup and troubleshooting &lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;ON THE DVD&lt;/p&gt;
+&lt;p&gt;Get 3 hours of up-to-the minute, studio-quality how-to videos―all playable on your DVD player or computer! In this edition, Scott Mueller delivers a complete seminar on PC troubleshooting, teaching you how to identify and resolve an array of common and not-so-common PC problems.&lt;/p&gt;
+&lt;p&gt;From detailed explanations on all the tools that should be a basic part of any PC toolkit, to all the critical rules you should follow to safely operate on your PC’s internal components, in these videos Scott Mueller ensures you are equipped with everything you need to know to successfully resolve your PC’s problems. &lt;/p&gt;
+&lt;p&gt;From there, Scott takes you through a complete disassembly of an All-in-One (AiO) system, showing just what you can do to keep these specialized systems running smoothly. Finally, there is a detailed look at today’s ultra-fast solid state disk drives (SSD) and the benefits they bring to modern systems. &lt;/p&gt;
+&lt;p&gt;This DVD also contains the complete 19th and 20th editions of this book in printable form, plus extensive technical reference material, a comprehensive glossary, and more.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Scott Mueller&lt;/strong&gt; is the president of Mueller Technical Research (MTR), an international research and corporate training firm. Since 1982, MTR has produced the industry’s most in-depth, accurate, and effective seminars, books, articles, videos, and FAQs covering PC hardware and data recovery. MTR maintains a client list that includes Fortune 500 companies, U.S. and foreign governments,&lt;/p&gt;
+&lt;p&gt;major software and hardware corporations, as well as PC enthusiasts and entrepreneurs. Scott’s seminars have been presented to several thousands of PC support professionals throughout the world.&lt;/p&gt;
+&lt;p&gt;Scott personally teaches seminars nationwide covering all aspects of PC hardware (including troubleshooting, maintenance, repair, and upgrade), A+ Certification, and data recovery/forensics. He has a knack for making technical topics not only understandable, but entertaining; his classes are never boring! If you have ten or more people to train, Scott can design and present a custom seminar for your organization.&lt;/p&gt;
+&lt;p&gt;Although he has taught classes virtually nonstop since 1982, Scott is best known as the author of the longest-running, most popular, and most comprehensive PC hardware book in the world, &lt;em&gt;Upgrading and Repairing PCs&lt;/em&gt; , which has become the core of an entire series of books, including &lt;em&gt;Upgrading and Repairing PCs&lt;/em&gt; , &lt;em&gt;Upgrading and Repairing Laptops&lt;/em&gt; , and &lt;em&gt;Upgrading and Repairing Windows&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Scott’s premiere work, &lt;em&gt;Upgrading and Repairing PCs&lt;/em&gt; , has sold more than two million copies, making it by far the most popular and longest-running PC hardware book on the market today. Scott has been featured in &lt;em&gt;Forbes&lt;/em&gt; magazine and has written several articles for &lt;em&gt;PC World&lt;/em&gt; magazine, &lt;em&gt;Maximum PC&lt;/em&gt; magazine, the Scott Mueller Forum, various computer and automotive newsletters, and the &lt;em&gt;Upgrading and Repairing PCs&lt;/em&gt; website.&lt;/p&gt;
+&lt;p&gt;Contact MTR directly if you have a unique book, article, or video project in mind or if you want Scott to conduct a custom PC troubleshooting, repair, maintenance, upgrade, or data-recovery seminar tailored for your organization:&lt;/p&gt;
+&lt;p&gt;Mueller Technical Research:&lt;/p&gt;
+&lt;p&gt;Web: www.muellertech.com&lt;/p&gt;
+&lt;p&gt;Email: info@muellertech.com&lt;/p&gt;
+&lt;p&gt;Forum: www.forum.scottmueller.com&lt;/p&gt;
+&lt;p&gt;Scott has a forum exclusively for his readers at www.forum.scottmueller.com. Anybody can view the forum, but posting is available only to registered members.&lt;/p&gt;
+&lt;p&gt;If you have suggestions or comments about the book or new book or article topics you would like to see covered, send them to info@muellertech.com.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>QUE</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780789756107</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0789756102</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">23337548</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-07-13T15:48:54.937058+00:00"/>
+        <meta name="calibre:title_sort" content="Upgrading and Repairing PCs"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
