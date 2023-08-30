@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1504</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d1f008f-ebf3-4ac3-9f1a-c2de86f3aca0</dc:identifier>
+        <dc:title>Underground Asia: Global Revolutionaries and the Assault on Empire</dc:title>
+        <dc:creator opf:file-as="Harper, Tim" opf:role="aut">Tim Harper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;SHORTLISTED FOR THE CUNDILL HISTORY PRIZE 2021&lt;br&gt;&lt;br&gt;AN &lt;em&gt;ECONOMIST&lt;/em&gt; AND &lt;em&gt;HISTORY TODAY&lt;/em&gt; BOOK OF THE YEAR 2020 &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;'Compelling and highly original ... The Asia that we see today is the product of the 'underground' which Harper describes with skill and empathy in this monumental work' Rana Mitter, &lt;em&gt;Literary Review&lt;/em&gt; &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;The story of the hidden struggle waged by secret networks around the world to destroy European imperialism &lt;/p&gt;
+&lt;p&gt;The end of Europe's empires has so often been seen as a story of high politics and warfare. In Tim Harper's remarkable new book the narrative is very different: it shows how empires were fundamentally undermined from below. Using the new technology of cheap printing presses, global travel and the widespread use of French and English, young radicals from across Asia were able to communicate in ways simply not available before. These clandestine networks stretched to the heart of the imperial metropolises: to London, to Paris, to the Americas, but also increasingly to Moscow. &lt;/p&gt;
+&lt;p&gt;They created a secret global network which was for decades engaged in bitter fighting with imperial police forces. They gathered in the great hubs of Asia - Calcutta, Singapore, Batavia, Hanoi, Tokyo, Shanghai, Canton and Hong Kong - and plotted with ceaseless ingenuity, both through persuasion and terrorism, the end of the colonial regimes. Many were caught and killed or imprisoned, but others would go on to rule their newly independent countries. &lt;/p&gt;
+&lt;p&gt;Drawing on an amazing array of new sources, &lt;em&gt;Underground Asia&lt;/em&gt; turns upside-down our understanding of twentieth-century empire. The reader enters an extraordinary world of stowaways, false identities, secret codes, cheap firearms, assassinations and conspiracies, as young Asians made their own plans for their future. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;'Magnificent - it reads like a thriller and was difficult to put down' Peter Frankopan, &lt;em&gt;History Today&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781846145636</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1846145635</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1136437822</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">60151669</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-08-30T13:38:26.722880+00:00"/>
+        <meta name="calibre:title_sort" content="Underground Asia: Global Revolutionaries and the Assault on Empire"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
