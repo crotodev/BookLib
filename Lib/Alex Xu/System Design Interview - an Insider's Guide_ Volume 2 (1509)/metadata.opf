@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1509</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">532fca03-7a56-47e9-ab5f-d5480e9008dd</dc:identifier>
+        <dc:title>System Design Interview - an Insider's Guide: Volume 2</dc:title>
+        <dc:creator opf:file-as="Xu, Alex &amp; Lam, Sahn" opf:role="aut">Alex Xu</dc:creator>
+        <dc:creator opf:file-as="Xu, Alex &amp; Lam, Sahn" opf:role="aut">Sahn Lam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-11T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;System Design Interview - An Insider's Guide (Volume 2) This book can be seen as a sequel to the book: System Design Interview - An Insider's Guide. It covers a different set of system design interview questions and solutions. Although reading Volume 1 is helpful, it is not required. This book should be accessible to readers who have a basic understanding of distributed systems. This volume provides a reliable strategy and knowledge base for approaching a broad range of system design questions that you may encounter. It will help you feel confident during this important interview. This book provides a step-by-step framework for how to tackle a system design question. It also includes many real-world examples to illustrate a systematic approach, with detailed and well-explained steps you can follow. What's inside?- An insider's take on what interviewers really look for and why.- A 4-step framework for solving any system design interview question.- 13 real system design interview questions with detailed solutions.- 300+ diagrams to visually explain how different systems work. Table of ContentsChapter 1: Proximity ServiceChapter 2: Nearby FriendsChapter 3: Google MapsChapter 4: Distributed Message QueueChapter 5: Metrics MonitoringChapter 6: Ad Click Event AggregationChapter 7: Hotel ReservationChapter 8: Distributed Email ServiceChapter 9: S3-like Object StorageChapter 10: Real-time Gaming LeaderboardChapter 11: Payment SystemChapter 12: Digital WalletChapter 13: Stock Exchange&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Amazon Digital Services LLC - Kdp</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781736049112</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">1Sr7zgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Web Services &amp; APIs</dc:subject>
+        <meta name="calibre:timestamp" content="2023-09-01T02:33:39.756131+00:00"/>
+        <meta name="calibre:title_sort" content="System Design Interview - an Insider's Guide: Volume 2"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
