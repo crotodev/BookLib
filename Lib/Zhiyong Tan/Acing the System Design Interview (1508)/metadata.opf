@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1508</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11157992-b5c6-4f7d-a84a-531f03e70a48</dc:identifier>
+        <dc:title>Acing the System Design Interview</dc:title>
+        <dc:creator opf:file-as="Tan, Zhiyong" opf:role="aut">Zhiyong Tan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-10-31T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;The system design interview can be the hardest part of the software engineering hiring process. This practical book gives you the insights, skills, and practice you need to ace the toughest system design interview questions and land the job and salary you want. &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Acing the System Design Interview&lt;/em&gt; you will master a structured and organized approach to present system design ideas like: &lt;/p&gt;
+&lt;p&gt;• Scaling databases to support heavy traffic&lt;br&gt;• Distributed transactions techniques to ensure data consistency&lt;br&gt;• Services for functional partitioning such as API gateway, service mesh, and metadata&lt;br&gt;• Common API paradigms including REST, RPC, and GraphQL&lt;br&gt;• Caching strategies, including their tradeoffs&lt;br&gt;• Logging, monitoring, and alerting concepts that are critical in any system design &lt;/p&gt;
+&lt;p&gt;The system design interview is one of the hardest challenges you’ll face in the software engineering hiring process. Their open-ended nature often makes nailing this interview more art than science—and notoriously difficult to prepare for. Never fear! In &lt;em&gt;Acing the System Design Interview&lt;/em&gt; , Zhiyong Tan reveals his unique system design interview techniques that have earned him job offers from Amazon, Apple, PayPal, and Uber. The book goes well beyond typical soft skills. You’ll dive deep into the common technical topics that arise during interviews, learning how to apply them to mentally perfect different kinds of systems. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the technology &lt;/p&gt;
+&lt;p&gt;Any senior role in software engineering will include system design interviews in the hiring process. Built around open-ended questions with no standard answer, these interviews test how well you understand the design of complex systems. You’ll need to demonstrate that you can balance tradeoffs to design a system that both meets current requirements and is flexible to future modifications and extensions–all in a 50 minute interview! &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the book &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Acing the System Design Interview&lt;/em&gt; teaches you how to effectively demonstrate your system design expertise in an interview environment. In this in-depth guide, author &lt;strong&gt;Zhiyong Tan&lt;/strong&gt; shares what he’s learned on both sides of the interview table. The book’s serious technical overviews cover everything there is to know about system design—from the frameworks for functional partitioning, to different API paradigms. &lt;/p&gt;
+&lt;p&gt;You’ll learn how to quickly assess a question, identify an advantageous approach, and then clearly articulate it to an interviewer. A structured approach to preparing for your interview, handy note-taking techniques, and self-evaluation templates help you prep and assess how you did, and improve your future performance. Along the way, you’ll also learn appropriate questions to ask your interviewer and methods to take good interview notes. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the reader &lt;/p&gt;
+&lt;p&gt;For software engineers, software architects, and engineering managers looking to advance their careers. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About the author &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Zhiyong Tan&lt;/strong&gt; is a manager at PayPal. Previously, he worked as a senior full-stack engineer at Uber, as a data engineer at small startups, and as a software engineer at Teradata. Over the years, he has been on both sides of the table in numerous system design interviews. Zhiyong has also received prized job offers from prominent companies such as Amazon, Apple and Bytedance/TikTok.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781633439108</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1142153318</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>MEAP version 4</dc:subject>
+        <meta name="calibre:timestamp" content="2023-09-01T02:29:21.752442+00:00"/>
+        <meta name="calibre:title_sort" content="Acing the System Design Interview"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
