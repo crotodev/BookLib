@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1512</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3bfd5387-c68e-4c66-be25-c7e5e9611a55</dc:identifier>
+        <dc:title>Software Architecture for Busy Developers: Talk and Act Like a Software Architect in One Weekend</dc:title>
+        <dc:creator opf:file-as="Eyskens, Stéphane" opf:role="aut">Stéphane Eyskens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;A quick start guide to learning essential software architecture tools, frameworks, design patterns, and best practices&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Apply critical thinking to your software development and architecture practices and bring structure to your approach using well-known IT standards&lt;/li&gt;
+&lt;li&gt;Understand the impact of cloud-native approaches on software architecture&lt;/li&gt;
+&lt;li&gt;Integrate the latest technology trends into your architectural designs&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Are you a seasoned developer who likes to add value to a project beyond just writing code? Have you realized that good development practices are not enough to make a project successful, and you now want to embrace the bigger picture in the IT landscape? If so, you're ready to become a software architect; someone who can deal with any IT stakeholder as well as add value to the numerous dimensions of software development.&lt;/p&gt;
+&lt;p&gt;The sheer volume of content on software architecture can be overwhelming, however. Software Architecture for Busy Developers is here to help. Written by Stephane Eyskens, author of The Azure Cloud Native Mapbook, this book guides you through your software architecture journey in a pragmatic way using real-world scenarios. By drawing on over 20 years of consulting experience, Stephane will help you understand the role of a software architect, without the fluff or unnecessarily complex theory.&lt;/p&gt;
+&lt;p&gt;You'll begin by understanding what non-functional requirements mean and how they concretely impact target architecture. The book then covers different frameworks used across the entire enterprise landscape with the help of use cases and examples. Finally, you'll discover ways in which the cloud is becoming a game changer in the world of software architecture.&lt;/p&gt;
+&lt;p&gt;By the end of this book, you'll have gained a holistic understanding of the architectural landscape, as well as more specific software architecture skills. You'll also be ready to pursue your software architecture journey on your own - and in just one weekend!&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the roles and responsibilities of a software architect&lt;/li&gt;
+&lt;li&gt;Explore enterprise architecture tools and frameworks such as The Open Group Architecture Framework (TOGAF) and ArchiMate&lt;/li&gt;
+&lt;li&gt;Get to grips with key design patterns used in software development&lt;/li&gt;
+&lt;li&gt;Explore the widely adopted Architecture Tradeoff Analysis Method (ATAM)&lt;/li&gt;
+&lt;li&gt;Discover the benefits and drawbacks of monoliths, service-oriented architecture (SOA), and microservices&lt;/li&gt;
+&lt;li&gt;Stay on top of trending architectures such as API-driven, serverless, and cloud native&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;This book is for developers who want to move up the organizational ladder and become software architects by understanding the broader application landscape and discovering how large enterprises deal with software architecture practices. Prior knowledge of software development is required to get the most out of this book.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Introducing Software Architecture&lt;/li&gt;
+&lt;li&gt;Exploring Architecture Frameworks&lt;/li&gt;
+&lt;li&gt;Understanding ATAM and Software Quality Attributes&lt;/li&gt;
+&lt;li&gt;Reviewing Historical Architectural Styles&lt;/li&gt;
+&lt;li&gt;Design Patterns and Clean Architecture&lt;/li&gt;
+&lt;li&gt;Impact of the Cloud on Software Architecture Practices&lt;/li&gt;
+&lt;li&gt;Architectural Trends and Summary&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Stéphane Eyskens&lt;/strong&gt; has a developer background and became a solution architect about a decade ago. As a cloud subject matter expert, he contributed to many digital transformation programs, helping organizations get better results out of their cloud investments. As an MVP, he is an active contributor to the Microsoft Tech Community and has worked on multiple open source projects available on GitHub. Stéphane is also a Pluralsight assessment author as well as the author of multiple books and online recordings.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781801071598</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1801071594</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1139905748</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-09-07T13:56:21.398799+00:00"/>
+        <meta name="calibre:title_sort" content="Software Architecture for Busy Developers: Talk and Act Like a Software Architect in One Weekend"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

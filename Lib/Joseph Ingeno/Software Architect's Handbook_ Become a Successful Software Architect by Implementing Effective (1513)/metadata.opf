@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1513</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37136898-d690-4e2c-b474-b2866683732f</dc:identifier>
+        <dc:title>Software Architect's Handbook: Become a Successful Software Architect by Implementing Effective Architecture Concepts</dc:title>
+        <dc:creator opf:file-as="Ingeno, Joseph" opf:role="aut">Joseph Ingeno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;A comprehensive guide to exploring software architecture concepts and implementing best practices&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Enhance your skills to grow your career as a software architect&lt;/li&gt;
+&lt;li&gt;Design efficient software architectures using patterns and best practices&lt;/li&gt;
+&lt;li&gt;Learn how software architecture relates to an organization as well as software development methodology&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;The Software Architect’s Handbook is a comprehensive guide to help developers, architects, and senior programmers advance their career in the software architecture domain. This book takes you through all the important concepts, right from design principles to different considerations at various stages of your career in software architecture.&lt;/p&gt;
+&lt;p&gt;The book begins by covering the fundamentals, benefits, and purpose of software architecture. You will discover how software architecture relates to an organization, followed by identifying its significant quality attributes. Once you have covered the basics, you will explore design patterns, best practices, and paradigms for efficient software development.&lt;/p&gt;
+&lt;p&gt;The book discusses which factors you need to consider for performance and security enhancements. You will learn to write documentation for your architectures and make appropriate decisions when considering DevOps. In addition to this, you will explore how to design legacy applications before understanding how to create software architectures that evolve as the market, business requirements, frameworks, tools, and best practices change over time.&lt;/p&gt;
+&lt;p&gt;By the end of this book, you will not only have studied software architecture concepts but also built the soft skills necessary to grow in this field.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Design software architectures using patterns and best practices&lt;/li&gt;
+&lt;li&gt;Explore the different considerations for designing software architecture&lt;/li&gt;
+&lt;li&gt;Discover what it takes to continuously improve as a software architect&lt;/li&gt;
+&lt;li&gt;Create loosely coupled systems that can support change&lt;/li&gt;
+&lt;li&gt;Understand DevOps and how it affects software architecture&lt;/li&gt;
+&lt;li&gt;Integrate, refactor, and re-architect legacy applications&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;The Software Architect’s Handbook is for you if you are a software architect, chief technical officer (CTO), or senior developer looking to gain a firm grasp of software architecture.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;The Meaning of Software Architecture&lt;/li&gt;
+&lt;li&gt;Software Architecture in an Organization &lt;/li&gt;
+&lt;li&gt;Understanding The Domain&lt;/li&gt;
+&lt;li&gt;Software Quality Attributes&lt;/li&gt;
+&lt;li&gt;Software Architecture Design &lt;/li&gt;
+&lt;li&gt;Patterns and Best Practices of Software Development &lt;/li&gt;
+&lt;li&gt;Software Architecture Patterns &lt;/li&gt;
+&lt;li&gt;Architecting Modern Applications&lt;/li&gt;
+&lt;li&gt;Crosscutting Concerns &lt;/li&gt;
+&lt;li&gt;Performance Considerations &lt;/li&gt;
+&lt;li&gt;Security Considerations &lt;/li&gt;
+&lt;li&gt;Documenting and Validating Software Architecture &lt;/li&gt;
+&lt;li&gt;DevOps and Software Architecture &lt;/li&gt;
+&lt;li&gt;Architecting Legacy Applications &lt;/li&gt;
+&lt;li&gt;The Soft Skills of Software Architecture &lt;/li&gt;
+&lt;li&gt;Evolutionary Architecture &lt;/li&gt;
+&lt;li&gt;Becoming a Better Software Architect &lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Joseph Ingeno&lt;/strong&gt; is a software architect who oversees a number of enterprise software applications. During his career, he has designed and developed software for a variety of different industries. He has extensive experience working on web, mobile, and desktop applications using different technologies and frameworks.&lt;/p&gt;
+&lt;p&gt;Joseph graduated from the University of Miami a with Master of Science and a Bachelor of Business Administration degrees in Computer Information Systems, and followed that with a Master of Software Engineering degree from Brandeis University.&lt;/p&gt;
+&lt;p&gt;He holds several certifications, including the Microsoft Certified Solutions Developer and the Professional Software Engineering Master Certification from the IEEE Computer Society.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781788624060</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1788624068</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1137372858</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-09-07T13:57:00.253623+00:00"/>
+        <meta name="calibre:title_sort" content="Software Architect's Handbook: Become a Successful Software Architect by Implementing Effective Architecture Concepts"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
