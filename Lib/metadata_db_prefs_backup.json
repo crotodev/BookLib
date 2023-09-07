@@ -17,6 +17,10 @@
   ],
   "gui_view_history": [
     [
+      1503,
+      "A Logical Approach to Discrete Math / Edition 1"
+    ],
+    [
       1510,
       "Category Theory: Invariances and Symmetries in Computer Science"
     ],
@@ -71,10 +75,6 @@
     [
       1461,
       "Testing in Scala"
-    ],
-    [
-      1460,
-      "Continuous Integration : A Practical Guide to Designing and Developing Pipelines"
     ]
   ],
   "library_view books view state": {
@@ -992,5 +992,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1693572889.215044
+  "last_expired_trash_at": 1693834003.818778
 }
