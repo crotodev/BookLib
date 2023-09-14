@@ -17,6 +17,34 @@
   ],
   "gui_view_history": [
     [
+      1480,
+      "The Art of Quantitative Finance Vol.1: Trading, Derivatives and Basic Concepts"
+    ],
+    [
+      1504,
+      "Underground Asia: Global Revolutionaries and the Assault on Empire"
+    ],
+    [
+      1516,
+      "Microservices Patterns: With Examples in Java"
+    ],
+    [
+      1396,
+      "Practical Scala DSLs: Real-World Applications Using Domain Specific Languages"
+    ],
+    [
+      1515,
+      "The Cyber Plumber's Handbook"
+    ],
+    [
+      1382,
+      "Hands-On Scala Programming: Learn Scala in a Practical, Project-Based Way"
+    ],
+    [
+      1513,
+      "Software Architect's Handbook: Become a Successful Software Architect by Implementing Effective Architecture Concepts"
+    ],
+    [
       1503,
       "A Logical Approach to Discrete Math / Edition 1"
     ],
@@ -47,34 +75,6 @@
     [
       1495,
       "Upgrading and Repairing PCs"
-    ],
-    [
-      1381,
-      "Hands-On Data Analysis With Scala: Perform Data Collection, Processing, Manipulation, and Visualization With Scala"
-    ],
-    [
-      1483,
-      "Systematic Trading: A Unique New Method for Designing Trading and Investing Systems"
-    ],
-    [
-      1351,
-      "Scala Cookbook: Recipes for Object-Oriented and Functional Programming"
-    ],
-    [
-      1471,
-      "Essential TypeScript 4: From Beginner to Pro"
-    ],
-    [
-      1468,
-      "Scala Machine Learning Projects: Build Real-World Machine Learning and Deep Learning Projects With Scala"
-    ],
-    [
-      1465,
-      "Learning Test-Driven Development: A Polyglot Guide to Writing Uncluttered Code"
-    ],
-    [
-      1461,
-      "Testing in Scala"
     ]
   ],
   "library_view books view state": {
@@ -133,15 +133,15 @@
     "path_injected": true,
     "sort_history": [
       [
+        "title",
+        true
+      ],
+      [
         "timestamp",
         false
       ],
       [
         "title",
-        true
-      ],
-      [
-        "authors",
         true
       ],
       [
@@ -992,5 +992,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1693834003.818778
+  "last_expired_trash_at": 1694635391.122945
 }

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1516</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5397649-d41c-4d54-bc54-8d774067a97b</dc:identifier>
+        <dc:title>Microservices Patterns: With Examples in Java</dc:title>
+        <dc:creator opf:file-as="Richardson, Chris" opf:role="aut">Chris Richardson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-19T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;44 reusable patterns to develop and deploy reliable production-quality microservices-based applications, with worked examples in Java&lt;/strong&gt; ** &lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: bold; font-style: italic"&gt;*Key Features&lt;/span&gt;&lt;strong&gt;* &lt;/strong&gt;&lt;br&gt;**&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;44 design patterns for building and deploying microservices applications&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Drawing on decades of unique experience from author and microservice architecture pioneer Chris Richardson&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A pragmatic approach to the benefits and the drawbacks of microservices architecture&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Solve service decomposition, transaction management, and inter-service communication&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;br&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.&lt;/strong&gt; ** &lt;/p&gt;
+&lt;p&gt;** &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;About The Book &lt;/p&gt;
+&lt;p&gt;Microservices Patterns teaches you 44 reusable patterns to reliably develop and deploy production-quality microservices-based applications. This invaluable set of design patterns builds on decades of distributed system experience, adding new patterns for composing services into systems that scale and perform under real-world conditions. More than just a patterns catalog, this practical guide with worked examples offers industry-tested advice to help you design, implement, test, and deploy your microservices-based application. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Will Learn &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How (and why!) to use microservices architecture&lt;/li&gt;
+&lt;li&gt;Service decomposition strategies&lt;/li&gt;
+&lt;li&gt;Transaction management and querying patterns&lt;/li&gt;
+&lt;li&gt;Effective testing strategies&lt;/li&gt;
+&lt;li&gt;Deployment patterns&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;This Book Is Written For&lt;/strong&gt;&lt;br&gt;Written for enterprise developers familiar with standard enterprise application architecture. Examples are in Java. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About The Author&lt;/strong&gt;&lt;br&gt;Chris Richardson is a Java Champion, a JavaOne rock star, author of Manning’s POJOs in Action, and creator of the original CloudFoundry.com. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Table of Contents &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Escaping monolithic hell&lt;/li&gt;
+&lt;li&gt;Decomposition strategies&lt;/li&gt;
+&lt;li&gt;Interprocess communication in a microservice architecture&lt;/li&gt;
+&lt;li&gt;Managing transactions with sagas&lt;/li&gt;
+&lt;li&gt;Designing business logic in a microservice architecture&lt;/li&gt;
+&lt;li&gt;Developing business logic with event sourcing&lt;/li&gt;
+&lt;li&gt;Implementing queries in a microservice architecture&lt;/li&gt;
+&lt;li&gt;External API patterns&lt;/li&gt;
+&lt;li&gt;Testing microservices: part 1&lt;/li&gt;
+&lt;li&gt;Testing microservices: part 2&lt;/li&gt;
+&lt;li&gt;Developing production-ready services&lt;/li&gt;
+&lt;li&gt;Deploying microservices&lt;/li&gt;
+&lt;li&gt;Refactoring to microservices&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Chris Richardson is a developer and architect. He is a Java Champion, a JavaOne rock star and the author of &lt;em&gt;POJOs in Action&lt;/em&gt; , which describes how to build enterprise Java applications with frameworks such as Spring and Hibernate. Chris was also the founder of the original CloudFoundry.com, an early Java PaaS for Amazon EC2. He is the creator of http://microservices.io, a website describing how to develop and deploy microservices. Chris provides microservices consulting and training and is working on his third startup http://eventuate.io, an application platform for developing microservices. Blog: http://plainoldobjects.com/, Twitter: @crichardson.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781617294549</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1617294543</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1127841408</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-09-08T13:29:56.671819+00:00"/>
+        <meta name="calibre:title_sort" content="Microservices Patterns: With Examples in Java"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
