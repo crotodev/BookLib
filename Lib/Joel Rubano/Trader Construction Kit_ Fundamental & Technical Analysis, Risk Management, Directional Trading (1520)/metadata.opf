@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1520</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2d5b9b4-d774-4ccd-bc69-5fa7e9408163</dc:identifier>
+        <dc:title>Trader Construction Kit: Fundamental &amp; Technical Analysis, Risk Management, Directional Trading, Spreads, Options, Quantitative Strategies, Execution, Position Management, Data Science &amp; Programming</dc:title>
+        <dc:creator opf:file-as="Rubano, Joel" opf:role="aut">Joel Rubano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-02T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Trader Construction Kit is a comprehensive resource for undergraduate, MBA and Masters of Finance students interested in a career with a bank, hedge fund or other financial institution. Trader Construction Kit is a practical guide to developing the skills and techniques employed by professional traders, including: • Fundamentally and technically analyzing a market. • Assessing the volatility and risk characteristics of the market. • Developing a view, an actionable perspective on the future of price. • Evaluating directional, spread, option &amp;amp; quantitative trading strategies. • Weighing the inherent risk and reward in potential positions. • Efficiently executing trades and managing the resulting exposures. • Pricing and hedging structured transactions.Additional chapters describe how: • The evolutionary state of a market shapes the activities of its inhabitants. • The role of a trader varies at different types of financial institutions. • A trader’s personality forms an integral part of their approach to the market.• To survive and thrive on a trading floor.Trader Construction Kit contains a single, highly detailed case study that incrementally incorporates and applies the lessons learned in each chapter. A new for 2020 appendix presents an overview of the basics of data science and programming for traders.&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"Trader Construction Kit provides a thorough, 360-degree treatment of the financial market knowledge and practices known to professional traders. Developing an understanding of how the mechanisms of the market work and what traders need to do to be successful is important, not only for people at trading desks, but also for portfolio managers, corporate executives, regulators, business students, and technology developers." &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Bruce W. Weber&lt;br&gt;Dean, and Professor of Business Administration&lt;br&gt;Lerner College of Business &amp;amp; Economics &lt;br&gt;University of Delaware &lt;/p&gt;
+&lt;p&gt;"Trader Construction Kit pulls the curtain back with real life experiences and demystifies the world of trading. I have recommended it as a must read to both college students I speak with, as well as Junior traders I have hired. Filled with real life examples and anecdotes from a trader who has spent decades in the financial markets." &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Chris Silva&lt;br&gt;Managing Director, Head of Commodities Trading Americas&lt;br&gt;BNP Paribas &lt;/p&gt;
+&lt;p&gt;"Trader Construction Kit is absolutely key to everything my students need to manage portfolios efficiently and effectively. It provides them with the technical, quantitative, and qualitative perspectives that serves as their foundation for understanding how the markets work. This is an invaluable book for anyone teaching investments, trading, or for those leading student managed investment funds!" &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Naomi Boyd&lt;br&gt;Fred T. Tattersall Chair In Finance&lt;br&gt;West Virginia University &lt;/p&gt;
+&lt;p&gt;"I use Trader Construction Kit in my Student Managed Funds undergraduate class instead of a traditional academic theory text because the class is about application rather than theory. It has been a huge benefit for the students. The biggest plus has been that the students actually like reading it- they even read chapters that are not assigned. You know it is the right book when students comment to you how much they like it and that they wish they read it sooner. I find it is the best book to help transition students from studying theory to the realities of the trading world." &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Matthew Kelly&lt;br&gt;Visiting Instructor of Finance&lt;br&gt;Director Wall Street Trading Room&lt;br&gt;St. Joseph's University &lt;/p&gt;
+&lt;p&gt;"When I was looking for a textbook for my Quantitative Finance course, I wanted something that was practical and thorough in its approach to trading the financial markets. I highly recommend Joel Rubano's "Trader Construction Kit". It is an indispensable handbook for building a trading plan, understanding the tools of traders, and managing your trading portfolio. Rubano combines real-world experience and rigorous quantitative techniques in this excellent guide to building a trading system." &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Matt Ingram, CFA&lt;br&gt;Senior Lecturer in Finance&lt;br&gt;Wright State University &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cephalopod Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780997629514</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0997629517</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1140739005</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">7mGQzAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Investments &amp; Securities</dc:subject>
+        <dc:subject>Analysis &amp; Trading Strategies</dc:subject>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-09-15T17:27:18.562426+00:00"/>
+        <meta name="calibre:title_sort" content="Trader Construction Kit: Fundamental &amp; Technical Analysis, Risk Management, Directional Trading, Spreads, Options, Quantitative Strategies, Execution, Position Management, Data Science &amp; Programming"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
