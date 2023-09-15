@@ -17,6 +17,22 @@
   ],
   "gui_view_history": [
     [
+      659,
+      "Quant Job Interview Questions and Answers"
+    ],
+    [
+      1518,
+      "The Concepts and Practice of Mathematical Finance"
+    ],
+    [
+      432,
+      "Quantitative Risk Management: Concepts, Techniques and Tools - Revised Edition"
+    ],
+    [
+      1485,
+      "Paul Wilmott on Quantitative Finance"
+    ],
+    [
       1480,
       "The Art of Quantitative Finance Vol.1: Trading, Derivatives and Basic Concepts"
     ],
@@ -59,22 +75,6 @@
     [
       1509,
       "System Design Interview - an Insider's Guide: Volume 2"
-    ],
-    [
-      1508,
-      "Acing the System Design Interview"
-    ],
-    [
-      1407,
-      "Scala Design Patterns: Patterns for Practical Reuse and Design"
-    ],
-    [
-      1405,
-      "The Data Science Handbook"
-    ],
-    [
-      1495,
-      "Upgrading and Repairing PCs"
     ]
   ],
   "library_view books view state": {
@@ -992,5 +992,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1694635391.122945
+  "last_expired_trash_at": 1694790616.592333
 }
