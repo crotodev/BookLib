@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1518</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5cb32f6d-be6f-4ec2-bfd4-1b728c4626e2</dc:identifier>
+        <dc:title>The Concepts and Practice of Mathematical Finance</dc:title>
+        <dc:creator opf:file-as="Joshi, Mark S." opf:role="aut">Mark S. Joshi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-17T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;An ideal introduction for those starting out as practitioners of mathematical finance, this book provides a clear understanding of the intuition behind derivatives pricing, how models are implemented, and how they are used and adapted in practice. Strengths and weaknesses of different models, e.g. Black–Scholes, stochastic volatility, jump-diffusion and variance gamma, are examined. Both the theory and the implementation of the industry-standard LIBOR market model are considered in detail. Each pricing problem is approached using multiple techniques including the well-known PDE and martingale approaches. This second edition contains many more worked examples and over 200 exercises with detailed solutions. Extensive appendices provide a guide to jargon, a recap of the elements of probability theory, and a collection of computer projects. The author brings to this book a blend of practical experience and rigorous mathematical background and supplies here the working knowledge needed to become a good quantitative analyst.&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;'The book is intended as an introduction for a numerate person to the discipline of mathematical finance. In this, Mark Joshi succeeds admirably - an excellent starting point for a numerate person in the field of mathematical finance.' Risk Magazine &lt;/p&gt;
+&lt;p&gt;' … ideal for those who want to learn or deepen their knowledge about Quantitative Finance … The breadth of the book particularly impressed me. It went from theoretical to practical, while covering implementation-related issues. It makes concepts such as Martingales, Measures and Numéraires look so natural and easy. Pricing Quantos or Spread-Options becomes an innate result of these concepts.' Wilmott Magzine &lt;/p&gt;
+&lt;p&gt;The author allows the reader as often as possible to get an intuition for the models and concepts. Helpful information is given on how to use and implement these models and concepts in practical terms. This practice-orientation makes this book different from others belonging to this category … the text is also well suited as a textbook for a quantitative-oriented introductory course on finance at universities or other academic institutions … one can say that this introductory book in offering a well balanced and up-to-date introduction to the theory and practice of mathematical finance overshadows many other books available on the same subject.' Zentralblatt MATH &lt;/p&gt;
+&lt;p&gt;'The book has been very nicely produced by Cambridge University Press. I would certainly recommend that anyone teaching an introductory or intermediate course on this topic seriously consider this book as a potential course text.' International Statistical Institute &lt;/p&gt;
+&lt;p&gt;'Very few books provide a balance between financial theory and practice. This book is one of the few that strikes that balance … certainly a good addition to your collection of financial mathematics books.' SIAM Review &lt;/p&gt;
+&lt;p&gt;'The set-up of this book certainly meets the needs of the audience for whom this book is written. Moreover, the author brings the material in a very comprehensive way leading to new or better insights in several aspects of the material. An innovation is that besides worked out examples and exercises, a list of computer projects are included which encourage the reader to implement the models. This certainly adds to the learning process.' Kwantitatieve Methoden&lt;/p&gt;
+&lt;h3&gt;Book Description&lt;/h3&gt;
+&lt;p&gt;The second edition of a successful text providing the working knowledge needed to become a good quantitative analyst.&lt;/p&gt;
+&lt;h3&gt;Book Description&lt;/h3&gt;
+&lt;p&gt;The second edition of a successful text providing the working knowledge needed to become a good quantitative analyst. An ideal introduction to mathematical finance, readers will gain a clear understanding of the intuition behind derivatives pricing, how models are implemented, and how they are used and adapted in practice.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Mark S. Joshi is a Professor in the Centre for Actuarial Studies at the University of Melbourne. He has wide experience of teaching courses in financial mathematics and has previously held posts at the University of Cambridge and at Royal Bank of Scotland Group Risk Management. In February 2004 he was appointed Head of Quantitative Research Centre (QUARC) at RBS. He is the author of six books and numerous papers on both financial and pure mathematics, and has been an invited speaker at many international conferences.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780521514088</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0521514088</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-09-15T16:46:37.108759+00:00"/>
+        <meta name="calibre:title_sort" content="Concepts and Practice of Mathematical Finance, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
