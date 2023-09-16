@@ -17,12 +17,12 @@
   ],
   "gui_view_history": [
     [
-      659,
-      "Quant Job Interview Questions and Answers"
-    ],
-    [
       1518,
       "The Concepts and Practice of Mathematical Finance"
+    ],
+    [
+      659,
+      "Quant Job Interview Questions and Answers"
     ],
     [
       432,
@@ -78,47 +78,6 @@
     ]
   ],
   "library_view books view state": {
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    },
-    "column_positions": {
-      "#solutions": 12,
-      "authors": 2,
-      "formats": 14,
-      "id": 13,
-      "languages": 11,
-      "last_modified": 10,
-      "ondevice": 0,
-      "path": 15,
-      "pubdate": 9,
-      "publisher": 8,
-      "rating": 5,
-      "series": 7,
-      "size": 4,
-      "tags": 6,
-      "timestamp": 3,
-      "title": 1
-    },
-    "column_sizes": {
-      "#solutions": 100,
-      "authors": 350,
-      "formats": 0,
-      "id": 0,
-      "languages": 0,
-      "last_modified": 0,
-      "path": 0,
-      "pubdate": 90,
-      "publisher": 208,
-      "rating": 0,
-      "series": 279,
-      "size": 88,
-      "tags": 412,
-      "timestamp": 96,
-      "title": 350
-    },
-    "formats_injected": true,
     "hidden_columns": [
       "id",
       "rating",
@@ -127,11 +86,16 @@
       "last_modified",
       "languages"
     ],
-    "id_injected": true,
-    "languages_injected": true,
     "last_modified_injected": true,
+    "languages_injected": true,
+    "formats_injected": true,
+    "id_injected": true,
     "path_injected": true,
     "sort_history": [
+      [
+        "marked",
+        true
+      ],
       [
         "title",
         true
@@ -148,7 +112,47 @@
         "timestamp",
         false
       ]
-    ]
+    ],
+    "column_positions": {
+      "ondevice": 0,
+      "id": 13,
+      "title": 1,
+      "authors": 2,
+      "timestamp": 3,
+      "size": 4,
+      "rating": 5,
+      "tags": 6,
+      "series": 7,
+      "publisher": 8,
+      "formats": 14,
+      "path": 15,
+      "pubdate": 9,
+      "last_modified": 10,
+      "languages": 11,
+      "#solutions": 12
+    },
+    "column_sizes": {
+      "id": 0,
+      "title": 350,
+      "authors": 350,
+      "timestamp": 96,
+      "size": 88,
+      "rating": 0,
+      "tags": 412,
+      "series": 279,
+      "publisher": 208,
+      "formats": 0,
+      "path": 0,
+      "pubdate": 90,
+      "last_modified": 0,
+      "languages": 0,
+      "#solutions": 100
+    },
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    }
   },
   "books view split pane state": {
     "column_positions": {
@@ -815,47 +819,7 @@
     "default": "Data Science",
     "lists": {
       "Articles": {
-        "content": [
-          601,
-          600,
-          599,
-          598,
-          597,
-          596,
-          595,
-          602,
-          521,
-          658,
-          660,
-          662,
-          664,
-          663,
-          665,
-          667,
-          666,
-          669,
-          668,
-          670,
-          671,
-          672,
-          673,
-          675,
-          674,
-          676,
-          677,
-          678,
-          679,
-          680,
-          681,
-          682,
-          683,
-          684,
-          685,
-          686,
-          687,
-          688,
-          689
-        ],
+        "content": [],
         "displayTopMenu": false,
         "listType": "SYNCNEW",
         "modifyAction": "TAGADDREMOVE",
@@ -928,7 +892,6 @@
           24,
           653,
           652,
-          651,
           391,
           390
         ],
@@ -977,9 +940,9 @@
     "Equity Research": "tags:\"=Equity Research\"",
     "Finance": "tags:\"=Machine Learning\" or tags:\"=Quantitative Finance\"",
     "ITAL-199": "tags:\"=ITAL-199\"",
-    "Quant": "tags:=\"Quantitative Finance\"",
     "Quantitative Finance Articles": "tags:=\"Quantitative Finance\" and tags:=\"Research Article\" or tags:=\"Finance\" and tags:=\"Research Article\"",
-    "REL-144": "tags:\"=REL-144\""
+    "REL-144": "tags:\"=REL-144\"",
+    "Quant": "authors:\"=Mark S. Joshi\" or authors:\"=Mark Suresh Joshi\""
   },
   "update_all_last_mod_dates_on_start": false,
   "virt_libs_hidden": [
@@ -992,5 +955,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1694790616.592333
+  "last_expired_trash_at": 1694827515.6974678
 }
