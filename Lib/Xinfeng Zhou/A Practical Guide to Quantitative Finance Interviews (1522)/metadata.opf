@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1522</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">636eaa5b-54c2-4c9c-8e5b-740066f7b4c0</dc:identifier>
+        <dc:title>A Practical Guide to Quantitative Finance Interviews</dc:title>
+        <dc:creator opf:file-as="Zhou, Xinfeng" opf:role="aut">Xinfeng Zhou</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-02T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This book will prepare you for quantitative finance interviews by helping you zero in on the key concepts that are frequently tested in such interviews. In this book we analyze solutions to more than 200 real interview problems and provide valuable insights into how to ace quantitative interviews. The book covers a variety of topics that you are likely to encounter in quantitative interviews: brain teasers, calculus, linear algebra, probability, stochastic processes and stochastic calculus, finance and programming.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Lulu.Com</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781435715752</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1438236662</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1012965225</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-09-17T12:32:10.313003+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Guide to Quantitative Finance Interviews, A"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
