@@ -17,6 +17,10 @@
   ],
   "gui_view_history": [
     [
+      1505,
+      "Republicanism, Communism, Islam: Cosmopolitan Origins of Revolution in Southeast Asia"
+    ],
+    [
       1518,
       "The Concepts and Practice of Mathematical Finance"
     ],
@@ -69,10 +73,6 @@
       "Category Theory: Invariances and Symmetries in Computer Science"
     ],
     [
-      1505,
-      "Republicanism, Communism, Islam: Cosmopolitan Origins of Revolution in Southeast Asia"
-    ],
-    [
       1509,
       "System Design Interview - an Insider's Guide: Volume 2"
     ]
@@ -93,16 +93,12 @@
     "path_injected": true,
     "sort_history": [
       [
-        "marked",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
         "timestamp",
         false
+      ],
+      [
+        "marked",
+        true
       ],
       [
         "title",
@@ -940,9 +936,9 @@
     "Equity Research": "tags:\"=Equity Research\"",
     "Finance": "tags:\"=Machine Learning\" or tags:\"=Quantitative Finance\"",
     "ITAL-199": "tags:\"=ITAL-199\"",
+    "Quant": "authors:\"=Mark S. Joshi\" or authors:\"=Mark Suresh Joshi\"",
     "Quantitative Finance Articles": "tags:=\"Quantitative Finance\" and tags:=\"Research Article\" or tags:=\"Finance\" and tags:=\"Research Article\"",
-    "REL-144": "tags:\"=REL-144\"",
-    "Quant": "authors:\"=Mark S. Joshi\" or authors:\"=Mark Suresh Joshi\""
+    "REL-144": "tags:\"=REL-144\""
   },
   "update_all_last_mod_dates_on_start": false,
   "virt_libs_hidden": [
@@ -955,5 +951,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1694827515.6974678
+  "last_expired_trash_at": 1694887415.153162
 }

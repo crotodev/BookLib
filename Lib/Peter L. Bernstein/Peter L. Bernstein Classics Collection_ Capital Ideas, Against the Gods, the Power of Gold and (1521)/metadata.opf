@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04c24117-3ee5-4b4c-9e29-55722a8b84f2</dc:identifier>
+        <dc:title>Peter L. Bernstein Classics Collection: Capital Ideas, Against the Gods, the Power of Gold and Capital Ideas Evolving</dc:title>
+        <dc:creator opf:file-as="Bernstein, Peter L." opf:role="aut">Peter L. Bernstein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-04T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A classic collection of titles from one of the world's greatest financial writers One of the foremost financial writers of his generation, the late Peter Bernstein had the unique ability to synthesize intellectual history and economics with the theory and practice of investment management. Now, with the Peter L. Bernstein Classics Collection e-bundle, you will be able to enjoy some of the most important and critically acclaimed books by this engaging investment writer—Capital Ideas, Against the Gods, The Power of Gold, and Capital Ideas Evolving. Capital Ideas and Capital Ideas Evolving traces the origins of modern Wall Street, from the pioneering work of early scholars and the development of new theories in risk, valuation, and investment returns, to the actual implementation of these theories in the real world of investment management Against the Gods skillfully explores one of the most profound issues of our time—the role of risk in our society—in a non-technical and accessible style The Power of Gold tells the story of how history's most coveted, celebrated, and inglorious asset has inspired romantic myths, daring explorations, and titanic struggles for money and power Engaging and informative, Peter L. Bernstein Classics Collection puts the insights of one of the greatest financial writers of our time at your fingertips.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781118519561</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">DCWX4PZC7joC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Accounting</dc:subject>
+        <dc:subject>EBC Converted</dc:subject>
+        <meta name="calibre:timestamp" content="2023-09-17T00:27:56.940411+00:00"/>
+        <meta name="calibre:title_sort" content="Peter L. Bernstein Classics Collection: Capital Ideas, Against the Gods, the Power of Gold and Capital Ideas Evolving"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
