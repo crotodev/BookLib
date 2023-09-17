@@ -17,6 +17,10 @@
   ],
   "gui_view_history": [
     [
+      1522,
+      "A Practical Guide to Quantitative Finance Interviews"
+    ],
+    [
       659,
       "Quant Job Interview Questions and Answers"
     ],
@@ -71,10 +75,6 @@
     [
       1510,
       "Category Theory: Invariances and Symmetries in Computer Science"
-    ],
-    [
-      1509,
-      "System Design Interview - an Insider's Guide: Volume 2"
     ]
   ],
   "library_view books view state": {
@@ -951,5 +951,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1694919057.532773
+  "last_expired_trash_at": 1694953845.246623
 }
