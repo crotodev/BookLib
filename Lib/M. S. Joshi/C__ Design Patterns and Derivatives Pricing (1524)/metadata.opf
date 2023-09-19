@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1524</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">932d5b9e-d7bb-4a6f-83ea-bd89dcbb1ab9</dc:identifier>
+        <dc:title>C++ Design Patterns and Derivatives Pricing</dc:title>
+        <dc:creator opf:file-as="Joshi, M. S." opf:role="aut">M. S. Joshi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-09T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Newly updated second edition and now in paperback! This is the first book on implementing financial models using object-oriented C++. Assuming only a basic knowledge of C++ and mathematical finance, the reader learns how to produce well-designed, structured, reusable code via carefully-chosen examples. This new edition includes several new chapters covering topics of increasing robustness in the presence of exceptions, designing a generic factory, interfacing C++ with EXCEL, and improving code design using the idea of decoupling. Complete ANSI/ISO compatible C++ source code is hosted on an accompanying website for the reader to study in detail, and reuse as they see fit. Whether you are a student of financial mathematics, a working quantitative analyst or financial mathematician, you need this book. Offering practical steps for implementing pricing models for complex financial products, it will transform your understanding of how to use C++.&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;'This is a short book, but an elegant one. It would serve as an excellent course text for a course on the practical aspects of mathematical finance.' International Statistical Institute &lt;/p&gt;
+&lt;p&gt;'This book is thought-provoking and rewarding. Even for the less experienced programmer, the presentation is readily accessible, and the coded examples can be directly used to solve real-life problems.' Journal of the American Statistics Association &lt;/p&gt;
+&lt;p&gt;'This book, although it is quite short, does cover a significant amount of material and does deal with some fairly advanced topics that are important to practitioners. The real strength of the book is its clarity and conciseness.' SIAM Review&lt;/p&gt;
+&lt;h3&gt;Book Description&lt;/h3&gt;
+&lt;p&gt;Explains how to create well-designed, structured, reusable C++ code, particularly for financial applications.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Mark S. Joshi is an Associate Professor in the Centre for Actuarial Studies at the University of Melbourne.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780521721622</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0521721628</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-09-17T13:29:11.548964+00:00"/>
+        <meta name="calibre:title_sort" content="C++ Design Patterns and Derivatives Pricing"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

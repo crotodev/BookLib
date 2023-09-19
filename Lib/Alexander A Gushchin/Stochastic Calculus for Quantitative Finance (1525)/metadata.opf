@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1525</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef0d7984-bba4-409c-ac7c-49edc75e4c56</dc:identifier>
+        <dc:title>Stochastic Calculus for Quantitative Finance</dc:title>
+        <dc:creator opf:file-as="Gushchin, Alexander A" opf:role="aut">Alexander A Gushchin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-19T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In 1994 and 1998 F. Delbaen and W. Schachermayer published two breakthrough papers where they proved continuous-time versions of the Fundamental Theorem of Asset Pricing. This is one of the most remarkable achievements in modern Mathematical Finance which led to intensive investigations in many applications of the arbitrage theory on a mathematically rigorous basis of stochastic calculus. &lt;em&gt;Mathematical Basis for Finance: Stochastic Calculus for Finance&lt;/em&gt; provides detailed knowledge of all necessary attributes in stochastic calculus that are required for applications of the theory of stochastic integration in Mathematical Finance, in particular, the arbitrage theory. The exposition follows the traditions of the Strasbourg school. &lt;/p&gt;
+&lt;p&gt;This book covers the general theory of stochastic processes, local martingales and processes of bounded variation, the theory of stochastic integration, definition and properties of the stochastic exponential; a part of the theory of Lévy processes. Finally, the reader gets acquainted with some facts concerning stochastic differential equations.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Contains the most popular applications of the theory of stochastic integration&lt;/li&gt;
+&lt;li&gt;Details necessary facts from probability and analysis which are not included in many standard university courses such as theorems on monotone classes and uniform integrability&lt;/li&gt;
+&lt;li&gt;Written by experts in the field of modern mathematical finance &lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"...an excellent book which can be recommended for advanced courses in stochastic calculus, in particular, for courses in stochastic financial modelling (another name of quantitative finance)." -- &lt;strong&gt;Zentralblatt MATH&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"The main goal of this short book is to introduce stochastic integration with respect to general semimartingales." &lt;strong&gt;--Mathematical Reviews&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;The theory of stochastic integration in mathematical finance -- in particular, in arbitrage theory&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Elsevier Science</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781785480348</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1785480340</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1132571002</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Stochastic Calculus for Quantitative Finance</dc:subject>
+        <dc:subject>(2015) 210pp. 978-1-78548-034-8</dc:subject>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-09-19T12:57:41.485728+00:00"/>
+        <meta name="calibre:title_sort" content="Stochastic Calculus for Quantitative Finance"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
