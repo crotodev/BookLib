@@ -17,6 +17,18 @@
   ],
   "gui_view_history": [
     [
+      1528,
+      "Investment Science Edition 2"
+    ],
+    [
+      1527,
+      "Investment Science / Edition 2"
+    ],
+    [
+      1503,
+      "A Logical Approach to Discrete Math / Edition 1"
+    ],
+    [
       1526,
       "The Age of Globalization"
     ],
@@ -63,18 +75,6 @@
     [
       1396,
       "Practical Scala DSLs: Real-World Applications Using Domain Specific Languages"
-    ],
-    [
-      1515,
-      "The Cyber Plumber's Handbook"
-    ],
-    [
-      1382,
-      "Hands-On Scala Programming: Learn Scala in a Practical, Project-Based Way"
-    ],
-    [
-      1513,
-      "Software Architect's Handbook: Become a Successful Software Architect by Implementing Effective Architecture Concepts"
     ]
   ],
   "library_view books view state": {
@@ -951,5 +951,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1695128249.301725
+  "last_expired_trash_at": 1695160577.198227
 }
