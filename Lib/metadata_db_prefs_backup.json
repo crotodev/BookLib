@@ -17,6 +17,30 @@
   ],
   "gui_view_history": [
     [
+      531,
+      "Flash Boys"
+    ],
+    [
+      68,
+      "A Random Walk Down Wall Street"
+    ],
+    [
+      1529,
+      "Liar's Poker : Rising Through the Wreckage on Wall Street"
+    ],
+    [
+      1529,
+      "Liar's Poker"
+    ],
+    [
+      250,
+      "Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python"
+    ],
+    [
+      507,
+      "Vital Statistics: Probability and Statistics for Economics and Business"
+    ],
+    [
       1528,
       "Investment Science Edition 2"
     ],
@@ -51,30 +75,6 @@
     [
       1505,
       "Republicanism, Communism, Islam: Cosmopolitan Origins of Revolution in Southeast Asia"
-    ],
-    [
-      432,
-      "Quantitative Risk Management: Concepts, Techniques and Tools - Revised Edition"
-    ],
-    [
-      1485,
-      "Paul Wilmott on Quantitative Finance"
-    ],
-    [
-      1480,
-      "The Art of Quantitative Finance Vol.1: Trading, Derivatives and Basic Concepts"
-    ],
-    [
-      1504,
-      "Underground Asia: Global Revolutionaries and the Assault on Empire"
-    ],
-    [
-      1516,
-      "Microservices Patterns: With Examples in Java"
-    ],
-    [
-      1396,
-      "Practical Scala DSLs: Real-World Applications Using Domain Specific Languages"
     ]
   ],
   "library_view books view state": {
@@ -951,5 +951,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1695160577.198227
+  "last_expired_trash_at": 1695239092.234875
 }
