@@ -17,6 +17,14 @@
   ],
   "gui_view_history": [
     [
+      1531,
+      "Reminiscences of a Stock Operator"
+    ],
+    [
+      1526,
+      "The Age of Globalization"
+    ],
+    [
       531,
       "Flash Boys"
     ],
@@ -53,10 +61,6 @@
       "A Logical Approach to Discrete Math / Edition 1"
     ],
     [
-      1526,
-      "The Age of Globalization"
-    ],
-    [
       430,
       "Stochastic Calculus for Finance I: The Binomial Asset Pricing Model"
     ],
@@ -71,10 +75,6 @@
     [
       1518,
       "The Concepts and Practice of Mathematical Finance"
-    ],
-    [
-      1505,
-      "Republicanism, Communism, Islam: Cosmopolitan Origins of Revolution in Southeast Asia"
     ]
   ],
   "library_view books view state": {
@@ -951,5 +951,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1695239092.234875
+  "last_expired_trash_at": 1695428258.52928
 }
