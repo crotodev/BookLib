@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1536</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">686530fa-a1c4-4a19-9580-f7c86dbc7066</dc:identifier>
+        <dc:title>Introduction to Probability, Second Edition</dc:title>
+        <dc:creator opf:file-as="Blitzstein, Joseph K." opf:role="aut">Joseph K. Blitzstein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-08T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Developed from celebrated Harvard statistics lectures, &lt;strong&gt;Introduction to Probability&lt;/strong&gt; provides essential language and toolsfor understanding statistics, randomness, and uncertainty. The book explores a wide variety of applications and examples, ranging from coincidences and paradoxes to Google PageRank and Markov chain Monte Carlo (MCMC). Additional application areas explored include genetics, medicine, computer science, and information theory. &lt;/p&gt;
+&lt;p&gt;The authors present the material in an accessible style and motivate concepts using real-world examples. Throughout, they use &lt;em&gt;stories&lt;/em&gt; to uncover connections between the fundamental distributions in statistics and &lt;em&gt;conditioning&lt;/em&gt; to reduce complicated problems to manageable pieces. &lt;/p&gt;
+&lt;p&gt;The book includes many intuitive explanations, diagrams, and practice problems. Each chapter ends with a section showing how to perform relevant simulations and calculations in R, a free statistical software environment.&lt;/p&gt;
+&lt;p&gt;The second edition adds many new examples, exercises, and explanations, to deepen understanding of the ideas, clarify subtle concepts, and respond to feedback from many students and readers. New supplementary online resources have been developed, including animations and interactive visualizations, and the book has been updated to dovetail with these resources. &lt;/p&gt;
+&lt;p&gt;Supplementary material is available on Joseph Blitzstein’s website www. stat110.net. The supplements include:&lt;br&gt;Solutions to selected exercises&lt;br&gt;Additional practice problems&lt;br&gt;Handouts including review material and sample exams Animations and interactive visualizations created in connection with the edX online version of Stat 110.&lt;br&gt;Links to lecture videos available on ITunes U and YouTube There is also a complete instructor's solutions manual available to instructors who require the book for a course.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Joseph K. Blitzstein, PhD&lt;/strong&gt; , professor of the practice in statistics, Department of Statistics, Harvard University, Cambridge, Massachusetts, USA&lt;/p&gt;
+&lt;p&gt;Jessica Hwang is a graduate student in the Stanford statistics department.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Chapman and Hall/CRC</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781138369917</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1138369918</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-09-27T12:44:31.872507+00:00"/>
+        <meta name="calibre:title_sort" content="Introduction to Probability, Second Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
