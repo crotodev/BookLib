@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1540</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e7171f7-d0b9-46ed-b5b7-86e5929ffedf</dc:identifier>
+        <dc:title>Influence: The Psychology of Persuasion : Summary</dc:title>
+        <dc:creator opf:file-as="Cialdini, Robert B." opf:role="aut">Robert B. Cialdini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This is a Summary of the original book, Influence: The Psychology of Persuasion by Robert Cialdini. &lt;/p&gt;
+&lt;p&gt;The book is an authoritative work on the art of persuasion. It discusses the mental attitudes that make you say "yes," and, more importantly, explains how to use these . The author walks you through six universal principles and explains how to be a skilled influencer, while at the same time knowing how to shield yourself from negative persuasions. The author, Dr. Robert Cialdini, is the pioneering authority in this rapidly developing area of psychology. For over three decades, Dr. Cialdini, painstaking conducted a data-based study parallel to a medium-term course of study on what motivates humans to alter behavior. The result is Influence which is highly recommended by critics. This book is for you. It will not fail to inspire you to consider the need for a deep personality change through an intelligent understanding of the psychology of persuasion. Available in a variety of formats, this summary is aimed for those who want to capture the gist of the book but don't have the current time to devour all 336 pages. You get the main summary along with all of the benefits and lessons the actual book has to offer. This summary is intended to be used with reference to the original book.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ant Hive Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781310295058</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">qWo-tAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-09-28T14:19:20.858587+00:00"/>
+        <meta name="calibre:title_sort" content="Influence: The Psychology of Persuasion : Summary"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

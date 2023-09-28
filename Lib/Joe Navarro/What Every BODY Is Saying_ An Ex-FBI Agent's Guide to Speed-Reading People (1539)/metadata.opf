@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1539</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">759d694a-5b8b-4968-9118-7bbab9c61f7c</dc:identifier>
+        <dc:title>What Every BODY Is Saying: An Ex-FBI Agent's Guide to Speed-Reading People</dc:title>
+        <dc:creator opf:file-as="Navarro, Joe" opf:role="aut">Joe Navarro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-21T17:01:04+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;OVER 1 MILLION COPIES SOLD&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Joe Navarro, a former FBI counterintelligence officer and a recognized expert on nonverbal behavior, explains how to "speed-read" people: decode sentiments and behaviors, avoid hidden pitfalls, and look for deceptive behaviors. You'll also learn how your body language can influence what your boss, family, friends, and strangers think of you.&lt;/p&gt;
+&lt;p&gt;Read this book and send your nonverbal intelligence soaring. You will discover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The ancient survival instincts that drive body language&lt;/li&gt;
+&lt;li&gt;Why the face is the &lt;em&gt;least&lt;/em&gt; likely place to gauge a person's true feelings&lt;/li&gt;
+&lt;li&gt;What thumbs, feet, and eyelids reveal about moods and motives&lt;/li&gt;
+&lt;li&gt;The most powerful behaviors that reveal our confidence and true sentiments&lt;/li&gt;
+&lt;li&gt;Simple nonverbals that instantly establish trust&lt;/li&gt;
+&lt;li&gt;Simple nonverbals that instantly communicate authority&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Filled with examples from Navarro's professional experience, this definitive book offers a powerful new way to navigate your world.&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;“A masterful work on nonverbal body language by an exceptional observer. Joe Navarro’s work has been field-tested in the crucible of law enforcement at the highest levels within the FBI. I cannot praise the book enough.”&lt;/p&gt;
+&lt;h3&gt;From School Library Journal&lt;/h3&gt;
+&lt;p&gt;Adult/High School—This book illustrates which nonverbal clues telegraph untrustworthiness and deception and which radiate sincerity and compassion. In this fascinating take on body language and the ability to decipher it for use in everyday life, Navarro emphasizes that while knowing the reasons for certain behaviors—like touching one's neck—can be useful in "reading" people, they are not foolproof barometers of deception. A former FBI agent who commonly used these techniques to help crack cases, the author cautions about jumping to conclusions and encourages using clusters of nonverbal patterns to help discover whether a person is lying or just under stress. One chapter is devoted to the brain and its limbic system, which controls those involuntary quirks of behavior. Black-and-white photos illustrate different points throughout. This book is a worthy research tool, and a good addition to larger collections.— &lt;em&gt;Charli Osborne, Oxford Public Library, MI&lt;/em&gt; &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. --This text refers to the paperback edition.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;FBI Special Agent (Ret.) JOE NAVARRO worked for the Bureau in counterintelligence and counterterrorism. He is now a lecturer and consultant for major companies worldwide. He is the author of &lt;em&gt;What Every BODY is Saying&lt;/em&gt; , and &lt;em&gt;has appeared on Hardball with Chris Matthews&lt;/em&gt; , the &lt;em&gt;Today Show&lt;/em&gt; , the &lt;em&gt;CBS Early Show&lt;/em&gt; , CNN, Fox News, and other major media. He lives in Tampa, Florida.&lt;/p&gt;
+&lt;p&gt;Marvin Karlins received his Ph.D. in psychology from Princeton University and is senior professor of management at the University of South Florida. He is the author of twenty-three books and most recently collaborated with Joe Navarro on &lt;em&gt;Phil Hellmuth Presents Read 'Em and Reap&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;--This text refers to the paperback edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper Collins</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0010SKSTO</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-09-28T02:05:28.122983+00:00"/>
+        <meta name="calibre:title_sort" content="What Every BODY Is Saying: An Ex-FBI Agent's Guide to Speed-Reading People"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
