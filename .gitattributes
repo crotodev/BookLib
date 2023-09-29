@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 /Lib/full-text-search.db filter=lfs diff=lfs merge=lfs -text
+/Lib/Jerome Baton/Learning Neo4j 3.x - Second Edition_ Effective Data Modeling, Performance Tuning and Data Visua (1543)/Learning Neo4j 3.x - Second Edition_ Effec - Jerome Baton.pdf filter=lfs diff=lfs merge=lfs -text
