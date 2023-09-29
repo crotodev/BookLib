@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1541</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43574447-2342-44ad-80e6-81fd2d5b6ae0</dc:identifier>
+        <dc:title>Full Stack GraphQL Applications: With React, Node.js, and Neo4j</dc:title>
+        <dc:creator opf:file-as="Lyon, William" opf:role="aut">William Lyon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-23T20:37:36+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Build hyper-fast and hyper-efficient web applications with GraphQL! This practical, comprehensive guide introduces the powerful GRANDStack for developing full stack web applications based in graph data structures. &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Full Stack GraphQL Applications&lt;/em&gt; you will learn how to: &lt;/p&gt;
+&lt;p&gt;Build backend functionalities for GraphQL applications&lt;br&gt;Model a GraphQL API with GraphQL type definitions&lt;br&gt;Utilize Neo4j as a backend database&lt;br&gt;Handle authentication and authorization with GraphQL&lt;br&gt;Implement pagination and rate limiting in a GraphQL API&lt;br&gt;Develop a GraphQL service with Apollo Server&lt;br&gt;Install Neo4j Database on different platforms&lt;br&gt;Create a basic frontend application using React and Apollo Client&lt;br&gt;Deploy a full stack GraphQL application to the cloud &lt;/p&gt;
+&lt;p&gt;The GraphQL query language radically reduces over-fetching or under-fetching of data by constructing precise graph-based data requests. In &lt;em&gt;Full Stack GraphQL Applications&lt;/em&gt; you’ll learn how to build graph-aware web applications that take full advantage of GraphQL’s amazing efficiency. Neo4j’s William Lyon teaches you everything you need to know to design, deploy, and maintain a GraphQL API from scratch. He reveals how you can build your web apps with GraphQL, React, Apollo, and Neo4j Database, aka “the GRANDstack,” to get maximum performance out of GraphQL. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p&gt;About the technology&lt;br&gt;The GraphQL API query language radically streamlines data exchanges with backend servers by representing application data as easy-to-understand graphs. You can amplify GraphQL’s benefits by using graph-aware tools and data stores, like React, Apollo, and Neo4j, throughout your application. A full stack graph approach provides a consistent data model end to end, reducing friction in data fetching and increasing developer productivity. &lt;/p&gt;
+&lt;p&gt;About the book&lt;br&gt;&lt;em&gt;Full Stack GraphQL Applications&lt;/em&gt; teaches you to build graph-aware web applications using GraphQL, React, Apollo, and the Neo4j database, collectively called “the GRANDstack.” Practical, hands-on examples quickly develop your understanding of how the GRANDstack fits together. As you go, you’ll create and deploy to the cloud a full-featured web application that includes search, authentication, and more. Soon, you’ll be ready to deploy end-to-end applications that take full advantage of GraphQL’s outstanding performance. &lt;/p&gt;
+&lt;p&gt;What's inside &lt;/p&gt;
+&lt;p&gt;Building a GraphQL backend using Neo4j&lt;br&gt;Authentication and authorization with GraphQL&lt;br&gt;Pagination and GraphQL abstract types&lt;br&gt;A basic frontend application using React and Apollo Client&lt;br&gt;Deploying to the cloud with Netlify, AWS Lambda, Auth0, and Neo4j Aura &lt;/p&gt;
+&lt;p&gt;About the reader&lt;br&gt;For full stack web developers. No experience with GraphQL or graph databases required. &lt;/p&gt;
+&lt;p&gt;About the author&lt;br&gt;&lt;strong&gt;William Lyon&lt;/strong&gt; is a Staff Developer Advocate at Neo4j and blogger at lyonwj.com. &lt;/p&gt;
+&lt;p&gt;Table of Contents&lt;br&gt;PART 1 GETTING STARTED WITH FULL STACK GRAPHQL&lt;br&gt;1 What is full stack GraphQL?&lt;br&gt;2 Graph thinking with GraphQL&lt;br&gt;3 Graphs in the database&lt;br&gt;4 The Neo4j GraphQL Library&lt;br&gt;PART 2 BUILDING THE FRONTEND&lt;br&gt;5 Building user interfaces with React&lt;br&gt;6 Client-side GraphQL with React and Apollo Client&lt;br&gt;PART 3 FULL STACK CONSIDERATIONS&lt;br&gt;7 Adding authorization and authentication&lt;br&gt;8 Deploying our full stack GraphQL application&lt;br&gt;9 Advanced GraphQL considerations&lt;/p&gt;
+&lt;h3&gt;Críticas&lt;/h3&gt;
+&lt;p&gt;"For anyone who wants to make amazing full stack apps with GraphQL."&lt;br&gt;—Gustavo Gomes, &lt;em&gt;Troido&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;"This book exceeded my expectations. It is easy to follow, and has everything you need to create a complex and modern full stack application."&lt;br&gt;—Danilo Zeković, &lt;em&gt;NeonCat.io&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;"A polished and thoughtful guide to building modern GraphQL applications."&lt;br&gt;—Jose San Leandro, &lt;em&gt;ioBuilders&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;"An excellent resource on developing GraphQL applications using cutting-edge technologies like Neo4j and React."&lt;br&gt;—Theofanis Despoudis, &lt;em&gt;WP Engine&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Biografía del autor&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;William Lyon&lt;/strong&gt; is a Staff Developer Advocate at Neo4j, where he helps developers be successful building applications with graphs. Prior to joining Neo4j, he worked as a software engineer at startups working on systems for quantitative finance, mobile apps for the real estate industry, and predictive API services. He holds a master's degree in computer science from the University of Montana and publishes a blog at lyonwj.com&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning Publications Co</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781617297038</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1617297038</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>MEAP Version 9</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-09-29T12:39:31.566216+00:00"/>
+        <meta name="calibre:title_sort" content="Full Stack GraphQL Applications: With React, Node.js, and Neo4j"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

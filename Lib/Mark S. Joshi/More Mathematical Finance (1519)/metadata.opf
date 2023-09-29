@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1519</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">742ddba4-8a72-443e-9fdb-6e2f174f9137</dc:identifier>
+        <dc:title>More Mathematical Finance</dc:title>
+        <dc:creator opf:file-as="Joshi, Mark S." opf:role="aut">Mark S. Joshi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-02T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The long-awaited sequel to the "Concepts and Practice of Mathematical Finance" has now arrived. Taking up where the first volume left off, a range of topics is covered in depth. Extensive sections include portfolio credit derivatives, quasi-Monte Carlo, the calibration and implementation of the LIBOR market model, the acceleration of binomial trees, the Fourier transform in option pricing and much more. Throughout Mark Joshi brings his unique blend of theory, lucidity, practicality and experience to bear on issues relevant to the working quantitative analyst. &lt;/p&gt;
+&lt;p&gt;"More Mathematical Finance" is Mark Joshi's fourth book. His previous books including "C++ Design Patterns and Derivatives Pricing" and "Quant Job Interview Questions and Answers" have proven to be indispensable for individuals seeking to become quantitative analysts. His new book continues this trend with a clear exposition of a range of models and techniques in the field of derivatives pricing. Each chapter is accompanied by a set of exercises. These are of a variety of types including simple proofs, complicated derivations and computer projects. &lt;/p&gt;
+&lt;p&gt;Chapter 1. Optionality, convexity and volatility 1 &lt;/p&gt;
+&lt;p&gt;Chapter 2. Where does the money go? 9 &lt;/p&gt;
+&lt;p&gt;Chapter 3. The Bachelier model 23 &lt;/p&gt;
+&lt;p&gt;Chapter 4. Deriving the Delta 29 &lt;/p&gt;
+&lt;p&gt;Chapter 5. Volatility derivatives and model-free dynamic replication 33 &lt;/p&gt;
+&lt;p&gt;Chapter 6. Credit derivatives 41 &lt;/p&gt;
+&lt;p&gt;Chapter 7. The Monte Carlo pricing of portfolio credit derivatives 53 &lt;/p&gt;
+&lt;p&gt;Chapter 8. Quasi-analytic methods for pricing portfolio credit derivatives 71 &lt;/p&gt;
+&lt;p&gt;Chapter 9. Implied correlation for portfolio credit derivatives 81 &lt;/p&gt;
+&lt;p&gt;Chapter 10. Alternate models for portfolio credit derivatives 93 &lt;/p&gt;
+&lt;p&gt;Chapter 11. The non-commutativity of discretization 113 &lt;/p&gt;
+&lt;p&gt;Chapter 12. What is a factor? 129 &lt;/p&gt;
+&lt;p&gt;Chapter 13. Early exercise and Monte Carlo Simulation 151 &lt;/p&gt;
+&lt;p&gt;Chapter 14. The Brownian bridge 175 &lt;/p&gt;
+&lt;p&gt;Chapter 15. Quasi Monte Carlo Simulation 185 &lt;/p&gt;
+&lt;p&gt;Chapter 16. Pricing continuous barrier options using a jump-diffusion model 207 &lt;/p&gt;
+&lt;p&gt;Chapter 17. The Fourier-Laplace transform and option pricing 219 &lt;/p&gt;
+&lt;p&gt;Chapter 18. The cos method 253 &lt;/p&gt;
+&lt;p&gt;Chapter 19. What are market models? 265 &lt;/p&gt;
+&lt;p&gt;Chapter 20. Discounting in market models 281 &lt;/p&gt;
+&lt;p&gt;Chapter 21. Drifts again 293 &lt;/p&gt;
+&lt;p&gt;Chapter 22. Adjoint and automatic Greeks 307 &lt;/p&gt;
+&lt;p&gt;Chapter 23. Estimating correlation for the LIBOR market model 327 &lt;/p&gt;
+&lt;p&gt;Chapter 24. Swap-rate market models 341 &lt;/p&gt;
+&lt;p&gt;Chapter 25. Calibrating market models 363 &lt;/p&gt;
+&lt;p&gt;Chapter 26. Cross-currency market models 389 &lt;/p&gt;
+&lt;p&gt;Chapter 27. Mixture models 401 &lt;/p&gt;
+&lt;p&gt;Chapter 28. The convergence of binomial trees 407 &lt;/p&gt;
+&lt;p&gt;Chapter 29. Asymmetry in option pricing 433 &lt;/p&gt;
+&lt;p&gt;Chapter 30. A perfect model? 443 &lt;/p&gt;
+&lt;p&gt;Chapter 31. The fundamental theorem of asset pricing. 449 &lt;/p&gt;
+&lt;p&gt;Appendix A. The discrete Fourier transform 457 &lt;/p&gt;
+&lt;p&gt;Praise for the Concepts and Practice of Mathematical Finance: &lt;/p&gt;
+&lt;p&gt;"overshadows many other books available on the same subject" -- ZentralBlatt Math &lt;/p&gt;
+&lt;p&gt;"Mark Joshi succeeds admirably - an excellent starting point for a numerate person in the field of mathematical finance." -- Risk Magazine &lt;/p&gt;
+&lt;p&gt;"Very few books provide a balance between financial theory and practice. This book is one of the few books that strikes that balance." -- SIAM Review&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pilot Whale Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0987122800</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780987122803</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-09-15T17:09:34+00:00"/>
+        <meta name="calibre:title_sort" content="More Mathematical Finance"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

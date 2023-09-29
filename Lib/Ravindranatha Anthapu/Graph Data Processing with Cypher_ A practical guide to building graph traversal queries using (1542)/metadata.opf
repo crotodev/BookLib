@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1542</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b7b89f2-f0d1-42d1-86de-760730160e70</dc:identifier>
+        <dc:title>Graph Data Processing with Cypher: A practical guide to building graph traversal queries using the Cypher syntax on Neo4j</dc:title>
+        <dc:creator opf:file-as="Anthapu, Ravindranatha" opf:role="aut">Ravindranatha Anthapu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-16T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Get acquainted with Cypher in a guided manner quickly and learn how to query the graph databases with efficient and performant queriesKey FeaturesWork with Cypher syntax and semantics while building graph traversal queriesGet up and running with advanced Cypher concepts like List, Maps, OPTIONAL MATCHMaster best practices in writing effective queries leveraging data modeling and patternsBook DescriptionWhile it is easy to learn and understand the Cypher declarative language for querying graph databases, it can be very difficult to master it. As graph databases are becoming more mainstream, there is a dearth of content and guidance for developers to leverage database capabilities fully. This book fills the information gap by describing graph traversal patterns in a simple and readable way. &lt;/p&gt;
+&lt;p&gt;This book provides a guided tour of Cypher from understanding the syntax, building a graph data model, and loading the data into graphs to building queries and profiling the queries for best performance. It introduces APOC utilities that can augment Cypher queries to build complex queries. You'll also be introduced to visualization tools such as Bloom to get the most out of the graph when presenting the results to the end users. &lt;/p&gt;
+&lt;p&gt;After having worked through this book, you'll have become a seasoned Cypher query developer with a good understanding of the query language and how to use it for the best performance. &lt;/p&gt;
+&lt;p&gt;What you will learnWrite Cypher queries from basic to advanced levelMap the source data to the graph data model in an iterative fashionLoad the data into a graph using LOAD CSV, APOC, and client driversMap the business questions to graph queries effectivelyIdentify query performance issues and fix themExtend capabilities of Cypher using APOC utilitiesWork with graph visualization tools like Bloom and BrowserWho this book is forThis book is targeted at Database Administrator, Database Developers, Graph Database Developers, and Graph Database Architects. This book will also help someone migrate from a DBA role to a graph data engineer or data scientistIf you are working with graph databases and need to learn Cypher, or are a basic Cypher developer who wants to get better at data modeling and tuning queries to build performant Cypher queries, then this is the book for you.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781804612651</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">NR2gEAAAQBAJ</dc:identifier>
+        <dc:language>ara</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Database Administration &amp; Management</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Data Analytics</dc:subject>
+        <meta name="calibre:timestamp" content="2023-09-29T12:40:58.780563+00:00"/>
+        <meta name="calibre:title_sort" content="Graph Data Processing with Cypher: A practical guide to building graph traversal queries using the Cypher syntax on Neo4j"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
