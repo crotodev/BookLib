@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1546</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af1725af-e033-4c22-adb3-33e348f8b7a8</dc:identifier>
+        <dc:title>Highly Effective Networking: Meet the Right People and Get a Great Job</dc:title>
+        <dc:creator opf:file-as="Pierson, Orville" opf:role="aut">Orville Pierson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Virtually all job hunting experts agree that networking is the best way to find a great job. But most people don't have connections to the decision makers who do the hiring. And "networking" books, which are mostly written by and for salespeople, suggest aggressive tactics, often confusing these with real networking. They focus on building a powerful network over the course of a lifetime. But when you need a new job, you don't have time to build a huge, powerful network. You've got to use the network you already have. &lt;/p&gt;
+&lt;p&gt;Orville Pierson, a top expert in job hunting, tells you how to succeed by effectively using your current circle of contacts. He cuts through the myths and misunderstandings to show you how millions of job hunters have networked their way to great new jobs. Highly Effective Networking empowers you to: &lt;br&gt;-Use a small network to reach dozens of insiders and decision makers. &lt;br&gt;-Get the right message to the right people, even if you have never met them. &lt;br&gt;-Create a project plan to organize your networking efforts. &lt;br&gt;-Speak effectively and comfortably with your networking contacts. &lt;br&gt;-Talk to decision makers before the job opening is announced. &lt;/p&gt;
+&lt;p&gt;Networking in job hunting is different than other networking. You don't have to hobnob with the rich and famous. There's no need for aggressive sales tactics. You just need to understand how real networking fits into your job search, and then be systematic about doing it.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Orville Pierson is the author of The Unwritten Rules of the Highly Effective Job Search and senior vice president and corporate director of program design and service delivery for Lee Hecht Harrison, a leading career services company with 240 offices worldwide. In career services since 1977, Pierson has trained hundreds of career consultants. Yale educated, he is in demand as a speaker for college undergraduates, business school alumni, and job hunters ranging from hourly workers to senior executives. Often quoted by journalists, his work has been featured on radio and TV. He lives in Northampton, Massachusetts. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Weiser</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781601630506</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1601630506</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">bd5EDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Careers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-09-30T18:48:35.302066+00:00"/>
+        <meta name="calibre:title_sort" content="Highly Effective Networking: Meet the Right People and Get a Great Job"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

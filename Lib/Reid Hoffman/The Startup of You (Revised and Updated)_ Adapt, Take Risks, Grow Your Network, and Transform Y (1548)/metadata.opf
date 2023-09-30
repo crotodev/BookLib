@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1548</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74c2efc7-20f0-427a-aa50-a9ad3d55df98</dc:identifier>
+        <dc:title>The Startup of You (Revised and Updated): Adapt, Take Risks, Grow Your Network, and Transform Your Career</dc:title>
+        <dc:creator opf:file-as="Hoffman, Reid &amp; Casnocha, Ben" opf:role="aut">Reid Hoffman</dc:creator>
+        <dc:creator opf:file-as="Hoffman, Reid &amp; Casnocha, Ben" opf:role="aut">Ben Casnocha</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-14T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The groundbreaking #1 New York Times bestseller that taught a generation how to transform their careers—now in a revised and updated edition   “A profound book about self-determination and self-realization.”—Senator Cory Booker  “The Startup of You is crammed with insights and strategies to help each of us create the work life we want.”—Gretchen Rubin, author of The Happiness Project In this invaluable book, LinkedIn co-founder Reid Hoffman and venture capitalist Ben Casnocha show how to accelerate your career in today’s competitive world. The key is to manage your career as if it were a startup business: a living, breathing, growing startup of you. &lt;/p&gt;
+&lt;p&gt;Why? Startups—and the entrepreneurs who run them—are nimble. They invest in themselves. They build their professional networks. They take intelligent risks. They make uncertainty and volatility work to their advantage. &lt;/p&gt;
+&lt;p&gt;These are the very same skills professionals need to get ahead today. &lt;/p&gt;
+&lt;p&gt;This book isn’t about cover letters or résumés. Instead, you will learn the best practices of the most successful startups and how to apply these entrepreneurial strategies to your career. Whether you work for a giant multinational corporation, stitch together multiple gigs in a portfolio career, or are launching your own venture, you need to know how to• adapt your career plans as pandemics rage and technologies upend industries• develop a competitive advantage so that you stand out from others at work• strengthen your professional network by building powerful alliances and maintaining a diverse mix of relationships• engineer serendipity that produces life-changing career opportunities• take proactive risks to become more resilient to industry tsunamis• tap your network for information and intelligence that help you make smarter decisions The career landscape has changed dramatically in the decade since Hoffman and Casnocha first published this guide. In an urgent update to the frameworks that have helped hundreds of thousands of people transform their careers, this new edition of The Startup of You will teach you how to achieve your boldest professional ambitions.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Crown</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307888921</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">uWdSEALLNYEC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Personal Success</dc:subject>
+        <dc:subject>Careers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Entrepreneurship</dc:subject>
+        <meta name="calibre:timestamp" content="2023-09-30T18:49:29.643553+00:00"/>
+        <meta name="calibre:title_sort" content="Startup of You (Revised and Updated): Adapt, Take Risks, Grow Your Network, and Transform Your Career, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
