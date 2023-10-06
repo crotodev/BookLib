@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1561</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be0954fe-87ca-462b-a6ce-919db1f59eb7</dc:identifier>
+        <dc:title>The Science of Motivation: Strategies and Techniques for Turning Dreams Into Destiny</dc:title>
+        <dc:creator opf:file-as="Strutzel, Dan &amp; Tracy, Brian" opf:role="aut">Dan Strutzel</dc:creator>
+        <dc:creator opf:file-as="Strutzel, Dan &amp; Tracy, Brian" opf:role="aut">Brian Tracy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.28.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-07T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The legendary college football coach and analyst, Lou Holtz once "When all is said and done, more is said than done." These few, yet extremely profound words explain one of the biggest predicaments that individuals face today. Many of us as individuals say we want to be successful, happy and influential. Yet, very, very few of us, follow up what we say-whether said to others or ourselves-with specific actions that move us directly toward those goals. The idea of being successful is an attractive dream that fills us with positive emotions. Whereas the actions required to be successful (at work, in our relationships, in sports competition, etc.) are often difficult and lengthy. The desire to be genuinely happy is a universal goal toward which nearly every individual and advanced society aspires. But, the actions required to achieve deep and sustained happiness (some call it "joy") require us to often delay temporary gratification and "quick fixes" to problems. And, saying that we want to achieve a level of influence, either as a leader of others in the workplace, an influential member of the community, or as an admired parent and spouse, is far easier than the gut wrenching decisions, enormous amounts of personal time, and direct truth-telling that are required. It's this gap-which can often feel as large, distant and mysterious as a black hole-between what we say we want, and what we must do to achieve it, that separates those who are able to turn their dreams into their destiny. So what do we need to bridge this gap between what we say we want, and what we must do to achieve it? We need goal-oriented motivation. This specific kind of motivation is the fuel that takes us across the long and often uncertain bridge to our desired destination in life. What would it mean to you to learn how to develop this kind of motivation on-demand, sustain this motivation through the difficult periods of life, and instill this motivation so intricately into your daily life that you make the very idea of motivation unnecessary? All of that and more is available to you in this cutting-edge, all new program, The Science of Strategies and Techniques for Turning Dreams Into Destiny, from personal development expert and motivation master, Brian Tracy. Here you'll learn that the typical idea of motivation (as something that comes and goes, often out of your control; and as something akin to a balloon being filled with air from the outside in) are completely inaccurate. Motivation has been studied-as have the methods and strategies needed to replicate it. Truly, there is a Science of Motivation. And, like any other subject which has been studied and tested with the scientific method, if you implement the causes of motivation in your life, you will (indeed, you must) produce the effect of motivation toward the outcomes that you desire. After cleaning away the numerous myths about motivation that most people believe, Brian will present this cutting-edge Science of Motivation with you. And, if you apply this Science systematically in your life, your dreams will become your destiny.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Gildan Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781469035970</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1469035979</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">34523608</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self Help</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-10-06T16:30:56.703758+00:00"/>
+        <meta name="calibre:title_sort" content="Science of Motivation: Strategies and Techniques for Turning Dreams Into Destiny, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
