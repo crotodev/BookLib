@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1562</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9abd28d9-919f-4e18-a0d7-b7378bdf3de8</dc:identifier>
+        <dc:title>Million Dollar Habits: Proven Power Practices to Double and Triple Your Income</dc:title>
+        <dc:creator opf:file-as="Tracy, Brian" opf:role="aut">Brian Tracy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.28.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-02T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;95% of what people think, feel and do, is determined by habits. Habits are ingrained but not unchangeable―new, positive habits can be learned to replace worn-out, ineffective practices with optimal behaviors that can cause dramatic, immediate benefits to the bottom line. &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Million Dollar Habits&lt;/em&gt; , Tracy teaches readers how to develop the habits of successful men and women so they too can think more effectively, make better decisions, and ultimately double or triple their income. Readers will learn how to organize their finances, increase health and vitality, sustain loving relationships, build financial independence, and take a leadership role to turn visions into reality.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Brian Tracy is Chairman and CEO of Brian Tracy International, a company specializing in the training and development of individuals and organizations. Brian Tracy has consulted for more than 1,000 companies and addressed more than 5,000,000 people in 5,000 talks and seminars throughout the US, Canada, and 55 other countries worldwide. As a Keynote speaker and seminar leader, he addresses more than 250,000 people each year. He has studied, researched, written and spoken for 30 years in the fields of economics, history, business, philosophy and psychology. He is the top selling author of over 45 books that have been translated into dozens of languages. He has written and produced more than 300 audio and video learning programs, including the worldwide, best-selling Psychology of Achievement, which has been translated into more than 20 languages. He speaks to corporate and public audiences on the subjects of Personal and Professional Development, including the executives and staff of many of America's largest corporations. His exciting talks and seminars on Leadership, Selling, Self-Esteem, Goals, Strategy, Creativity and Success Psychology bring about immediate changes and long-term results.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Entrepreneur Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781599186146</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1599186144</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-10-06T16:33:01.965432+00:00"/>
+        <meta name="calibre:title_sort" content="Million Dollar Habits: Proven Power Practices to Double and Triple Your Income"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

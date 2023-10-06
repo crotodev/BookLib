@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1557</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b3ce077-4827-4fbb-b6b9-44e6875fdbcd</dc:identifier>
+        <dc:title>Get It Done Now!: Own Your Time, Take Back Your Life</dc:title>
+        <dc:creator opf:file-as="Tracy, Brian" opf:role="aut">Brian Tracy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.28.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;While productivity and time management expert Brian Tracy has been writing bestselling books and giving seminars on these topics for well over thirty years, the challenge of remaining optimally productive in our modern world has never been greater. How can this be? &lt;/p&gt;
+&lt;p&gt;We live in the most technologically advanced period of history in the most technologically advanced country. With the advent of mobile phones, killer apps, internet speeds that stagger the imagination, and nearly any bit of information, products, and solutions only one click away, how can it be that remaining optimally productive is such a challenge for so many? &lt;/p&gt;
+&lt;p&gt;In a word: DISTRACTION. Many of us spend precious time focusing on the inces¬¨sant e-mails, texts, notifications, ads, etc. that seem important-even urgent-to our success and happiness, but, in reality, only complicate our lives and take us even further from our goals. &lt;/p&gt;
+&lt;p&gt;Brian addresses this challenge of distraction in its many forms and shows you how to feed your focuson a daily basis. You will learn:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Productivity Promises and Pitfalls in our Modern Age&lt;/li&gt;
+&lt;li&gt;The Psychology of Productivity &lt;/li&gt;
+&lt;li&gt;The Best Productivity Methods Ever Conceived &lt;/li&gt;
+&lt;li&gt;How to End Procrastination Once and For All &lt;/li&gt;
+&lt;li&gt;Productivity and Relationships: Where it Applies and Where It Doesn't&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Look for these other books by BRIAN TRACY&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Entrepreneurship&lt;/em&gt;
+&lt;ul style="margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px"&gt;
+&lt;li&gt;&lt;em&gt;Make More Money&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Science of Influence&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Science of Money&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Science of Motivation&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;BRIAN TRACY is Chairman and CEO of Brian Tracy International, specializing in the training and development of individuals and organizations. His goal is to help you achieve your personal and business goals faster and easier than you ever imagined. Brian has consulted for more than 1,000 companies and addressed more than 5,000,000 people in 5,000 talks and seminars throughout the US, Canada and 70 other countries worldwide.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>G&amp;D Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781722510336</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1722510331</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">1YWiDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Time Management</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Self-Management</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-10-06T16:24:24.901667+00:00"/>
+        <meta name="calibre:title_sort" content="Get It Done Now!: Own Your Time, Take Back Your Life"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
