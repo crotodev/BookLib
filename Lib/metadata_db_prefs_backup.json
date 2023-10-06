@@ -17,6 +17,18 @@
   ],
   "gui_view_history": [
     [
+      1553,
+      "The Go-Getter: A Story That Tells You How to Be One"
+    ],
+    [
+      1503,
+      "A Logical Approach to Discrete Math / Edition 1"
+    ],
+    [
+      1543,
+      "Learning Neo4j 3.x - Second Edition: Effective Data Modeling, Performance Tuning and Data Visualization Techniques in Neo4j"
+    ],
+    [
       1536,
       "Introduction to Probability, Second Edition"
     ],
@@ -27,10 +39,6 @@
     [
       1502,
       "Data Abstraction & Problem Solving With C++: International Edition"
-    ],
-    [
-      1503,
-      "A Logical Approach to Discrete Math / Edition 1"
     ],
     [
       68,
@@ -67,14 +75,6 @@
     [
       507,
       "Vital Statistics: Probability and Statistics for Economics and Business"
-    ],
-    [
-      1528,
-      "Investment Science Edition 2"
-    ],
-    [
-      1527,
-      "Investment Science / Edition 2"
     ]
   ],
   "library_view books view state": {
@@ -945,5 +945,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1695944108.3584971
+  "last_expired_trash_at": 1696607465.005609
 }
