@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1567</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfbea005-76f7-40f7-b50c-9243d4a75445</dc:identifier>
+        <dc:title>Deep Work: Rules for Focused Success in a Distracted World</dc:title>
+        <dc:creator opf:file-as="Newport, Cal" opf:role="aut">Cal Newport</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.28.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-05T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;**AN AMAZON BEST BOOK OF 2O16 PICK IN BUSINESS &amp;amp; LEADERSHIP &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WALL STREET JOURNAL &lt;/strong&gt;BUSINESS BESTSELLER &lt;/p&gt;
+&lt;p&gt;A BUSINESS BOOK OF THE WEEK AT 800-CEO-READ** &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Master one of our economy’s most rare skills and achieve groundbreaking results with this “exciting” book (Daniel H. Pink) from an “exceptional” author (&lt;/strong&gt; New York Times &lt;span style="font-weight: bold; font-style: italic"&gt;* Book Review &lt;/span&gt;&lt;strong&gt;*).&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep Work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship. In short, deep work is like a super power in our increasingly competitive twenty-first century economy. And yet, most people have lost the ability to go deep-spending their days instead in a frantic blur of e-mail and social media, not even realizing there's a better way. &lt;/p&gt;
+&lt;p&gt;In Deep Work, author and professor Cal Newport flips the narrative on impact in a connected age. Instead of arguing distraction is bad, he instead celebrates the power of its opposite. Dividing this book into two parts, he first makes the case that in almost any profession, cultivating a deep work ethic will produce massive benefits. He then presents a rigorous training regimen, presented as a series of four "rules," for transforming your mind and habits to support this skill. &lt;/p&gt;
+&lt;p&gt;1. Work Deeply&lt;br&gt;2. Embrace Boredom&lt;br&gt;3. Quit Social Media&lt;br&gt;4. Drain the Shallows &lt;/p&gt;
+&lt;p&gt;A mix of cultural criticism and actionable advice, &lt;em&gt;Deep Work&lt;/em&gt; takes the reader on a journey through memorable stories-from Carl Jung building a stone tower in the woods to focus his mind, to a social media pioneer buying a round-trip business class ticket to Tokyo to write a book free from distraction in the air-and no-nonsense advice, such as the claim that most serious professionals should quit social media and that you should practice being bored. Deep Work is an indispensable guide to anyone seeking focused success in a distracted world.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781455586691</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1455586692</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">4QTzCAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Time Management</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Self-Management</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Business &amp; Economics / Time Management</dc:subject>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-10-06T20:56:36.814238+00:00"/>
+        <meta name="calibre:title_sort" content="Deep Work: Rules for Focused Success in a Distracted World"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

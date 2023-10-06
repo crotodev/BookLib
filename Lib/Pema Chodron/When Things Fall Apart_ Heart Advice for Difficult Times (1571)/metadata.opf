@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1571</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fef15a25-37f5-4257-bb3c-9f8a30d968b1</dc:identifier>
+        <dc:title>When Things Fall Apart: Heart Advice for Difficult Times</dc:title>
+        <dc:creator opf:file-as="Chödrön, Pema" opf:role="aut">Pema Chödrön</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.28.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-12-24T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The beautiful practicality of her teaching has made Pema Chödrön one of the most beloved of contemporary American spiritual authors among Buddhists and non-Buddhists alike. A collection of talks she gave between 1987 and 1994, the book is a treasury of wisdom for going on living when we are overcome by pain and difficulties. Chödrön discusses: &lt;/p&gt;
+&lt;p&gt;- Using painful emotions to cultivate wisdom, compassion, and courage&lt;br&gt;- Communicating so as to encourage others to open up rather than shut down&lt;br&gt;- Practices for reversing habitual patterns&lt;br&gt;- Methods for working with chaotic situations&lt;br&gt;- Ways for creating effective social action&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Shambhala Publications</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780834821002</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">41893147</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">xHTVk23ui2YC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self Help</dc:subject>
+        <dc:subject>Spirituality</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Inspirational</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-10-06T21:23:25.875965+00:00"/>
+        <meta name="calibre:title_sort" content="When Things Fall Apart: Heart Advice for Difficult Times"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1566</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adb5e442-1c65-4405-aa46-201272243ed0</dc:identifier>
+        <dc:title>Man's Search for Meaning: A Young Adult Edition</dc:title>
+        <dc:creator opf:file-as="Frankl, Viktor E." opf:role="aut">Viktor E. Frankl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.28.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-04T04:00:00+00:00</dc:date>
+        <dc:description>A young readers’ edition of the best-selling classic about the Holocaust and finding meaning in suffering, with a photo insert, a glossary of terms, a chronology of Frankl’s life, and supplementary letters and speechesThe Library of Congress called it “one of the ten most influential books in America”; the New York Times pronounced it “an enduring work of survival literature”; and O, The Oprah Magazine praised it as “one of the most significant books of the twentieth century.” Man’s Search for Meaning has long riveted readers with its descriptions of life in Nazi death camps and its lessons for spiritual survival. This new young readers’ edition brings a beloved classic to a new generation of readers, offering a universal tribute to coping with suffering and finding one’s purpose. An abridged text of the original book (emphasizing Frankl’s personal story, while omitting some material on his psychological theory of logotherapy) is presented here, along with supplemental materials that vividly bring Frankl’s story to life, and a foreword by prominent young adult author John Boyne. Man’s Search for Meaning: A Young Readers’ Edition will help readers ages twelve to eighteen grasp Frankl’s enduring lessons on perseverance and strength with clarity and depth.</dc:description>
+        <dc:publisher>Beacon Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780807067550</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">4vOmDAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">32204385</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Self Help</dc:subject>
+        <dc:subject>Biography</dc:subject>
+        <dc:subject>War</dc:subject>
+        <dc:subject>Juvenile Nonfiction</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Holocaust</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Judaism</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-10-06T20:53:48.746821+00:00"/>
+        <meta name="calibre:title_sort" content="Man's Search for Meaning: A Young Adult Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1568</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">151a979d-dc13-4d30-a85d-53e3e68c71af</dc:identifier>
+        <dc:title>No Excuses!: The Power of Self-Discipline</dc:title>
+        <dc:creator opf:file-as="Tracy, Brian" opf:role="aut">Brian Tracy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.28.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;You don’t need to have been born under a lucky star, or with incredible wealth, or with terrific contacts and connections, or even special skills...but what you do need to succeed in any of your life goals is self-discipline. Unfortunately, most people give in to the two worst enemies of success: they take the path of least resistance (in other words, they’re lazy) and/or they want immediate gratification: they don’t consider the long-term consequences of the actions they take today. No Excuses! shows you how you can achieve success in all three major areas of your life: 1. Your personal goals.2. Your business and money goals.3. Your overall happiness. Each of the 21 chapters in this book shows you how to be more disciplined in one aspect of your life, with end-of-chapter exercises to help you apply the “no excuses” approach to your own life. With these guidelines, you can learn how to be more successful in everything you do—instead of wistfully envying others who you think are just “luckier” than you. A little self-discipline goes a long way...so stop making excuses and read this book!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Vanguard Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781593156138</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1593156138</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">8495408</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">-KzXJgHu0KgC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Motivational</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-10-06T20:59:19.949985+00:00"/>
+        <meta name="calibre:title_sort" content="No Excuses!: The Power of Self-Discipline"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
