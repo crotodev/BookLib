@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1572</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09439aa2-9d28-4e4b-8760-ce0c59763ce5</dc:identifier>
+        <dc:title>The Gift of Fear: Survival Signals That Protect Us From Violence</dc:title>
+        <dc:creator opf:file-as="Becker, Gavin de" opf:role="aut">Gavin de Becker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.28.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-10-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A special edition of &lt;em&gt;The Gift of Fear&lt;/em&gt; , with a new foreword by the author.&lt;/p&gt;
+&lt;p&gt;A stranger in a deserted parking lot offers to help carry a woman's groceries. Is he a good Samaritan, or is he after something else? A fired employee says "You'll be sorry". Will he return with a gun? After their first date, a man tells a woman it is their "destiny" to be married. What will he do when she won't see him again? A mother has an uneasy feeling about the nice babysitter she's just hired. Should she not go to work today?&lt;/p&gt;
+&lt;p&gt;These days, no one in America feels immune to violence. But now, in this extraordinary, groundbreaking book, the nation's leading expert on predicting violent behavior unlocks the puzzle of human violence and shows that, like every creature on earth, we have within us the ability to predict the harm others might do us and get out of its way. Contrary to popular myth, human violence almost always has a discernible motive and is preceded by clear warning signs.&lt;/p&gt;
+&lt;p&gt;Through dozens of compelling examples from his own career, Gavin de Becker teaches us how to read the signs, using our most basic but often most discounted survival skill - our intuition. &lt;em&gt;The Gift of Fear&lt;/em&gt; is a remarkable, unique combination of practical guidance on leading a safer life and profound insight into human behavior.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bloomsbury</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781713664031</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1713664038</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">F_jDQgAACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-10-10T00:32:27.816646+00:00"/>
+        <meta name="calibre:title_sort" content="Gift of Fear: Survival Signals That Protect Us From Violence, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
