@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1573</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d495a0f-6fec-462a-833c-22032e2b986d</dc:identifier>
+        <dc:title>Love Hurts: Buddhist Advice for the Heartbroken</dc:title>
+        <dc:creator opf:file-as="Rinzler, Lodro" opf:role="aut">Lodro Rinzler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Buddhist-inspired advice for working through romantic breakups and other painful emotional periods—by the best-selling author of&lt;/strong&gt; The Buddha Walks into a Bar... &lt;/p&gt;
+&lt;p&gt;Buddhism has a lot to say about suffering—and there are likely few times we suffer more intensely than when we break up with a romantic partner. It feels like you may never recover sometimes. But Lodro Rinzler has wonderfully good news for those suffering heartbreak: the 2,500-year-old teachings of the Buddha are the ultimate antidote for emotional pain. And you don't need to be a Buddhist for them to apply to you. &lt;/p&gt;
+&lt;p&gt;In this short and compact first-aid kit for a broken heart, he walks you through the cause and cure of suffering, with much practical advice for self-care as you work to survive a breakup. The wisdom he presents applies to any kind of emotional suffering. It's a great, practical offering of consolation for someone you know who's going through a tough time, and for yourself when you're looking for the light at the end of the tunnel in your own situation.&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;“This is not a book, it is a vast offer of friendship. In heartbreak, one moment you are fine and the next you are enraged, hopeless, ravaged by sadness, or all of the above. Wherever you are—and whether your heart aches due to lost love, illness, death, or basic disappointment in life—Lodro Rinzler has the wisdom you need in the exact moment you need it. If you have ever wished for a smart, kind, discerning, and ridiculously funny friend to accompany you, encourage you, challenge you, make you laugh, and point you in the direction of true healing, here he is."—Susan Piver, author of &lt;em&gt;Start Here Now&lt;/em&gt; and *The Wisdom of a Broken Heart &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“The good news about heartbreak is that it, like any painful emotional state, will eventually change--guaranteed. But until that guarantee kicks in, Lodro Rinzler’s book serves as one of the best first-aid kits I’ve seen. He offers the heartbroken much realistic comfort, but also insight that will be useful not only for navigating their own way in the sea of painful emotions, but for being a source of consolation to others. ” David Richo, author of &lt;em&gt;How to Be an Adult in Relationships&lt;br&gt;&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;LODRO RINZLER is a teacher in the Shambhala tradition of Vajrayana Buddhism. He has taught numerous workshops and retreats. His column "What Would Sid Do?" (Sid = Siddhartha, the Buddha) appears regularly in the &lt;em&gt;Huffington Post&lt;/em&gt;. He is the founder of the Institute for Compassionate Leadership, an educational organization that trains young professsionals in enlightened leadership skills, and he is a cofounder of MNDFL, a meditation studio in New York City.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Shambhala</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780834840515</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1611803543</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">33115571</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">PoBPDQAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self Help</dc:subject>
+        <dc:subject>Spirituality</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-10-22T23:34:33.990882+00:00"/>
+        <meta name="calibre:title_sort" content="Love Hurts: Buddhist Advice for the Heartbroken"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
