@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1578</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00023a46-f794-4f8d-9198-1691e2547060</dc:identifier>
+        <dc:title>Programming in Scala, Fourth Edition</dc:title>
+        <dc:creator opf:file-as="Odersky, Martin &amp; Spoon, Lex &amp; Venners, Bill" opf:role="aut">Martin Odersky</dc:creator>
+        <dc:creator opf:file-as="Odersky, Martin &amp; Spoon, Lex &amp; Venners, Bill" opf:role="aut">Lex Spoon</dc:creator>
+        <dc:creator opf:file-as="Odersky, Martin &amp; Spoon, Lex &amp; Venners, Bill" opf:role="aut">Bill Venners</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;Programming in Scala, Fourth Edition&lt;/em&gt; , is the definitive book on Scala, the popular language for the Java Platform that blends object-oriented and functional programming concepts into a unique and powerful tool for developers.&lt;/p&gt;
+&lt;p&gt;Coauthored by the designer of the Scala language, this authoritative book will teach you, one step at a time, the Scala language and the ideas behind it.&lt;/p&gt;
+&lt;p&gt;The book is carefully crafted to help you learn. The first few chapters will give you enough of the basics that you can already start using Scala for simple tasks. The entire book is organized so that each new concept builds on concepts that came before—a series of steps that promises to help you master the Scala language and the important ideas about programming that Scala embodies. &lt;/p&gt;
+&lt;p&gt;A comprehensive tutorial and reference for Scala, this book covers the entire language and important libraries.&lt;/p&gt;
+&lt;p&gt;This fourth edition brings the entire book up to date, adding new material to cover changes in Scala 2.13, in particular the overhaul of collections. This edition covers these changes in detail, including: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The new collections type hierarchy&lt;/li&gt;
+&lt;li&gt;New concrete collection types&lt;/li&gt;
+&lt;li&gt;New methods added to collections&lt;/li&gt;
+&lt;li&gt;The new ways to define your own collection types&lt;/li&gt;
+&lt;li&gt;The new, simplified views&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Artima</dc:publisher>
+        <dc:identifier opf:scheme="BARNESNOBLE">1137015306</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">oFvKzQEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Scala</dc:subject>
+        <meta name="calibre:timestamp" content="2023-10-25T19:41:16.278395+00:00"/>
+        <meta name="calibre:title_sort" content="Programming in Scala, Fourth Edition"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
