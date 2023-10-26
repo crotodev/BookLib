@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1581</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9975a21-0dc2-4a7e-a496-ff4a6822f5a4</dc:identifier>
+        <dc:title>A Logical Approach to Discrete Math</dc:title>
+        <dc:creator opf:file-as="Gries, David &amp; Schneider, Fred B." opf:role="aut">David Gries</dc:creator>
+        <dc:creator opf:file-as="Gries, David &amp; Schneider, Fred B." opf:role="aut">Fred B. Schneider</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-10-22T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This text attempts to change the way we teach logic to beginning students. Instead of teaching logic as a subject in isolation, we regard it as a basic tool and show how to use it. We strive to give students a skill in the propo sitional and predicate calculi and then to exercise that skill thoroughly in applications that arise in computer science and discrete mathematics. We are not logicians, but programming methodologists, and this text reflects that perspective. We are among the first generation of scientists who are more interested in using logic than in studying it. With this text, we hope to empower further generations of computer scientists and math ematicians to become serious users of logic. Logic is the glue Logic is the glue that binds together methods of reasoning, in all domains. The traditional proof methods -for example, proof by assumption, con tradiction, mutual implication, and induction- have their basis in formal logic. Thus, whether proofs are to be presented formally or informally, a study of logic can provide understanding.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Springer</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781475738377</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0387941150</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1100011253</dc:identifier>
+        <dc:identifier opf:scheme="DDC">004</dc:identifier>
+        <dc:identifier opf:scheme="DNB-IDN">1008416096</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">28780</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">103UBwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Logic Design</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Discrete Mathematics</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <meta name="calibre:series" content="Monographs in Computer Science"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-10-26T15:25:44.170031+00:00"/>
+        <meta name="calibre:title_sort" content="Logical Approach to Discrete Math, A"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
