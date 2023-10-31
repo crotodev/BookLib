@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">759d694a-5b8b-4968-9118-7bbab9c61f7c</dc:identifier>
         <dc:title>What Every BODY Is Saying: An Ex-FBI Agent's Guide to Speed-Reading People</dc:title>
         <dc:creator opf:file-as="Navarro, Joe" opf:role="aut">Joe Navarro</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-03-21T17:01:04+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;OVER 1 MILLION COPIES SOLD&lt;/p&gt;
@@ -30,7 +30,7 @@
         <dc:publisher>Harper Collins</dc:publisher>
         <dc:identifier opf:scheme="AMAZON">B0010SKSTO</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:timestamp" content="2023-09-28T02:05:28.122983+00:00"/>
+        <meta name="calibre:timestamp" content="2023-09-28T02:05:28+00:00"/>
         <meta name="calibre:title_sort" content="What Every BODY Is Saying: An Ex-FBI Agent's Guide to Speed-Reading People"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a33b2c1a-1206-43f6-b3ac-d9e5f6e2f3af</dc:identifier>
         <dc:title>Numerical Methods Using Java: For Data Science, Analysis, and Engineering</dc:title>
         <dc:creator opf:file-as="Haksun Li, Phd" opf:role="aut">Haksun Li, Phd</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-01-06T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;About the Author&lt;/h3&gt;
@@ -35,9 +35,9 @@
 &lt;li&gt;Build solvers for industrial optimization problems&lt;/li&gt;
 &lt;li&gt;Do data analysis using basic and advanced statistics&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B09PJBPJNS</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781484267967</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">t28NzgEACAAJ</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B09PJBPJNS</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>General</dc:subject>
@@ -45,7 +45,7 @@
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-28T16:30:14+00:00"/>
         <meta name="calibre:title_sort" content="Numerical Methods Using Java: For Data Science, Analysis, and Engineering"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

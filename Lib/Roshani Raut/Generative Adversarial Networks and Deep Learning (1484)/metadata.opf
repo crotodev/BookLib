@@ -8,7 +8,7 @@
         <dc:creator opf:file-as="Raut, Roshani &amp; Pathak, Pranav D &amp; Sakhare, Sachin R &amp; Patil, Sonali" opf:role="aut">Pranav D Pathak</dc:creator>
         <dc:creator opf:file-as="Raut, Roshani &amp; Pathak, Pranav D &amp; Sakhare, Sachin R &amp; Patil, Sonali" opf:role="aut">Sachin R Sakhare</dc:creator>
         <dc:creator opf:file-as="Raut, Roshani &amp; Pathak, Pranav D &amp; Sakhare, Sachin R &amp; Patil, Sonali" opf:role="aut">Sonali Patil</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-04-10T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book explores how to use generative adversarial networks in a variety of applications and emphasises their substantial advancements over traditional generative models. This book's major goal is to concentrate on cutting-edge research in deep learning and generative adversarial networks, which includes creating new tools and methods for processing text, images, and audio. &lt;/p&gt;
@@ -23,10 +23,10 @@
 &lt;p&gt;The book addresses scientific aspects for a wider audience such as junior and senior engineering, undergraduate and postgraduate students, researchers, and anyone interested in the trends development and opportunities in GAN and Deep Learning.&lt;/p&gt;
 &lt;p&gt;The material in the book can serve as a reference in libraries, accreditation agencies, government agencies, and especially the academic institution of higher education intending to launch or reform their engineering curriculum&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>CRC Press</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781032068107</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">1032068108</dc:identifier>
-        <dc:identifier opf:scheme="BARNESNOBLE">1142121077</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">77312379</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781032068107</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1142121077</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1032068108</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>This book explores how to use generative adversarial networks in a variety of applications and emphasises their substantial advancements over traditional generative models. This bookâ••s major goal is to concentrate on cutting-edge research in deep learning and generative adversarial networks</dc:subject>
         <dc:subject>which includes creating new tools and methods for processing text</dc:subject>
@@ -50,7 +50,7 @@
         <dc:subject>drug discovery</dc:subject>
         <dc:subject>etc.Features:</dc:subject>
         <dc:subject>Deep Learning; Machine Learning; Artificial Intelligence; Computer Vision</dc:subject>
-        <meta name="calibre:timestamp" content="2023-07-09T15:50:35.557462+00:00"/>
+        <meta name="calibre:timestamp" content="2023-07-09T15:50:35+00:00"/>
         <meta name="calibre:title_sort" content="Generative Adversarial Networks and Deep Learning"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

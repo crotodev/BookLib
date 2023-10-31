@@ -6,7 +6,7 @@
         <dc:title>Investment Banking Workbook</dc:title>
         <dc:creator opf:file-as="Rosenbaum, Joshua &amp; Pearl, Joshua" opf:role="aut">Joshua Rosenbaum</dc:creator>
         <dc:creator opf:file-as="Rosenbaum, Joshua &amp; Pearl, Joshua" opf:role="aut">Joshua Pearl</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-06-24T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;em&gt;Investment&lt;/em&gt; &lt;em&gt;Banking WORKBOOK&lt;/em&gt; is the ideal complement to &lt;em&gt;Investment Banking, Valuation, Leveraged Buyouts, and Mergers &amp;amp; Acquisitions, Second Edition&lt;/em&gt;, enabling you to truly master and refine the core skills at the center of the world of finance. This comprehensive study guide provides an invaluable opportunity to explore your understanding of the strategies and techniques covered in the main text, before putting them to work in real-world situations.&lt;br&gt;The &lt;em&gt;WORKBOOK&lt;/em&gt; --which parallels the main book chapter by chapter--contains over 400 problem-solving exercises and multiple-choice questions.&lt;br&gt;Topics reviewed include: &lt;/p&gt;
@@ -44,7 +44,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-14T05:42:58+00:00"/>
         <meta name="calibre:title_sort" content="Investment Banking Workbook"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

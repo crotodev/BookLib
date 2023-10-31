@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">686530fa-a1c4-4a19-9580-f7c86dbc7066</dc:identifier>
         <dc:title>Introduction to Probability, Second Edition</dc:title>
         <dc:creator opf:file-as="Blitzstein, Joseph K." opf:role="aut">Joseph K. Blitzstein</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-08T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Developed from celebrated Harvard statistics lectures, &lt;strong&gt;Introduction to Probability&lt;/strong&gt; provides essential language and toolsfor understanding statistics, randomness, and uncertainty. The book explores a wide variety of applications and examples, ranging from coincidences and paradoxes to Google PageRank and Markov chain Monte Carlo (MCMC). Additional application areas explored include genetics, medicine, computer science, and information theory. &lt;/p&gt;
@@ -17,11 +17,11 @@
 &lt;p&gt;&lt;strong&gt;Joseph K. Blitzstein, PhD&lt;/strong&gt; , professor of the practice in statistics, Department of Statistics, Harvard University, Cambridge, Massachusetts, USA&lt;/p&gt;
 &lt;p&gt;Jessica Hwang is a graduate student in the Stanford statistics department.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Chapman and Hall/CRC</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781138369917</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1138369918</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781138369917</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-09-27T12:44:31.872507+00:00"/>
+        <meta name="calibre:timestamp" content="2023-09-27T12:44:31+00:00"/>
         <meta name="calibre:title_sort" content="Introduction to Probability, Second Edition"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

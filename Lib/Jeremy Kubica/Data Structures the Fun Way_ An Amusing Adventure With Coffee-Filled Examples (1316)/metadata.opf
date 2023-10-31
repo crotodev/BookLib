@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">dd4d47d8-dca8-4ebc-97f7-1b4b61c04c47</dc:identifier>
         <dc:title>Data Structures the Fun Way: An Amusing Adventure With Coffee-Filled Examples</dc:title>
         <dc:creator opf:file-as="Kubica, Jeremy" opf:role="aut">Jeremy Kubica</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-11-08T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -21,9 +21,9 @@
 &lt;p&gt;Jeremy Kubica is an engineer director specializing in artificial intelligence and machine learning. He received a Ph.D. in Robotics from Carnegie Mellon University and a BS in Computer Science from Cornell University. He spent his graduate school years creating algorithms to detect killer asteroids (actually stopping them was, of course, left as “future work”). He is the author of multiple books designed to introduce people to computer science, including &lt;em&gt;Computational Fairy Tales&lt;/em&gt; and &lt;em&gt;The CS Detective&lt;/em&gt; , as well as the Computational Fairy Tales Blog.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>No Starch Press</dc:publisher>
         <dc:identifier opf:scheme="AMAZON">1718502605</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">60704823</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">nvtvEAAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781718502604</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">nvtvEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">60704823</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Computer Science</dc:subject>
@@ -34,7 +34,7 @@
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-03-12T19:56:39+00:00"/>
         <meta name="calibre:title_sort" content="Data Structures the Fun Way: An Amusing Adventure With Coffee-Filled Examples"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>
