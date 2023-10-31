@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">00808fad-b90d-41c0-9790-7b812378c7ae</dc:identifier>
         <dc:title>Generic Data Structures and Algorithms in Go: An Applied Approach Using Concurrency, Genericity and Heuristics</dc:title>
         <dc:creator opf:file-as="Wiener, Richard" opf:role="aut">Richard Wiener</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-07-13T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Advance your understanding of generic data structures and algorithms and their applications using Go and the effective use of concurrency. You are invited on a journey that aims to improve your programming and problem-solving skills. This book takes you to the next step by showing how to get your programs to work efficiently as well as correctly. &lt;br&gt;As you explore many data structures and the algorithms and applications associated with them, you'll focus on the trade-offs between speed and storage and the benefits of deploying concurrency when appropriate. This book will demonstrate the huge increases in application performance that are possible. The presentation of classic data structures and techniques of algorithm design (greedy, divide and conquer, branch-and-bound to name a few) provides an essential foundation and toolkit for problem solving. But this book goes further by presenting heuristic algorithms and their implementations for solving computationally intractable combinatoric optimization problems such as the travelling salesperson problem. Simulated annealing and genetic algorithms are among the techniques used.&lt;br&gt;The consistent style of coding used throughout this book exploits Go’s ability to implement abstract, generic and constrained generic data types without the use of classes. Although some familiarity with Go is assumed, this book should advance your ability to use Go to tackle server-side applications, games, machine learning, information retrieval and other application domains where speed and storage efficiency is essential.&lt;br&gt;&lt;strong&gt;What You'll Learn&lt;/strong&gt;&lt;/p&gt;
@@ -27,11 +27,11 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Richard Wiener, Ph.D.&lt;/strong&gt; authored or co-authored 22 professional, software development and computer-science textbooks published by Wiley, Addison-Wesley, Prentice-Hall, Cambridge University Press and Thompson. Served as founding Editor-in-Chief of the Journal of Object-Oriented Programming for 12 years and later, founding Editor-in-Chief of the Journal of Object Technology for 9 years. Worked as Associate Professor of Computer Science at the University of Colorado, Colorado Springs (UCCS) from 1977-2012. Served as Department Chair during last four years at UCCS. Served as consultant and software developer for IBM, HP, Boeing, Textronix, DEC and many other companies. Presented industry short-courses all over the world from 1980 to 2006. Earned BS and MS in Electrical Engineering from City University of New York and Ph.D. from Polytechnic Institute of New York. &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Apress</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781484281901</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">148428190X</dc:identifier>
-        <dc:identifier opf:scheme="BARNESNOBLE">1141227130</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">61274941</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">8cL3zgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484281901</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">61274941</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1141227130</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>General</dc:subject>
@@ -43,9 +43,9 @@
         <dc:subject>Number Systems</dc:subject>
         <dc:subject>Numerical Analysis</dc:subject>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-07-06T02:57:06.308026+00:00"/>
+        <meta name="calibre:timestamp" content="2023-07-06T02:57:06+00:00"/>
         <meta name="calibre:title_sort" content="Generic Data Structures and Algorithms in Go: An Applied Approach Using Concurrency, Genericity and Heuristics"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>
