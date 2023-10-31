@@ -5,21 +5,21 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">53e8c5fa-ecfc-4a78-a091-31e2d122e335</dc:identifier>
         <dc:title>Learning Modern C++ for Finance: Foundations for Quantitative Programming</dc:title>
         <dc:creator opf:file-as="Hanson, Daniel" opf:role="aut">Daniel Hanson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-04-04T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A lot of financial modeling has gravitated toward Python, R, and VBA, but many developers hit a wall with these languages when it comes to performance. This practical book demonstrates why C++ is still one of the dominant production-quality languages for financial applications and systems. Many programmers believe that C++ is too difficult to learn. Author Daniel Hanson demonstrates that this is no longer the case. &lt;/p&gt;
 &lt;p&gt;Financial programmers coming from Python or another interpreted language will discover how to leverage C++ abstractions that enable safer and quicker implementation of financial models. You'll also explore how popular open source libraries provide additional weapons for attacking mathematical problems. C++ programmers unfamiliar with financial applications will also benefit from this handy guide. &lt;/p&gt;
 &lt;p&gt;Learn C++ syntax, inheritance, polymorphism, composition, STL containers, and algorithms Dive into newer features and abstractions including functional programming using lambdas, task-based concurrency, and smart pointers Employ common but nontrivial financial models in modern C++ Explore external open source math libraries, particularly Eigen and Boost Implement basic numerical routines in modern C++ Understand best practices for writing clean and efficient code &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly Media</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">m1suzwEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781098100803</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">1098100808</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">m1suzwEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">78183635</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1098100808</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:timestamp" content="2023-03-10T22:08:46+00:00"/>
         <meta name="calibre:title_sort" content="Learning Modern C++ for Finance: Foundations for Quantitative Programming"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

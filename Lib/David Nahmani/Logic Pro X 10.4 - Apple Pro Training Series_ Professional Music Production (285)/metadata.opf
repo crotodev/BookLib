@@ -5,13 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">bef611d5-6738-46df-a191-feff7089ce33</dc:identifier>
         <dc:title>Logic Pro X 10.4 - Apple Pro Training Series: Professional Music Production</dc:title>
         <dc:creator opf:file-as="Nahmani, David" opf:role="aut">David Nahmani</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-06-21T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Record, arrange, mix, produce, and polish your audio files with this best-selling, Apple-certified guide to Logic Pro X 10.4. Veteran producer and composer David Nahmani uses step-bystep, project-based instructions and straightforward explanations to teach everything from basic music creation to sophisticated production techniques. Using the book’s downloadable lesson files and Logic Pro X, you’ll begin making music in the first lesson. From there, learn to record audio and MIDI data, create and edit sequences, and master mixing and automation techniques such as submixing with track stacks. Create both acoustic and electronic virtual drum performances using Drummer tracks with Drum Kit Designer and Drum Machine Designer. Use Logic Pro X MIDI FX and Smart Controls to control software synthesizers from a MIDI controller or an iPad. Harness the power of Smart Tempo to make sure all recordings, imported audio files, and samples play in time. Flex Time allows you to precisely edit the timing of notes inside an audio recording, and you’ll explore Flex Pitch to correct the pitch of a vocal recording. Finally, you mix, automate, and master the song, using plug-ins to process only selected sections or entire tracks, giving your audio creations the final polish needed to achieve a professional sound. Downloadable lesson and media files allow you to perform the hands-on exercises. Focused lessons take you step by step through practical, real-world tasks. Accessible writing style puts an expert instructor at your side Ample illustrations help you master techniques fast. Lesson goals and time estimates help you plan your time. Chapter review questions summarize what you’ve learned and help you prepare for the Apple certification exam.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Peachpit Press</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780135245422</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">mgJfDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780135245422</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Interactive &amp; Multimedia</dc:subject>
@@ -21,7 +21,7 @@
         <dc:subject>Equipment; Appliances &amp; Supplies</dc:subject>
         <meta name="calibre:timestamp" content="2023-01-13T07:54:54+00:00"/>
         <meta name="calibre:title_sort" content="Logic Pro X 10.4 - Apple Pro Training Series: Professional Music Production"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

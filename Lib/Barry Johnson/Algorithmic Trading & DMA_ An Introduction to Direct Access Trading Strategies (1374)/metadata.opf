@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9b31d55e-c747-425f-84d6-80123d8ea102</dc:identifier>
         <dc:title>Algorithmic Trading &amp; DMA: An Introduction to Direct Access Trading Strategies</dc:title>
         <dc:creator opf:file-as="Johnson, Barry" opf:role="aut">Barry Johnson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-02-17T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Algorithmic trading and Direct Market Access (DMA) are important tools helping both buy and sell-side traders to achieve best execution (Note: the focus is on institutional sized orders, not those of individuals/retail traders).&lt;/p&gt;
@@ -22,9 +22,9 @@
 &lt;h3&gt;Review&lt;/h3&gt;
 &lt;p&gt;Algorithmic trading and optimal execution have become cornerstones of modern finance. "Algorithmic Trading and DMA" does an excellent job of providing one of the first comprehensive overviews of these areas. Anyone interested in these developments should own a copy of this book. --Petter Kolm, Director of the Mathematics in Finance Masters Program and Clinical Associate Professor of Mathematics, Courant Institute of Mathematical Sciences, New York University&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>4Myeloma Press</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">0956399207</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">7346602</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">xgRcYgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0956399207</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780956399205</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business</dc:subject>
@@ -32,7 +32,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-04-02T05:50:18+00:00"/>
         <meta name="calibre:title_sort" content="Algorithmic Trading &amp; DMA: An Introduction to Direct Access Trading Strategies"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

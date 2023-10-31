@@ -7,11 +7,11 @@
         <dc:creator opf:file-as="Kane, Alex &amp; Marcus, Alan &amp; Bodie, Zvi" opf:role="aut">Alex Kane</dc:creator>
         <dc:creator opf:file-as="Kane, Alex &amp; Marcus, Alan &amp; Bodie, Zvi" opf:role="aut">Alan Marcus</dc:creator>
         <dc:creator opf:file-as="Kane, Alex &amp; Marcus, Alan &amp; Bodie, Zvi" opf:role="aut">Zvi Bodie</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-09-09T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The integrated solutions for Bodie, Kane, and Marcus' Investments set the standard for graduate/MBA investments textbooks. The unifying theme is that security markets are nearly efficient, meaning that most securities are priced appropriately given their risk and return attributes. The content places greater emphasis on asset allocation and offers a much broader and deeper treatment of futures, options, and other derivative security markets than most investment texts. Available as a separate purchase, McGraw-Hill's adaptive learning component, LearnSmart, provides assignable modules that help students master chapter core concepts and come to class more prepared. In addition, resources within Connect help students solve financial problems and apply what they've learned. Bodie Investments' blend of practical and theoretical coverage combines with a complete digital solution to help your students achieve higher outcomes in the course. Connect is the only integrated learning system that empowers students by continuously adapting to deliver precisely what they need, when they need it, and how they need it, so that your class time is more engaging and effective.&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>McGraw-Hill Education</dc:publisher>
+        <dc:publisher>Mcgraw-Hill Education</dc:publisher>
         <dc:identifier opf:scheme="GOOGLE">eJ71mgEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780077861674</dc:identifier>
         <dc:language>eng</dc:language>
@@ -20,7 +20,7 @@
         <dc:subject>General</dc:subject>
         <meta name="calibre:timestamp" content="2023-01-13T03:09:14+00:00"/>
         <meta name="calibre:title_sort" content="Investments"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

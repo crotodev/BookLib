@@ -5,13 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1d1ad0e7-66cc-40ca-a41e-b41aa1d6892e</dc:identifier>
         <dc:title>Option traders use (very) sophisticated heuristics, never the Blackâ€“Scholesâ€“Merton formula</dc:title>
         <dc:creator opf:file-as="Haug, Espen Gaarder" opf:role="aut">Espen Gaarder Haug</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-12-03T02:31:15+00:00</dc:date>
         <dc:description>Journal of Economic Behavior and Organization, 77 (2010) 97-106. 10.1016/j.jebo.2010.09.013</dc:description>
         <dc:publisher>Elsevier B.V.</dc:publisher>
-        <dc:identifier opf:scheme="URL">http://dx.doi.org/10.1016/j.jebo.2010.09.013</dc:identifier>
         <dc:identifier opf:scheme="DOI">10.1016/j.jebo.2010.09.013</dc:identifier>
-        <dc:language>en</dc:language>
+        <dc:identifier opf:scheme="URL">http://dx.doi.org/10.1016/j.jebo.2010.09.013</dc:identifier>
+        <dc:language>eng</dc:language>
         <dc:subject>Finance</dc:subject>
         <dc:subject>Mathematical &amp; Computational</dc:subject>
         <dc:subject>Stochastic Processes</dc:subject>
@@ -22,7 +22,7 @@
         <dc:subject>Financial Risk Management</dc:subject>
         <meta name="calibre:timestamp" content="2023-02-20T00:38:03+00:00"/>
         <meta name="calibre:title_sort" content="Option traders use (very) sophisticated heuristics, never the Blackâ€“Scholesâ€“Merton formula"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

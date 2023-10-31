@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">94253353-77b3-43da-8154-9a68eceb6e6c</dc:identifier>
         <dc:title>Can't Hurt Me: Master Your Mind and Defy the Odds</dc:title>
         <dc:creator opf:file-as="Goggins, David" opf:role="aut">David Goggins</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.28.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-11-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;New York Times **Best Seller &lt;/p&gt;
@@ -18,17 +18,17 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;David Goggins is a retired Navy SEAL and the only member of the U.S. Armed Forces ever to complete SEAL training, U.S. Army Ranger School, and Air Force Tactical Air Controller training. Goggins has competed in more than sixty ultra-marathons, triathlons, and ultra-triathlons, setting new course records and regularly placing in the top five. A former Guinness World Record holder for completing 4,030 pull-ups in seventeen hours, he's a much-sought-after public speaker who's shared his story with the staffs of &lt;em&gt;Fortune&lt;/em&gt; 500 companies, professional sports teams, and hundreds of thousands of students across the country.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>David Goggins</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">OSchEAAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">B07H453KGH</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9781544512280</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B07H453KGH</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">41721428</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">OSchEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781544512280</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Self Help</dc:subject>
         <dc:subject>Biography</dc:subject>
         <dc:subject>Psychology</dc:subject>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2023-10-06T20:46:54.365938+00:00"/>
+        <meta name="calibre:timestamp" content="2023-10-06T20:46:54+00:00"/>
         <meta name="calibre:title_sort" content="Can't Hurt Me: Master Your Mind and Defy the Odds"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

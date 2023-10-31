@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1582</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26fda9c6-4d1a-40d6-a1fb-e54d1628aa27</dc:identifier>
+        <dc:title>The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer</dc:title>
+        <dc:creator opf:file-as="Northwood, Chris" opf:role="aut">Chris Northwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-20T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Understand the technical foundations, as well as the non-programming skills needed to be a successful full stack web developer. This book reveals the reasons why a truly successful full stack developer does more than write code. &lt;/p&gt;
+&lt;p&gt;You will learn the principles of the topics needed to help a developer new to agile or full stack working―UX, project management, QA, product management, and more― all from the point of view of a developer. Covering these skills alongside the fundamentals and foundations of modern web development, rather than specifics of current technologies and frameworks (which can age quickly), all programming examples are given in the context of the web as it is in 2018.&lt;/p&gt;
+&lt;p&gt;Although you need to feel comfortable working on code at the system, database, API, middleware or user interface level, depending on the task in hand, you also need to be able to deal with the big picture and the little details. &lt;em&gt;The Full Stack Developer&lt;/em&gt; recognizes skills beyond the technical, and gives foundational knowledge of the wide set of skills needed in a modern software development team. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You'll Learn&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plan your work including Agile vs Waterfall, tools, scrum, kanban and continuous delivery &lt;/li&gt;
+&lt;li&gt;Translate UX into code: grids, component libraries and style guides &lt;/li&gt;
+&lt;li&gt;Design systems and system architectures (microservices to monoliths) &lt;/li&gt;
+&lt;li&gt;Review patterns for APIs (SOAP, AJAX, REST), defining API domains, patterns for REST APIs and more API goodness&lt;/li&gt;
+&lt;li&gt;Study the various front-end design patterns you need to know &lt;/li&gt;
+&lt;li&gt;Store data, what to consider for security, deployment, in production and more &lt;/li&gt;&lt;/ul&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For&lt;/p&gt;
+&lt;p&gt;New graduates or junior developers who are transitioning to working as part of a larger team structure in a multi-disciplinary teams and developers previously focused on only front-end or back-end dev transitioning into full stack. &lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Understand the technical foundations, as well as the non-programming skills needed to be a successful full stack web developer. This book reveals the reasons why a truly successful full stack developer does more than write code. &lt;/p&gt;
+&lt;p&gt;You will learn the principles of the topics needed to help a developer new to agile or full stack working―UX, project management, QA, product management, and more― all from the point of view of a developer. Covering these skills alongside the fundamentals and foundations of modern web development, rather than specifics of current technologies and frameworks (which can age quickly), all programming examples are given in the context of the web as it is in 2018.&lt;/p&gt;
+&lt;p&gt;Although you need to feel comfortable working on code at the system, database, API, middleware or user interface level, depending on the task in hand, you also need to be able to deal with the big picture and the little details. &lt;em&gt;The Full Stack Developer&lt;/em&gt; recognizes skills beyond the technical, and gives foundational knowledge of the wide set of skills needed in a modern software development team. &lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Chris Northwood&lt;/strong&gt; is a Senior Engineer working for BBC Research &amp;amp; Development, the research arm of the world's largest public service broadcaster. With a career starting out with Computer Science degrees from the University of York (BEng) and the University of Sheffield (MSc), Chris has worked at major organisations including ThoughtWorks &amp;amp; the University of Oxford, as well as freelance work. He wrote this book distilling the information he learnt over his career as it's the book he wishes he had when he started.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484241516</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484241517</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1129472277</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">41800851</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-10-31T21:25:44.360079+00:00"/>
+        <meta name="calibre:title_sort" content="Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
