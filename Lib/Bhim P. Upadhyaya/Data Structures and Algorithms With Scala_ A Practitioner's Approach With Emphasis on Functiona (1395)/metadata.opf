@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">37a6a13e-2607-4081-be8e-c8e9fece7676</dc:identifier>
         <dc:title>Data Structures and Algorithms With Scala: A Practitioner's Approach With Emphasis on Functional Programming</dc:title>
         <dc:creator opf:file-as="Upadhyaya, Bhim P." opf:role="aut">Bhim P. Upadhyaya</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-26T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This practically-focused textbook presents a concise tutorial on data structures and algorithms using the object-functional language Scala. The material builds upon the foundation established in the title &lt;em&gt;Programming with Scala: Language Exploration&lt;/em&gt; by the same author, which can be treated as a companion text for those less familiar with Scala.&lt;/p&gt;
@@ -28,10 +28,10 @@
 &lt;p&gt;&lt;strong&gt;Bhim P. Upadhyaya&lt;/strong&gt; is a certified enterprise architect, application architect, software engineer, Java and JEE developer, and big data and Scala enthusiast. In addition to his professional experience as a software architect working for more than 15 companies in the USA, he has more than half a decade of university teaching and research experience, including research work at the world’s largest (non-profit) organization, the United Nations. He has also served as a visiting scholar at the School of Information Technology and Electrical Engineering (ITEE) in the University of Queensland (Brisbane, Australia). He is the founder of EqualInformation, LLC (Sunnyvale, CA, USA), a company that focuses on data synthesis and visualization, web application design and development, enterprise architecture, and integration solutions. He has a master's degree in Software Management, a master's degree in Computer Science, a graduate certificate in Enterprise Architecture, and a bachelor's degree in Electrical and Electronic Engineering, with a specialization in Communications Engineering.&lt;/p&gt;
 &lt;p&gt;His other publications include the Springer textbook &lt;em&gt;Programming with Scala: Language Exploration&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Springer</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">CHWKDwAAQBAJ</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9783030125615</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">3030125602</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">CHWKDwAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1133106617</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783030125615</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Languages</dc:subject>
@@ -45,7 +45,7 @@
         <meta name="calibre:rating" content="6"/>
         <meta name="calibre:timestamp" content="2023-04-29T06:13:21+00:00"/>
         <meta name="calibre:title_sort" content="Data Structures and Algorithms With Scala: A Practitioner's Approach With Emphasis on Functional Programming"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

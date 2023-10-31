@@ -11,11 +11,11 @@
         <dc:description>&lt;div&gt;
 &lt;p&gt;For almost four decades, Software Engineering: A Practitioner's Approach (SEPA) has been the world's leading textbook in software engineering. The ninth edition represents a major restructuring and update of previous editions, solidifying the book's position as the most comprehensive guide to this important subject.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Mcgraw-Hill Education</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781260548006</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">taIKxAEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1100263470</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1260548007</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781260548006</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">49184243</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">taIKxAEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Reference &amp; Language</dc:subject>
         <dc:subject>Foreign Languages</dc:subject>
@@ -23,7 +23,7 @@
         <dc:subject>Nonfiction</dc:subject>
         <dc:subject>Study Aids</dc:subject>
         <meta name="calibre:rating" content="6"/>
-        <meta name="calibre:timestamp" content="2023-10-31T21:42:50.846115+00:00"/>
+        <meta name="calibre:timestamp" content="2023-10-31T21:42:50+00:00"/>
         <meta name="calibre:title_sort" content="Software Engineering: A Practitioner's Approach"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

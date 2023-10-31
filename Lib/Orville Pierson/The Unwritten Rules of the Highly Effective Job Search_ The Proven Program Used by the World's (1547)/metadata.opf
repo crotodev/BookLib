@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6850fa5c-db5c-4148-924b-6b1af1fa3d7e</dc:identifier>
         <dc:title>The Unwritten Rules of the Highly Effective Job Search: The Proven Program Used by the World’s Leading Career Services Company: The Proven Program Used by the World’s Leading Career Services Company</dc:title>
         <dc:creator opf:file-as="Pierson, Orville" opf:role="aut">Orville Pierson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2005-12-16T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;The Proven Program Used by 600,000 Job Hunters!&lt;/p&gt;
@@ -34,16 +34,16 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Orville Pierson&lt;/strong&gt; is Senior Vice President, Corporate Director of Program Design and Service Delivery, for Lee Hecht Harrison, a 240-office career services company that is part of the $20 billion Adecco global family of employment services and placement firms. Yale educated, he has worked in career services for nearly 30 years, authoring career publications that have helped over a million people land jobs they love. For more information, visit: www.highlyeffectivejobsearch.com&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>McGraw Hill</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780071464048</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">0071464042</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">QOuCmKh1fEsC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780071464048</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Careers</dc:subject>
         <dc:subject>Job Hunting</dc:subject>
         <dc:subject>McGraw-Hill</dc:subject>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-09-30T18:49:05.336274+00:00"/>
+        <meta name="calibre:timestamp" content="2023-09-30T18:49:05+00:00"/>
         <meta name="calibre:title_sort" content="Unwritten Rules of the Highly Effective Job Search: The Proven Program Used by the World’s Leading Career Services Company: The Proven Program Used by the World’s Leading Career Services Company, The"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

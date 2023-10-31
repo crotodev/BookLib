@@ -5,19 +5,19 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8d11bc62-98c8-42a4-afa2-c6bf15eb4210</dc:identifier>
         <dc:title>Reminiscences of a Stock Operator (Annotated Edition): With the Livermore Market Key and Commentary Included</dc:title>
         <dc:creator opf:file-as="Lefevre, Edwin" opf:role="aut">Edwin Lefevre</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-03-23T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The book began as a series of twelve articles published between 1922 and 1923 in The Saturday Evening Post. It is written as first-person fiction, telling the story of a professional stock trader on Wall Street. While published as fiction, it is generally accepted to be the biography of stock market whiz Jesse Livermore. &lt;/p&gt;
 &lt;p&gt;Known by such nicknames such as Boy Plunger, the Great Bear or The Wall Street Wonder and the Cotton King. Livermore both made, and subsequently lost, four multi-million dollar fortunes during his career as a speculator, which lasted over three decades. Livermore was an early starter. He went to work at age 16 as a stock quotation boy for a local firm. He must have found his calling early as numbers came very easy for him and he must have had a great, almost perfect memory recall to remember earlier days activities. &lt;/p&gt;
 &lt;p&gt;He finished 4 years of math in one while working as a quote boy at the local Broker's office. This is a classic book on Livermore, a fictionalized but true life story of a man who shorted Wall Street in 1929.As a very secretive person he remained a personal and business enigma to many. People have tried to emulate his trading stile and this special edition attempts to shed some lights of the men and his style of speculating.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Murine Publications LLC</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781950330140</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">cCyKwwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781950330140</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:timestamp" content="2023-01-19T05:18:38+00:00"/>
         <meta name="calibre:title_sort" content="Reminiscences of a Stock Operator (Annotated Edition): With the Livermore Market Key and Commentary Included"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

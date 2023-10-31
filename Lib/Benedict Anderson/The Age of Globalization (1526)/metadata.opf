@@ -5,12 +5,12 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c2fde874-746f-4208-baec-c65a0cfb1178</dc:identifier>
         <dc:title>The Age of Globalization</dc:title>
         <dc:creator opf:file-as="Anderson, Benedict" opf:role="aut">Benedict Anderson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-11-05T00:00:00+00:00</dc:date>
         <dc:description>&lt;p&gt;History is forged through the travel of ideas across continents--as well as by bombs. &lt;i&gt;The Age of Globalization&lt;/i&gt; is an account of the unlikely connections that made up late nineteenth-century politics and culture, and in particular between militant anarchists in Europe and the Americas, and anti-imperialist uprisings in Cuba, China and Japan. Told through the complex intellectual interactions of two great Filipino writers--the political novelist Jos&amp;eacute; Rizal and the pioneering folklorist Isabelo de los Reyes--&lt;i&gt;The Age of Globalization&lt;/i&gt; is a brilliantly original work on how global exchanges shaped the nationalist movements of the time.</dc:description>
         <dc:publisher>Verso Books</dc:publisher>
         <dc:language>eng</dc:language>
-        <meta name="calibre:timestamp" content="2023-09-19T19:13:46.684110+00:00"/>
+        <meta name="calibre:timestamp" content="2023-09-19T19:13:46+00:00"/>
         <meta name="calibre:title_sort" content="Age of Globalization, The"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

@@ -18,7 +18,7 @@
         <dc:creator opf:file-as="Hill, Napoleon &amp; Allen, James &amp; Wattles, Wallace D. &amp; Murphy, Joseph &amp; Clason, George S. &amp; Shinn, Florence Scovel &amp; Conwell, Russell &amp; Bennett, Arnold &amp; Kyne, Peter B. &amp; Holmes, Ernest &amp; Atkinson, William Walker &amp; Fox, Emmet &amp; Militz, Annie Rix &amp; Towne, Elizabeth" opf:role="aut">Emmet Fox</dc:creator>
         <dc:creator opf:file-as="Hill, Napoleon &amp; Allen, James &amp; Wattles, Wallace D. &amp; Murphy, Joseph &amp; Clason, George S. &amp; Shinn, Florence Scovel &amp; Conwell, Russell &amp; Bennett, Arnold &amp; Kyne, Peter B. &amp; Holmes, Ernest &amp; Atkinson, William Walker &amp; Fox, Emmet &amp; Militz, Annie Rix &amp; Towne, Elizabeth" opf:role="aut">Annie Rix Militz</dc:creator>
         <dc:creator opf:file-as="Hill, Napoleon &amp; Allen, James &amp; Wattles, Wallace D. &amp; Murphy, Joseph &amp; Clason, George S. &amp; Shinn, Florence Scovel &amp; Conwell, Russell &amp; Bennett, Arnold &amp; Kyne, Peter B. &amp; Holmes, Ernest &amp; Atkinson, William Walker &amp; Fox, Emmet &amp; Militz, Annie Rix &amp; Towne, Elizabeth" opf:role="aut">Elizabeth Towne</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.28.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-11-08T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;The ultimate collection of books for life-changing success &lt;/p&gt;
@@ -33,8 +33,8 @@
 &lt;p&gt;Dr. Joseph Murphy was major figure in the human potential movement, the spiritual heir to writers like James Allen, Dale Carnegie, Napoleon Hill, and Norman Vincent Peale and a precursor and inspirer of contemporary motivational writers and speakers like Tony Robbins, Zig Ziglar and Earl Nightingale. He was one of the best selling authors in the mid-twentieth century. His book &lt;em&gt;The Power of the Subconscious Mind&lt;/em&gt; has sold millions of copies and has been translated into seventeen languages. &lt;/p&gt;
 &lt;p&gt;Born in 1874, George S. Clason founded two publishing companies and was the first to publish a road atlas of North America. He is best known for writing a series of pamphlets advising readers on finding financial success, which were later compiled to form the classic bestseller &lt;em&gt;The Richest Man in Babylon.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>St. Martin's Essentials</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781250845252</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1250845254</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781250845252</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">x509EAAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
@@ -45,7 +45,7 @@
         <dc:subject>Personal Growth</dc:subject>
         <dc:subject>Success</dc:subject>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2023-10-06T15:58:00.140170+00:00"/>
+        <meta name="calibre:timestamp" content="2023-10-06T15:58:00+00:00"/>
         <meta name="calibre:title_sort" content="Essential Prosperity: The Fourteen Most Important Books on Wealth and Riches Ever Written"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

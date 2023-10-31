@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d940c12e-ed4d-43ba-9039-cecb43b4c2f3</dc:identifier>
         <dc:title>The Little Black Book of Workout Motivation</dc:title>
         <dc:creator opf:file-as="Matthews, Michael" opf:role="aut">Michael Matthews</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-08-15T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h1&gt;Let’s face it: fitness is hard.&lt;/h1&gt;
@@ -102,17 +102,17 @@
 &lt;p&gt;Mike Matthews is the &lt;strong&gt;#1 bestselling fitness author in the world&lt;/strong&gt; , with over 1.5 million books sold, as well as the founder of the &lt;strong&gt;#1 brand of all-natural sports supplements&lt;/strong&gt; , Legion. &lt;/p&gt;
 &lt;p&gt;His simple and science-based approach to building muscle, losing fat, and getting healthy has helped &lt;strong&gt;tens of thousands&lt;/strong&gt; of people build their best body ever, and his work has been featured in many popular outlets including Esquire, Men's Health, Elle, Women's Health, Muscle &amp;amp; Strength, and more, as well as on &lt;strong&gt;FOX&lt;/strong&gt; and &lt;strong&gt;ABC&lt;/strong&gt;.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Oculus Publishers</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">TM6ctgEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1938895355</dc:identifier>
-        <dc:identifier opf:scheme="MOBI-ASIN">B07FCX94TJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781938895357</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07FCX94TJ</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">TM6ctgEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fitness</dc:subject>
         <dc:subject>Motivational</dc:subject>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-13T00:29:09+00:00"/>
         <meta name="calibre:title_sort" content="Little Black Book of Workout Motivation, The"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

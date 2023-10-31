@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1397a1e3-7171-40d4-addb-ce2892818091</dc:identifier>
         <dc:title>Beginning Git and Github: A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer</dc:title>
         <dc:creator opf:file-as="Tsitoara, Mariot" opf:role="aut">Mariot Tsitoara</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-12-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Learn the fundamentals of version control through step-by-step tutorials that will teach you the ins-and-outs of Git. This book is your complete guide to how Git and GitHub work in a professional team environment. &lt;/p&gt;
@@ -20,10 +20,10 @@
 &lt;p style="font-weight: bold"&gt;Who This book Is For&lt;/p&gt;
 &lt;p&gt;New developers, developers that have never worked in a team environment before, developers with basic knowledge of Git or GitHub, or anyone who works with text documents. &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Apress</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781484253120</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">Yio6yAEACAAJ</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">51649022</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1484253124</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">51649022</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484253120</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Internet</dc:subject>
@@ -32,7 +32,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-24T16:31:16+00:00"/>
         <meta name="calibre:title_sort" content="Beginning Git and Github: A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

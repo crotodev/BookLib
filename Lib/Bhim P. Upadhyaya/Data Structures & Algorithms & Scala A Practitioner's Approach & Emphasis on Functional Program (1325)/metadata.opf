@@ -5,9 +5,9 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2b0e24d2-271c-4166-b5c0-1cbcbc1d829e</dc:identifier>
         <dc:title>Data Structures &amp; Algorithms &amp; Scala A Practitioner's Approach &amp; Emphasis on Functional Programming</dc:title>
         <dc:creator opf:file-as="Upadhyaya, Bhim P." opf:role="aut">Bhim P. Upadhyaya</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-12-18T19:35:11+00:00</dc:date>
-        <dc:language>en</dc:language>
+        <dc:language>eng</dc:language>
         <dc:subject>Artificial Intelligence</dc:subject>
         <dc:subject>Computer Science</dc:subject>
         <dc:subject>Computer Vision &amp; Pattern Recognition</dc:subject>
@@ -23,7 +23,7 @@
         <dc:subject>Software Development &amp; Engineering</dc:subject>
         <meta name="calibre:timestamp" content="2023-03-12T20:56:02+00:00"/>
         <meta name="calibre:title_sort" content="Data Structures &amp; Algorithms &amp; Scala A Practitioner's Approach &amp; Emphasis on Functional Programming"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

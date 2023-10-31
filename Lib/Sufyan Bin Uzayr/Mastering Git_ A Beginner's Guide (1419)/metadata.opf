@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">98372f9f-08d9-44dd-8420-043ed7dde1ab</dc:identifier>
         <dc:title>Mastering Git: A Beginner's Guide</dc:title>
         <dc:creator opf:file-as="Uzayr, Sufyan Bin" opf:role="aut">Sufyan Bin Uzayr</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-04-04T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Mastering Git: A Beginner’s Guide introduces developers of all ages to the wonderful and useful world of Git.&lt;/p&gt;
@@ -24,12 +24,12 @@
 &lt;p&gt;Sufyan is a digital nomad, dividing his time between four countries. He has lived and taught in universities and educational institutions around the globe. Sufyan takes a keen interest in technology, politics, literature, history and sports, and in his spare time, he enjoys teaching coding and English to young students.&lt;/p&gt;
 &lt;p&gt;Learn more at sufyanism.com&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>CRC Press</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">L-GrzgEACAAJ</dc:identifier>
-        <dc:identifier opf:scheme="BARNESNOBLE">1140206935</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">59091173</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">1032134151</dc:identifier>
         <dc:identifier opf:scheme="DOI">9781032149837</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1032134151</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781032134154</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1140206935</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">L-GrzgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59091173</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Mastering Computer Science</dc:subject>
         <dc:subject>GitHub</dc:subject>
@@ -38,7 +38,7 @@
         <meta name="calibre:rating" content="6"/>
         <meta name="calibre:timestamp" content="2023-05-10T23:42:18+00:00"/>
         <meta name="calibre:title_sort" content="Mastering Git: A Beginner's Guide"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

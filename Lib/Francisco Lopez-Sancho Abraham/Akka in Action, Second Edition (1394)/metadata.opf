@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d0b0f8bb-87fd-4944-b1d4-fab678ad88c1</dc:identifier>
         <dc:title>Akka in Action, Second Edition</dc:title>
         <dc:creator opf:file-as="Abraham, Francisco Lopez-Sancho" opf:role="aut">Francisco Lopez-Sancho Abraham</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-06-20T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Use Akka to solve the big problems of distributed systems—from multithreading and concurrency, to handling scalability and failure. &lt;/p&gt;
@@ -13,14 +13,14 @@
 &lt;p&gt;&lt;em&gt;Akka in Action, Second Edition&lt;/em&gt; teaches you to use the latest version of Akka to solve common problems of distributed systems. Akka contributor Francisco López-Sancho demonstrates Akka’s complex concepts through real-world use cases, including clustering, sharding, persistence, and deploying to Kubernetes. Discover the power of the Actor model, and how to leverage most of the Akka modules to create microservices that are reliable and fault tolerant. &lt;/p&gt;
 &lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Manning</dc:publisher>
-        <dc:identifier opf:scheme="BARNESNOBLE">1140547868</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781617299216</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1140547868</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:series" content="In Action"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2023-04-28T22:36:16+00:00"/>
         <meta name="calibre:title_sort" content="Akka in Action, Second Edition"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

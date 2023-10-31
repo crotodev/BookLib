@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3cd97bfe-8985-40d3-943b-2410b1a34217</dc:identifier>
         <dc:title>The Compound Effect</dc:title>
         <dc:creator opf:file-as="Hardy, Darren" opf:role="aut">Darren Hardy</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-10-02T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;No gimmicks. No Hyperbole. No Magic Bullet. &lt;em&gt;The Compound Effect&lt;/em&gt; is based on the principle that decisions shape your destiny. Little, everyday decisions will either take you to the life you desire or to disaster by default. Darren Hardy, publisher of &lt;em&gt;Success Magazine&lt;/em&gt; , presents &lt;em&gt;The Compound Effect&lt;/em&gt; , a distillation of the fundamental principles that have guided the most phenomenal achievements in business, relationships, and beyond. This easy-to-use, step-by-step operating system allows you to multiply your success, chart your progress, and achieve any desire. If you’re serious about living an extraordinary life, use the power of &lt;em&gt;The Compound Effect&lt;/em&gt; to create the success you want.&lt;/p&gt;
@@ -19,9 +19,9 @@
 &lt;p&gt;Darren also mentors many of today's high-performing CEOs, advises many large corporations and sits on the board of several companies and non-profit organizations. &lt;/p&gt;
 &lt;p&gt;Darren is also a highly sought after keynote speaker and media contributor. Darren lives in San Diego, California with his wife Georgia and his two canine children LucyLu and Tex. &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Hachette Books</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781593157241</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">159315724X</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">g5pytAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781593157241</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Personal Success</dc:subject>
@@ -33,7 +33,7 @@
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-09T03:56:51+00:00"/>
         <meta name="calibre:title_sort" content="Compound Effect, The"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

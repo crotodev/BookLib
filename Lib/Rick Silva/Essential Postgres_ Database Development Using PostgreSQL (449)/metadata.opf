@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">106e89e0-d2a6-45da-be87-b75bc63720cc</dc:identifier>
         <dc:title>Essential Postgres: Database Development Using PostgreSQL</dc:title>
         <dc:creator opf:file-as="Silva, Rick" opf:role="aut">Rick Silva</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-10-03T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;If you want to learn the basics of Postgres development, Essential Postgres is for you. This book gets right to the point, and gives you exposure to the most used – and useful – parts of database development using Postgres version 15. Writing SQL statements, creating tables, functions, triggers, views, as well as data integrity are explained. Tips and insights that the author has picked up over his years of working with Postgres are included. &lt;/p&gt;
@@ -13,8 +13,8 @@
 &lt;p&gt;The book includes a set of online scripts that contain the SQL commands shown in the book. &lt;/p&gt;
 &lt;p&gt;■ Learn to write SQL queries&lt;br&gt;■ Learn to create, drop, and change database tables&lt;br&gt;■ Explore Postgres data types for text, integers, dates, and booleans&lt;br&gt;■ Join database tables using inner joins, outer joins, cross joins, and self-joins&lt;br&gt;■ Explore ways to compare values in your SQL queries&lt;br&gt;■ Find out how to order your query results and to group like data&lt;br&gt;■ Call Postgres built-in functions and write your own&lt;br&gt;■ Create views, materialized views, sequences, procedures, and triggers &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Independently published</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9798687854184</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B08KH136G4</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9798687854184</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Postgres</dc:subject>
         <dc:subject>Postgres Database Admin</dc:subject>
@@ -22,7 +22,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-19T16:46:28+00:00"/>
         <meta name="calibre:title_sort" content="Essential Postgres: Database Development Using PostgreSQL"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

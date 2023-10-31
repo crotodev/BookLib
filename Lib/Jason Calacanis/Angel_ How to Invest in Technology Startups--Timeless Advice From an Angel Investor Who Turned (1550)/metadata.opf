@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">96f5209e-7758-4b2e-af30-6abf3a155515</dc:identifier>
         <dc:title>Angel: How to Invest in Technology Startups--Timeless Advice From an Angel Investor Who Turned $100,000 Into $100,000,000</dc:title>
         <dc:creator opf:file-as="Calacanis, Jason" opf:role="aut">Jason Calacanis</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-07-18T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;One of Silicon Valley’s most successful angel investors shares his rules for investing in startups.&lt;/p&gt;
@@ -31,10 +31,10 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;Jason Calacanis is a technology entrepreneur, angel investor, and the host of the popular weekly podcast &lt;em&gt;This Week in Startups&lt;/em&gt;. The founder of a series of conferences that bring entrepreneurs together with potential investors, he was a “scout” for top-tier Silicon Valley venture capital firm Sequoia Capital and frequently appears in the media. He lives in San Francisco, California.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Harper Collins</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">B01M9C1Y3S</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">IeQsvgAACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780062560704</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">0062560700</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">IeQsvgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01M9C1Y3S</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Entrepreneurship</dc:subject>
@@ -43,7 +43,7 @@
         <dc:subject>Development</dc:subject>
         <dc:subject>Business Development</dc:subject>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2023-10-01T00:14:18.003971+00:00"/>
+        <meta name="calibre:timestamp" content="2023-10-01T00:14:18+00:00"/>
         <meta name="calibre:title_sort" content="Angel: How to Invest in Technology Startups--Timeless Advice From an Angel Investor Who Turned $100,000 Into $100,000,000"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

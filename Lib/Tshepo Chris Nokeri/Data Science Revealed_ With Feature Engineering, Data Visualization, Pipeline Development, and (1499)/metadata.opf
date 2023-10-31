@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9cbb61a2-c796-4640-8455-84ca814887b0</dc:identifier>
         <dc:title>Data Science Revealed: With Feature Engineering, Data Visualization, Pipeline Development, and Hyperparameter Tuning</dc:title>
         <dc:creator opf:file-as="Nokeri, Tshepo Chris" opf:role="aut">Tshepo Chris Nokeri</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-03-07T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Get insight into data science techniques such as data engineering and visualization, statistical modeling, machine learning, and deep learning. This book teaches you how to select variables, optimize hyper parameters, develop pipelines, and train, test, and validate machine and deep learning models. Each chapter includes a set of examples allowing you to understand the concepts, assumptions, and procedures behind each model.&lt;/p&gt;
@@ -31,11 +31,11 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Tsheop Chris Nokeri&lt;/strong&gt; harnesses advanced analytics and artificial intelligence to foster innovation and optimize business performance. He has delivered complex solutions to companies in the mining, petroleum, and manufacturing industries. He completed a bachelor’s degree in information management and graduated with an honors degree in business science at the University of the Witwatersrand on a TATA Prestigious Scholarship and a Wits Postgraduate Merit Award. He also was awarded the Oxford University Press Prize. --This text refers to the paperback edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Apress</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781484268698</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B08Y7N4549</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1138470340</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08Y7N4549</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484268698</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:timestamp" content="2023-07-16T14:45:36.811108+00:00"/>
+        <meta name="calibre:timestamp" content="2023-07-16T14:45:36+00:00"/>
         <meta name="calibre:title_sort" content="Data Science Revealed: With Feature Engineering, Data Visualization, Pipeline Development, and Hyperparameter Tuning"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

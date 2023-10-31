@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">fc5ced8d-a17e-4970-942a-636a38aafc02</dc:identifier>
         <dc:title>Stochastic Differential Equations: An Introduction With Applications</dc:title>
         <dc:creator opf:file-as="Oksendal, Bernt" opf:role="aut">Bernt Oksendal</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2003-07-15T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -18,13 +18,13 @@
 &lt;p&gt;"This is the sixth edition of the classical and excellent book on stochastic differential equations. The main difference with the next to last edition is the addition of detailed solutions of selected exercises … . This is certainly an excellent idea in view to test its ability of applications of the concepts … . certainly one of the best books on the subject, it will be very helpful to any graduate students and also very valuable for any analysts of financial market." (Stéphane Métens, Physicalia, Vol. 26 (1), 2004)&lt;/p&gt;
 &lt;p&gt;"This is now the sixth edition of the excellent book on stochastic differential equations and related topics. … the presentation is successfully balanced between being easily accessible for a broad audience and being mathematically rigorous. The book is a first choice for courses at graduate level in applied stochastic differential equations. The inclusion of detailed solutions to many of the exercises in this edition also makes it very useful for self-study." (Evelyn Buckwar, Zentralblatt MATH, Vol. 1025, 2003)&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Springer</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9783540047582</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">3540047581</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783540047582</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-19T03:07:33+00:00"/>
         <meta name="calibre:title_sort" content="Stochastic Differential Equations: An Introduction With Applications"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

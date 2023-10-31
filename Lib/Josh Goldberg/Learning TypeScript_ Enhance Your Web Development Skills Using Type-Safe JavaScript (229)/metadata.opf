@@ -5,20 +5,20 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7e5ff9df-1d29-4396-9573-0b3072d2f32b</dc:identifier>
         <dc:title>Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript</dc:title>
         <dc:creator opf:file-as="Goldberg, Josh" opf:role="aut">Josh Goldberg</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-06-17T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;TypeScript has conquered the world of JavaScript: it's one of the world's fastest growing and most popular languages across developer surveys, widely used in consumer and business companies alike, and frequently credited for helping massive web applications scale. But what is TypeScript? How does it work, why does it work, and how can we use it? Learning TypeScript takes beginner to intermediate JavaScript programmers from knowing nothing about "types" or a "type system" to full mastery of the fundamentals of TypeScript. It's more than a means to find bugs and typos--it's a useful system for declaring the way our JavaScript should work and helping us stick to it. You'll learn how TypeScript: interacts with JavaScript analyzes and understands code augments your existing development pattern helps you document your code works with IDEs to provide refactoring tools assists local development in refactoring code helps you develop more quickly with fewer bugs&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781098110338</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">FCqlzgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781098110338</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Internet</dc:subject>
         <dc:subject>Web Programming</dc:subject>
         <meta name="calibre:timestamp" content="2023-01-11T19:28:51+00:00"/>
         <meta name="calibre:title_sort" content="Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

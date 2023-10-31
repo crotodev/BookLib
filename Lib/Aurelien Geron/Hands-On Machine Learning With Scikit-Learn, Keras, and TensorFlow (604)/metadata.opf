@@ -5,18 +5,18 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9a8ef553-99fc-49b7-9190-e4c85ef6426a</dc:identifier>
         <dc:title>Hands-On Machine Learning With Scikit-Learn, Keras, and TensorFlow</dc:title>
         <dc:creator opf:file-as="Géron, Aurélien" opf:role="aut">Aurélien Géron</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-10-04T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Through a recent series of breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This bestselling book uses concrete examples, minimal theory, and production-ready Python frameworks (Scikit-Learn, Keras, and TensorFlow) to help you gain an intuitive understanding of the concepts and tools for building intelligent systems. &lt;/p&gt;
 &lt;p&gt;With this updated third edition, author Aurélien Géron explores a range of techniques, starting with simple linear regression and progressing to deep neural networks. Numerous code examples and exercises throughout the book help you apply what you've learned. Programming experience is all you need to get started. &lt;/p&gt;
 &lt;p&gt;Use Scikit-learn to track an example ML project end to endExplore several models, including support vector machines, decision trees, random forests, and ensemble methodsExploit unsupervised learning techniques such as dimensionality reduction, clustering, and anomaly detectionDive into neural net architectures, including convolutional nets, recurrent nets, generative adversarial networks, autoencoders, diffusion models, and transformersUse TensorFlow and Keras to build and train neural nets for computer vision, natural language processing, generative models, and deep reinforcement learning&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">B0BHCFNY9Q</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">62960069</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781098122461</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">X5ySEAAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B0BHCFNY9Q</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9781098122461</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">62960069</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0BHCFNY9Q</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Data Science</dc:subject>
@@ -31,7 +31,7 @@
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-30T15:41:16+00:00"/>
         <meta name="calibre:title_sort" content="Hands-On Machine Learning With Scikit-Learn, Keras, and TensorFlow"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

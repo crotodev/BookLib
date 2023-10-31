@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">dff3f626-4083-4a02-89d7-fb1f631ca0fe</dc:identifier>
         <dc:title>Stress-Free Small Talk: How to Master the Art of Conversation and Take Control of Your Social Anxiety</dc:title>
         <dc:creator opf:file-as="Lmft, Richard S. Gallagher" opf:role="aut">Richard S. Gallagher Lmft</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-12-24T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Small talk, big victory—your guide to managing social anxiety and making conversation &lt;/p&gt;
@@ -18,13 +18,13 @@
 &lt;li&gt;&lt;strong&gt;Great first impressions&lt;/strong&gt; —Discover tips and tools for making strong first impressions, including maintaining good posture, making regular and natural eye contact, and beyond.&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;Look who’s talking now! If you’ve been searching for a helpful how-to guide to reducing anxiety and making small talk so that you can navigate social situations with ease, this book has you covered.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Callisto Media</dc:publisher>
-        <dc:identifier opf:scheme="BARNESNOBLE">1134406802</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9781641528955</dc:identifier>
         <dc:identifier opf:scheme="ASIN">B081TLXNS9</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781641528955</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1134406802</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:timestamp" content="2023-06-19T03:08:30+00:00"/>
         <meta name="calibre:title_sort" content="Stress-Free Small Talk: How to Master the Art of Conversation and Take Control of Your Social Anxiety"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

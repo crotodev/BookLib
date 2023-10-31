@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">34acbf04-73f2-40fc-9275-a434b163f53b</dc:identifier>
         <dc:title>The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It</dc:title>
         <dc:creator opf:file-as="Patterson, Scott" opf:role="aut">Scott Patterson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-02-02T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -59,9 +59,9 @@
 &lt;h3&gt;From Booklist&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Starred Review&lt;/em&gt; Journalist Patterson proves Mark Twain’s point that “truth is stranger than fiction.” Patterson’s recounting of the events leading up to and including the global financial meltdown in 2007 and 2008 features the Quants, a new breed of investor, a corps of elite math geniuses who exchanged the hunches of risk-taking traders for advanced mathematical tools, including complicated algorithms and supercomputers. These new titans of Wall Street set off a chain of events for a financial catastrophe beginning in August 2007, which nearly destroyed the world’s financial markets. This is primarily the story of four main “characters”—Morgan Stanley’s Peter Muller, Citadel hedge fund’s Ken Griffin, Cliff Asness of AQR hedge fund, and Boaz Weinstein of Deutsche Bank. These and other number-crunching wizards amassed multibillion-dollar war chests and then the numbers turned against them. Their ascendancy to the heights and then extraordinary fall to near extinction is a remarkable story, as is the possibility that they all will rise from the ashes. This is a must-read, excellent book. --Mary Whaley&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Crown</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780307453396</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B0036894XC</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">-ydNYWGIussC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0036894XC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780307453396</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Economic History</dc:subject>
@@ -72,7 +72,7 @@
         <dc:subject>21st Century</dc:subject>
         <meta name="calibre:timestamp" content="2023-01-19T02:58:21+00:00"/>
         <meta name="calibre:title_sort" content="Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It, The"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

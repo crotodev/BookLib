@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">e35cca36-7b4b-4baa-9c88-a7e93fada5e9</dc:identifier>
         <dc:title>Scala Design Patterns: Design Modular, Clean, and Scalable Applications by Applying Proven Design Patterns in Scala, 2nd Edition</dc:title>
         <dc:creator opf:file-as="Nikolov, Ivan" opf:role="aut">Ivan Nikolov</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-04-09T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Learn how to write efficient, clean, and reusable code with Scala&lt;/p&gt;
@@ -46,9 +46,9 @@
 &lt;p&gt;Ivan's approach to software engineering is very personal and he takes pride in the projects he works on. He is extremely strict and keen on writing efficient and beautiful code. Ivan believes that knowledge sharing is an essential part of keeping the software and more specifically the open source community running. Sharing ideas leads to greater innovation and raises the quality of products to a higher level.&lt;/p&gt;
 &lt;p&gt;Apart from programming and learning about new languages and technologies, in his free time, Ivan likes doing lots of sports, traveling, meeting people and exploring new places and cultures. He also likes photography, especially nature and wildlife.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">178847130X</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781788471305</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">hJpVDwAAQBAJ</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">178847130X</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Languages</dc:subject>
@@ -62,7 +62,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-05-01T02:43:36+00:00"/>
         <meta name="calibre:title_sort" content="Scala Design Patterns: Design Modular, Clean, and Scalable Applications by Applying Proven Design Patterns in Scala, 2nd Edition"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

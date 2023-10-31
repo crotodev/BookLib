@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d340f3a5-f279-4737-bf0a-c0823a213c76</dc:identifier>
         <dc:title>Data Science Interview: Prep for SQL, Panda, Python, R Language, Machine Learning, DBMS and RDBMS - and More - the Full Data Scientist Interview Handbook</dc:title>
         <dc:creator opf:file-as="Prep, Dsi Ace" opf:role="aut">Dsi Ace Prep</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-01-06T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;strong&gt;Are YOU looking for a data scientist job&lt;/strong&gt;?&lt;/p&gt;
@@ -76,13 +76,13 @@
 &lt;li&gt;SQL questions and many more&lt;/li&gt;&lt;/ul&gt;
 &lt;p style="font-weight: bold"&gt;To secure your role as a Data Scientist get this book now!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Data Science Interview Books</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781915002105</dc:identifier>
-        <dc:identifier opf:scheme="BARNESNOBLE">1141340719</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">qTUNzwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1141340719</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781915002105</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:timestamp" content="2023-04-29T07:35:38+00:00"/>
         <meta name="calibre:title_sort" content="Data Science Interview: Prep for SQL, Panda, Python, R Language, Machine Learning, DBMS and RDBMS - and More - the Full Data Scientist Interview Handbook"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

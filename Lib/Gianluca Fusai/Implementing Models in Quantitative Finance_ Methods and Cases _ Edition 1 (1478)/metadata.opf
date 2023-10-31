@@ -6,7 +6,7 @@
         <dc:title>Implementing Models in Quantitative Finance: Methods and Cases / Edition 1</dc:title>
         <dc:creator opf:file-as="Fusai, Gianluca &amp; Roncoroni, Andrea" opf:role="aut">Gianluca Fusai</dc:creator>
         <dc:creator opf:file-as="Fusai, Gianluca &amp; Roncoroni, Andrea" opf:role="aut">Andrea Roncoroni</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-03-04T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book puts numerical methods in action for the purpose of solving practical problems in quantitative finance. The first part develops a toolkit in numerical methods for finance. The second part proposes twenty self-contained cases covering model simulation, asset pricing and hedging, risk management, statistical estimation and model calibration. Each case develops a detailed solution to a concrete problem arising in applied financial management and guides the user towards a computer implementation. The appendices contain "crash courses" in VBA and Matlab programming languages. &lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -16,7 +16,7 @@
         <dc:language>eng</dc:language>
         <meta name="calibre:series" content="Springer Finance"/>
         <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2023-07-09T15:45:09.499907+00:00"/>
+        <meta name="calibre:timestamp" content="2023-07-09T15:45:09+00:00"/>
         <meta name="calibre:title_sort" content="Implementing Models in Quantitative Finance: Methods and Cases / Edition 1"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

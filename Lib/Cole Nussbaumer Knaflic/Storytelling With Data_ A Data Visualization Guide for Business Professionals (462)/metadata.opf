@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">0e86af65-9d81-4f1c-89ab-15e2003e1ace</dc:identifier>
         <dc:title>Storytelling With Data: A Data Visualization Guide for Business Professionals</dc:title>
         <dc:creator opf:file-as="Knaflic, Cole Nussbaumer" opf:role="aut">Cole Nussbaumer Knaflic</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-10-07T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -34,10 +34,10 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;Cole Nussbaumer Knaflic tells stories with data. She is founder and CEO of &lt;em&gt;storytelling with data&lt;/em&gt; (SWD) and author of the best-selling book, &lt;em&gt;storytelling with data: a data visualization guide for business professionals&lt;/em&gt; , which has been translated into a dozen languages, is used as a textbook by more than 100 universities and serves as the course book for tens of thousands of SWD workshop participants. &lt;br&gt;For nearly a decade, Cole and team have delivered interactive learning sessions highly sought after by data-minded individuals, companies, and philanthropic organizations all over the world. They also help people create graphs that make sense and weave them into a compelling story through the popular SWD blog, podcast, monthly challenge, and live stream events and other resources. Learn more at storytellingwithdata.com.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1119002257</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781119002260</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">IheRCgAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">26535513</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">1119002257</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business</dc:subject>
         <dc:subject>Science</dc:subject>
@@ -49,7 +49,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-20T17:48:31+00:00"/>
         <meta name="calibre:title_sort" content="Storytelling With Data: A Data Visualization Guide for Business Professionals"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

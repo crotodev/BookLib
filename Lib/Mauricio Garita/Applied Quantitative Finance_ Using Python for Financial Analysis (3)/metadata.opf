@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b26abc95-4cb4-4607-b3c4-fa45f34e339b</dc:identifier>
         <dc:title>Applied Quantitative Finance: Using Python for Financial Analysis</dc:title>
         <dc:creator opf:file-as="Garita, Mauricio" opf:role="aut">Mauricio Garita</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-09-04T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book provides both conceptual knowledge of quantitative finance and a hands-on approach to using Python. It begins with a description of concepts prior to the application of Python with the purpose of understanding how to compute and interpret results. This book offers practical applications in the field of finance concerning Python, a language that is more and more relevant in the financial arena due to big data. This will lead to a better understanding of finance as it gives a descriptive process for students, academics and practitioners. &lt;/p&gt;
@@ -16,9 +16,9 @@
 &lt;p&gt;As an academic, his research is focused on financial issues, economics and competitiveness in Latin America with a special focus in Central America. He has written books and articles on topics such as business in Latin America, the economic impact of the Civil War in Guatemala, the fiscal impact of reforms in Latin America and the impact of the financial crisis in Central America. As a professor he centers his courses in the areas of economics, project valuation and financial analysis.&lt;/p&gt;
 &lt;p&gt;During his professional career he has worked with organizations such as the World Bank, the Central American Institute of Fiscal Studies, the Secretariat for Central America Economic Integration, Transparency International and on financial consulting. Currently he works at Universidad Francisco Marroquin as a director of the master’s in finance program at the university business school. Before he worked at the finance department at the Universidad del Valle de Guatemala where he assisted in both the creation of the Master’s in Advanced Finance and a collaboration on with the Advanced Risk Portfolio Management (ARPM) program.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Palgrave Pivot</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">YMRbxwEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9783030291402</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">3030291405</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">YMRbxwEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Accounting</dc:subject>
         <dc:subject>Applied</dc:subject>
@@ -41,7 +41,7 @@
         <dc:subject>Financial Risk Management</dc:subject>
         <meta name="calibre:timestamp" content="2022-12-14T17:39:47+00:00"/>
         <meta name="calibre:title_sort" content="Applied Quantitative Finance: Using Python for Financial Analysis"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

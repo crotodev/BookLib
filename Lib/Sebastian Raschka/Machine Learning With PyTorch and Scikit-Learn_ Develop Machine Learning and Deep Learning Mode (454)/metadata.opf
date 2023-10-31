@@ -8,7 +8,7 @@
         <dc:creator opf:file-as="Raschka, Sebastian &amp; Liu, Yuxi &amp; Mirjalili, Vahid &amp; Dzhulgakov, Dmytro" opf:role="aut">Yuxi (hayden) Liu</dc:creator>
         <dc:creator opf:file-as="Raschka, Sebastian &amp; Liu, Yuxi &amp; Mirjalili, Vahid &amp; Dzhulgakov, Dmytro" opf:role="aut">Vahid Mirjalili</dc:creator>
         <dc:creator opf:file-as="Raschka, Sebastian &amp; Liu, Yuxi &amp; Mirjalili, Vahid &amp; Dzhulgakov, Dmytro" opf:role="aut">Dmytro Dzhulgakov</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-02-25T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book of the bestselling and widely acclaimed Python Machine Learning series is a comprehensive guide to machine and deep learning using PyTorch's simple to code framework. &lt;/p&gt;
@@ -21,8 +21,8 @@
 &lt;p&gt;What you will learnExplore frameworks, models, and techniques for machines to 'learn' from dataUse scikit-learn for machine learning and PyTorch for deep learningTrain machine learning classifiers on images, text, and moreBuild and train neural networks, transformers, and boosting algorithmsDiscover best practices for evaluating and tuning modelsPredict continuous target outcomes using regression analysisDig deeper into textual and social media data using sentiment analysisWho this book is forIf you have a good grasp of Python basics and want to start learning about machine learning and deep learning, then this is the book for you. This is an essential resource written for developers and data scientists who want to create practical machine learning and deep learning applications using scikit-learn and PyTorch. &lt;/p&gt;
 &lt;p&gt;Before you get started with this book, you'll need a good understanding of calculus, as well as linear algebra.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781801816380</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">SVxaEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781801816380</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Artificial Intelligence</dc:subject>
         <dc:subject>COM042000 - COMPUTERS / Natural Language Processing</dc:subject>
@@ -35,7 +35,7 @@
         <dc:subject>Speech &amp; Audio Processing</dc:subject>
         <meta name="calibre:timestamp" content="2023-01-20T17:03:47+00:00"/>
         <meta name="calibre:title_sort" content="Machine Learning With PyTorch and Scikit-Learn: Develop Machine Learning and Deep Learning Models With Python"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

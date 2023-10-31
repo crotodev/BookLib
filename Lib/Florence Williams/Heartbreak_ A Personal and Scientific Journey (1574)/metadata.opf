@@ -30,9 +30,9 @@
 &lt;p&gt;A contributing editor at &lt;em&gt;Outside&lt;/em&gt; magazine, &lt;strong&gt;Florence Williams&lt;/strong&gt; is the author of &lt;em&gt;Breasts&lt;/em&gt; , winner of the &lt;em&gt;Los Angeles Times&lt;/em&gt; Book Prize, and &lt;em&gt;The Nature Fix&lt;/em&gt;. Her writing has appeared in the &lt;em&gt;New York Times&lt;/em&gt; , &lt;em&gt;National Geographic&lt;/em&gt; , and many other outlets. She lives in Washington, DC. --This text refers to the hardcover edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781324003496</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B098TYGTY1</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">58085256</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">bGA3EAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58085256</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B098TYGTY1</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Science</dc:subject>
         <dc:subject>Psychology</dc:subject>
@@ -40,7 +40,7 @@
         <dc:subject>Self Help</dc:subject>
         <dc:subject>Biography</dc:subject>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-10-22T23:38:13.090369+00:00"/>
+        <meta name="calibre:timestamp" content="2023-10-22T23:38:13+00:00"/>
         <meta name="calibre:title_sort" content="Heartbreak: A Personal and Scientific Journey"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

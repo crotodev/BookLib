@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3eb4a5a7-94a6-490d-924e-2ab52e37e4f9</dc:identifier>
         <dc:title>Managing Time and Priorities</dc:title>
         <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-09-14T02:57:09+00:00</dc:date>
         <dc:publisher>OpenStax</dc:publisher>
         <dc:language>eng</dc:language>

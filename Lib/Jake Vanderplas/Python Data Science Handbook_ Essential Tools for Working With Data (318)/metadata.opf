@@ -5,15 +5,15 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6a37a86d-5d48-457c-9bf5-cfe411487a59</dc:identifier>
         <dc:title>Python Data Science Handbook: Essential Tools for Working With Data</dc:title>
         <dc:creator opf:file-as="VanderPlas, Jake" opf:role="aut">Jake Vanderplas</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-11-21T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;For many researchers, Python is a first-class tool mainly because of its libraries for storing, manipulating, and gaining insight from data. Several resources exist for individual pieces of this data science stack, but only with the Python Data Science Handbook do you get them all—IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and other related tools. &lt;/p&gt;
 &lt;p&gt;Working scientists and data crunchers familiar with reading and writing Python code will find this comprehensive desk reference ideal for tackling day-to-day issues: manipulating, transforming, and cleaning data; visualizing different types of data; and using data to build statistical or machine learning models. Quite simply, this is the must-have reference for scientific computing in Python. &lt;/p&gt;
 &lt;p&gt;With this handbook, you’ll learn how to use:IPython and Jupyter: provide computational environments for data scientists using PythonNumPy: includes the ndarray for efficient storage and manipulation of dense data arrays in PythonPandas: features the DataFrame for efficient storage and manipulation of labeled/columnar data in PythonMatplotlib: includes capabilities for a flexible range of data visualizations in PythonScikit-Learn: for efficient and clean Python implementations of the most important and established machine learning algorithms&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">6omNDQAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781491912133</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">6omNDQAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Languages</dc:subject>
@@ -28,7 +28,7 @@
         <dc:subject>Data Visualization</dc:subject>
         <meta name="calibre:timestamp" content="2023-01-13T17:30:42+00:00"/>
         <meta name="calibre:title_sort" content="Python Data Science Handbook: Essential Tools for Working With Data"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

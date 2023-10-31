@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c34611a3-caea-4c4a-8d52-b3025cc287ec</dc:identifier>
         <dc:title>Advanced Macroeconomics</dc:title>
         <dc:creator opf:file-as="Romer, David" opf:role="aut">David Romer</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-02-19T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The fifth edition of Romer's &lt;em&gt;Advanced Macroeconomics&lt;/em&gt; continues its tradition as the standard text and the starting point for graduate macroeconomics courses and helps lay the groundwork for students to begin doing research in macroeconomics and monetary economics. Romer presents the major theories concerning the central questions of macroeconomics. The theoretical analysis is supplemented by examples of relevant empirical work, illustrating the ways that theories can be applied and tested. In areas ranging from economic growth and short-run fluctuations to the natural rate of unemployment and monetary policy, formal models are used to present and analyze key ideas and issues.&lt;br&gt;The book has been extensively revised to incorporate important new topics and new research, eliminate inessential material, and further improve the presentation.&lt;/p&gt;
@@ -21,7 +21,7 @@
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2022-12-22T07:56:05+00:00"/>
         <meta name="calibre:title_sort" content="Advanced Macroeconomics"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

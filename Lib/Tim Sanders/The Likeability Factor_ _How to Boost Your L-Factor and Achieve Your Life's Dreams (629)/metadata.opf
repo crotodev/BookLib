@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8d7b6060-efc7-4882-b1ed-62761c67a7fb</dc:identifier>
         <dc:title>The Likeability Factor: "How to Boost Your L-Factor and Achieve Your Life's Dreams</dc:title>
         <dc:creator opf:file-as="Sanders, Tim" opf:role="aut">Tim Sanders</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2005-04-05T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Review&lt;/h3&gt;
@@ -87,9 +87,9 @@
 &lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
 &lt;p&gt;Sanders's message in this follow-up to his bestselling &lt;em&gt;Love Is the Killer App&lt;/em&gt; isn't exactly a revelation: people who are well liked are more apt to get what they want out of life than those who are disliked. However, Sanders does offer a valuable look at the four personality traits he says contribute to a person's likability—namely, friendliness, relevance (do you connect on interests or needs?), empathy and "realness" (genuineness or authenticity). Sanders, a Yahoo! leadership coach, is able to deconstruct complex subjects such as personality traits, and the book's value is in guiding readers toward understanding that likability isn't an accident of birth but a skill that can be learned (exercises are included). No doubt every reader knows someone they'd like to give this book to, and perhaps people who suspect their own L-factor is low will find their way to it, too. &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Harmony/Rodale</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780307237750</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">XDq9Xf_NbrMC</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B000FCK2YW</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">XDq9Xf_NbrMC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780307237750</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Self-Help</dc:subject>
         <dc:subject>Personal Growth</dc:subject>
@@ -99,7 +99,7 @@
         <dc:subject>Personal Success</dc:subject>
         <meta name="calibre:timestamp" content="2023-02-10T19:34:09+00:00"/>
         <meta name="calibre:title_sort" content="Likeability Factor: &quot;How to Boost Your L-Factor and Achieve Your Life's Dreams, The"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

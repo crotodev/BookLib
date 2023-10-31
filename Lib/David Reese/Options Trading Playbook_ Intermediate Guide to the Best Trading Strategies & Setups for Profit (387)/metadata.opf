@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2a1719a2-9243-41a7-b053-37c0e80894a5</dc:identifier>
         <dc:title>Options Trading Playbook: Intermediate Guide to the Best Trading Strategies &amp; Setups for Profiting on Stock, Forex, Futures, Binary and Etf Opti</dc:title>
         <dc:creator opf:file-as="Reese, David" opf:role="aut">David Reese</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-03-05T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Are you ready to transition from being a beginner to playing as intermediate-level trader? Would you like to learn strategies that open your mind to new opportunities and enable you to earn more money regardless of the conditions of the market? Are you looking to build up a remarkable passive income in a matter of weeks?&lt;/h3&gt;
@@ -26,9 +26,9 @@
 &lt;p&gt;Options have a bad reputation for being risky investments that only expert traders can understand. Not true, and with this &lt;strong&gt;simple step-by-step approach&lt;/strong&gt; in this amazing book, within a couple of months of active trading, you’ll become a professional and &lt;strong&gt;skilled trader&lt;/strong&gt; who excels. &lt;/p&gt;
 &lt;p&gt;Why wait? Take action and further your journey toward financial freedom with one simple &lt;strong&gt;CLICK OF THE BUY BUTTON, NOW!&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Independently published</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1798802856</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">W3P-wgEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781798802854</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">1798802856</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Binary Trading</dc:subject>
         <dc:subject>Business &amp; Economics</dc:subject>
@@ -56,7 +56,7 @@
         <meta name="calibre:rating" content="6"/>
         <meta name="calibre:timestamp" content="2023-01-15T20:44:58+00:00"/>
         <meta name="calibre:title_sort" content="Options Trading Playbook: Intermediate Guide to the Best Trading Strategies &amp; Setups for Profiting on Stock, Forex, Futures, Binary and Etf Opti"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

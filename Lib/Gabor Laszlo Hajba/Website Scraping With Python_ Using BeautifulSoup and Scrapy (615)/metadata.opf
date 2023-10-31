@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">41b1d7f5-420a-4d28-a56c-53769b9b73ae</dc:identifier>
         <dc:title>Website Scraping With Python: Using BeautifulSoup and Scrapy</dc:title>
         <dc:creator opf:file-as="Hajba, Gábor László" opf:role="aut">Gábor László Hajba</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-09-14T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -20,10 +20,10 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Gabor Laszlo Hajba&lt;/strong&gt; is an IT Consultant who specializes in Java and Python, and holds workshops about Java and Java Enterprise Edition. As the CEO of the JaPy Szoftver Kft in Sopron, Hungary he is responsible for designing and developing customer needs in the enterprise software world. He has also held roles as a software developer with EBCONT Enterprise Technologies, and as an Advanced Software Engineer with Zuhlke Group. He considers himself a workaholic, (hard)core and well-grounded developer, functional minded, freak of portable apps and "a champion Javavore who loves pushing code" and loves to develop in Python.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Apress</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781484239254</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">43066351</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">_IBuDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484239254</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B07G2ZWNQ3</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">_IBuDwAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>General</dc:subject>
@@ -35,7 +35,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-02-03T16:27:10+00:00"/>
         <meta name="calibre:title_sort" content="Website Scraping With Python: Using BeautifulSoup and Scrapy"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

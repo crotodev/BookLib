@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">15364827-e0c7-4170-841d-1fc530a12cc4</dc:identifier>
         <dc:title>College Success</dc:title>
         <dc:creator opf:file-as="Baldwin, Amy" opf:role="aut">Amy Baldwin</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-03-27T14:24:14+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;OpenStax College Success is a comprehensive and contemporary resource that serves First Year Experience, Student Success, and College Transition courses. Developed with the support of hundreds of faculty and coordinators, the book addresses the evolving challenges and opportunities of today’s diverse students. Engagement, self-analysis, personal responsibility, and student support are reflected throughout the material. College Success also includes an array of student surveys and opinion polls, and OpenStax will regularly provide the results to adopting faculty. &lt;/p&gt;
@@ -18,7 +18,7 @@
         <meta name="calibre:rating" content="6"/>
         <meta name="calibre:timestamp" content="2023-01-25T17:38:35+00:00"/>
         <meta name="calibre:title_sort" content="College Success"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

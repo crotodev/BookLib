@@ -8,7 +8,7 @@
         <dc:creator opf:file-as="Khemchandani, Vineeta &amp; Anand, Darpan &amp; Mishra, K. K. &amp; Harit, Sandeep" opf:role="aut">Dr. Darpan Anand</dc:creator>
         <dc:creator opf:file-as="Khemchandani, Vineeta &amp; Anand, Darpan &amp; Mishra, K. K. &amp; Harit, Sandeep" opf:role="aut">Dr. K. K. Mishra</dc:creator>
         <dc:creator opf:file-as="Khemchandani, Vineeta &amp; Anand, Darpan &amp; Mishra, K. K. &amp; Harit, Sandeep" opf:role="aut">Dr. Sandeep Harit</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-05-19T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Functioning of UNIX operating system with shell programming KEY FEATURES  ● Equipped with installation, administration, and best practices for UNIX system management.● Provides a wide range of shell scripting and Unix-based solutions.● UNIX foundations, Resource Management, Socket Programming, Shell Scripting, and the C Interface are all covered. DESCRIPTION This book is intended to be an instructional tool and study guide for those interested in learning about the principles of the UNIX operating system, process management, socket programming, and numerous shell scripting techniques. &lt;/p&gt;
@@ -17,8 +17,8 @@
 &lt;p&gt;WHAT YOU WILL LEARN● Investigate every aspect of the UNIX operating system.● Understand how to use the shell and how to develop shell scripts.● Acquaint yourself with all of UNIX's file and process components.● Gain a working knowledge of file access and manipulation.● Learn more about inter-process communication and its many methods. &lt;/p&gt;
 &lt;p&gt;WHO THIS BOOK IS FORThe book appeals to UNIX professionals, students, master's degree applicants, and candidates for competitive exams who wish to understand UNIX principles thoroughly. However, it is written for beginners and may be read by anyone without prior understanding. TABLE OF CONTENTS1. Fundamental Concepts of UNIX Operating System2. File Management3. Process Management4. Inter-Process Communication5. Socket Programming6. Memory Management7. UNIX Shell and Custom Environment8. Shell Programming Using Bourne Shell&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>BPB Publications</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9789355510402</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">KI9wEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789355510402</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Operating Systems</dc:subject>
@@ -27,7 +27,7 @@
         <dc:subject>General</dc:subject>
         <meta name="calibre:timestamp" content="2023-02-06T20:02:11+00:00"/>
         <meta name="calibre:title_sort" content="UNIX Programming: UNIX Processes, Memory Management, Process Communication, Networking, and Shell Scripting (English Edition)"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

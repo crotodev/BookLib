@@ -87,8 +87,8 @@
 &lt;p&gt;“Dear Sugar will save your soul. I belong to the Church of Sugar.” —Samantha Dunn, author of &lt;em&gt;Failing Paris&lt;br&gt;&lt;/em&gt;&lt;br&gt;“Charming, idiosyncratic, luminous, profane. . . . [Sugar] is remaking a genre that has existed, in more or less the same form, since well before Nathanael West’s &lt;em&gt;Miss Lonelyhearts&lt;/em&gt; first put a face on the figure in 1933. . . . Her version of tough love ranges from hip-older-sister-loving to governess-stern. Sugar shines out amid the sea of fakeness.” —Ruth Franklin, &lt;em&gt;The New Republic&lt;/em&gt; --This text refers to an alternate kindle_edition edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Vintage</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9780307949325</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B005V2DUP4</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">126065978</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B005V2DUP4</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">nRKaENKW-4YC</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Self Help</dc:subject>
@@ -96,7 +96,7 @@
         <dc:subject>Adult</dc:subject>
         <dc:subject>Biography</dc:subject>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-10-22T23:40:09.969915+00:00"/>
+        <meta name="calibre:timestamp" content="2023-10-22T23:40:09+00:00"/>
         <meta name="calibre:title_sort" content="Tiny Beautiful Things: Advice From Dear Sugar"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

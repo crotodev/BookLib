@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f3588dc6-b1eb-4dea-b14e-8c083c3a4989</dc:identifier>
         <dc:title>Succeeding With Agile: Software Development Using Scrum</dc:title>
         <dc:creator opf:file-as="Cohn, Mike" opf:role="aut">Mike Cohn</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-10-26T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Proven, 100% Practical Guidance for Making Scrum and Agile Work in Any Organization&lt;/p&gt;
@@ -86,13 +86,13 @@
 &lt;p&gt;With more than 25 years of experience, Mike has previously been a technology executive in companies of various sizes, from start-up to Fortune 40. He has also written articles for &lt;em&gt;Better Software&lt;/em&gt; , &lt;em&gt;IEEE Computer&lt;/em&gt; , &lt;em&gt;Cutter IT Journal&lt;/em&gt; , &lt;em&gt;Software Test and Quality Engineering&lt;/em&gt; , &lt;em&gt;Agile Times&lt;/em&gt; , and the &lt;em&gt;C/C++ Users Journal&lt;/em&gt;. Mike is a frequent speaker at industry conferences and is a founding member of the Agile Alliance and Scrum Alliance. He is also a Certified Scrum Trainer, having cotaught the first Certified ScrumMaster class with Ken Schwaber in May 2003.&lt;/p&gt;
 &lt;p&gt;For more information, visit www.mountaingoatsoftware.com.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Addison-Wesley Professional</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780321579362</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">0321579364</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780321579362</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-07-03T17:58:32+00:00"/>
         <meta name="calibre:title_sort" content="Succeeding With Agile: Software Development Using Scrum"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

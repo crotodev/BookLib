@@ -5,15 +5,15 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a66fc0de-1ebc-4f96-afcb-4fc25d936375</dc:identifier>
         <dc:title>You're Being Summoned, Darkness</dc:title>
         <dc:creator opf:file-as="Akatsuki, Natsume" opf:role="aut">Natsume Akatsuki</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-03-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;After successfully saving the town from Mobile Fortress Destroyer, Kazuma is ready to sit back and enjoy the hero treatment: fame, fortune, and...criminal charges?! Now in hot water with the law, he has to find a way to clear his name with the help of Aqua, Megumin, and Darkness before the judge can sentence him to death. Darkness has a plan to buy more time, but will it be enough...? After all, in this wonderful world, who knows what'll happen?&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen Press</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">Pqb3MAAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">33296299</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780316468732</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">0316468738</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">33296299</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Pqb3MAAACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fiction</dc:subject>
         <dc:subject>Fantasy</dc:subject>
@@ -23,7 +23,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-21T16:50:58+00:00"/>
         <meta name="calibre:title_sort" content="You're Being Summoned, Darkness"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

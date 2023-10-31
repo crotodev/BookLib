@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">4abb3c66-db93-49e5-9586-1a90387e6061</dc:identifier>
         <dc:title>Introduction to Python Network Automation: The First Journey</dc:title>
         <dc:creator opf:file-as="Choi, Brendan" opf:role="aut">Brendan Choi</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-05-25T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Learn and implement network automation within the Enterprise network using Python 3. This introductory book will be your guide to building an integrated virtual networking lab to begin your Network Automation journey and master the basics of Python Network Automation. The book features a review of the practical Python network automation scripting skills and tips learned from the production network, so you can safely test and practice in a lab environment first, various Python modules such as paramiko and netmiko, pandas, re, and much more. You'll also develop essential skills such as Python scripting, regular expressions, Linux and Windows administration, VMware virtualization, and Cisco networking from the comfort of your laptop/PC with no actual networking hardware. Finally, you will learn to write a fully automated and working Cisco IOS XE upgrade application using Python. &lt;/p&gt;
@@ -24,7 +24,7 @@
         <dc:subject>network</dc:subject>
         <meta name="calibre:timestamp" content="2022-12-14T19:13:18+00:00"/>
         <meta name="calibre:title_sort" content="Introduction to Python Network Automation: The First Journey"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

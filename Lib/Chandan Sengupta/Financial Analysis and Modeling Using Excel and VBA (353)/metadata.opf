@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">5a423ca0-ed32-4451-bb38-4c7990500a42</dc:identifier>
         <dc:title>Financial Analysis and Modeling Using Excel and VBA</dc:title>
         <dc:creator opf:file-as="Sengupta, Chandan" opf:role="aut">Chandan Sengupta</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-11-09T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;An updated look at the theory and practice of financial analysis and modeling&lt;/p&gt;
@@ -30,15 +30,15 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Chandan Sengupta&lt;/strong&gt; teaches finance in the MBA program at the Fordham University Graduate School of Business, specializing in financial modeling, business valuation, corporate finance, and investment management. Formerly, he was vice president at the Chase Manhattan Bank for eight years and senior financial advisor for Mobil Corporation for ten years. He is also the author of the first edition of this book as well as Financial Modeling Using C++ and The Only Proven Road to Investment Success, all of which are published by Wiley. &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Wiley</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">047027560X</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780470275603</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">047027560X</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Financial Modeling</dc:subject>
         <dc:subject>Financial Analysis</dc:subject>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-14T05:39:08+00:00"/>
         <meta name="calibre:title_sort" content="Financial Analysis and Modeling Using Excel and VBA"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

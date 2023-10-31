@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">bfbea005-76f7-40f7-b50c-9243d4a75445</dc:identifier>
         <dc:title>Deep Work: Rules for Focused Success in a Distracted World</dc:title>
         <dc:creator opf:file-as="Newport, Cal" opf:role="aut">Cal Newport</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.28.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-01-05T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;**AN AMAZON BEST BOOK OF 2O16 PICK IN BUSINESS &amp;amp; LEADERSHIP &lt;/p&gt;
@@ -17,9 +17,9 @@
 &lt;p&gt;1. Work Deeply&lt;br&gt;2. Embrace Boredom&lt;br&gt;3. Quit Social Media&lt;br&gt;4. Drain the Shallows &lt;/p&gt;
 &lt;p&gt;A mix of cultural criticism and actionable advice, &lt;em&gt;Deep Work&lt;/em&gt; takes the reader on a journey through memorable stories-from Carl Jung building a stone tower in the woods to focus his mind, to a social media pioneer buying a round-trip business class ticket to Tokyo to write a book free from distraction in the air-and no-nonsense advice, such as the claim that most serious professionals should quit social media and that you should practice being bored. Deep Work is an indispensable guide to anyone seeking focused success in a distracted world.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Grand Central Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781455586691</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1455586692</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">4QTzCAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781455586691</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Time Management</dc:subject>
@@ -29,7 +29,7 @@
         <dc:subject>Success</dc:subject>
         <dc:subject>Business &amp; Economics / Time Management</dc:subject>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2023-10-06T20:56:36.814238+00:00"/>
+        <meta name="calibre:timestamp" content="2023-10-06T20:56:36+00:00"/>
         <meta name="calibre:title_sort" content="Deep Work: Rules for Focused Success in a Distracted World"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6b14bb16-3354-42ff-9ad9-b8b87a2fccb5</dc:identifier>
         <dc:title>The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy</dc:title>
         <dc:creator opf:file-as="Bailey, Chris" opf:role="aut">Chris Bailey</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-08-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;A fresh, personal, and entertaining exploration of a topic that concerns all of us: how to be more productive at work and in every facet of our lives. &lt;/p&gt;
@@ -95,8 +95,8 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;Chris Bailey, a graduate of Carleton University in Ottawa, wrote over 216,000 words on the subject of productivity on his blog, A Year of Productivity, during a yearlong productivity project where he conducted intensive research, as well as dozens of productivity experiments on himself to discover how to become as productive as possible. To date, he has written hundreds of articles on the subject and has garnered coverage in media as diverse as the New York Times, the Huffington Post, New York magazine, TED, Fast Company, and Lifehacker. --This text refers to an out of print or unavailable edition of this title.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Crown</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B00Z3G239W</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781101904053</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00Z3G239W</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">8pKTEAAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
@@ -107,7 +107,7 @@
         <dc:subject>Productivity</dc:subject>
         <meta name="calibre:timestamp" content="2023-01-07T05:39:11+00:00"/>
         <meta name="calibre:title_sort" content="Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy, The"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

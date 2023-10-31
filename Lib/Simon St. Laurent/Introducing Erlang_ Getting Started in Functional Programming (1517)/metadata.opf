@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">15cb2bd5-9d70-4ca9-9d6e-fbaf6f7bcb23</dc:identifier>
         <dc:title>Introducing Erlang: Getting Started in Functional Programming</dc:title>
         <dc:creator opf:file-as="Laurent, Simon St." opf:role="aut">Simon St. Laurent</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-03-16T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;If you’re new to Erlang, its functional style can seem difficult, but with help from this hands-on introduction, you’ll scale the learning curve and discover how enjoyable, powerful, and fun this language can be. &lt;/p&gt;
@@ -19,10 +19,10 @@
 &lt;li&gt;Store and manipulate structured data with Erlang Term Storage and the Mnesia database &lt;/li&gt;
 &lt;li&gt;Learn about Open Telecom Platform, Erlang’s open source libraries and tools &lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly Media, Incorporated</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781491973370</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1144058723</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781491973370</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:timestamp" content="2023-09-13T20:33:32.355972+00:00"/>
+        <meta name="calibre:timestamp" content="2023-09-13T20:33:32+00:00"/>
         <meta name="calibre:title_sort" content="Introducing Erlang: Getting Started in Functional Programming"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

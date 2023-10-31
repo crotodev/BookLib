@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">91032c74-44cd-4e94-b3ba-9756302f090a</dc:identifier>
         <dc:title>Category Theory: Invariances and Symmetries in Computer Science</dc:title>
         <dc:creator opf:file-as="Majkic, Zoran" opf:role="aut">Zoran Majkic</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-03-05T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book analyzes the generation of the arrow-categories of a given category, which is a foundational and distinguishable Category Theory phenomena, in analogy to the foundational role of sets in the traditional set-based Mathematics, for defi nition of natural numbers as well. This inductive transformation of a category into the infinite hierarchy of the arrowcategories is extended to the functors and natural transformations. The author considers invariant categorial properties (the symmetries) under such inductive transformations. The book focuses in particular on Global symmetry (invariance of adjunctions) and Internal symmetries between arrows and objects in a category (in analogy to Field Theories like Quantum Mechanics and General Relativity). The second part of the book is dedicated to more advanced applications of Internal symmetry to Computer Science: for Intuitionistic Logic, Untyped Lambda Calculus with Fixpoint Operators, Labeled Transition Systems in Process Algebras and Modal logics as well as Data Integration Theory. &lt;/p&gt;
@@ -15,11 +15,11 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;Zoran Majkic, International Society for Research in Science and Technology, Tallahassee, Florida, USA.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>De Gruyter</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9783111080567</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">3111080560</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783111080567</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1142948908</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:timestamp" content="2023-09-01T13:30:22.952677+00:00"/>
+        <meta name="calibre:timestamp" content="2023-09-01T13:30:22+00:00"/>
         <meta name="calibre:title_sort" content="Category Theory: Invariances and Symmetries in Computer Science"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1b4e07bf-da56-4df6-9f1d-cda6462de5b1</dc:identifier>
         <dc:title>Cloud Native Python</dc:title>
         <dc:creator opf:file-as="Sethi, Manish" opf:role="aut">Manish Sethi</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-07-21T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
@@ -45,8 +45,8 @@
 &lt;p&gt;He regularly spends time learning and implementing new technology paradigms and actively finds himself solving practical problems using serverless architecture, machine and deep learning, and so on. He contributes to Bangalore DevOps and the Docker community by writing blog posts, giving talks in meetups, and so on.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
         <dc:identifier opf:scheme="GOOGLE">W27uswEACAAJ</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9781787129313</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1787129314</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781787129313</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Cloud Native</dc:subject>
         <dc:subject>Programming</dc:subject>
@@ -55,7 +55,7 @@
         <meta name="calibre:rating" content="4"/>
         <meta name="calibre:timestamp" content="2022-12-14T19:11:47+00:00"/>
         <meta name="calibre:title_sort" content="Cloud Native Python"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">37136898-d690-4e2c-b474-b2866683732f</dc:identifier>
         <dc:title>Software Architect's Handbook: Become a Successful Software Architect by Implementing Effective Architecture Concepts</dc:title>
         <dc:creator opf:file-as="Ingeno, Joseph" opf:role="aut">Joseph Ingeno</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-08-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;A comprehensive guide to exploring software architecture concepts and implementing best practices&lt;/p&gt;
@@ -53,12 +53,12 @@
 &lt;p&gt;Joseph graduated from the University of Miami a with Master of Science and a Bachelor of Business Administration degrees in Computer Information Systems, and followed that with a Master of Software Engineering degree from Brandeis University.&lt;/p&gt;
 &lt;p&gt;He holds several certifications, including the Microsoft Certified Solutions Developer and the Professional Software Engineering Master Certification from the IEEE Computer Society.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="BARNESNOBLE">1137372858</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781788624060</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1788624068</dc:identifier>
-        <dc:identifier opf:scheme="BARNESNOBLE">1137372858</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-09-07T13:57:00.253623+00:00"/>
+        <meta name="calibre:timestamp" content="2023-09-07T13:57:00+00:00"/>
         <meta name="calibre:title_sort" content="Software Architect's Handbook: Become a Successful Software Architect by Implementing Effective Architecture Concepts"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c4076893-4645-4241-9294-33716e2e1081</dc:identifier>
         <dc:title>Feature Engineering &amp; Selection for Explainable Models: A Second Course for Data Scientists</dc:title>
         <dc:creator opf:file-as="Haque, Md Azimul" opf:role="aut">Md Azimul Haque</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-12-27T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Learn about 10 percent of things that make 90 percent of the impact in your machine learning project.&lt;/p&gt;&lt;/div&gt;</dc:description>

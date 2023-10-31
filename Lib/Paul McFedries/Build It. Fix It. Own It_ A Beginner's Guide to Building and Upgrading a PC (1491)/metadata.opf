@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f2d66c27-a7a7-4ae5-ad5f-6c8de30cf9d6</dc:identifier>
         <dc:title>Build It. Fix It. Own It: A Beginner's Guide to Building and Upgrading a PC</dc:title>
         <dc:creator opf:file-as="McFedries, Paul" opf:role="aut">Paul McFedries</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-05-07T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;BUILD IT. FIX it. OWN IT.&lt;/p&gt;
@@ -81,18 +81,18 @@
 &lt;p&gt;&lt;strong&gt;Paul McFedries&lt;/strong&gt; is a full-time technical writer and passionate computer tinkerer. He is the author of more than 70 computer books that have sold more than three million copies worldwide. His recent titles include the Sams Publishing books &lt;em&gt;Windows Vista Unleashed&lt;/em&gt; and &lt;em&gt;Windows Home Server Unleashed&lt;/em&gt; and the Que Publishing books &lt;em&gt;Networking with Windows Vista&lt;/em&gt; ; &lt;em&gt;Formulas and Functions with Microsoft Excel 2007&lt;/em&gt; ; &lt;em&gt;Tricks of the Microsoft Office 2007 Gurus&lt;/em&gt; ; and &lt;em&gt;Microsoft Access 2007 Forms, Reports, and Queries&lt;/em&gt;. Paul also is the proprietor of Word Spy (www.wordspy.com), a website devoted to tracking new words and phrases as they enter the English language.&lt;/p&gt;
 &lt;p&gt;--This text refers to an alternate kindle_edition edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>QUE</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780789738271</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B004V9O96W</dc:identifier>
-        <dc:identifier opf:scheme="BARNESNOBLE">1100841119</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">22259079</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">_yEmKNR-FWAC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780789738271</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1100841119</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Hardware</dc:subject>
         <dc:subject>Personal Computers</dc:subject>
         <dc:subject>PCs</dc:subject>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-07-13T15:35:53.242394+00:00"/>
+        <meta name="calibre:timestamp" content="2023-07-13T15:35:53+00:00"/>
         <meta name="calibre:title_sort" content="Build It. Fix It. Own It: A Beginner's Guide to Building and Upgrading a PC"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f984e601-aa32-4341-901c-939f5f2f8fbf</dc:identifier>
         <dc:title>Upgrading and Repairing PCs</dc:title>
         <dc:creator opf:file-as="Mueller, Scott M." opf:role="aut">Scott M. Mueller</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-08-11T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;strong&gt;DVD-ROM&lt;/strong&gt; Includes &lt;strong&gt;3 hours&lt;/strong&gt; of new how-to video&lt;/p&gt;
@@ -40,12 +40,12 @@
 &lt;p&gt;Scott has a forum exclusively for his readers at www.forum.scottmueller.com. Anybody can view the forum, but posting is available only to registered members.&lt;/p&gt;
 &lt;p&gt;If you have suggestions or comments about the book or new book or article topics you would like to see covered, send them to info@muellertech.com.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>QUE</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">23337548</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780789756107</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">0789756102</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">23337548</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2023-07-13T15:48:54.937058+00:00"/>
+        <meta name="calibre:timestamp" content="2023-07-13T15:48:54+00:00"/>
         <meta name="calibre:title_sort" content="Upgrading and Repairing PCs"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

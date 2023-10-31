@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">00f2bae3-6d1b-4f73-8a55-7eb0c40943c1</dc:identifier>
         <dc:title>Python Algorithms: Mastering Basic Algorithms in the Python Language</dc:title>
         <dc:creator opf:file-as="Hetland, Magnus Lie" opf:role="aut">Magnus Lie Hetland</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-27T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;em&gt;Python Algorithms, Second Edition&lt;/em&gt; explains the Python approach to algorithm analysis and design. Written by Magnus Lie Hetland, author of &lt;em&gt;Beginning Python&lt;/em&gt; , this book is sharply focused on classical algorithms, but it also gives a solid understanding of fundamental algorithmic problem-solving techniques. &lt;/p&gt;
@@ -16,8 +16,8 @@
 &lt;p&gt;Magnus Lie Hetland is an experienced Python programmer, having used the language since the late 1990s. He is also an associate professor of algorithms at the Norwegian University of Science and Technology, having taught algorithms for the better part of a decade. Hetland is the author of Practical Python and Beginning Python, first and second editions, as well as several scientific papers.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Apress</dc:publisher>
         <dc:identifier opf:scheme="GOOGLE">4cytGpIPYsAC</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9781484200568</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">148420056X</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484200568</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Programming Languages</dc:subject>
@@ -28,7 +28,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-13T17:10:29+00:00"/>
         <meta name="calibre:title_sort" content="Python Algorithms: Mastering Basic Algorithms in the Python Language"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

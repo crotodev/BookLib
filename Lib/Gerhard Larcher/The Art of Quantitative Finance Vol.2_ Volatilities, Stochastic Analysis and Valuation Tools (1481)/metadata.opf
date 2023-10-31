@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">0d5d8d66-b478-40f9-8137-9070e11ef28d</dc:identifier>
         <dc:title>The Art of Quantitative Finance Vol.2: Volatilities, Stochastic Analysis and Valuation Tools</dc:title>
         <dc:creator opf:file-as="Larcher, Gerhard" opf:role="aut">Gerhard Larcher</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-03-23T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This textbook provides the necessary techniques from financial mathematics and stochastic analysis for the valuation of more complex financial products and strategies. The author discusses how to make use of mathematical methods to analyse volatilities in capital markets. Furthermore, he illustrates how to apply and extend the Black-Scholes theory to several fields in finance. In the final section of the book, the author introduces the readers to the fundamentals of stochastic analysis and presents examples of applications. This book builds on the previous volume of the author’s trilogy on quantitative finance. The aim of the second volume is to present and discuss more complex and advanced techniques of modern financial mathematics in a way that is intuitive and easy to follow. As in the previous volume, the author provides financial mathematicians with insights into practical requirements when applying financial mathematical techniques in the real world.&lt;/p&gt;
@@ -15,8 +15,8 @@
 &lt;p&gt;Prof. Gerhard Larcher is full Professor for Financial Mathematics and Head of the Institute for Financial Mathematics and Applied Number Theory at the Johannes Kepler University Linz in Austria. He is the spokesperson of the project 'Quasi-Monte Carlo Methods: Theory and Applications', a special research program funded by the Austrian government.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Springer</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9783031238703</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">3031238699</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1142728895</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">3031238699</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">123165878</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">9Iu1EAAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
@@ -32,7 +32,7 @@
         <meta name="calibre:series" content="Springer Texts in Business and Economics"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="2"/>
-        <meta name="calibre:timestamp" content="2023-07-09T15:47:58.573081+00:00"/>
+        <meta name="calibre:timestamp" content="2023-07-09T15:47:58+00:00"/>
         <meta name="calibre:title_sort" content="Art of Quantitative Finance Vol.2: Volatilities, Stochastic Analysis and Valuation Tools, The"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

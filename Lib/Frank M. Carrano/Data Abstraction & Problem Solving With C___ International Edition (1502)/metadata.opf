@@ -6,18 +6,18 @@
         <dc:title>Data Abstraction &amp; Problem Solving With C++: International Edition</dc:title>
         <dc:creator opf:file-as="Carrano, Frank M. &amp; Henry, Timothy M." opf:role="aut">Frank M. Carrano</dc:creator>
         <dc:creator opf:file-as="Carrano, Frank M. &amp; Henry, Timothy M." opf:role="aut">Timothy M. Henry</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-11-06T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This classic, best selling data structures text provides a firm foundation in data abstraction that emphasizes the distinction between specifications and implementation as the basis for an object-oriented approach. Software engineering principles and concepts as well as UML diagrams are used to enhance student understanding. The full text downloaded to your computer With eBooks you can: search for key concepts, words and phrases make highlights and notes as you study share your notes with friends eBooks are downloaded to your computer and accessible either offline through the Bookshelf (available as a free download), available online and also via the iPad and Android apps. Upon purchase, you'll gain instant access to this eBook. Time limit The eBooks products do not have an expiry date. You will continue to access your digital ebook products whilst you have your Bookshelf installed.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Pearson Education</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780273778271</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">x_ioBwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780273778271</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Languages</dc:subject>
         <dc:subject>General</dc:subject>
-        <meta name="calibre:timestamp" content="2023-08-17T13:16:19.883055+00:00"/>
+        <meta name="calibre:timestamp" content="2023-08-17T13:16:19+00:00"/>
         <meta name="calibre:title_sort" content="Data Abstraction &amp; Problem Solving With C++: International Edition"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6a0816a8-e804-494e-ad2c-cb40f0a53967</dc:identifier>
         <dc:title>Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading</dc:title>
         <dc:creator opf:file-as="Narang, Rishi K." opf:role="aut">Rishi K. Narang</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-08-04T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;New edition of book that demystifies quant and algo trading&lt;/p&gt;
@@ -67,18 +67,18 @@
 &lt;p&gt;&lt;strong&gt;Rishi K. Narang&lt;/strong&gt; is the Founding Principal of Telesis Capital LLC, which invests in quantitative trading strategies. Previously, he was managing director and co–portfolio manager at Santa Barbara Alpha Strategies. Narang cofounded and was president of Tradeworx, Inc., a quantitative hedge fund manager, from 1999–2002. He has been involved in the hedge fund industry, with a focus on quantitative trading strategies, since 1996. Narang graduated from the University of California, Berkeley, with a BA in economics.&lt;/p&gt;
 &lt;p&gt;--This text refers to an alternate kindle_edition edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Wiley</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781118362419</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B00BZ9WAVW</dc:identifier>
-        <dc:identifier opf:scheme="BARNESNOBLE">1114279200</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">16219658</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00BZ9WAVW</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781118362419</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1114279200</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business</dc:subject>
         <meta name="calibre:series" content="Wiley Finance"/>
         <meta name="calibre:series_index" content="846"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-07-08T17:45:02.854646+00:00"/>
+        <meta name="calibre:timestamp" content="2023-07-08T17:45:02+00:00"/>
         <meta name="calibre:title_sort" content="Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

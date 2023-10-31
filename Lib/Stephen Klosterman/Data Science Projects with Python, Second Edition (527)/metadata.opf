@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">0efff121-3229-43b4-969c-fd92588fab58</dc:identifier>
         <dc:title>Data Science Projects with Python, Second Edition</dc:title>
         <dc:creator opf:file-as="Klosterman, Stephen" opf:role="aut">Stephen Klosterman</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-07-28T10:24:11+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold; font-family: 'Helvetica Neue'"&gt;About this book&lt;/p&gt;
@@ -17,11 +17,11 @@
 &lt;p style="font-family: 'Helvetica Neue'"&gt; &lt;/p&gt;
 &lt;p style="font-family: 'Helvetica Neue'"&gt;By the end of this data science book, you’ll have the skills, understanding, and confidence to build your own machine learning models and gain insights from real data. &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:identifier opf:scheme="ISBN">9781800564480</dc:identifier>
-        <dc:language>en</dc:language>
+        <dc:language>eng</dc:language>
         <dc:subject>A case study approach to gaining valuable insights from real data with machine learning</dc:subject>
         <meta name="calibre:timestamp" content="2023-01-24T16:38:23+00:00"/>
         <meta name="calibre:title_sort" content="Data Science Projects with Python, Second Edition"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

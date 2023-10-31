@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f8a9e7a7-ea1c-4181-907f-c56f6b87cb06</dc:identifier>
         <dc:title>Scala Design Patterns: Patterns for Practical Reuse and Design</dc:title>
         <dc:creator opf:file-as="Hunt, John" opf:role="aut">John Hunt</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-11-24T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Scala is a new and exciting programming language that is a hybrid between object oriented languages such as Java and functional languages such as Haskell. As such it has its own programming idioms and development styles.&lt;/p&gt;
@@ -16,11 +16,11 @@
 &lt;p&gt;&lt;em&gt;Scala Design Patterns&lt;/em&gt; looks at how code reuse can be successfully achieved in Scala. A major aspect of this is the reinterpretation of the original Gang of Four design patterns in terms of Scala and its language structures (that is the use of Traits, Classes, Objects and Functions). It includes an exploration of functional design patterns and considers how these can be interpreted in Scala's uniquely hybrid style.&lt;/p&gt;
 &lt;p&gt;A key aspect of the book is the many code examples that accompany each design pattern, allowing the reader to understand not just the design pattern but also to explore powerful and flexible Scala language features. Including numerous source code examples, this book will be of value to professionals and practitioners working in the field of software engineering.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Springer</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783319021928</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">qbG8BAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1133118858</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">3319021915</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">18447273</dc:identifier>
-        <dc:identifier opf:scheme="BARNESNOBLE">1133118858</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9783319021928</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Software Development &amp; Engineering</dc:subject>
@@ -30,7 +30,7 @@
         <meta name="calibre:rating" content="4"/>
         <meta name="calibre:timestamp" content="2023-05-01T02:44:09+00:00"/>
         <meta name="calibre:title_sort" content="Scala Design Patterns: Patterns for Practical Reuse and Design"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

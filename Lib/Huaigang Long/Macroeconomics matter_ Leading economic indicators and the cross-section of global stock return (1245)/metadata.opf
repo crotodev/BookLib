@@ -8,12 +8,12 @@
         <dc:creator opf:file-as="Long, Huaigang &amp; Zaremba, Adam &amp; Zhou, Wenyu &amp; Bouri, Elie" opf:role="aut">Adam Zaremba</dc:creator>
         <dc:creator opf:file-as="Long, Huaigang &amp; Zaremba, Adam &amp; Zhou, Wenyu &amp; Bouri, Elie" opf:role="aut">Wenyu Zhou</dc:creator>
         <dc:creator opf:file-as="Long, Huaigang &amp; Zaremba, Adam &amp; Zhou, Wenyu &amp; Bouri, Elie" opf:role="aut">Elie Bouri</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-11-19T20:22:48+00:00</dc:date>
         <dc:description>Journal of Financial Markets, 61 (2022) 100736. doi:10.1016/j.finmar.2022.100736</dc:description>
         <dc:publisher>Elsevier B.V.</dc:publisher>
         <dc:identifier opf:scheme="DOI">10.1016/j.finmar.2022.100736</dc:identifier>
-        <dc:language>en</dc:language>
+        <dc:language>eng</dc:language>
         <dc:subject>Leading economic indicators</dc:subject>
         <dc:subject>The cross-section of stock returns</dc:subject>
         <dc:subject>International stock markets</dc:subject>
@@ -25,7 +25,7 @@
         <dc:subject>Quantitative Finance</dc:subject>
         <meta name="calibre:timestamp" content="2023-02-22T02:41:30+00:00"/>
         <meta name="calibre:title_sort" content="Macroeconomics matter: Leading economic indicators and the cross-section of global stock returns"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

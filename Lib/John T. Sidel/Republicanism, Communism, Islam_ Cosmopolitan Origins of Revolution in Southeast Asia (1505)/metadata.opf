@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1b64a232-19ff-43fd-93f6-36e40527b0bb</dc:identifier>
         <dc:title>Republicanism, Communism, Islam: Cosmopolitan Origins of Revolution in Southeast Asia</dc:title>
         <dc:creator opf:file-as="Sidel, John T." opf:role="aut">John T. Sidel</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-05-15T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;strong&gt;In&lt;/strong&gt; Republicanism, Communism, Islam &lt;strong&gt;, John T. Sidel provides an alternate vantage point for understanding the variegated forms and trajectories of revolution across the Philippines, Indonesia, and Vietnam, a perspective that is de-nationalized, internationalized, and transnationalized.&lt;/strong&gt; Sidel positions this new vantage point against the conventional framing of revolutions in modern Southeast Asian history in terms of a nationalist template, on the one hand, and distinctive local cultures and forms of consciousness, on the other. &lt;/p&gt;
@@ -19,11 +19,11 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;John T. Sidel is the Sir Patrick Gillam Professor of International and Comparative Politics at the London School of Economics and Political Science (LSE). His previous books include &lt;em&gt;Capital, Coercion, and Crime&lt;/em&gt; , &lt;em&gt;The Islamist Threat in Southeast Asia&lt;/em&gt; , and &lt;em&gt;Riots, Pogroms, Jihad&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Cornell University Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">WzIAEAAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781501755637</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B08NRVGQFC</dc:identifier>
-        <dc:identifier opf:scheme="BARNESNOBLE">1137795331</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">58012924</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">WzIAEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1137795331</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>History</dc:subject>
         <dc:subject>Asia</dc:subject>
@@ -34,7 +34,7 @@
         <dc:subject>Religion</dc:subject>
         <dc:subject>Islam</dc:subject>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-08-30T13:41:38.396120+00:00"/>
+        <meta name="calibre:timestamp" content="2023-08-30T13:41:38+00:00"/>
         <meta name="calibre:title_sort" content="Republicanism, Communism, Islam: Cosmopolitan Origins of Revolution in Southeast Asia"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f0ae1254-410d-4f53-b0ec-d678083de156</dc:identifier>
         <dc:title>Python Data Persistence: With SQL and NOSQL Databases</dc:title>
         <dc:creator opf:file-as="Lathkar, Malhar" opf:role="aut">Malhar Lathkar</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-09-19T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Designed to provide an insight into the SQL and MySQL database concepts using pythonDESCRIPTIONPython is becoming increasingly popular among data scientists. However, analysis and visualization tools need to interact with the data stored in various formats such as relational and NOSQL databases. &lt;/p&gt;
@@ -15,8 +15,8 @@
 &lt;p&gt;KEY FEATURESA practical approachAmple code examplesA Quick Start Guide to Python for beginnersWHAT WILL YOU LEARNPython basics and programming fundamentalsSerialization libraries pickle, CSV, JSON, and XMLDB-AP and, SQLAlchemyPython with Excel documentsPython with MongoDB and CassandraWHO THIS BOOK IS FORStudents and professionals who want to become proficient at database tools for a successful career in data science. &lt;/p&gt;
 &lt;p&gt;Table of Contents1. Ê Ê Getting Started2. Ê Ê Program Flow Control3. Ê Ê Structured Python4. Ê Ê Python Ð OOP5. Ê Ê File IO6. Ê Ê Object Serialization7. Ê Ê RDBMS Concepts8. Ê Ê Python DB-API9. Ê Ê Python Ð SQLAlchemy10. Ê Python and Excel11. Ê Python Ð PyMongo12. Ê Python Ð Cassandra&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>BPB Publications</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9789388511759</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">bFywDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789388511759</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Languages</dc:subject>
@@ -24,7 +24,7 @@
         <dc:subject>Sql</dc:subject>
         <meta name="calibre:timestamp" content="2023-01-13T07:59:49+00:00"/>
         <meta name="calibre:title_sort" content="Python Data Persistence: With SQL and NOSQL Databases"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Ortega, José Manuel &amp; Sarker, M. O. Faruque &amp; Washington, Sam" opf:role="aut">José Manuel Ortega</dc:creator>
         <dc:creator opf:file-as="Ortega, José Manuel &amp; Sarker, M. O. Faruque &amp; Washington, Sam" opf:role="aut">Dr. M. O. Faruque Sarker</dc:creator>
         <dc:creator opf:file-as="Ortega, José Manuel &amp; Sarker, M. O. Faruque &amp; Washington, Sam" opf:role="aut">Sam Washington</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-03-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Achieve improved network programmability and automation by leveraging powerful network programming concepts, algorithms, and toolsKey FeaturesDeal with remote network servers using SSH, FTP, SNMP and LDAP protocols. &lt;/p&gt;
@@ -17,8 +17,8 @@
 &lt;p&gt;As the book progresses, socket programming will be covered, followed by how to design servers, and the pros and cons of multithreaded and event-driven architectures. You'll develop practical clientside applications, including web API clients, email clients, SSH, and FTP. These applications will also be implemented through existing web application frameworks. &lt;/p&gt;
 &lt;p&gt;What you will learnExecute Python modules on networking toolsAutomate tasks regarding the analysis and extraction of information from a networkGet to grips with asynchronous programming modules available in PythonGet to grips with IP address manipulation modules using Python programmingUnderstand the main frameworks available in Python that are focused on web applicationManipulate IP addresses and perform CIDR calculationsWho this book is forIf you're a Python developer or a system administrator with Python experience and you're looking to take your first steps in network programming, then this book is for you. If you're a network engineer or a network professional aiming to be more productive and efficient in networking programmability and automation then this book would serve as a useful resource. Basic knowledge of Python is assumed.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">tc6PDwAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781789952445</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">tc6PDwAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Languages</dc:subject>
@@ -34,7 +34,7 @@
         <dc:subject>COM051440 - COMPUTERS / Software Development and Engineering / Tools</dc:subject>
         <meta name="calibre:timestamp" content="2023-02-17T22:30:45+00:00"/>
         <meta name="calibre:title_sort" content="Learning Python Networking: A Complete Guide to Build and Deploy Strong Networking Capabilities Using Python 3.7 and Ansible , 2nd Edition"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

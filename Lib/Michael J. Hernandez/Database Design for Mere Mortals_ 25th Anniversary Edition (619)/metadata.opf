@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">78a603a3-4590-4d3a-8953-534274fb36e8</dc:identifier>
         <dc:title>Database Design for Mere Mortals: 25th Anniversary Edition</dc:title>
         <dc:creator opf:file-as="Hernandez, Michael J." opf:role="aut">Michael J. Hernandez</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-10-15T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -27,16 +27,16 @@
 &lt;p&gt;For instance, he has been an independent database consultant with more than 25 years of experience in the technology industry, and has been a contributing author to a wide variety of magazine articles, white papers, books, and periodicals. Mike has also been a top-rated and noted technical instructor for two national training organizations, the government, the military, the private sector, and companies throughout the United States, and he has been a top-rated speaker and presenter at numerous national and international conferences. He also worked full-time at Microsoft for seven years as a program manager, product manager, and marketing manager in the Visual Studio Group. &lt;/p&gt;
 &lt;p&gt;Mike is mainly pursuing his artistic side at this point in his life. He is currently a professional actor (with more than seven years of experience as of this writing), performing in commercials for the likes of U.S. Bank, Allstate Insurance, and Subaru; in TV for shows such as &lt;em&gt;Veep&lt;/em&gt; , &lt;em&gt;American Crime&lt;/em&gt; , and &lt;em&gt;Unbelievable&lt;/em&gt; ; and feature films such as &lt;em&gt;Ernesto’s Manifesto&lt;/em&gt; , &lt;em&gt;The Honor List&lt;/em&gt; , and &lt;em&gt;Almost Home&lt;/em&gt;. &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">HAF7zQEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780136788041</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">0136788041</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">HAF7zQEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Database Administration &amp; Management</dc:subject>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-02-05T22:04:38+00:00"/>
         <meta name="calibre:title_sort" content="Database Design for Mere Mortals: 25th Anniversary Edition"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

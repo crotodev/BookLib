@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">01be9cc2-7dbd-48fd-9d30-e87ef715bbb0</dc:identifier>
         <dc:title>The Joy of Abstraction: An Exploration of Math, Category Theory, and Life</dc:title>
         <dc:creator opf:file-as="Cheng, Eugenia" opf:role="aut">Eugenia Cheng</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-10-13T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Mathematician and popular science author Eugenia Cheng is on a mission to show you that mathematics can be flexible, creative, and visual. This joyful journey through the world of abstract mathematics into category theory will demystify mathematical thought processes and help you develop your own thinking, with no formal mathematical background needed. The book brings abstract mathematical ideas down to earth using examples of social justice, current events, and everyday life – from privilege to COVID-19 to driving routes. The journey begins with the ideas and workings of abstract mathematics, after which you will gently climb toward more technical material, learning everything needed to understand category theory, and then key concepts in category theory like natural transformations, duality, and even a glimpse of ongoing research in higher-dimensional category theory. For fans of How to Bake Pi, this will help you dig deeper into mathematical concepts and build your mathematical background.&lt;/p&gt;
@@ -24,11 +24,11 @@
 &lt;h3 dir="rtl"&gt;על המחבר&lt;/h3&gt;
 &lt;p&gt;Dr. Eugenia Cheng is world-renowned as both a researcher in category theory and an expositor of mathematics. She has written several popular mathematics books including How to Bake Pi (2015), The Art of Logic in an Illogical World (2017), and two children's books. She also writes the 'Everyday Math' column for the Wall Street Journal. She is Scientist in Residence at the School of the Art Institute of Chicago, where she teaches abstract mathematics to art students. She holds a Ph.D. in category theory from the University of Cambridge, and won tenure in pure mathematics at the University of Sheffield. You can follow her @DrEugeniaCheng.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="BARNESNOBLE">1141241121</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781108477222</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1108477224</dc:identifier>
-        <dc:identifier opf:scheme="BARNESNOBLE">1141241121</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:timestamp" content="2023-09-01T13:31:36.904157+00:00"/>
+        <meta name="calibre:timestamp" content="2023-09-01T13:31:36+00:00"/>
         <meta name="calibre:title_sort" content="Joy of Abstraction: An Exploration of Math, Category Theory, and Life, The"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

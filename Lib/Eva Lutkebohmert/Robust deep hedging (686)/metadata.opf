@@ -7,12 +7,12 @@
         <dc:creator opf:file-as="Lütkebohmert, Eva &amp; Schmidt, Thorsten &amp; Sester, Julian" opf:role="aut">Eva Lütkebohmert</dc:creator>
         <dc:creator opf:file-as="Lütkebohmert, Eva &amp; Schmidt, Thorsten &amp; Sester, Julian" opf:role="aut">Thorsten Schmidt</dc:creator>
         <dc:creator opf:file-as="Lütkebohmert, Eva &amp; Schmidt, Thorsten &amp; Sester, Julian" opf:role="aut">Julian Sester</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:description>Quantitative Finance, . doi:10.1080/14697688.2022.2056073</dc:description>
         <dc:publisher>Routledge</dc:publisher>
         <dc:identifier opf:scheme="DOI">10.1080/14697688.2022.2056073</dc:identifier>
-        <dc:language>en</dc:language>
+        <dc:language>eng</dc:language>
         <dc:subject>Affine processes</dc:subject>
         <dc:subject>Deep Learning</dc:subject>
         <dc:subject>Knightian uncertainty</dc:subject>
@@ -26,7 +26,7 @@
         <dc:subject>Financial Risk Management</dc:subject>
         <meta name="calibre:timestamp" content="2023-02-20T00:59:26+00:00"/>
         <meta name="calibre:title_sort" content="Robust deep hedging"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

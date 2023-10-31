@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">0c3bf4a3-6758-42ce-876d-0ca824dc8051</dc:identifier>
         <dc:title>Hands-On Scala Programming: Learn Scala in a Practical, Project-Based Way</dc:title>
         <dc:creator opf:file-as="Li, Haoyi" opf:role="aut">Haoyi Li</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-07-11T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Hands-on Scala teaches you how to use the Scala programming language in a practical, project-based fashion. This book is designed to quickly teach an existing programmer everything needed to go from "hello world" to building production applications like interactive websites, parallel web crawlers, and distributed systems in Scala. In the process you will learn how to use the Scala language to solve challenging problems in an elegant and intuitive manner.&lt;/p&gt;
@@ -26,13 +26,13 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;Li Haoyi graduated from MIT with a degree in Computer Science and Engineering, and since then has been a major contributor to the Scala community. His open source projects have over 10,000 stars on Github, and are downloaded over 7,000,000 times a month. Haoyi has used Scala professionally to build distributed backend systems, programming languages, high-performance web applications, and much more. Haoyi writes a blog about Scala and other technical topics at www.lihaoyi.com&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Li Haoyi</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9789811456930</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">9811456933</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789811456930</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-04-15T23:55:44+00:00"/>
         <meta name="calibre:title_sort" content="Hands-On Scala Programming: Learn Scala in a Practical, Project-Based Way"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

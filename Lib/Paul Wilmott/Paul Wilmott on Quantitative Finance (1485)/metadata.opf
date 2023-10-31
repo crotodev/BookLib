@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7787a1df-3a15-4a90-a55a-c6f5939cce56</dc:identifier>
         <dc:title>Paul Wilmott on Quantitative Finance</dc:title>
         <dc:creator opf:file-as="Wilmott, Paul" opf:role="aut">Paul Wilmott</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-10-25T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;&lt;em&gt;Paul Wilmott on Quantitative Finance, Second Edition&lt;/em&gt; provides a thoroughly updated look at derivatives and financial engineering, published in three volumes with additional CD-ROM.&lt;/p&gt;
@@ -15,9 +15,9 @@
 &lt;p&gt;Throughout the volumes, the author has included numerous Bloomberg screen dumps to illustrate in real terms the points he raises, together with essential Visual Basic code, spreadsheet explanations of the models, the reproduction of term sheets and option classification tables. In addition to the practical orientation of the book the author himself also appears throughout the book—in cartoon form, readers will be relieved to hear—to personally highlight and explain the key sections and issues discussed.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; CD-ROM/DVD and other supplementary materials are not included as part of eBook file.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">zdLDAQAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781118836835</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1101199113</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">zdLDAQAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Finance</dc:subject>
@@ -25,7 +25,7 @@
         <dc:subject>Financial Engineering</dc:subject>
         <dc:subject>Financial Risk Management</dc:subject>
         <dc:subject>Accounting</dc:subject>
-        <meta name="calibre:timestamp" content="2023-07-09T15:52:29.785178+00:00"/>
+        <meta name="calibre:timestamp" content="2023-07-09T15:52:29+00:00"/>
         <meta name="calibre:title_sort" content="Paul Wilmott on Quantitative Finance"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

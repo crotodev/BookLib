@@ -5,17 +5,17 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f884a734-3ed1-4871-bef1-fbc878148557</dc:identifier>
         <dc:title>Programming Computer Vision With Python: Tools and Algorithms for Analyzing Images</dc:title>
         <dc:creator opf:file-as="Solem, Jan Erik" opf:role="aut">Jan Erik Solem</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-01-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;If you want a basic understanding of computer vision’s underlying theory and algorithms, this hands-on introduction is the ideal place to start. You’ll learn techniques for object recognition, 3D reconstruction, stereo imaging, augmented reality, and other computer vision applications as you follow clear examples written in Python. &lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Programming Computer Vision with Python&lt;/em&gt; explains computer vision in broad terms that won’t bog you down in theory. You get complete code samples with explanations on how to reproduce and build upon each example, along with exercises to help you apply what you’ve learned. This book is ideal for students, researchers, and enthusiasts with basic programming and standard mathematical skills. &lt;/p&gt;
 &lt;p&gt;Learn techniques used in robot navigation, medical image analysis, and other computer vision applications&lt;br&gt;Work with image mappings and transforms, such as texture warping and panorama creation&lt;br&gt;Compute 3D reconstructions from several images of the same scene&lt;br&gt;Organize images based on similarity or content, using clustering methods&lt;br&gt;Build efficient image retrieval techniques to search for images based on visual content&lt;br&gt;Use algorithms to classify image content and recognize objects&lt;br&gt;Access the popular OpenCV library through a Python interface&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">1449316549</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">J9b_CH-NrycC</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9781449341930</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">13435765</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1449316549</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781449341930</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">J9b_CH-NrycC</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Artificial Intelligence</dc:subject>
@@ -28,7 +28,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-24T21:59:38+00:00"/>
         <meta name="calibre:title_sort" content="Programming Computer Vision With Python: Tools and Algorithms for Analyzing Images"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

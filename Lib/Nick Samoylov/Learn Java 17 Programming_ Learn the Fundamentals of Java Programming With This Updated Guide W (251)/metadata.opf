@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">15bd184d-3e97-4076-a397-91571c9612ba</dc:identifier>
         <dc:title>Learn Java 17 Programming: Learn the Fundamentals of Java Programming With This Updated Guide With the Latest Features</dc:title>
         <dc:creator opf:file-as="Samoylov, Nick" opf:role="aut">Nick Samoylov</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-07-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Explore the essential concepts of programming such as object-oriented, functional, and reactive programming by writing code and building projects using the latest LTS version of JavaKey Features• A step-by-step guide for beginners to get started with programming in Java 17• Explore core programming topics including GUI programming, concurrency, and error handling• Write efficient code and build projects while learning the fundamentals of programmingBook DescriptionJava is one of the most preferred languages among developers. It is used in everything right from smartphones and game consoles to even supercomputers, and its new features simply add to the richness of the language. &lt;/p&gt;
@@ -13,8 +13,8 @@
 &lt;p&gt;By the end of this Java book, you'll not only have become well-versed with Java 17 but also gained a perspective into the future of this language and have the skills to code efficiently with best practices. &lt;/p&gt;
 &lt;p&gt;What you will learn• Understand and apply object-oriented principles in Java• Explore Java design patterns and best practices to solve everyday problems• Build user-friendly and attractive GUIs with ease• Understand the usage of microservices with the help of practical examples• Discover techniques and idioms for writing high-quality Java code• Get to grips with the usage of data structures in JavaWho this book is forThis book is for those who would like to start a new career in the modern Java programming profession, as well as those who do it professionally already and would like to refresh their knowledge of the latest Java and related technologies and ideas.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781803245737</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">EGB6EAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781803245737</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>General</dc:subject>
@@ -23,7 +23,7 @@
         <dc:subject>Java</dc:subject>
         <meta name="calibre:timestamp" content="2023-01-13T06:49:55+00:00"/>
         <meta name="calibre:title_sort" content="Learn Java 17 Programming: Learn the Fundamentals of Java Programming With This Updated Guide With the Latest Features"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

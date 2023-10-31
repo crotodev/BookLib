@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b910a880-5e65-4736-accb-811c358af895</dc:identifier>
         <dc:title>What Is ChatGPT Doing ... and Why Does It Work?</dc:title>
         <dc:creator opf:file-as="Wolfram, Stephen" opf:role="aut">Stephen Wolfram</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-01-09T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Nobody expected this—not even its creators: ChatGPT has burst onto the scene as an AI capable of writing at a convincingly human level. But how does it really work? What's going on inside its "AI mind"? In this short book, prominent scientist and computation pioneer Stephen Wolfram provides a readable and engaging explanation that draws on his decades-long unique experience at the frontiers of science and technology. Find out how the success of ChatGPT brings together the latest neural net technology with foundational questions about language and human thought posed by Aristotle more than two thousand years ago.&lt;/p&gt;
@@ -16,20 +16,20 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;Stephen Wolfram is an award-winning scientist and bestselling author, and the creator of some of the world's most respected software systems-Mathematica, WolframAlpha and Wolfram Language. For more than 35 years, he has been CEO of the global technology company Wolfram Research, as well as responsible for a series of groundbreaking advances in basic science, including the recent Wolfram Physics Project. stephenwolfram.com --This text refers to the paperback edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Wolfram Research, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0BY59PT5Z</dc:identifier>
         <dc:identifier opf:scheme="ASIN">B0BY59PT5Z</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781579550813</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B0BY59PT5Z</dc:identifier>
         <dc:identifier opf:scheme="BABELIO_ID">Wolfram-What-Is-ChatGPT-Doing--and-Why-Does-It-Work/1511412</dc:identifier>
-        <dc:identifier opf:scheme="BARNESNOBLE">1143184599</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">1UOuzwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1143184599</dc:identifier>
         <dc:language>fra</dc:language>
         <dc:subject>Langage</dc:subject>
         <dc:subject>Intelligence Artificielle</dc:subject>
         <dc:subject>Science</dc:subject>
         <meta name="calibre:rating" content="4"/>
-        <meta name="calibre:timestamp" content="2023-07-08T17:38:08.229605+00:00"/>
+        <meta name="calibre:timestamp" content="2023-07-08T17:38:08+00:00"/>
         <meta name="calibre:title_sort" content="What Is ChatGPT Doing ... and Why Does It Work?"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

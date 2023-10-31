@@ -5,13 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">887e1d87-a5ba-4d73-a00e-f69f77a64f8b</dc:identifier>
         <dc:title>A concept of copula robustness and its applications in quantitative risk management</dc:title>
         <dc:creator opf:file-as="Zähle, Henryk" opf:role="aut">Henryk Zähle</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-09-22T10:14:34+00:00</dc:date>
         <dc:description>Finance Stoch, doi:10.1007/s00780-022-00485-8</dc:description>
         <dc:publisher>The Author(s)</dc:publisher>
-        <dc:identifier opf:scheme="DOI">10.1007/s00780-022-00485-8</dc:identifier>
         <dc:identifier opf:scheme="URL">http://dx.doi.org/10.1007/s00780-022-00485-8</dc:identifier>
-        <dc:language>en</dc:language>
+        <dc:identifier opf:scheme="DOI">10.1007/s00780-022-00485-8</dc:identifier>
+        <dc:language>eng</dc:language>
         <dc:subject>Finance</dc:subject>
         <dc:subject>Mathematical &amp; Computational</dc:subject>
         <dc:subject>Stochastic Processes</dc:subject>
@@ -22,7 +22,7 @@
         <dc:subject>Financial Risk Management</dc:subject>
         <meta name="calibre:timestamp" content="2023-02-20T00:26:48+00:00"/>
         <meta name="calibre:title_sort" content="concept of copula robustness and its applications in quantitative risk management, A"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

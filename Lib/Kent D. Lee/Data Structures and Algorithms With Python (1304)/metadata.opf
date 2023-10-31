@@ -6,7 +6,7 @@
         <dc:title>Data Structures and Algorithms With Python</dc:title>
         <dc:creator opf:file-as="Lee, Kent D. &amp; Hubbard, Steve" opf:role="aut">Kent D. Lee</dc:creator>
         <dc:creator opf:file-as="Lee, Kent D. &amp; Hubbard, Steve" opf:role="aut">Steve Hubbard</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-01-12T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This clearly structured and easy to read textbook explains the concepts and techniques required to write programs that can handle large amounts of data efficiently. &lt;/p&gt;
@@ -14,8 +14,8 @@
 &lt;p&gt;Topics and features: includes both introductory and advanced data structures and algorithms topics, with suggested chapter sequences for those respective courses provided in the preface; provides learning goals, review questions and programming exercises in each chapter, as well as numerous illustrative examples; offers downloadable programs and supplementary files at an associated website, with instructor materials available from the author; presents a primer on Python for those coming from a different language background; reviews the use of hashing in sets and maps, along with an examination of binary search trees and tree traversals, and material on depth first search of graphs; discusses topics suitable for an advanced course, such as membership structures, heaps, balanced binary search trees, B-trees and heuristic search. &lt;/p&gt;
 &lt;p&gt;Students of computer science will find this clear and concise textbook to be invaluable for undergraduate courses on data structures and algorithms, at both introductory and advanced levels. The book is also suitable as a refresher guide for computer programmers starting new jobs working with Python.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Springer</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9783319130729</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">jnEoBgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783319130729</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Data Science</dc:subject>
@@ -28,7 +28,7 @@
         <dc:subject>Information Technology</dc:subject>
         <meta name="calibre:timestamp" content="2023-03-04T02:47:24+00:00"/>
         <meta name="calibre:title_sort" content="Data Structures and Algorithms With Python"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

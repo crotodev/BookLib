@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">54465745-81cb-4306-b9da-0a1a512b9016</dc:identifier>
         <dc:title>Learning Neo4j 3.x - Second Edition: Effective Data Modeling, Performance Tuning and Data Visualization Techniques in Neo4j</dc:title>
         <dc:creator opf:file-as="Baton, Jerome" opf:role="aut">Jerome Baton</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-10-20T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Run blazingly fast queries on complex graph datasets with the power of the Neo4j graph database&lt;/p&gt;
@@ -56,11 +56,11 @@
 &lt;p&gt;When not programming, Jérôme enjoys photography, doing electronics, everything DIY, understanding how things work, trying to be clever or funny on Twitter, and spends a lot of time trying to understand his kids and life in general.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Rik Van Bruggen&lt;/strong&gt; is the VP of Sales for Neo Technology for Benelux, UK, and the Nordic region. He has been working for startup companies for most of his career, including eCom Interactive Expertise, SilverStream Software, Imprivata, and Courion. While he has an interest in technology, his real passion is business and how to make technology work for a business. He lives in Antwerp, Belgium, with his wife and three lovely kids, and enjoys technology, orienteering, jogging, and Belgian beer.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781786466143</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1786466147</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781786466143</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-09-29T12:41:43.108607+00:00"/>
+        <meta name="calibre:timestamp" content="2023-09-29T12:41:43+00:00"/>
         <meta name="calibre:title_sort" content="Learning Neo4j 3.x - Second Edition: Effective Data Modeling, Performance Tuning and Data Visualization Techniques in Neo4j"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

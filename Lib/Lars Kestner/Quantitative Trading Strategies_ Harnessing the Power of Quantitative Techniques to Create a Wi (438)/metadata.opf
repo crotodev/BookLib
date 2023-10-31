@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">10cf3d6a-30fd-487c-a7d9-277375691ae7</dc:identifier>
         <dc:title>Quantitative Trading Strategies: Harnessing the Power of Quantitative Techniques to Create a Winning Trading Program</dc:title>
         <dc:creator opf:file-as="Kestner, Lars" opf:role="aut">Lars Kestner</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2003-07-22T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -31,8 +31,8 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Lars Kestner&lt;/strong&gt; is a founding partner of proprietary trading firm Sabre II LLC and the former vice president of equity derivatives trading at Salomon Smith Barney.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>McGraw Hill</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780071412391</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">zZDr-3DRMqcC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780071412391</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">0071412395</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
@@ -40,7 +40,7 @@
         <meta name="calibre:rating" content="6"/>
         <meta name="calibre:timestamp" content="2023-01-19T05:04:45+00:00"/>
         <meta name="calibre:title_sort" content="Quantitative Trading Strategies: Harnessing the Power of Quantitative Techniques to Create a Winning Trading Program"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

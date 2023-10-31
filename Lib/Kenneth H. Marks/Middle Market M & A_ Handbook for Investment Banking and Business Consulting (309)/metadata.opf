@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d5db5992-ad29-4c64-9d99-d0a1737eeefb</dc:identifier>
         <dc:title>Middle Market M &amp; A: Handbook for Investment Banking and Business Consulting</dc:title>
         <dc:creator opf:file-as="Marks, Kenneth H." opf:role="aut">Kenneth H. Marks</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-01-09T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;In-depth coverage in a single handbook of the middle market based on the body of knowledge of the Certified M &amp;amp;A Advisor credential program&lt;/p&gt;
@@ -55,13 +55,13 @@
 &lt;p&gt;&lt;strong&gt;CHRISTIAN W. BLEES, CPA, CM &amp;amp;AA,&lt;/strong&gt; is President and CEO of BiggsKofford PC, directing several sectors of the business including the firm's merger, acquisition, and sales practice. He has been involved in over 200 middle market M&amp;amp;A sales transactions. &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;MICHAEL R. NALL, CPA, CM &amp;amp;AA,&lt;/strong&gt; is founder and CEO of the Alliance of Merger &amp;amp; Acquisition Advisors®, a Chicago-based professional trade association featuring a resource and development center serving more than 600 independent accountants, attorneys, and business advisors. He is an author and recognized speaker on valuation, growth, and sales of middle market companies.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Wiley</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">0470908297</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780470908297</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0470908297</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-13T17:11:16+00:00"/>
         <meta name="calibre:title_sort" content="Middle Market M &amp; A: Handbook for Investment Banking and Business Consulting"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

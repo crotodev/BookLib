@@ -5,18 +5,18 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">961fd234-00b0-419d-a83e-93f461b21da7</dc:identifier>
         <dc:title>Explore Functional Programming: Clojure, Elixir, Haskell, Scala, and Swift</dc:title>
         <dc:creator opf:file-as="White, Lizzie" opf:role="aut">Lizzie White</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-07-08T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Discover functional programming and also discover new ways of thinking of code. You recognize you need to understand functional shows, yet discovering one practical language is only the begin. In this publication, with short articles drawn from PragPub magazine and also posts written especially for this publication, you'll check out useful thinking and also useful style as well as idioms throughout languages. Led by specialist overviews, you'll discover the distinctive toughness and also approaches of Clojure, Elixir, Haskell, Scala, as well as Swift and also learn which best suits your needs.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Independently published</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9798842432547</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B0B6XVTFJ1</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">122366935</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9798842432547</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:timestamp" content="2023-03-13T04:03:52+00:00"/>
         <meta name="calibre:title_sort" content="Explore Functional Programming: Clojure, Elixir, Haskell, Scala, and Swift"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

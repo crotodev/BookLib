@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">932d5b9e-d7bb-4a6f-83ea-bd89dcbb1ab9</dc:identifier>
         <dc:title>C++ Design Patterns and Derivatives Pricing</dc:title>
         <dc:creator opf:file-as="Joshi, Mark S." opf:role="aut">Mark S. Joshi</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-06-09T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Newly updated second edition and now in paperback! This is the first book on implementing financial models using object-oriented C++. Assuming only a basic knowledge of C++ and mathematical finance, the reader learns how to produce well-designed, structured, reusable code via carefully-chosen examples. This new edition includes several new chapters covering topics of increasing robustness in the presence of exceptions, designing a generic factory, interfacing C++ with EXCEL, and improving code design using the idea of decoupling. Complete ANSI/ISO compatible C++ source code is hosted on an accompanying website for the reader to study in detail, and reuse as they see fit. Whether you are a student of financial mathematics, a working quantitative analyst or financial mathematician, you need this book. Offering practical steps for implementing pricing models for complex financial products, it will transform your understanding of how to use C++.&lt;/p&gt;

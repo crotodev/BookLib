@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">346e3f3d-22b7-4be6-83c8-285740ec78c5</dc:identifier>
         <dc:title>Art of Learning</dc:title>
         <dc:creator opf:file-as="Waitzkin, Josh" opf:role="aut">Josh Waitzkin</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2007-01-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;In his riveting new book, &lt;em&gt;The Art of Learning&lt;/em&gt; , Waitzkin tells his remarkable story of personal achievement and shares the principles of learning and performance that have propelled him to the top—twice. &lt;/p&gt;
@@ -15,11 +15,11 @@
 &lt;p&gt;ions into creative fuel. As he explains it, obstacles are not obstacles but challenges to overcome, to spur the growth process by turning weaknesses into strengths. He illustrates the exact routines that he has used in all of his competitions, whether mental or physical, so that you too can achieve your peak performance zone in any competitive or professional circumstance. &lt;/p&gt;
 &lt;p&gt;In stories ranging from his early years taking on chess hustlers as a seven year old in New York City’s Washington Square Park, to dealing with the pressures of having a film made about his life, to International Chess Championships in India, Hungary, and Brazil, to gripping battles against powerhouse fighters in Taiwan in the Push Hands World Championships, &lt;em&gt;The Art of Learning&lt;/em&gt; encapsulates an extraordinary competitor’s life lessons in a page-turning narrative.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Free Press</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781416538868</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">1416538860</dc:identifier>
-        <dc:identifier opf:scheme="BARNESNOBLE">1027203806</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">7056085</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">8mrVx8Lj5RYC</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1027203806</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1416538860</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">7056085</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781416538868</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Self Help</dc:subject>
         <dc:subject>Psychology</dc:subject>
@@ -27,7 +27,7 @@
         <dc:subject>Philosophy</dc:subject>
         <dc:subject>Business</dc:subject>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-09-20T19:45:32.030008+00:00"/>
+        <meta name="calibre:timestamp" content="2023-09-20T19:45:32+00:00"/>
         <meta name="calibre:title_sort" content="Art of Learning"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

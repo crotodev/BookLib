@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d4f64ecf-d3ae-4121-b3a0-61574ca76979</dc:identifier>
         <dc:title>Data Engineering With Python: Work With Massive Datasets to Design Data Models and Automate Data Pipelines Using Python</dc:title>
         <dc:creator opf:file-as="Crickard, Paul" opf:role="aut">Paul Crickard</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-10-23T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -52,10 +52,10 @@
 &lt;p&gt;&lt;strong&gt;Paul Crickard&lt;/strong&gt; is the author of Leaflet.js Essentials and co-author of Mastering Geospatial Analysis with Python and the Chief Information Officer at the Second Judicial District Attorney's Office in Albuquerque, New Mexico.&lt;/p&gt;
 &lt;p&gt;With a Master's degree in Political Science and a background in Community, and Regional Planning, he combines rigorous social science theory and techniques to technology projects. He has Presented at the New Mexico Big Data and Analytics Summit and the ExperienceIT NM Conference. He has given talks on data to the New Mexico Big Data Working Group, Sandia National Labs, and the New Mexico Geographic Information Council.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="GOODREADS">55990373</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">9RYFEAAAQBAJ</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B08DSLVFNR</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781839214189</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">9RYFEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">55990373</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08DSLVFNR</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computer Architecture</dc:subject>
         <dc:subject>Computers</dc:subject>
@@ -68,7 +68,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-02-26T05:13:30+00:00"/>
         <meta name="calibre:title_sort" content="Data Engineering With Python: Work With Massive Datasets to Design Data Models and Automate Data Pipelines Using Python"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

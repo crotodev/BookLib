@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">14187067-ef3d-48fd-8a37-0c4efac43f41</dc:identifier>
         <dc:title>The Power of Charm: How to Win Anyone Over in Any Situation</dc:title>
         <dc:creator opf:file-as="Tracy, Brian" opf:role="aut">Brian Tracy</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2006-03-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;As one of the world's premier business consultants and personal success experts, Brian Tracy has devoted his life to helping others achieve things they never dreamed possible. Now, in his latest book, he gives readers the key they need to open any door...and get whatever they want, every time. &lt;/p&gt;
@@ -20,9 +20,9 @@
 &lt;li&gt;get paid more and promoted faster &lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;With &lt;em&gt;The Power of Charm&lt;/em&gt; , readers will develop greater confidence and self-esteem and learn how to naturally create rhythm and harmony with others. It's a unique and powerful guide filled with proven techniques for making dreams come true -- in business and in life!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>AMACOM</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">115624</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">0814473571</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780814473573</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">115624</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Self Help</dc:subject>
         <dc:subject>Psychology</dc:subject>
@@ -30,7 +30,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-02-10T19:39:38+00:00"/>
         <meta name="calibre:title_sort" content="Power of Charm: How to Win Anyone Over in Any Situation, The"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6b3ce077-4827-4fbb-b6b9-44e6875fdbcd</dc:identifier>
         <dc:title>Get It Done Now!: Own Your Time, Take Back Your Life</dc:title>
         <dc:creator opf:file-as="Tracy, Brian" opf:role="aut">Brian Tracy</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.28.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-05-15T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;While productivity and time management expert Brian Tracy has been writing bestselling books and giving seminars on these topics for well over thirty years, the challenge of remaining optimally productive in our modern world has never been greater. How can this be? &lt;/p&gt;
@@ -29,9 +29,9 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;BRIAN TRACY is Chairman and CEO of Brian Tracy International, specializing in the training and development of individuals and organizations. His goal is to help you achieve your personal and business goals faster and easier than you ever imagined. Brian has consulted for more than 1,000 companies and addressed more than 5,000,000 people in 5,000 talks and seminars throughout the US, Canada and 70 other countries worldwide.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>G&amp;D Media</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">1YWiDwAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781722510336</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1722510331</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">1YWiDwAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Time Management</dc:subject>
@@ -40,7 +40,7 @@
         <dc:subject>Personal Growth</dc:subject>
         <dc:subject>Success</dc:subject>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-10-06T16:24:24.901667+00:00"/>
+        <meta name="calibre:timestamp" content="2023-10-06T16:24:24+00:00"/>
         <meta name="calibre:title_sort" content="Get It Done Now!: Own Your Time, Take Back Your Life"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

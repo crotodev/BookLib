@@ -6,15 +6,15 @@
         <dc:title>Introduction to Machine Learning With Python: A Guide for Data Scientists</dc:title>
         <dc:creator opf:file-as="Müller, Andreas C. &amp; Guido, Sarah" opf:role="aut">Andreas C. Müller</dc:creator>
         <dc:creator opf:file-as="Müller, Andreas C. &amp; Guido, Sarah" opf:role="aut">Sarah Guido</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-09-26T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Machine learning has become an integral part of many commercial applications and research projects, but this field is not exclusive to large companies with extensive research teams. If you use Python, even as a beginner, this book will teach you practical ways to build your own machine learning solutions. With all the data available today, machine learning applications are limited only by your imagination. &lt;/p&gt;
 &lt;p&gt;You’ll learn the steps necessary to create a successful machine-learning application with Python and the scikit-learn library. Authors Andreas Müller and Sarah Guido focus on the practical aspects of using machine learning algorithms, rather than the math behind them. Familiarity with the NumPy and matplotlib libraries will help you get even more from this book. &lt;/p&gt;
 &lt;p&gt;With this book, you’ll learn:Fundamental concepts and applications of machine learningAdvantages and shortcomings of widely used machine learning algorithmsHow to represent data processed by machine learning, including which data aspects to focus onAdvanced methods for model evaluation and parameter tuningThe concept of pipelines for chaining models and encapsulating your workflowMethods for working with text data, including text-specific processing techniquesSuggestions for improving your machine learning and data science skills&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">vbQlDQAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781449369897</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">vbQlDQAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Languages</dc:subject>
@@ -26,7 +26,7 @@
         <dc:subject>Open Source</dc:subject>
         <meta name="calibre:timestamp" content="2023-01-13T07:53:46+00:00"/>
         <meta name="calibre:title_sort" content="Introduction to Machine Learning With Python: A Guide for Data Scientists"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

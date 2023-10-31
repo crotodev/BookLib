@@ -6,7 +6,7 @@
         <dc:title>Sports Psychology For Dummies®, 2nd Edition</dc:title>
         <dc:creator opf:file-as="Leif H. Smith, PsyD &amp; Todd M. Kays, PhD" opf:role="aut">Leif H. Smith, PsyD</dc:creator>
         <dc:creator opf:file-as="Leif H. Smith, PsyD &amp; Todd M. Kays, PhD" opf:role="aut">Todd M. Kays, PhD</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-12-31T14:34:46+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold; font-family: 'Helvetica Neue'"&gt;Get your head in the game with this hands-on guide to the psychology of sport&lt;/p&gt;
@@ -18,12 +18,12 @@
 &lt;p style="font-family: 'Helvetica Neue'"&gt; &lt;/p&gt;
 &lt;p style="font-family: 'Helvetica Neue'"&gt;Ideal for athletes, parents of student athletes, and coaches looking for ways to improve performance both on and off the field, &lt;em&gt;Sports Psychology For Dummies&lt;/em&gt; is also the perfect resource for anyone interested in a career in this rapidly growing and evolving field. &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>John Wiley &amp; Sons</dc:publisher>
-        <dc:language>en</dc:language>
+        <dc:language>eng</dc:language>
         <dc:subject>Sports</dc:subject>
         <dc:subject>Psychology</dc:subject>
         <meta name="calibre:timestamp" content="2023-01-14T09:11:57+00:00"/>
         <meta name="calibre:title_sort" content="Sports Psychology For Dummies®, 2nd Edition"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

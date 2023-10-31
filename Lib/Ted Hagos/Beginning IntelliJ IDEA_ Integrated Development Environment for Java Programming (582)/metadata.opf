@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">091f30fc-0ac6-4891-8d43-760652284711</dc:identifier>
         <dc:title>Beginning IntelliJ IDEA: Integrated Development Environment for Java Programming</dc:title>
         <dc:creator opf:file-as="Hagos, Ted" opf:role="aut">Ted Hagos</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-11-16T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -33,10 +33,10 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;Ted Hagos is a software developer by trade; at the moment, he’s Chief Technology Officer and Data Protection Officer of RenditionDigital International, a software development company based out of Dublin. He wore many hats in his 20+ years in software development e.g. team lead, project manager, architect and director for development. He also spent time as a trainer for IBM Advanced Career Education, Ateneo ITI and Asia Pacific College. He wrote a couple of books for Apress.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Apress</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B09LY3JXZ3</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781484274453</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">80562732</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">J8aazgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09LY3JXZ3</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>General</dc:subject>
@@ -46,7 +46,7 @@
         <meta name="calibre:rating" content="6"/>
         <meta name="calibre:timestamp" content="2023-01-28T16:17:40+00:00"/>
         <meta name="calibre:title_sort" content="Beginning IntelliJ IDEA: Integrated Development Environment for Java Programming"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

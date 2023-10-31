@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7d514c4f-a571-46ab-9f4a-a93056a4a130</dc:identifier>
         <dc:title>The Art of Seduction</dc:title>
         <dc:creator opf:file-as="Greene, Robert" opf:role="aut">Robert Greene</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2001-01-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -45,9 +45,9 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Robert Greene&lt;/strong&gt; has a degree in classical studies and is the author of several internationally bestselling books, including &lt;em&gt;The 48 Laws of Power&lt;/em&gt; and &lt;em&gt;The 50th Law&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Penguin</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">gAK4J4d3MNEC</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9781101175293</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">7727326</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781101175293</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">gAK4J4d3MNEC</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B0032BW5DY</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Psychology</dc:subject>
@@ -58,7 +58,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-09T04:00:50+00:00"/>
         <meta name="calibre:title_sort" content="Art of Seduction, The"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

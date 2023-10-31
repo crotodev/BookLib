@@ -9,7 +9,7 @@
         <dc:creator opf:file-as="Thakur, Hardeo Kumar &amp; Kaur, Manpreet &amp; Dhaliwal, Parneeta &amp; Arya, Rajeev Kumar &amp; Lu, Joan" opf:role="aut">Parneeta Dhaliwal</dc:creator>
         <dc:creator opf:file-as="Thakur, Hardeo Kumar &amp; Kaur, Manpreet &amp; Dhaliwal, Parneeta &amp; Arya, Rajeev Kumar &amp; Lu, Joan" opf:role="aut">Rajeev Kumar Arya</dc:creator>
         <dc:creator opf:file-as="Thakur, Hardeo Kumar &amp; Kaur, Manpreet &amp; Dhaliwal, Parneeta &amp; Arya, Rajeev Kumar &amp; Lu, Joan" opf:role="aut">Joan Lu</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-09-08T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The new book presents a valuable selection of state-of-the-art technological advancements using the concepts of AI and machine learning, highlighting the use of predictive analytics of data to find timely solutions to real-time problems. It helps to identify applicable approaches in order to enhance, automate, and develop effective solutions to challenges in data science and artificial intelligence. The various novel approaches include applications in healthcare, natural language processing, and smart cities. As such, the book is divided into sections that address: &lt;/p&gt;
@@ -28,13 +28,13 @@
 &lt;p&gt;This volume offers valuable information for researchers working in interdisciplinary or multidisciplinary areas of healthcare, image analysis, natural language processing, and smart cities. This includes academicians, people in industry, and students with engineering background with research interest in these areas.&lt;/p&gt;
 &lt;p&gt;These peer-review chapters were selected from the International Conference on Computational Intelligence in Analytics and Information Systems (CIAIS- 2021), held in April 2021 at Manav Rachna University, India. Together with &lt;em&gt;Volume 2: Advances in Digital Transformation&lt;/em&gt; , this 2-volume set offers an abundacne of valuable information on emerging technologies in computational intelligence in information systems focusing on data science and artificial intelliegence. &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Apple Academic Press</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781774911440</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1143575276</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781774911440</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computer Engineering</dc:subject>
         <dc:subject>Information Systems</dc:subject>
         <dc:subject>Data Mining</dc:subject>
-        <meta name="calibre:timestamp" content="2023-07-13T17:15:46.766019+00:00"/>
+        <meta name="calibre:timestamp" content="2023-07-13T17:15:46+00:00"/>
         <meta name="calibre:title_sort" content="Computational Intelligence in Analytics and Information Systems: Volume 1: Data Science and AI?, ?Selected Papers From CIAIS-2021"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

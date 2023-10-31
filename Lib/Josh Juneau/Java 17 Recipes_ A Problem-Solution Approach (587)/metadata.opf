@@ -6,16 +6,16 @@
         <dc:title>Java 17 Recipes: A Problem-Solution Approach</dc:title>
         <dc:creator opf:file-as="Juneau, Josh &amp; Manelli, Luciano" opf:role="aut">Josh Juneau</dc:creator>
         <dc:creator opf:file-as="Juneau, Josh &amp; Manelli, Luciano" opf:role="aut">Luciano Manelli</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-02-25T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Quickly find solutions to dozens of common programming problems encountered while building Java applications, with recipes presented in the popular problem-solution format. Look up the programming problem that you want to resolve. Read the solution. Apply the solution directly in your own code. Problem solved!Java 17 Recipes is updated to reflect changes in specification and implementation since the Java 9 edition of this book. Java 17 is the next long-term support release (LTS) of the core Java Standard Edition (SE) version 17 which also includes some of the features from previous short term support (STS) releases of Java 16 and previous versions. This new edition covers of some of the newest features, APIs, and more such as pattern matching for switch, Restore Always-Strict-Floating-Point-Semantics, enhanced pseudo-random number generators, the vector API, sealed classes, and enhancements in the use of String. Source code for all recipes is available in a dedicated GitHub repository. This must-have reference belongs in your library. &lt;/p&gt;
 &lt;p&gt;What You Will Learn Look up solutions to everyday problems involving Java SE 17 LTS and other recent releasesDevelop Java SE applications using the latest in Java SE technologyIncorporate Java major features introduced in versions 17, 16, and 15 into your code Who This Book Is For Programmers and developers with some prior Java experience.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Apress</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">148427962X</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">60510682</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781484279625</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">60510682</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">Bp2-zgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">148427962X</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Languages</dc:subject>
@@ -26,7 +26,7 @@
         <meta name="calibre:rating" content="4"/>
         <meta name="calibre:timestamp" content="2023-01-28T16:45:12+00:00"/>
         <meta name="calibre:title_sort" content="Java 17 Recipes: A Problem-Solution Approach"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

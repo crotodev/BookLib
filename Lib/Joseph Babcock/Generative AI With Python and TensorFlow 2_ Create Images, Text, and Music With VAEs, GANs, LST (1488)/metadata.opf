@@ -6,7 +6,7 @@
         <dc:title>Generative AI With Python and TensorFlow 2: Create Images, Text, and Music With VAEs, GANs, LSTMs, Transformer Models</dc:title>
         <dc:creator opf:file-as="Babcock, Joseph &amp; Bali, Raghav" opf:role="aut">Joseph Babcock</dc:creator>
         <dc:creator opf:file-as="Babcock, Joseph &amp; Bali, Raghav" opf:role="aut">Raghav Bali</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-04-29T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Fun and exciting projects to learn what artificial minds can create&lt;/p&gt;
@@ -61,12 +61,12 @@
 &lt;p&gt;&lt;strong&gt;Joseph Babcock&lt;/strong&gt; has spent more than a decade working with big data and AI in the e-commerce, digital streaming, and quantitative finance domains. Through his career he has worked on recommender systems, petabyte scale cloud data pipelines, A/B testing, causal inference, and time series analysis. He completed his PhD studies at Johns Hopkins University, applying machine learning to the field of drug discovery and genomics.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Raghav Bali&lt;/strong&gt; is an author of multiple well received books and a Senior Data Scientist at one of the world’s largest healthcare organizations. His work involves research and development of enterprise-level solutions based on Machine Learning, Deep Learning, and Natural Language Processing for Healthcare and Insurance-related use cases. His previous experiences include working at Intel and American Express. Raghav has a master’s degree (gold medalist) from the International Institute of Information Technology, Bangalore.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781800200883</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">1800200889</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1139910726</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1800200889</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781800200883</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-07-11T17:56:30.678940+00:00"/>
+        <meta name="calibre:timestamp" content="2023-07-11T17:56:30+00:00"/>
         <meta name="calibre:title_sort" content="Generative AI With Python and TensorFlow 2: Create Images, Text, and Music With VAEs, GANs, LSTMs, Transformer Models"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

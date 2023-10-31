@@ -6,15 +6,15 @@
         <dc:title>Stream Processing With Apache Flink: Fundamentals, Implementation, and Operation of Streaming Applications</dc:title>
         <dc:creator opf:file-as="Hueske, Fabian &amp; Kalavri, Vasiliki" opf:role="aut">Fabian Hueske</dc:creator>
         <dc:creator opf:file-as="Hueske, Fabian &amp; Kalavri, Vasiliki" opf:role="aut">Vasiliki Kalavri</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-04-11T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Get started with Apache Flink, the open source framework that powers some of the world’s largest stream processing applications. With this practical book, you’ll explore the fundamental concepts of parallel stream processing and discover how this technology differs from traditional batch data processing. &lt;/p&gt;
 &lt;p&gt;Longtime Apache Flink committers Fabian Hueske and Vasia Kalavri show you how to implement scalable streaming applications with Flink’s DataStream API and continuously run and maintain these applications in operational environments. Stream processing is ideal for many use cases, including low-latency ETL, streaming analytics, and real-time dashboards as well as fraud detection, anomaly detection, and alerting. You can process continuous data of any kind, including user interactions, financial transactions, and IoT data, as soon as you generate them. &lt;/p&gt;
 &lt;p&gt;Learn concepts and challenges of distributed stateful stream processingExplore Flink’s system architecture, including its event-time processing mode and fault-tolerance modelUnderstand the fundamentals and building blocks of the DataStream API, including its time-based and statefuloperatorsRead data from and write data to external systems with exactly-once consistencyDeploy and configure Flink clustersOperate continuously running streaming applications&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">9OiRDwAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781491974261</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">9OiRDwAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Data Processing</dc:subject>
@@ -25,7 +25,7 @@
         <dc:subject>Servers</dc:subject>
         <meta name="calibre:timestamp" content="2023-04-01T22:25:33+00:00"/>
         <meta name="calibre:title_sort" content="Stream Processing With Apache Flink: Fundamentals, Implementation, and Operation of Streaming Applications"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

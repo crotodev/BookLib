@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d98a15fa-3158-48a3-9387-bd0e4f88301f</dc:identifier>
         <dc:title>Python for Algorithmic Trading: From Idea to Cloud Deployment</dc:title>
         <dc:creator opf:file-as="Hilpisch, Yves" opf:role="aut">Yves Hilpisch</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-11-24T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Algorithmic trading, once the exclusive domain of institutional players, is now open to small organizations and individual traders using online platforms. The tool of choice for many traders today is Python and its ecosystem of powerful packages. In this practical book, author Yves Hilpisch shows students, academics, and practitioners how to use Python in the fascinating field of algorithmic trading.&lt;/p&gt;
@@ -21,8 +21,8 @@
 &lt;p&gt;Dr. Yves J. Hilpisch is founder and managing partner of The Python Quants (http://tpq.io), a group that focuses on the use of open source technologies for financial data science, algorithmic trading and computational finance. He is the author of the books Python for Finance (O'Reilly, 2014), Derivatives Analytics with Python (Wiley, 2015) and Listed Volatility and Variance Derivatives (Wiley, 2017). Yves lectures on computational finance at the CQF Program (http://cqf.com), on data science at htw saar University of Applied Sciences (http://htwsaar.de), and is the director for the online training program leading to the first Python for Finance University Certificate (awarded by htw saar).&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
         <dc:identifier opf:scheme="GOOGLE">q4SXzQEACAAJ</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">149205335X</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781492053354</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">149205335X</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Finance</dc:subject>
         <dc:subject>Programming</dc:subject>
@@ -30,7 +30,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-08T16:58:36+00:00"/>
         <meta name="calibre:title_sort" content="Python for Algorithmic Trading: From Idea to Cloud Deployment"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

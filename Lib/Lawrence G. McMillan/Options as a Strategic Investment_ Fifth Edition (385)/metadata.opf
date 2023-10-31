@@ -5,13 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">330b02a2-4ff8-45fd-b603-bd7d7511dd35</dc:identifier>
         <dc:title>Options as a Strategic Investment: Fifth Edition</dc:title>
         <dc:creator opf:file-as="McMillan, Lawrence G." opf:role="aut">Lawrence G. McMillan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-08-07T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The market in listed options and non-equity option products provides investors and traders with a wealth of new, strategic opportunities for managing their investments. This updated and revised Fifth Edition of the bestselling Options as a Strategic Investment gives you the latest market-tested tools for improving the earnings potential of your portfolio while reducing downside risk—no matter how the market is performing. Inside this revised edition are scores of proven techniques and business-tested tactics for investing in many of the innovative new options products available. You will find: •Buy and sell strategies for Long Term Equity Anticipation Securities (LEAPS) •A thorough analysis of neutral trading, how it works, and various ways it can improve readers’ overall profit picture •Detailed guidance for investing in Preferred Equity Redemption Cumulative Stocks (PERCS) and how to hedge them with common and regular options •An extensive overview of futures and futures options Written especially for investors who have some familiarity with the option market, this comprehensive reference also shows you the concepts and applications of various option strategies -- how they work, in which situations, and why; techniques for using index options and futures to protect one’s portfolio and improve one’s return; and the implications of the tax laws for option writers, including allowable long-term gains and losses. Detailed examples, exhibits, and checklists show you the power of each strategy under carefully described market conditions.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Penguin</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780735204652</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">jKhPEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780735204652</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Investments &amp; Securities</dc:subject>
@@ -21,7 +21,7 @@
         <dc:subject>Strategic Planning</dc:subject>
         <meta name="calibre:timestamp" content="2023-01-15T20:42:53+00:00"/>
         <meta name="calibre:title_sort" content="Options as a Strategic Investment: Fifth Edition"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

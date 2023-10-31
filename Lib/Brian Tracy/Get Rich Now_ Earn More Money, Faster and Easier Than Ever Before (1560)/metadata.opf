@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">fdf8c675-991a-4a99-818a-2f545911590b</dc:identifier>
         <dc:title>Get Rich Now: Earn More Money, Faster and Easier Than Ever Before</dc:title>
         <dc:creator opf:file-as="Tracy, Brian" opf:role="aut">Brian Tracy</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.28.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-12-06T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;strong&gt;Would you like to become rich?&lt;/strong&gt; A great many books and articles have been written on money – what it is, how to earn it, how to spend it, who has it and who does not, and a myriad of other topics related to the effects that it produces. Money is one of the most fascinating, thought provoking, emotional, polarizing, and well-researched subjects in the world. Yet, despite the constant focus on it, the average person's views about money and how best to become rich is confusion. &lt;/p&gt;
@@ -21,10 +21,10 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;Brian Tracy is one of the most respected speakers, teachers, and trainers in the world today. He has given more than five thousand seminars and workshops in over fifty countries on the subjects of sales, wealth creation, and goal setting. He is the author of more than four hundred audio/video learning programs and has written more than fifty books that have been published in thirty-six languages.&lt;br&gt;--This text refers to the paperback edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>G&amp;D Media</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781722505998</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B09Q4DSTVH</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">106063718</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09Q4DSTVH</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">WnNYEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781722505998</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Self-Help</dc:subject>
         <dc:subject>Self-Management</dc:subject>
@@ -33,7 +33,7 @@
         <dc:subject>Success</dc:subject>
         <dc:subject>Happiness</dc:subject>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-10-06T16:30:07.304029+00:00"/>
+        <meta name="calibre:timestamp" content="2023-10-06T16:30:07+00:00"/>
         <meta name="calibre:title_sort" content="Get Rich Now: Earn More Money, Faster and Easier Than Ever Before"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

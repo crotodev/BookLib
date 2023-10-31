@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">5cb32f6d-be6f-4ec2-bfd4-1b728c4626e2</dc:identifier>
         <dc:title>The Concepts and Practice of Mathematical Finance</dc:title>
         <dc:creator opf:file-as="Joshi, Mark S." opf:role="aut">Mark S. Joshi</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-11-17T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;An ideal introduction for those starting out as practitioners of mathematical finance, this book provides a clear understanding of the intuition behind derivatives pricing, how models are implemented, and how they are used and adapted in practice. Strengths and weaknesses of different models, e.g. Black–Scholes, stochastic volatility, jump-diffusion and variance gamma, are examined. Both the theory and the implementation of the industry-standard LIBOR market model are considered in detail. Each pricing problem is approached using multiple techniques including the well-known PDE and martingale approaches. This second edition contains many more worked examples and over 200 exercises with detailed solutions. Extensive appendices provide a guide to jargon, a recap of the elements of probability theory, and a collection of computer projects. The author brings to this book a blend of practical experience and rigorous mathematical background and supplies here the working knowledge needed to become a good quantitative analyst.&lt;/p&gt;

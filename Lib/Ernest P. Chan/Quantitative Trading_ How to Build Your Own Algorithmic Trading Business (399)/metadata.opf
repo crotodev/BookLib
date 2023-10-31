@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">56726800-733b-42a8-ba5e-c585dccfa042</dc:identifier>
         <dc:title>Quantitative Trading: How to Build Your Own Algorithmic Trading Business</dc:title>
         <dc:creator opf:file-as="Chan, Ernest P." opf:role="aut">Ernest P. Chan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-07-27T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -32,9 +32,9 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;ERNEST P. CHAN, P&lt;/strong&gt; H &lt;strong&gt;D,&lt;/strong&gt; is an expert in the application of statistical models and software for trading currencies, futures, and stocks. He holds a doctorate in theoretical physics from Cornell University and is Managing Member of investment management firm QTS Capital Management and founder of financial machine learning firm Predictnow.ai.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Wiley</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781119800064</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">j70yEAAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1119800064</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">j70yEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781119800064</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
         <dc:subject>Finance</dc:subject>
@@ -42,7 +42,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-18T05:10:32+00:00"/>
         <meta name="calibre:title_sort" content="Quantitative Trading: How to Build Your Own Algorithmic Trading Business"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

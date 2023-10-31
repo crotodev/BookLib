@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">250e89ee-db2e-428f-b539-be5decc79b52</dc:identifier>
         <dc:title>Damodaran on Valuation: Security Analysis for Investment and Corporate Finance</dc:title>
         <dc:creator opf:file-as="Damodaran, Aswath" opf:role="aut">Aswath Damodaran</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-10-19T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;"Aswath Damodaran is simply the best valuation teacher around. If you are interested in the theory or practice of valuation, you should have Damodaran on Valuation on your bookshelf. You can bet that I do."&lt;br&gt;-- Michael J. Mauboussin, Chief Investment Strategist, Legg Mason Capital Management and author of More Than You Know: Finding Financial Wisdom in Unconventional Places &lt;/p&gt;
@@ -33,8 +33,8 @@
 &lt;p&gt;Damodaran on Valuation explores all aspects of valuation, from the fundamentals of estimating cash flows and discount rates to the principles underlying the use of multiples. In addition, the book addresses what are often left as loose ends in valuation—the value of control and synergy; how best to deal with cash, non-operating assets, and employee stock options when valuing a company; and the consequences of illiquidity, distress, and lack of transparency for asset value.&lt;/p&gt;
 &lt;p&gt;Whether you are a manager looking to maximize a company's value or an investor looking to beat the market, Damodaran on Valuation will give you the detailed, logical, and sensible answers you need to arrive at an accurate valuation.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>John Wiley &amp; Sons</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">0471751219</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B000SEIYT2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">0471751219</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Money</dc:subject>
         <dc:subject>Finance</dc:subject>
@@ -46,7 +46,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-14T05:24:48+00:00"/>
         <meta name="calibre:title_sort" content="Damodaran on Valuation: Security Analysis for Investment and Corporate Finance"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

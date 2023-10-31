@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3603b147-b7d5-429a-94e7-266ae0302aad</dc:identifier>
         <dc:title>Pro RESTful APIs With Micronaut: Build Java-Based Microservices With REST, JSON, and XML</dc:title>
         <dc:creator opf:file-as="Patni, Sanjay" opf:role="aut">Sanjay Patni</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-03-10T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Discover the RESTful technologies, including REST, JSON, XML, JAX-RS web services, SOAP and more, for building today's Java-based microservices, big data applications, and web service applications using the Micronaut framework. This book is based on a course the Oracle-based author is teaching for UC Santa Cruz Silicon Valley which covers architecture, design best practices and coding labs.&lt;br&gt;&lt;em&gt;Pro RESTful APIs with Micronaut&lt;/em&gt; (Second Edition) gives you all the fundamentals from the top down: from the top (architecture) through the middle (design) to the bottom (coding). This book is a must have for any microservices or web services application programmer or developer building applications and services for today's enterprises. &lt;br&gt;After reading and using this book, you'll be competent in using Micronaut and RESTful APIs for building today's microservices. Source code for the examples and case studies are free and available on Apress' GitHub page for this book. &lt;strong&gt;&lt;br&gt;What You'll Learn&lt;/strong&gt;&lt;/p&gt;
@@ -27,10 +27,10 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;Sanjay Patni is a software applications and web services engineer. He develops, programs Java web applications, services, and microservices. He works with Micronaut and other frameworks as well. Sanjay is also a Technical Instructor for UC Santa Cruz in Silicon Valley. He is a former applications engineer with Oracle, Inc. He currently is located in/around the SF Bay Area.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Apress</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781484291993</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1484291999</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484291993</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:timestamp" content="2023-07-13T17:58:08.883829+00:00"/>
+        <meta name="calibre:timestamp" content="2023-07-13T17:58:08+00:00"/>
         <meta name="calibre:title_sort" content="Pro RESTful APIs With Micronaut: Build Java-Based Microservices With REST, JSON, and XML"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>An Introduction to Quantitative Finance</dc:title>
-    <dc:creator opf:file-as="Blyth, Stephen" opf:role="aut">Stephen Blyth</dc:creator>
-    <dc:identifier opf:scheme="calibre" id="calibre_id">1535</dc:identifier>
-    <dc:identifier opf:scheme="uuid" id="uuid_id">3679af47-d3f0-4a8d-b702-f7c738f01b31</dc:identifier>
-    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
-    <dc:date>2013-01-01T05:00:00+00:00</dc:date>
-    <dc:description>&lt;div&gt;
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1535</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3679af47-d3f0-4a8d-b702-f7c738f01b31</dc:identifier>
+        <dc:title>An Introduction to Quantitative Finance</dc:title>
+        <dc:creator opf:file-as="Blyth, Stephen" opf:role="aut">Stephen Blyth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
 &lt;p&gt;The worlds of Wall Street and The City have always held a certain allure, but in recent years have left an indelible mark on the wider public consciousness and there has been a need to become more financially literate. The quantitative nature of complex financial transactions makes them a fascinating subject area for mathematicians of all types, whether for general interest or because of the enormous monetary rewards on offer. &lt;/p&gt;
 &lt;p&gt;An Introduction to Quantitative Finance concerns financial derivatives - a derivative being a contract between two entities whose value derives from the price of an underlying financial asset - and the probabilistic tools that were developed to analyse them. The theory in the text is motivated by a desire to provide a suitably rigorous yet accessible foundation to tackle problems the author encountered whilst trading derivatives on Wall Street. The book combines an unusual blend of real-world derivatives trading experience and rigorous academic background. &lt;/p&gt;
 &lt;p&gt;Probability provides the key tools for analysing and valuing derivatives. The price of a derivative is closely linked to the expected value of its pay-out, and suitably scaled derivative prices are martingales, fundamentally important objects in probability theory. &lt;/p&gt;
 &lt;p&gt;The prerequisite for mastering the material is an introductory undergraduate course in probability. The book is otherwise self-contained and in particular requires no additional preparation or exposure to finance. It is suitable for a one-semester course, quickly exposing readers to powerful theory and substantive problems. The book may also appeal to students who have enjoyed probability and have a desire to see how it can be applied. Signposts are given throughout the text to more advanced topics and to different approaches for those looking to take the subject further.&lt;/p&gt;&lt;/div&gt;</dc:description>
-    <dc:publisher>OUP Oxford</dc:publisher>
-    <dc:identifier opf:scheme="ISBN">9780199666584</dc:identifier>
-    <dc:identifier opf:scheme="AMAZON">0199666598</dc:identifier>
-    <dc:identifier opf:scheme="BARNESNOBLE">1124335681</dc:identifier>
-    <dc:identifier opf:scheme="GOODREADS">18427456</dc:identifier>
-    <dc:identifier opf:scheme="GOOGLE">SXbcAAAAQBAJ</dc:identifier>
-    <dc:language>eng</dc:language>
-    <dc:subject>Business</dc:subject>
-    <meta name="calibre:rating" content="8"/>
-    <meta name="calibre:timestamp" content="2023-09-23T01:07:03.001313+00:00"/>
-    <meta name="calibre:title_sort" content="Introduction to Quantitative Finance, An"/>
-    <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
-  </metadata>
-  <guide>
-    <reference type="cover" title="Cover" href="cover.jpg"/>
-  </guide>
+        <dc:publisher>OUP Oxford</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0199666598</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1124335681</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">SXbcAAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780199666584</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">18427456</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-09-23T01:07:03+00:00"/>
+        <meta name="calibre:title_sort" content="Introduction to Quantitative Finance, An"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
 </package>

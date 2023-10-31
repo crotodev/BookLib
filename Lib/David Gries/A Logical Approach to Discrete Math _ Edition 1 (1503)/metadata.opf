@@ -6,17 +6,17 @@
         <dc:title>A Logical Approach to Discrete Math / Edition 1</dc:title>
         <dc:creator opf:file-as="Gries, David &amp; Schneider, Fred B." opf:role="aut">David Gries</dc:creator>
         <dc:creator opf:file-as="Gries, David &amp; Schneider, Fred B." opf:role="aut">Fred B. Schneider</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-12-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Here, the authors strive to change the way logic and discrete math are taught in computer science and mathematics: while many books treat logic simply as another topic of study, this one is unique in its willingness to go one step further. The book traets logic as a basic tool which may be applied in essentially every other area.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Springer New York</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781441928351</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1100011253</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781441928351</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:series" content="Monographs in Computer Science"/>
         <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2023-08-17T13:17:18.146271+00:00"/>
+        <meta name="calibre:timestamp" content="2023-08-17T13:17:18+00:00"/>
         <meta name="calibre:title_sort" content="Logical Approach to Discrete Math / Edition 1, A"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

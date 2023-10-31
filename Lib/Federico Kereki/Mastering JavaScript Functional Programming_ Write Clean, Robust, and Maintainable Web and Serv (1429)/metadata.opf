@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">e6ecf6fd-1e75-4eb5-aad6-abb0118c9f7e</dc:identifier>
         <dc:title>Mastering JavaScript Functional Programming: Write Clean, Robust, and Maintainable Web and Server Code Using Functional JavaScript and TypeScript</dc:title>
         <dc:creator opf:file-as="Kereki, Federico" opf:role="aut">Federico Kereki</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-04-28T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Apply functional programming techniques to write testable terser code for frontend and backend development with improved clarity, concurrency, and performancePurchase of the print or Kindle book includes a free PDF eBookKey FeaturesApply functional programming concepts and techniques to everyday JavaScript or TypeScript programmingMaster functional programming in JavaScript and TypeScript to solve real-world development problemsApply functional programming to get better testable programs with higher modularity and reusabilityBook DescriptionFunctional programming is a programming paradigm that uses functions for developing software. This book is filled with examples that enable you to leverage the latest JavaScript and TypeScript versions to produce modern and clean code, as well as teach you to how apply functional programming techniques to develop more efficient algorithms, write more concise code, and simplify unit testing. &lt;/p&gt;
@@ -13,8 +13,8 @@
 &lt;p&gt;By the end of this book, you'll have developed the practical programming skills needed to confidently enhance your applications by adding functional programming to wherever it's most suitable. &lt;/p&gt;
 &lt;p&gt;What you will learnUnderstand when to use functional programming versus classic object-oriented programmingUse declarative coding instead of imperative coding for clearer, more understandable codeKnow how to avoid side effects and create more reliable code with closures and immutable dataUse recursion to help design and implement more understandable solutions to complex problemsDefine functional programing data types with or without TypeScript, add type checking, and implement immutabilityApply advanced containers to get better structures to tackle errors and implement async programmingWho this book is forIf you are a JavaScript or TypeScript developer looking to enhance your programming skills, then this book is for you. The book applies to both frontend developers working with frameworks such as React, Vue, or Angular as well as backend developers using Node.js or Deno.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing Ltd</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781804610411</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">G9a4EAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781804610411</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Internet</dc:subject>
@@ -24,7 +24,7 @@
         <dc:subject>Programming</dc:subject>
         <meta name="calibre:timestamp" content="2023-06-02T03:08:42+00:00"/>
         <meta name="calibre:title_sort" content="Mastering JavaScript Functional Programming: Write Clean, Robust, and Maintainable Web and Server Code Using Functional JavaScript and TypeScript"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

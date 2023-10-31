@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">065166b5-a92d-45c8-b4cd-0ed4a41c09b3</dc:identifier>
         <dc:title>Machine Learning for Financial Risk Management With Python: Algorithms for Modeling Risk</dc:title>
         <dc:creator opf:file-as="Karasan, Abdullah" opf:role="aut">Abdullah Karasan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-12-28T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;From the Back Cover&lt;/h3&gt;
@@ -25,10 +25,10 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;Abdullah Karasan was born in Berlin, Germany. After studying economics and business administration, he obtained his master's degree in applied economics from the University of Michigan, Ann Arbor, and his PhD in financial mathematics from the Middle East Technical University, Ankara. He is a former Treasury employee of Turkey and currently works as a principal data scientist at Magnimind and as a lecturer at the University of Maryland, Baltimore. He has also published several papers in the field of financial data science.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">zDdczgEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">58230350</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781492085256</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1492085251</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">zDdczgEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Computer Science</dc:subject>
@@ -39,7 +39,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-21T09:50:14+00:00"/>
         <meta name="calibre:title_sort" content="Machine Learning for Financial Risk Management With Python: Algorithms for Modeling Risk"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

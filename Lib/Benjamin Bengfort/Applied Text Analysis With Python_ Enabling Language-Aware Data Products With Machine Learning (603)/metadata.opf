@@ -7,15 +7,15 @@
         <dc:creator opf:file-as="Bengfort, Benjamin &amp; Bilbro, Rebecca &amp; Ojeda, Tony" opf:role="aut">Benjamin Bengfort</dc:creator>
         <dc:creator opf:file-as="Bengfort, Benjamin &amp; Bilbro, Rebecca &amp; Ojeda, Tony" opf:role="aut">Rebecca Bilbro</dc:creator>
         <dc:creator opf:file-as="Bengfort, Benjamin &amp; Bilbro, Rebecca &amp; Ojeda, Tony" opf:role="aut">Tony Ojeda</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-06-11T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;From news and speeches to informal chatter on social media, natural language is one of the richest and most underutilized sources of data. Not only does it come in a constant stream, always changing and adapting in context; it also contains information that is not conveyed by traditional data sources. The key to unlocking natural language is through the creative application of text analytics. This practical book presents a data scientist’s approach to building language-aware products with applied machine learning. &lt;/p&gt;
 &lt;p&gt;You’ll learn robust, repeatable, and scalable techniques for text analysis with Python, including contextual and linguistic feature engineering, vectorization, classification, topic modeling, entity resolution, graph analysis, and visual steering. By the end of the book, you’ll be equipped with practical methods to solve any number of complex real-world problems. &lt;/p&gt;
 &lt;p&gt;Preprocess and vectorize text into high-dimensional feature representationsPerform document classification and topic modelingSteer the model selection process with visual diagnosticsExtract key phrases, named entities, and graph structures to reason about data in textBuild a dialog framework to enable chatbots and language-driven interactionUse Spark to scale processing power and neural networks to scale model complexity&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">lK1fDwAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781491962992</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">lK1fDwAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Data Science</dc:subject>
@@ -31,7 +31,7 @@
         <dc:subject>Python</dc:subject>
         <meta name="calibre:timestamp" content="2023-01-30T14:56:15+00:00"/>
         <meta name="calibre:title_sort" content="Applied Text Analysis With Python: Enabling Language-Aware Data Products With Machine Learning"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3bfd5387-c68e-4c66-be25-c7e5e9611a55</dc:identifier>
         <dc:title>Software Architecture for Busy Developers: Talk and Act Like a Software Architect in One Weekend</dc:title>
         <dc:creator opf:file-as="Eyskens, Stéphane" opf:role="aut">Stéphane Eyskens</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-10-15T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;A quick start guide to learning essential software architecture tools, frameworks, design patterns, and best practices&lt;/p&gt;
@@ -46,7 +46,7 @@
         <dc:identifier opf:scheme="BARNESNOBLE">1139905748</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-09-07T13:56:21.398799+00:00"/>
+        <meta name="calibre:timestamp" content="2023-09-07T13:56:21+00:00"/>
         <meta name="calibre:title_sort" content="Software Architecture for Busy Developers: Talk and Act Like a Software Architect in One Weekend"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

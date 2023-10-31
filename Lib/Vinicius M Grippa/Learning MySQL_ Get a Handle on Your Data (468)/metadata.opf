@@ -6,20 +6,20 @@
         <dc:title>Learning MySQL: Get a Handle on Your Data</dc:title>
         <dc:creator opf:file-as="Grippa, Vinicius M &amp; Kuzmichev, Sergey" opf:role="aut">Vinicius M Grippa</dc:creator>
         <dc:creator opf:file-as="Grippa, Vinicius M &amp; Kuzmichev, Sergey" opf:role="aut">Sergey Kuzmichev</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-10-05T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Get a comprehensive overview on how to set up and design an effective database with MySQL. This thoroughly updated edition covers MySQL's latest version, including its most important aspects. Whether you're deploying an environment, troubleshooting an issue, or engaging in disaster recovery, this practical guide provides the insights and tools necessary to take full advantage of this powerful RDBMS. Authors Vinicius Grippa and Sergey Kuzmichev from Percona show developers and DBAs methods for minimizing costs and maximizing availability and performance. You'll learn how to perform basic and advanced querying, monitoring and troubleshooting, database management and security, backup and recovery, and tuning for improved efficiency. This edition includes new chapters on high availability, load balancing, and using MySQL in the cloud. Get started with MySQL and learn how to use it in production Deploy MySQL databases on bare metal, on virtual machines, and in the cloud Design database infrastructures Code highly efficient queries Monitor and troubleshoot MySQL databases Execute efficient backup and restore operations Optimize database costs in the cloud Understand database concepts, especially those pertaining to MySQL&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly Media</dc:publisher>
         <dc:identifier opf:scheme="GOODREADS">57645240</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">ZtxTzgEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781492085928</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ZtxTzgEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Mathematics</dc:subject>
         <dc:subject>General</dc:subject>
         <meta name="calibre:timestamp" content="2023-01-21T09:44:26+00:00"/>
         <meta name="calibre:title_sort" content="Learning MySQL: Get a Handle on Your Data"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

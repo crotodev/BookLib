@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">81155bbc-6696-48b8-8283-8aa37654c7a3</dc:identifier>
         <dc:title>Machine Learning Design Interview: Machine Learning System Design Interview</dc:title>
         <dc:creator opf:file-as="Pham, Khang" opf:role="aut">Khang Pham</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-05-03T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Read sample chapters here: https://rebrand.ly/MachineLearningDesignShort and mlengineer.io.&lt;br&gt;This book provides&lt;/p&gt;
@@ -15,12 +15,12 @@
 &lt;p&gt;Who should read this book?&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Data scientist, software engineer or data engineer who have a background in Machine Learning but never work on Machine Learning at scale will find this book helpful.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
-        <dc:identifier opf:scheme="MOBI-ASIN">B09ZKJSKZ1</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B09ZKJSKZ1</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">61098541</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09ZKJSKZ1</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:rating" content="6"/>
-        <meta name="calibre:timestamp" content="2023-09-01T02:24:42.514188+00:00"/>
+        <meta name="calibre:timestamp" content="2023-09-01T02:24:42+00:00"/>
         <meta name="calibre:title_sort" content="Machine Learning Design Interview: Machine Learning System Design Interview"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">61a9cd76-d5fe-49c5-adc6-e44a92dc3eef</dc:identifier>
         <dc:title>Learning Go: An Idiomatic Approach to Real-World Go Programming</dc:title>
         <dc:creator opf:file-as="Bodner, Jon" opf:role="aut">Jon Bodner</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-03-23T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Go is rapidly becoming the preferred language for building web services. While there are plenty of tutorials available that teach Go's syntax to developers with experience in other programming languages, tutorials aren't enough. They don't teach Go's idioms, so developers end up recreating patterns that don't make sense in a Go context. This practical guide provides the essential background you need to write clear and idiomatic Go. &lt;/p&gt;
@@ -18,17 +18,17 @@
 &lt;li&gt;Discover how Go's features allow the language to run efficiently &lt;/li&gt;
 &lt;li&gt;Know which Go features you should use sparingly or not at all &lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">CzfgzQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">55841848</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1137946330</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781492077213</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1492077216</dc:identifier>
-        <dc:identifier opf:scheme="BARNESNOBLE">1137946330</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">55841848</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">CzfgzQEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Science</dc:subject>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-07-06T03:02:09.865157+00:00"/>
+        <meta name="calibre:timestamp" content="2023-07-06T03:02:09+00:00"/>
         <meta name="calibre:title_sort" content="Learning Go: An Idiomatic Approach to Real-World Go Programming"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

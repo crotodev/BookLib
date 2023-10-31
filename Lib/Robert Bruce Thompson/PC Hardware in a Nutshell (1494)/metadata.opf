@@ -6,7 +6,7 @@
         <dc:title>PC Hardware in a Nutshell</dc:title>
         <dc:creator opf:file-as="Thompson, Robert Bruce &amp; Thompson, Barbara Fritchman" opf:role="aut">Robert Bruce Thompson</dc:creator>
         <dc:creator opf:file-as="Thompson, Robert Bruce &amp; Thompson, Barbara Fritchman" opf:role="aut">Barbara Fritchman Thompson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2000-07-24T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;em&gt;PC Hardware in a Nutshell&lt;/em&gt; is the practical guide to buying, building, upgrading, and repairing Intel-based PCs. A longtime favorite among PC users, the third edition of the book now contains useful information for people running either Windows or Linux operating systems. Written for novices and seasoned professionals alike, the book is packed with useful and unbiased information, including how-to advice for specific components, ample reference material, and a comprehensive case study on building a PC. In addition to coverage of the fundamentals and general tips about working on PCs, the book includes chapters focusing on motherboards, processors, memory, floppies, hard drives, optical drives, tape devices, video devices, input devices, audio components, communications, power supplies, and maintenance. Special emphasis is given to upgrading and troubleshooting existing equipment so you can get the most from your existing investments. This new edition is expanded to include:&lt;/p&gt;
@@ -22,11 +22,11 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;Robert Bruce Thompson is a coauthor of Building the Perfect PC, Astronomy Hacks, and the Illustrated Guide to Astronomical Wonders. Thompson built his first computer in 1976 from discrete chips. It had 256 bytes of memory, used toggle switches and LEDs for I/O, ran at less than 1MHz, and had no operating system. Since then, he has bought, built, upgraded, and repaired hundreds of PCs for himself, employers, customers, friends, and clients. Thompson reads mysteries and nonfiction for relaxation, but only on cloudy nights. He spends most clear, moonless nights outdoors with his 10-inch Dobsonian reflector telescope, hunting down faint fuzzies, and is currently designing a larger truss-tube Dobsonian (computerized, of course) that he plans to build.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">BIJLmQEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780596005139</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">507576</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">059600513X</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1122471975</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">507576</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">BIJLmQEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Hardware</dc:subject>
@@ -39,7 +39,7 @@
         <meta name="calibre:series" content="In a Nutshell (O'Reilly)"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-07-13T15:47:44.067909+00:00"/>
+        <meta name="calibre:timestamp" content="2023-07-13T15:47:44+00:00"/>
         <meta name="calibre:title_sort" content="PC Hardware in a Nutshell"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

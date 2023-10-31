@@ -5,19 +5,19 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c22a9232-1bdd-414b-be32-e4b51d11a8ad</dc:identifier>
         <dc:title>Generative AI: A Non-Technical Introduction</dc:title>
         <dc:creator opf:file-as="Taulli, Tom" opf:role="aut">Tom Taulli</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-10-26T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;OpenAI's release of ChatGPT unleashed the generative AI revolution. Within a few months, the platform attracted more than 100 million users. This was the fastest ever for an online application.&lt;br&gt;While traditional AI focuses on predictions and insights, generative AI is about creativity. ChatGPT has already shown how this technology can seem almost human, even magical. But this is just the start. Generative AI will have a seismic impact across every industry. It will help to discover breakthrough drugs. It will create hit songs and movies. There seems to be no limits.&lt;br&gt;In this book, Tom Taulli will show how generative AI works. This will include easy-to-understand explanations of critical innovations like transformers, diffusion models and generative adversarial networks. He will also highlight the incredible entrepreneurial stories of how companies like Jasper, StabilityAI and Hugging Face have leveraged this technology to grow at staggering rates. &lt;br&gt;The book includes strategies for using generative AI. Taulli shows how to evaluate the tools as well as how to successfully implement them.&lt;br&gt;Finally, he will explore the future of the technology, such as what it might mean for employment and the impact on economic growth.&lt;/p&gt;
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;Tom Taulli has been developing software since the 1980s. In college, he started his first company, which focused on the development of e-learning systems. He created other companies as well, including Hypermart.net that was sold to InfoSpace in 1996. Along the way, Tom has written columns for online publications such as BusinessWeek.com, TechWeb.com, and Bloomberg.com. He also writes posts on Artificial Intelligence for Forbes.com and is the advisor to various companies in the space. You can reach Tom on Twitter (@ttaulli) or through his website (Taulli.com) where he has an online course on AI.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Apress</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781484293669</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1484293665</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484293669</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1143097467</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2023-07-11T17:57:27.811168+00:00"/>
+        <meta name="calibre:timestamp" content="2023-07-11T17:57:27+00:00"/>
         <meta name="calibre:title_sort" content="Generative AI: A Non-Technical Introduction"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

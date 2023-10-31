@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c51c1e53-c03b-4611-a12f-8d0de49ffab3</dc:identifier>
         <dc:title>Learn Java the Easy Way: A Hands-On Introduction to Programming</dc:title>
         <dc:creator opf:file-as="Payne, Bryson" opf:role="aut">Bryson Payne</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-01-01T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Java is the world's most popular programming language, but it's known for having a steep learning curve. &lt;em&gt;Learn Java the Easy Way&lt;/em&gt; takes the chore out of learning Java with hands-on projects that will get you building real, functioning apps right away. &lt;/p&gt;
@@ -13,16 +13,16 @@
 &lt;p&gt;As you build these apps, you'll learn how to: &lt;br&gt;-Perform calculations, manipulate text strings, and generate random colors&lt;br&gt;-Use conditions, loops, and methods to make your programs responsive and concise&lt;br&gt;-Create functions to reuse code and save time&lt;br&gt;-Build graphical user interface (GUI) elements, including buttons, menus, pop-ups, and sliders &lt;br&gt;-Take advantage of Eclipse and Android Studio features to debug your code and find, fix, and prevent common mistakes &lt;/p&gt;
 &lt;p&gt;If you've been thinking about learning Java, &lt;em&gt;Learn Java the Easy Way&lt;/em&gt; will bring you up to speed in no time.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>No Starch Press</dc:publisher>
-        <dc:identifier opf:scheme="GOODREADS">34773225</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">WVv6DwAAQBAJ</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9781593278052</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1593278055</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781593278052</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">WVv6DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">34773225</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Reference</dc:subject>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-21T16:20:25+00:00"/>
         <meta name="calibre:title_sort" content="Learn Java the Easy Way: A Hands-On Introduction to Programming"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="McNeil, Alexander J. &amp; Frey, Rüdiger &amp; Embrechts, Paul" opf:role="aut">Alexander J. McNeil</dc:creator>
         <dc:creator opf:file-as="McNeil, Alexander J. &amp; Frey, Rüdiger &amp; Embrechts, Paul" opf:role="aut">Rüdiger Frey</dc:creator>
         <dc:creator opf:file-as="McNeil, Alexander J. &amp; Frey, Rüdiger &amp; Embrechts, Paul" opf:role="aut">Paul Embrechts</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2005-09-26T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book provides the most comprehensive treatment of the theoretical concepts and modelling techniques of quantitative risk management. Whether you are a financial risk analyst, actuary, regulator or student of quantitative finance, &lt;em&gt;Quantitative Risk Management&lt;/em&gt; gives you the practical tools you need to solve real-world problems. &lt;/p&gt;
@@ -86,10 +86,10 @@
 &lt;p&gt;Although risk management has been described as "one of the most important innovations of the 20th century" by Steinherr (1998), and most of the story we tell is relatively modern, some concepts that are used in modern risk management, and in derivatives in particular, have been around for longer. In our selective account we stress the example of financial derivatives as these have played a role in many of the events that have shaped modern regulation and increased the complexity of the risk-management challenge. &lt;/p&gt;
 &lt;p&gt;&lt;em&gt;(Continues...)&lt;/em&gt; Excerpted from Quantitative Risk Management by Alexander J. McNeil, Rüdiger Frey, Paul Embrechts. Copyright © 2015 Princeton University Press. Excerpted by permission of PRINCETON UNIVERSITY PRESS. &lt;br&gt;All rights reserved. No part of this excerpt may be reproduced or reprinted without permission in writing from the publisher.&lt;br&gt;Excerpts are provided by Dial-A-Book Inc. solely for the personal use of visitors to this web site.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Princeton University Press</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">l2yYDwAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780691166278</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">0691166277</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">l2yYDwAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="BARNESNOBLE">1129969751</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0691166277</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">23528924</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>

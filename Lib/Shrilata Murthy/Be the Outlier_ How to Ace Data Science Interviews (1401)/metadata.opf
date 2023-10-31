@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2713217f-0718-4705-bc83-e2db904d98f5</dc:identifier>
         <dc:title>Be the Outlier: How to Ace Data Science Interviews</dc:title>
         <dc:creator opf:file-as="Murthy, Shrilata" opf:role="aut">Shrilata Murthy</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-08-04T00:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;According to LinkedIn’s third annual U.S. Emerging Jobs Report, the data scientist role is ranked &lt;em&gt;third&lt;/em&gt; among the top-15 emerging jobs in the U.S. Though the field of data science has been exploding, there didn’t appear to be a comprehensive resource to help data scientists navigate the interview process... until now. &lt;/p&gt;
@@ -26,14 +26,14 @@
 &lt;p&gt;Shrilata Murthy is a practicing data scientist with experience in statistical modeling, data mining, and data visualization. She holds a Master's degree in Analytics from Northwestern University and a B.E. in Information Technology from Mumbai University. As a programmer-turned-data scientist, Murthy now enjoys consulting to help improve data-driven decision making. &lt;/p&gt;
 &lt;p&gt;When she's not building machine-learning models, Murthy loves spending time with her daughter and going for outdoor runs. Her debut book &lt;em&gt;Be the Outlier: How to Ace Data Science Interviews&lt;/em&gt; is a practical guide for any novice or experienced data scientist looking to improve their interview technique.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>New Degree Press</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B08F9M83LJ</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">55000016</dc:identifier>
         <dc:identifier opf:scheme="ASIN">B08F9M83LJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08F9M83LJ</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-04-29T07:36:05+00:00"/>
         <meta name="calibre:title_sort" content="Be the Outlier: How to Ace Data Science Interviews"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

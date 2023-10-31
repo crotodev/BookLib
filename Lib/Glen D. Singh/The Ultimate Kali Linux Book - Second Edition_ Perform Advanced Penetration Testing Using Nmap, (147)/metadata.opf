@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d16d2e65-ed52-4962-a0be-e97f35bacb26</dc:identifier>
         <dc:title>The Ultimate Kali Linux Book - Second Edition: Perform Advanced Penetration Testing Using Nmap, Metasploit, Aircrack-Ng, and Empire</dc:title>
         <dc:creator opf:file-as="Singh, Glen D." opf:role="aut">Glen D. Singh</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-02-24T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Explore the latest ethical hacking tools and techniques to perform penetration testing from scratchPurchase of the print or Kindle book includes a free eBook in the PDF formatKey Features: Learn to compromise enterprise networks with Kali LinuxGain comprehensive insights into security concepts using advanced real-life hacker techniquesUse Kali Linux in the same way ethical hackers and penetration testers do to gain control of your environmentBook Description: Kali Linux is the most popular and advanced penetration testing Linux distribution within the cybersecurity industry. Using Kali Linux, a cybersecurity professional will be able to discover and exploit various vulnerabilities and perform advanced penetration testing on both enterprise wired and wireless networks. &lt;/p&gt;
@@ -13,15 +13,15 @@
 &lt;p&gt;By the end of this Kali Linux book, you'll have gained the skills to perform advanced penetration testing on enterprise networks using Kali Linux. &lt;/p&gt;
 &lt;p&gt;What You Will Learn: Explore the fundamentals of ethical hackingUnderstand how to install and configure Kali LinuxPerform asset and network discovery techniquesFocus on how to perform vulnerability assessmentsExploit the trust in Active Directory domain servicesPerform advanced exploitation with Command and Control (C2) techniquesImplement advanced wireless hacking techniquesBecome well-versed with exploiting vulnerable web applicationsWho this book is for: This pentesting book is for students, trainers, cybersecurity professionals, cyber enthusiasts, network security professionals, ethical hackers, penetration testers, and security engineers. If you do not have any prior knowledge and are looking to become an expert in penetration testing using the Kali Linux operating system (OS), then this book is for you.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">oojNzgEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781801818933</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">oojNzgEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>General</dc:subject>
         <dc:subject>Kali Linux</dc:subject>
         <dc:subject>Mathematics</dc:subject>
         <meta name="calibre:timestamp" content="2022-12-30T08:53:59+00:00"/>
         <meta name="calibre:title_sort" content="Ultimate Kali Linux Book - Second Edition: Perform Advanced Penetration Testing Using Nmap, Metasploit, Aircrack-Ng, and Empire, The"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

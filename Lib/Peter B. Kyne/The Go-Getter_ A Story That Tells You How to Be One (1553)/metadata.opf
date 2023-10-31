@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">e6e205a3-fff9-4e97-be67-9d8aad833e34</dc:identifier>
         <dc:title>The Go-Getter: A Story That Tells You How to Be One</dc:title>
         <dc:creator opf:file-as="Kyne, Peter B." opf:role="aut">Peter B. Kyne</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.28.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2003-01-09T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;The classic motivational parable (over 500,000 copies sold worldwide) that shows you how to make your own opportunities in life, updated for the modern reader by bestselling business author Alan Axelrod &lt;/p&gt;
@@ -28,12 +28,12 @@
 &lt;p&gt;&lt;strong&gt;Copyright © 2003&lt;/strong&gt; &lt;strong&gt;Kyne, Peter B.&lt;br&gt;All right reserved.&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;ISBN: 0805065628&lt;/strong&gt;&lt;br&gt;From &lt;em&gt;The Go-Getter&lt;/em&gt; :&lt;br&gt;"Well," Cappy said, "I suppose I'll have to cast about for his successor. I think Bill Peck has some of the earmarks of a good manager for our Shanghai office, but I'll have to test him a little further." He looked up humorously at Mr. Skinner. "Skinner, my dear boy," he continued, "I'm going to have him deliver a blue vase."&lt;br&gt;Mr. Skinner's cold features actually glowed. "Well, tip the chief of police and the proprietor of the store off this time and save yourself some money," he warned Cappy. "I don't envy Mr. Peck, and I have every hope that he'll give you less of a tangle than Matt Peasley and I did." He walked to the window and looked down into California Street. He continued to smile.&lt;br&gt;"Yes," Cappy continued dreamily, "You'll agree with me, Skinner, that if he delivers the blue vase he'll have proven himself ready to take over all our business in Asia?"&lt;br&gt;"I'll say he will."&lt;br&gt;Promptly at one'clock the following day, Bill Peck reported at the general manager's house. &lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Continues...&lt;/em&gt;&lt;br&gt;Excerpted from The Go-Getter by Kyne, Peter B. Copyright © 2003 by Kyne, Peter B.. Excerpted by permission.&lt;br&gt;All rights reserved. No part of this excerpt may be reproduced or reprinted without permission in writing from the publisher.&lt;br&gt;Excerpts are provided by Dial-A-Book Inc. solely for the personal use of visitors to this web site.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Times Books</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">B002RKR9CI</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780805065626</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B002RKR9CI</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">0805065628</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2023-10-06T15:59:09.046748+00:00"/>
+        <meta name="calibre:timestamp" content="2023-10-06T15:59:09+00:00"/>
         <meta name="calibre:title_sort" content="Go-Getter: A Story That Tells You How to Be One, The"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

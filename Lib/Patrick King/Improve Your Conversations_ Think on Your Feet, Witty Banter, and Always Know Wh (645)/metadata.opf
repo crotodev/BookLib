@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">65c4aef5-8454-425c-b695-d147e0abeee5</dc:identifier>
         <dc:title>Improve Your Conversations: Think on Your Feet, Witty Banter, and Always Know Wh</dc:title>
         <dc:creator opf:file-as="King, Patrick" opf:role="aut">Patrick King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-06-23T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Does your mind blank at the worst times in a conversation and create awkward silences? Do you want to think faster on your feet? Do you run out of things to say, and suck at keeping a conversation going?Or do you just wish you could be wittier and cleverer in every day conversation? Introverted? It's easier than you think... all you need to do is just improv your conversations!Improv(e) Your Conversations utilizes and teaches you how to use the ingenious framework from improv comedy and apply it directly to your every day social interactions and conversations... and can't we learn something from the greatest improv comedians in the world like Tina Fey and Will Ferrell?Improv comedy and memorable conversations have almost everything in common: from their premise, what makes them great, and their end goals. In this book, I have pieced together the 14 best actionable and practical techniques from the improv comedy world designed to create conversational flow and connection... and simply have better interactions. &lt;/p&gt;
@@ -15,15 +15,15 @@
 &lt;p&gt;Think about all the benefits there are to improving your conversations!* You will be able to avoid awkward silences and keep conversations going.* You will learn how to make great impressions and be instantly likable.* You will be able to make friends more easily, even complete strangers.* Initiating conversations will be a snap, and you will be able to get past dry small talk into real discussion.* You will be able to network better, and even be able to avoid boring interview-mode conversations. &lt;/p&gt;
 &lt;p&gt;Don't hesitate to pick up your copy today by clicking the BUY NOW button at the top of this page!P.S. And of course, you will be much, much better at talking to the opposite sex.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>CreateSpace Independent Publishing Platform</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">1514660679</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9781514660676</dc:identifier>
-        <dc:identifier opf:scheme="MOBI-ASIN">B06XJSG86S</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">MgAfswEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1514660679</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B06XJSG86S</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781514660676</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-02-12T21:38:31+00:00"/>
         <meta name="calibre:title_sort" content="Improve Your Conversations: Think on Your Feet, Witty Banter, and Always Know Wh"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

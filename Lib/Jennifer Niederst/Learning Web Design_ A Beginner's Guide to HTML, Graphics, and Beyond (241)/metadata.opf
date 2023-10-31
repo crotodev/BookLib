@@ -6,7 +6,7 @@
         <dc:title>Learning Web Design: A Beginner's Guide to HTML, Graphics, and Beyond</dc:title>
         <dc:creator opf:file-as="Niederst, Jennifer &amp; Robbins, Jennifer Niederst" opf:role="aut">Jennifer Niederst</dc:creator>
         <dc:creator opf:file-as="Niederst, Jennifer &amp; Robbins, Jennifer Niederst" opf:role="aut">Jennifer Niederst Robbins</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2003-01-15T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;In &lt;em&gt;Learning Web Design&lt;/em&gt; , author Jennifer Niederst shares the knowledge she's gained from years of web design experience, both as a designer and a teacher. This book starts from the beginning-- defining the Internet, the Web, browsers, and URLs -- so you don't need to have any previous knowledge about how the Web works. After reading this book, you'll have a solid foundation in HTML, graphics, and design principles that you can immediately put to use in creating effective web pages. &lt;/p&gt;
@@ -22,9 +22,9 @@
 &lt;p&gt;Jennifer Niederst Robbins was one of the first designers for the Web. As the designer of O'Reilly's Global Network Navigator (GNN), the first commercial web site, she has been designing for the Web since 1993. Since then, she has worked as the creative director of Songline Studios (a former subsidiary of O'Reilly) and as a freelance designer and consultant since 1996. She is the author of the bestselling Web Design in a Nutshell and Learning Web Design (O'Reilly), and she has taught web design at the Massachusetts College of Art in Boston and Johnson and Wales University in Providence. She has spoken at major design and Internet events including SXSW Interactive, Seybold Seminars, the GRAFILL conference (Geilo, Norway), and one of the first W3C International Expos. &lt;/p&gt;
 &lt;p&gt;In addition to designing, Jennifer enjoys cooking, travel, indie-rock, and making stuff. She maintains her own professional web site at http://www.littlechair.com as well.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">1449319270</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">eN6_am2A5acC</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780596004842</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">eN6_am2A5acC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1449319270</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Internet</dc:subject>
@@ -32,7 +32,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-01-13T06:37:24+00:00"/>
         <meta name="calibre:title_sort" content="Learning Web Design: A Beginner's Guide to HTML, Graphics, and Beyond"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1d954779-3035-44ca-8da0-0fbeea0a055e</dc:identifier>
         <dc:title>Storytelling With Data: Let's Practice!</dc:title>
         <dc:creator opf:file-as="Knaflic, Cole Nussbaumer" opf:role="aut">Cole Nussbaumer Knaflic</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-10-22T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Influence action through data! &lt;/p&gt;
@@ -16,9 +16,9 @@
 &lt;p&gt;● &lt;strong&gt;Practice at work:&lt;/strong&gt; practical guidance and hands-on exercises for applying &lt;em&gt;storytelling with data&lt;/em&gt; lessons on the job, including instruction on when and how to solicit useful feedback and refine for greater impact &lt;/p&gt;
 &lt;p&gt;The lessons and exercises found within this comprehensive guide will empower you to master--or develop in others--data storytelling skills and transition your work from acceptable to exceptional. By investing in these skills for ourselves and our teams, we can all tell inspiring and influential data stories!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Wiley</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">1119621496</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9781119621492</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">aGatDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781119621492</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1119621496</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">45004977</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business</dc:subject>
@@ -29,7 +29,7 @@
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-01-20T17:49:52+00:00"/>
         <meta name="calibre:title_sort" content="Storytelling With Data: Let's Practice!"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

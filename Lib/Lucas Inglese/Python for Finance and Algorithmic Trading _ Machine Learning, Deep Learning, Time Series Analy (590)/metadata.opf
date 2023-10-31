@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d881540f-e727-4621-bee7-fd5ed5af4769</dc:identifier>
         <dc:title>Python for Finance and Algorithmic Trading : Machine Learning, Deep Learning, Time Series Analysis, Risk and Portfolio Management for MetaTrader™5 Live Trading</dc:title>
         <dc:creator opf:file-as="Inglese, Lucas" opf:role="aut">Lucas Inglese</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-08-17T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The book presents the benefits of portfolio management, statistics and machine learning applied to live trading with MetaTrader™ 5. &lt;br&gt;This second version has allowed us to tweak some points of the existing chapters but especially to add 3 new chapters based on your feedbacks of the first version. So I am proud to offer you 3 new chapters: &lt;strong&gt;"Advanced backtest methods"&lt;/strong&gt; , &lt;strong&gt;”Features and target engineering"&lt;/strong&gt; and &lt;strong&gt;”From nothing to a live trading bot"&lt;/strong&gt;. &lt;/p&gt;
@@ -18,12 +18,12 @@
 &lt;p&gt;•Combine trading strategies using portfolio management to increase the robustness of the strategies &lt;/p&gt;
 &lt;p&gt;•Connect your Python algorithm to your MetaTrader 5 and run it with a demo or live trading account&lt;/p&gt;
 &lt;p&gt;•Use all codes in the book for live trading or screener if you prefer manual trading&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:identifier opf:scheme="AMAZON">B0BB4SB3FV</dc:identifier>
         <dc:identifier opf:scheme="ASIN">B0BB4SB3FV</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0BB4SB3FV</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:timestamp" content="2023-01-30T03:49:10+00:00"/>
         <meta name="calibre:title_sort" content="Python for Finance and Algorithmic Trading : Machine Learning, Deep Learning, Time Series Analysis, Risk and Portfolio Management for MetaTrader™5 Live Trading"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

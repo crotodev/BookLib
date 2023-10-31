@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">fa3f4b2f-4086-47f8-85d2-443df442e033</dc:identifier>
         <dc:title>Python GUI Programming With Tkinter: Design and Build Functional and User-Friendly GUI Applications, 2nd Edition</dc:title>
         <dc:creator opf:file-as="Moore, Alan D." opf:role="aut">Alan D. Moore</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-10-28T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Transform your evolving user requirements into feature-rich Tkinter applications&lt;/p&gt;
@@ -48,9 +48,9 @@
 &lt;li&gt;Appendix A : A Quick Primer on reStructuredText&lt;/li&gt;
 &lt;li&gt;Appendix B: A Quick SQL Tutorial&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Packt Publishing</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781801815925</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">VIqezgEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1801815925</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781801815925</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>GUI</dc:subject>
         <dc:subject>Programming</dc:subject>
@@ -59,7 +59,7 @@
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2022-12-14T17:39:48+00:00"/>
         <meta name="calibre:title_sort" content="Python GUI Programming With Tkinter: Design and Build Functional and User-Friendly GUI Applications, 2nd Edition"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

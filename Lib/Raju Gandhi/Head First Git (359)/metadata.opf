@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">77c558f5-84a0-4188-b740-f31732cc47f0</dc:identifier>
         <dc:title>Head First Git</dc:title>
         <dc:creator opf:file-as="Gandhi, Raju" opf:role="aut">Raju Gandhi</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-01-18T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;What will you learn from this book?Many people who use Git rely on "recipes"--copying and pasting commands they find on the internet without really understanding how Git actually works. But what do you do if you find yourself in a tight spot? You can't simply wing it. With this unique hands-on guide, you'll learn the ways of Git and have fun while doing it. Raju Gandhi peels back the layers to reveal the simple yet powerful engine that powers Git, so you'll understand not just the how but the why. You'll master branches, merges, commit messages, search, utilities, and more; learn best practices for collaborative work; and unlock the full potential of Git. &lt;/p&gt;
@@ -22,7 +22,7 @@
         <dc:subject>Project Management</dc:subject>
         <meta name="calibre:timestamp" content="2023-01-14T07:16:29+00:00"/>
         <meta name="calibre:title_sort" content="Head First Git"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

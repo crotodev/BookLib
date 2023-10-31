@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">e34d9724-d14e-441d-90fb-764632ce6c95</dc:identifier>
         <dc:title>Unstoppable: Motivation Secrets You Need to Develop Courage, Confidence and a Positive Mental Attitude</dc:title>
         <dc:creator opf:file-as="Tracy, Brian" opf:role="aut">Brian Tracy</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.28.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2023-03-14T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;Master the Art of Motivation!&lt;/p&gt;
@@ -15,8 +15,8 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;BRIAN TRACY is Chairman and CEO of Brian Tracy International, specializing in the training and development of individuals and organizations. His goal is to help you achieve your personal and business goals faster and easier than you ever imagined. Brian has consulted for more than 1,000 companies and addressed more than 5,000,000 people in 5,000 talks and seminars throughout the US, Canada and 70 other countries worldwide. --This text refers to the paperback edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Gildan Media LLC aka G&amp;D Media</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781722527549</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B0B69J25N2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781722527549</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">5mF6EAAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Business &amp; Economics</dc:subject>
@@ -25,7 +25,7 @@
         <dc:subject>Personal Growth</dc:subject>
         <dc:subject>Success</dc:subject>
         <dc:subject>Motivational &amp; Inspirational</dc:subject>
-        <meta name="calibre:timestamp" content="2023-10-06T16:23:26.870583+00:00"/>
+        <meta name="calibre:timestamp" content="2023-10-06T16:23:26+00:00"/>
         <meta name="calibre:title_sort" content="Unstoppable: Motivation Secrets You Need to Develop Courage, Confidence and a Positive Mental Attitude"/>
         <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1be799ae-4668-4e4c-add3-e64b8a37d6ed</dc:identifier>
         <dc:title>Trading and Exchanges: Market Microstructure for Practitioners</dc:title>
         <dc:creator opf:file-as="Harris, Larry" opf:role="aut">Larry Harris</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2002-09-30T04:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This book is about trading, the people who trade securities and contracts, the marketplaces where they trade, and the rules that govern it. Readers will learn about investors, brokers, dealers, arbitrageurs, retail traders, day traders, rogue traders, and gamblers; exchanges, boards of trade, dealer networks, ECNs (electronic communications networks), crossing markets, and pink sheets. Also covered in this text are single price auctions, open outcry auctions, and brokered markets limit orders, market orders, and stop orders. Finally, the author covers the areas of program trades, block trades, and short trades, price priority, time precedence, public order precedence, and display precedence, insider trading, scalping, and bluffing, and investing, speculating, and gambling. &lt;/p&gt;
@@ -19,20 +19,20 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;Larry Harris holds the Fred V. Keenan Chair in Finance at the University of Southern California Marshall School of Business. In July 2002, Professor Harris was appointed Chief Economist of the U.S. Securities and Exchange Commission, where he served until June 2004. &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">1290158</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780195144703</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">0195144708</dc:identifier>
-        <dc:identifier opf:scheme="BARNESNOBLE">1101401630</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">1290158</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">Rd9hDRR1Yx4C</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1101401630</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Reference</dc:subject>
         <dc:subject>Business</dc:subject>
         <meta name="calibre:series" content="Financial Management Association Survey and Synthesis"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-07-08T17:43:01.738259+00:00"/>
+        <meta name="calibre:timestamp" content="2023-07-08T17:43:01+00:00"/>
         <meta name="calibre:title_sort" content="Trading and Exchanges: Market Microstructure for Practitioners"/>
-        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;use_decorations&quot;: false, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>
