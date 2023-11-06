@@ -17,6 +17,10 @@
   ],
   "gui_view_history": [
     [
+      1505,
+      "Republicanism, Communism, Islam: Cosmopolitan Origins of Revolution in Southeast Asia"
+    ],
+    [
       1553,
       "The Go-Getter: A Story That Tells You How to Be One"
     ],
@@ -71,10 +75,6 @@
     [
       250,
       "Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python"
-    ],
-    [
-      507,
-      "Vital Statistics: Probability and Statistics for Economics and Business"
     ]
   ],
   "library_view books view state": {
@@ -945,5 +945,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1698787535.528169
+  "last_expired_trash_at": 1699236357.332448
 }
