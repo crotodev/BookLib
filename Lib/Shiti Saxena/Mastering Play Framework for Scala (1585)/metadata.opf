@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1585</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81529e27-993b-4424-816c-4ee1886298cc</dc:identifier>
+        <dc:title>Mastering Play Framework for Scala</dc:title>
+        <dc:creator opf:file-as="Saxena, Shiti" opf:role="aut">Shiti Saxena</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Leverage the awesome features of Play Framework to build scalable, resilient, and responsive applications&lt;/p&gt;
+&lt;h2&gt;About This Book&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Demystify the quandaries of web development using Play Framework&lt;/li&gt;
+&lt;li&gt;Test and debug your apps by using Play's built in testing framework&lt;/li&gt;
+&lt;li&gt;Master the core features of Scala through a comprehensive coverage of code and examples for different scenarios&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;Who This Book Is For&lt;/h2&gt;
+&lt;p&gt;This book is intended for those developers who are keen to master the internal workings of Play Framework to effectively build and deploy web-related apps.&lt;/p&gt;
+&lt;h2&gt;What You Will Learn&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Customize your framework to accommodate the specific requirements of an application&lt;/li&gt;
+&lt;li&gt;Develop responsive, reliable, and highly scalable applications using Play Framework&lt;/li&gt;
+&lt;li&gt;Build and customize Play Framework plugins that can be used in multiple Play applications&lt;/li&gt;
+&lt;li&gt;Familiarize yourself with third-party APIs to avoid rewriting existing code&lt;/li&gt;
+&lt;li&gt;Gain an insight into the various aspects of testing and debugging in Play to successfully test your apps&lt;/li&gt;
+&lt;li&gt;Get to know all about the concepts of WebSockets and Actors to process messages based on events&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;In Detail&lt;/h2&gt;
+&lt;p&gt;Play Framework is an open source web application framework that is written in Java and Scala. It follows the Model-View-Controller architectural pattern and enables the user to employ Scala for application development, while keeping key properties and features of Play Framework intact.&lt;/p&gt;
+&lt;p&gt;Starting off by building a basic application with minimal features, you get a detailed insight into handling data transactions and designing models in Play. Next, you venture into the concepts of Actors and WebSockets, the process of manipulating data streams, and testing and debugging an application in Play. Finally, you gain an insight into extending the framework by writing custom modules or plugins in Play. Each chapter has a troubleshooting section that helps you out by discussing the causes of, and solutions to, some commonly faced issues.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781783983810</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00YJ64GHO</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1121763751</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">25650299</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">OJ-9CQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">mastering-play-framework-for-scala</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-11-15T16:34:05.735600+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering Play Framework for Scala"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

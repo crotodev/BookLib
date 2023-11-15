@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1587</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27dccb24-0d7f-4847-a365-6287bfab5748</dc:identifier>
+        <dc:title>Scala Programming Projects</dc:title>
+        <dc:creator opf:file-as="Valot, Mikaël &amp; Jorand, Nicolas" opf:role="aut">Mikaël Valot</dc:creator>
+        <dc:creator opf:file-as="Valot, Mikaël &amp; Jorand, Nicolas" opf:role="aut">Nicolas Jorand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Discover unique features and powerful capabilities of Scala Programming as you build projects in a wide range of domains&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop a range of Scala projects from web applications to big data analysis &lt;/li&gt;
+&lt;li&gt;Leverage full power of modern web programming using Play Framework &lt;/li&gt;
+&lt;li&gt;Build real-time data pipelines in Scala with a Bitcoin transaction analysis app &lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Scala is a type-safe JVM language that incorporates object-oriented and functional programming (OOP and FP) aspects. This book gets you started with essentials of software development by guiding you through various aspects of Scala programming, helping you bridge the gap between learning and implementing. You will learn about the unique features of Scala through diverse applications and experience simple yet powerful approaches for software development. &lt;/p&gt;
+&lt;p&gt;Scala Programming Projects will help you build a number of applications, beginning with simple projects, such as a financial independence calculator, and advancing to other projects, such as a shopping application and a Bitcoin transaction analyzer. You will be able to use various Scala features, such as its OOP and FP capabilities, and learn how to write concise, reactive, and concurrent applications in a type-safe manner. You will also learn how to use top-notch libraries such as Akka and Play and integrate Scala apps with Kafka, Spark, and Zeppelin, along with deploying applications on a cloud platform. &lt;/p&gt;
+&lt;p&gt;By the end of the book, you will not only know the ins and outs of Scala, but you will also be able to apply it to solve a variety of real-world problems &lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Build, test, and package code using Scala Build Tool &lt;/li&gt;
+&lt;li&gt;Decompose code into functions, classes, and packages for maintainability &lt;/li&gt;
+&lt;li&gt;Implement the functional programming capabilities of Scala &lt;/li&gt;
+&lt;li&gt;Develop a simple CRUD REST API using the Play framework &lt;/li&gt;
+&lt;li&gt;Access a relational database using Slick &lt;/li&gt;
+&lt;li&gt;Develop a dynamic web UI using Scala.js &lt;/li&gt;
+&lt;li&gt;Source streaming data using Spark Streaming and write a Kafka producer &lt;/li&gt;
+&lt;li&gt;Use Spark and Zeppelin to analyze data&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who this book is for&lt;/h4&gt;
+&lt;p&gt;If you are an amateur programmer who wishes to learn how to use Scala, this book is for you. Knowledge of Java will be beneficial, but not necessary, to understand the concepts covered in this book.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Writing your first program&lt;/li&gt;
+&lt;li&gt;Developing a Retirement Calculator&lt;/li&gt;
+&lt;li&gt;Handling errors&lt;/li&gt;
+&lt;li&gt;Advanced features&lt;/li&gt;
+&lt;li&gt;Type Classes&lt;/li&gt;
+&lt;li&gt;Online Shopping - Persistence&lt;/li&gt;
+&lt;li&gt;Online Shopping - REST API&lt;/li&gt;
+&lt;li&gt;Online Shopping - User Interface&lt;/li&gt;
+&lt;li&gt;Interactive browser&lt;/li&gt;
+&lt;li&gt;Fetching and persisting Bitcoin market data&lt;/li&gt;
+&lt;li&gt;Batch and Streaming analytics&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Mikhail Selivanov&lt;/strong&gt; is a Software engineer with twelve years of experience in backend development on JVM stack. He got interested in Scala in 2008 due to its functional programming capabilities. Since then, he has used Scala and frameworks built on top of it for different purposes: from writing simple CRUD UI apps to building distributed systems based on microservice architecture. He has been responsible for every part of the development process, including the implementation of business logic, performance tuning, writing deployment scripts, and more.&lt;/p&gt;
+&lt;p&gt;Currently he is a lead backend developer at &amp;amp;Frankly. Prior to this, he has worked with RiskMatch LLC. and True Software Scandinavia AB, where he implemented numerous improvements to user profile storage and profile indexing pipeline, backed by JVM-based technologies including Scala, Akka, and Play. While working with Agency of Komi Republic, he has created several GUI tools with data sheets, reports, an embedded database, and a web application for manipulating user network profiles using Scala.&lt;/p&gt;
+&lt;p&gt;You can know more about him by visiting his LinkedIn profile.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781788397643</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1788397649</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1129676260</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">42120920</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>COM051280 - COMPUTERS / Programming Languages / Java</dc:subject>
+        <dc:subject>COM051010 - COMPUTERS / Programming Languages / General</dc:subject>
+        <dc:subject>COM060180 - COMPUTERS / Web / Web Services and APIs</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-11-15T16:36:30.034640+00:00"/>
+        <meta name="calibre:title_sort" content="Scala Programming Projects"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

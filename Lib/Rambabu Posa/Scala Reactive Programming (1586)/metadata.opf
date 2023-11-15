@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1586</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a1be29e-6655-4ee6-9442-fae373729955</dc:identifier>
+        <dc:title>Scala Reactive Programming</dc:title>
+        <dc:creator opf:file-as="Posa, Rambabu" opf:role="aut">Rambabu Posa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-27T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Build fault-tolerant, robust, and distributed applications in Scala&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand and use the concepts of reactive programming to build distributed systems running on multiple nodes.&lt;/li&gt;
+&lt;li&gt;Learn how reactive architecture reduces complexity throughout the development process.&lt;/li&gt;
+&lt;li&gt;Get to grips with functional reactive programming and Reactive Microservices.&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Reactive programming is a scalable, fast way to build applications, and one that helps us write code that is concise, clear, and readable. It can be used for many purposes such as GUIs, robotics, music, and others, and is central to many concurrent systems. This book will be your guide to getting started with Reactive programming in Scala.&lt;/p&gt;
+&lt;p&gt;You will begin with the fundamental concepts of Reactive programming and gradually move on to working with asynchronous data streams. You will then start building an application using Akka Actors and extend it using the Play framework. You will also learn about reactive stream specifications, event sourcing techniques, and different methods to integrate Akka Streams into the Play Framework. This book will also take you one step forward by showing you the advantages of the Lagom framework while working with reactive microservices. You will also learn to scale applications using multi-node clusters and test, secure, and deploy your microservices to the cloud.&lt;/p&gt;
+&lt;p&gt;By the end of the book, you will have gained the knowledge to build robust and distributed systems with Scala and Akka.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the fundamental principles of Reactive and Functional programming&lt;/li&gt;
+&lt;li&gt;Develop applications utilizing features of the Akka framework&lt;/li&gt;
+&lt;li&gt;Explore techniques to integrate Scala, Akka, and Play together&lt;/li&gt;
+&lt;li&gt;Learn about Reactive Streams with real-time use cases&lt;/li&gt;
+&lt;li&gt;Develop Reactive Web Applications with Play, Scala, Akka, and Akka Streams&lt;/li&gt;
+&lt;li&gt;Develop and deploy Reactive microservices using the Lagom framework and ConductR&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Who This Book Is For&lt;/h4&gt;
+&lt;p&gt;This book is for Scala developers who would like to build fault-tolerant, scalable distributed systems. No knowledge of Reactive programming is required.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Getting Started with Reactive and FP&lt;/li&gt;
+&lt;li&gt;Functional Scala&lt;/li&gt;
+&lt;li&gt;Asynchronous Programming with Scala&lt;/li&gt;
+&lt;li&gt;Building Reactive Applications with Akka&lt;/li&gt;
+&lt;li&gt;Adding Reactiveness with RxScala&lt;/li&gt;
+&lt;li&gt;Extending Application with Play&lt;/li&gt;
+&lt;li&gt;Working with Reactive Streams&lt;/li&gt;
+&lt;li&gt;Integrating Akka Streams to Play Application&lt;/li&gt;
+&lt;li&gt;Reactive Microservices With Lagom&lt;/li&gt;
+&lt;li&gt;Testing Reactive Microservices&lt;/li&gt;
+&lt;li&gt;Managing Microservices in ConductR&lt;/li&gt;
+&lt;li&gt;Reactive Design Patterns &amp;amp; Best Practices&lt;/li&gt;
+&lt;li&gt;Appendix A-Scala Plugin for IntelliJ IDEA&lt;/li&gt;
+&lt;li&gt;Appendix B- Installing Robomongo&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Rambabu Posa&lt;/strong&gt; has been working as Java developer since 2004 and a Scala developer since mid-2015. He loves Functional Programming in the Test-Driven Development way to develop Reactive microservices. He loves teaching and has been giving online training and writing tutorials on both the Java and Scala ecosystems. He loves developing Reactive systems using Lightbend's Reactive Platform Technology stack like Lagom Framework, ConductR, Scala, Akka Toolkit, Akka Streams, Play Framework, and others.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B073FR5T8F</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781787282872</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1787288641</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1126739542</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">VutODwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">scala-reactive-programming</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Software Development</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Nonfiction</dc:subject>
+        <dc:subject>COM051390 - COMPUTERS / Programming / Open Source</dc:subject>
+        <dc:subject>COM051440 - COMPUTERS / Software Development and Engineering / Tools</dc:subject>
+        <dc:subject>COM051010 - COMPUTERS / Programming Languages / General</dc:subject>
+        <meta name="calibre:rating" content="4"/>
+        <meta name="calibre:timestamp" content="2023-11-15T16:35:39.606008+00:00"/>
+        <meta name="calibre:title_sort" content="Scala Reactive Programming"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
