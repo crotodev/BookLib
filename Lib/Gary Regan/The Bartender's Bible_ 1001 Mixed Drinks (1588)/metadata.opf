@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1588</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7858391-45bd-40e3-934c-d26c8de63e56</dc:identifier>
+        <dc:title>The Bartender's Bible: 1001 Mixed Drinks</dc:title>
+        <dc:creator opf:file-as="Regan, Gary" opf:role="aut">Gary Regan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-01-02T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mix Drinks Like A Pro Now you can with this indispensable handbook, the most thorough and thoroughly accessible bartending guide ever created for both professional and home use. Encyclopedic in scope and filled with clear, simple instructions, The Bartender's Bible includes information Stocking and equipping a bar from liquors and mixers to condiments, garnishes, and equipment Shot-by-shot recipes for over 1,000 cocktails and mixed drinks from bourbon to rum to whiskey Wine drinks Beer drinks Nonalcoholic drinks Special category drinks tropical, classics, aperitifs, cordials, hot drinks, and party punches Anecdotes and histories of favorite potables And more! If you've ever wondered whether to shake or stir a proper Martini, or what to do with those dusty bottles of flavored liqueurs,The Bartender's Bible is the only book you need! A bartender, as a rule, is a person who enjoys the company of others, endeavors to solve problems, listens to the woes of the world, sympathizes with the mistreated, laughs with the comedians, cheers up the down at heart, and generally controls the atmosphere at his or her bar. A bartender is the manager of moods, the master of mixology. Certain scenarios are played out over and over again in bars everywhere. The questions are basically the same; only the details What's in a true Singapore Sling? How long has the Martini been around? What's the difference between a Fix and a Fizz? A reference book is as necessary to a bartender as ice. — from The Bartender's Bible From advice on stocking your bar to recipes for 1,001 mixed drinks, this thorough and accessible guide has all the answers. Be the one calling the shots on everything from The Classics to Non-Alcoholic Tropical Drinks.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper Collins</dc:publisher>
+        <dc:identifier opf:scheme="9780061738708">9780061738708</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780060167226</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B007C1LGJ4</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-11-27T01:31:26.697660+00:00"/>
+        <meta name="calibre:title_sort" content="Bartender's Bible: 1001 Mixed Drinks, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

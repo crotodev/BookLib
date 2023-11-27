@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1589</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53a7280c-7c8a-44f2-90b5-e57c8a15c5c2</dc:identifier>
+        <dc:title>Cocktail Codex: Fundamentals, Formulas, Evolutions [A Cocktail Recipe Book]</dc:title>
+        <dc:creator opf:file-as="Day, Alex &amp; Fauchald, Nick &amp; Kaplan, David" opf:role="aut">Alex Day</dc:creator>
+        <dc:creator opf:file-as="Day, Alex &amp; Fauchald, Nick &amp; Kaplan, David" opf:role="aut">Nick Fauchald</dc:creator>
+        <dc:creator opf:file-as="Day, Alex &amp; Fauchald, Nick &amp; Kaplan, David" opf:role="aut">David Kaplan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;From the authors of the bestselling and genre-defining cocktail book &lt;em&gt;Death &amp;amp; Co&lt;/em&gt;, &lt;em&gt;Cocktail Codex&lt;/em&gt; is a comprehensive primer on the craft of mixing drinks that employs the authors’ unique “root cocktails” approach to give drink-makers of every level the tools to understand, execute, and improvise both classic and original cocktails. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;JAMES BEARD AWARD WINNER • WINNER OF THE TALES OF THE COCKTAIL SPIRITED AWARD® FOR BEST NEW COCKTAIL OR BARTENDING BOOK • NAMED ONE OF THE BEST COOKBOOKS OF THE YEAR BY &lt;em&gt;CHICAGO TRIBUNE&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;“There are only six cocktails.” So say Alex Day, Nick Fauchald, and David Kaplan, the visionaries behind the seminal craft cocktail bar Death &amp;amp; Co. In &lt;em&gt;Cocktail Codex&lt;/em&gt; , these experts reveal for the first time their surprisingly simple approach to mastering cocktails: the “root recipes,” six easily identifiable (and memorizable!) templates that encompass &lt;em&gt;all&lt;/em&gt; cocktails: the old-fashioned, martini, daiquiri, sidecar, whisky highball, and flip. Once you understand the hows and whys of each “family,” you'll understand why some cocktails work and others don't, when to shake and when to stir, what you can omit and what you can substitute when you're missing ingredients, why you like the drinks you do, and what sorts of drinks you should turn to—or invent—if you want to try something new. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Praise for &lt;em&gt;Cocktail Codex&lt;/em&gt; &lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;“Learn the template, and any cocktail you can think of is within reach.” &lt;em&gt;— Food &amp;amp; Wine&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“Too bad all college textbooks weren’t this much fun.” &lt;/strong&gt;— &lt;em&gt;Garden &amp;amp; Gun&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“A must for amateur and pro mixologists alike.” &lt;/strong&gt;— &lt;em&gt;Chicago Tribune&lt;/em&gt;** &lt;/p&gt;
+&lt;p&gt;“If Dora the Explorer turned twenty-one, split herself into three people, and decided to write the Magna Carta of booze books, this would be the result. And, unlike every other book you’ll read this year, &lt;em&gt;Cocktail Codex&lt;/em&gt; is packed with actual knowledge you can use in the real world. Please, please, can Cinema Codex be next?” &lt;strong&gt;—Steven Soderbergh, filmmaker&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ten Speed Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781607749707</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">160774970X</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1128904724</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">41075441</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cookbooks</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-11-27T01:33:42.754139+00:00"/>
+        <meta name="calibre:title_sort" content="Cocktail Codex: Fundamentals, Formulas, Evolutions [A Cocktail Recipe Book]"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

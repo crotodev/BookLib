@@ -3,3 +3,4 @@ Lib/full-text-search.db
 Lib/.DS_Store
 .DS_Store
 *.DS_Store
+/.tmp.driveupload/
