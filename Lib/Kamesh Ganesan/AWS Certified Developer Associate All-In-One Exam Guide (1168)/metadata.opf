@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">cee35229-e728-4772-903b-80b842dcbc3f</dc:identifier>
         <dc:title>AWS Certified Developer Associate All-In-One Exam Guide</dc:title>
         <dc:creator opf:file-as="Ganesan, Kamesh" opf:role="aut">Kamesh Ganesan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-12-03T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: bold"&gt;This effective self-study system delivers complete coverage of every topic on the AWS Certified Developer Associate Exam&lt;/p&gt;
@@ -26,7 +26,7 @@
 &lt;p&gt;&lt;strong&gt;Kamesh Ganesan&lt;/strong&gt; , PMP, TOGAF, AWS Certified Developer, is a seasoned technology and cloud evangelist with more than 21 years of IT experience working with all major technologies, including AWS, Azure, GCP and Alibaba cloud. He recently authored and presented the live online training course “Hands-on Multi-Cloud for Developers.”&lt;/p&gt;
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Kamesh Ganesan&lt;/strong&gt; , PMP, TOGAF, AWS Certified Developer, is a seasoned technology and cloud evangelist with more than 21 years of IT experience working with all major technologies, including AWS, Azure, GCP and Alibaba cloud. He recently authored and presented the live online training course “Hands-on Multi-Cloud for Developers.”&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>McGraw Hill</dc:publisher>
+        <dc:publisher>Mcgraw Hill</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781260460179</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1260460177</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">-FopygEACAAJ</dc:identifier>

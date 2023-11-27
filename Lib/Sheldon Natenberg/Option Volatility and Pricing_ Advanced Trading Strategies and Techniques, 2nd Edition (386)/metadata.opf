@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">06e946fc-a3e3-4842-83f3-5a7416b4dc87</dc:identifier>
         <dc:title>Option Volatility and Pricing: Advanced Trading Strategies and Techniques, 2nd Edition</dc:title>
         <dc:creator opf:file-as="Natenberg, Sheldon" opf:role="aut">Sheldon Natenberg</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-11-21T05:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;h3&gt;Product Description&lt;/h3&gt;
@@ -33,7 +33,7 @@
 &lt;p style="font-weight: bold"&gt;Includes a glossary of option terminology and math essentials &lt;/p&gt;
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;SHELDON NATENBERG&lt;/strong&gt; is a well-known author and lecturer on options. He began his trading career in 1982 as an independent market maker in equity options at the Chicago Board Options Exchange. From 1985 to 2000 he traded commodity options, also as an independent floor trader, at the Chicago Board of Trade. Since 2000 he has been a member of the education team at Chicago Trading Company, a proprietary derivatives trading firm.&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>McGraw Hill</dc:publisher>
+        <dc:publisher>Mcgraw Hill</dc:publisher>
         <dc:identifier opf:scheme="AMAZON">0071818774</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780071818773</dc:identifier>
         <dc:language>eng</dc:language>
