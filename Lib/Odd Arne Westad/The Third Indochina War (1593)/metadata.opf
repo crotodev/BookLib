@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1593</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dde126e6-0839-44d2-906b-6768e4f4a1b5</dc:identifier>
+        <dc:title>The Third Indochina War</dc:title>
+        <dc:creator opf:file-as="Westad, Odd Arne &amp; Quinn-Judge, Sophie" opf:role="aut">Odd Arne Westad</dc:creator>
+        <dc:creator opf:file-as="Westad, Odd Arne &amp; Quinn-Judge, Sophie" opf:role="aut">Sophie Quinn-Judge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-23T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This new collection explores the origins and key issues of the Third Indochina War, which began in 1979.&lt;/p&gt;
+&lt;p&gt;Drawing on unique documentation from all sides, leading contributors reinterpret and demystify the long-term and immediate causes of the Vietnamese-Cambodian and Sino-Vietnamese conflicts. They closely examine how both the links between policies and policy assumptions in the countries involved, and the dynamics - national, regional and international - drove them towards war. Rather than explaining the conflicts as determined by age-old resentments and suspicions or seeing war between the former allies as the necessary outcome of the conflicts of the 1970s, the contributors to this volume look at the concrete causes for the breakdown in cooperation and the road to war. &lt;/p&gt;
+&lt;p&gt;This volume includes even-handed assessments of the roles of the major players, including a look at the beginnings of Thai-Chinese military cooperation in support of the Khmer Rouge. The subjects covered remain highly relevant to inter-state relations in South East Asia, where border issues are still a cause of tension. An updated chronology of events leading to the outbreak of hostilities is also included. &lt;/p&gt;
+&lt;p&gt;This book will be of immense interest to all students of the Third Indochina War, Southeast Asian history and of international relations and war studies in general.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Odd Arne Westad is convenor of the Department of International History at LSE and director of the Cold War Studies Centre. He served for eight years as Director of Research at the Norwegian Nobel Institute. He has written or edited a large number of books on contemporary international history, the most recent of which are &lt;em&gt;The Global Cold War: Third World Interventions and the Making of Our Times&lt;/em&gt; (2005); &lt;em&gt;Decisive Encounters: The Chinese Civil War, 1946-1950&lt;/em&gt; (2003) and, with Jussi Hanhimaki, &lt;em&gt;The Cold War: A History in Documents and Eyewitness Accounts&lt;/em&gt; (2003). In 2000, he was awarded the Bernath Lecture Prize from the Society of Historians of American Foreign Relations. He is a founding editor of the journal &lt;em&gt;Cold War History.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Sophie Quinn-Judge is currently Associate Director of the Center for Vietnamese Philosophy, Culture and Society at Temple University. She is the author of &lt;em&gt;Ho Chi Minh: The Missing Years&lt;/em&gt; (2002).&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Routledge</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780415545051</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0415545056</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1128485999</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Rcx8AgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">the-third-indochina-war</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Other</dc:subject>
+        <dc:subject>Nonfiction</dc:subject>
+        <meta name="calibre:series" content="Cold War History"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-11-27T22:43:15.808080+00:00"/>
+        <meta name="calibre:title_sort" content="Third Indochina War, The"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
