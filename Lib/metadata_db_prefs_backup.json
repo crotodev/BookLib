@@ -17,12 +17,16 @@
   ],
   "gui_view_history": [
     [
-      1581,
-      "A Logical Approach to Discrete Math"
-    ],
-    [
       1502,
       "Data Abstraction & Problem Solving With C++: International Edition"
+    ],
+    [
+      1593,
+      "The Third Indochina War"
+    ],
+    [
+      1581,
+      "A Logical Approach to Discrete Math"
     ],
     [
       1505,
@@ -71,10 +75,6 @@
     [
       1529,
       "Liar's Poker : Rising Through the Wreckage on Wall Street"
-    ],
-    [
-      1529,
-      "Liar's Poker"
     ]
   ],
   "library_view books view state": {
@@ -945,5 +945,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1701124643.151676
+  "last_expired_trash_at": 1702061257.4792352
 }
