@@ -4,3 +4,4 @@
 *.DS_Store
 /.tmp.driveupload/
 Lib/full-text-search.db
+*.db-journal
