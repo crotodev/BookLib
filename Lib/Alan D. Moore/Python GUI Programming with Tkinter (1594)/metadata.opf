@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1594</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00ed5482-8f41-4d0f-a4ad-8ce301d49442</dc:identifier>
+        <dc:title>Python GUI Programming with Tkinter</dc:title>
+        <dc:creator opf:file-as="Moore, Alan D." opf:role="aut">Alan D. Moore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-28T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Transform your evolving user requirements into feature-rich Tkinter applications &lt;/p&gt;
+&lt;p&gt;Key FeaturesExtensively revised with new content on RESTful networking, classes in Tkinter, and the Notebook widgetTake advantage of Tkinter’s lightweight, portable, and easy-to-use featuresBuild better-organized code and learn to manage an evolving codebaseBook DescriptionTkinter is widely used to build GUIs in Python due to its simplicity. In this book, you’ll discover Tkinter’s strengths and overcome its challenges as you learn to develop fully featured GUI applications. &lt;/p&gt;
+&lt;p&gt;Python GUI Programming with Tkinter, Second Edition, will not only provide you with a working knowledge of the Tkinter GUI library, but also a valuable set of skills that will enable you to plan, implement, and maintain larger applications. You’ll build a full-blown data entry application from scratch, learning how to grow and improve your code in response to continually changing user and business needs. &lt;/p&gt;
+&lt;p&gt;You’ll develop a practical understanding of tools and techniques used to manage this evolving codebase and go beyond the default Tkinter widget capabilities. You’ll implement version control and unit testing, separation of concerns through the MVC design pattern, and object-oriented programming to organize your code more cleanly. &lt;/p&gt;
+&lt;p&gt;You’ll also gain experience with technologies often used in workplace applications, such as SQL databases, network services, and data visualization libraries. Finally, you’ll package your application for wider distribution and tackle the challenge of maintaining cross-platform compatibility. &lt;/p&gt;
+&lt;p&gt;What you will learnProduce well-organized, functional, and responsive GUI applicationsExtend the functionality of existing widgets using classes and OOPPlan wisely for the expansion of your app using MVC and version controlMake sure your app works as intended through widget validation and unit testingUse tools and processes to analyze and respond to user requestsBecome familiar with technologies used in workplace applications, including SQL, HTTP, Matplotlib, threading, and CSVUse PostgreSQL authentication to ensure data security for your applicationWho this book is forThis book is for programmers who understand the syntax of Python, but do not yet have the skills, techniques, and knowledge to design and implement a complete software application. A fair grasp of basic Python syntax is required. &lt;/p&gt;
+&lt;p&gt;Table of ContentsIntroduction to TkinterDesigning GUI ApplicationsCreating Basic Forms with Tkinter and Ttk WidgetsOrganizing Our Code with ClassesReducing User Error with Validation and AutomationPlanning for the Expansion of Our ApplicationCreating Menus with Menu and Tkinter DialogsNavigating Records with Treeview and NotebookImproving the Look with Styles and ThemesMaintaining Cross-Platform CompatibilityCreating Automated Tests with unittestImproving Data Storage with SQLConnecting to the CloudAsynchronous Programming with Thread and QueueVisualizing Data Using the Canvas WidgetPackaging with setuptools and cxFreezeAppendix A : A Quick Primer on reStructuredTextAppendix A Qu&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781801818865</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09DPN8MB3</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">60139844</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">python-gui-programming-with-tkinter-second-edition</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Software Development</dc:subject>
+        <dc:subject>Nonfiction</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>COM051360 - COMPUTERS / Programming Languages / Python</dc:subject>
+        <dc:subject>COM060090 - COMPUTERS / Internet / Application Development</dc:subject>
+        <dc:subject>COM051230 - COMPUTERS / Software Development &amp; Engineering / General</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-01-05T19:36:45.346961+00:00"/>
+        <meta name="calibre:title_sort" content="Python GUI Programming with Tkinter"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
