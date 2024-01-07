@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1598</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79556564-e07f-4349-a09f-4874378e7e33</dc:identifier>
+        <dc:title>Hunting: A Cultural History</dc:title>
+        <dc:creator opf:file-as="Dizard, Jan E. &amp; Stange, Mary Zeiss" opf:role="aut">Jan E. Dizard</dc:creator>
+        <dc:creator opf:file-as="Dizard, Jan E. &amp; Stange, Mary Zeiss" opf:role="aut">Mary Zeiss Stange</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-04T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;The history of hunting, from Stone Age hunter-gatherers to today’s sport hunters. &lt;/p&gt;
+&lt;p&gt;Hunting has a long history, beginning with our hominid ancestors. The invention of the spear allowed early humans to graduate from scavenging to actual hunting. The famous cave paintings at Lascaux show a meticulous knowledge of animal behavior and anatomy that only a hunter would have. This volume in the MIT Press Essential Knowledge series traces the evolution of hunting, from Stone Age hunting and gathering to today’s regulated sport hunting. &lt;/p&gt;
+&lt;p&gt;Humans have been hunting since we became human—but did hunting make us human? The authors consider and question the “hunting hypothesis of human origins,” noting that according to this theory, “hunting” meant hunting by men. They explore hunting in the Stone Age and how, beginning some ten thousand years ago, the spread of agriculture led to the emergence of empires and attempts by elites to monopolize hunting. They examine the democratization of hunting in the American colonies and how hunters decimated, but then, in the twentieth century, rallied to save game animals from extinction. They describe how some European and postcolonial societies have managed wildlife and hunting, consider the difficulties of living with abundant wildlife—even as many nongame species are disappearing—and trace the implications of the increasing participation of women in hunting for the future of hunting. &lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Jan Dizard is Charles Hamilton Houston Professor of American Culture Emeritus at Amherst College. He is the author of books and articles on the changing family, race relations, and, of particular relevance to hunting, articles on environmental policy, hunting ethics, and wildlife. &lt;/p&gt;
+&lt;p&gt;Mary Zeiss Stange is Professor Emerita of Women’s Studies and Religion at Skidmore College. She is internationally recognized as the authority on women and hunting, and specializes in writing and speaking about women, guns, hunting, and ecofeminism. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>MIT Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780262543293</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">026254329X</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">fLZVEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Social History</dc:subject>
+        <dc:subject>Sports &amp; Recreation</dc:subject>
+        <dc:subject>Hunting</dc:subject>
+        <dc:subject>Nature</dc:subject>
+        <dc:subject>Environmental Conservation &amp; Protection</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-01-07T04:34:32.319874+00:00"/>
+        <meta name="calibre:title_sort" content="Hunting: A Cultural History"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

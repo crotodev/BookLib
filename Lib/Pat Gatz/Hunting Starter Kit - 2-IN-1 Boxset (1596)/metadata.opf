@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1596</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">214a47e7-2116-4ae2-8b42-09738553bffb</dc:identifier>
+        <dc:title>Hunting Starter Kit - 2-IN-1 Boxset</dc:title>
+        <dc:creator opf:file-as="Gatz, Pat" opf:role="aut">Pat Gatz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-18T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;How to start field dressing like a pro in no time - even if you've never hunted before. &lt;/p&gt;
+&lt;p&gt;Hunting has always been an essential skill for our survival. &lt;/p&gt;
+&lt;p&gt;But somewhere along the way... we fell out of touch with this ancient art. &lt;/p&gt;
+&lt;p&gt;Today, this once popular skill is practiced only by a select few, which has resulted in many unnecessary problems that are putting you and your family at risk. &lt;/p&gt;
+&lt;p&gt;Like no longer having control over the quality of meat you buy at big-box stores...And being forced to eat pork loins and steaks contaminated with weird "chemical solutions". &lt;/p&gt;
+&lt;p&gt;But what if you never had to waste your money on supermarket meat again?What if you had access to an assortment of wild meats that are healthier and tastier than anything you can find in a store?What if you had total control over not only the quality of your meat but also which animals it comes from?It's for these exact reasons that 101.6 million Americans are beginning to take an interest in outdoor activities like hunting and fishing, according to the U.S. Department of the Interior. &lt;/p&gt;
+&lt;p&gt;Because they realize the real value of this natural and traditional method of sourcing their food. &lt;/p&gt;
+&lt;p&gt;So if you love the great outdoors and want to discover the art of hunting... you've come to the right place. &lt;/p&gt;
+&lt;p&gt;With the right tools and step-by-step guidance, you can discover all there is to know about small game and uncover the right ways to field dress, skin, butcher, and preserve your hunt for safe consumption. &lt;/p&gt;
+&lt;p&gt;Most importantly, you will gain a true sense of self-respect. &lt;/p&gt;
+&lt;p&gt;Respect for everything around you - and your true role in nature. &lt;/p&gt;
+&lt;p&gt;Renowned hunter and Native Indian Pat Gatz will take you on an incredible journey through the hunting world. &lt;/p&gt;
+&lt;p&gt;Get ready for this unique training experience that will have you field dressing &amp;amp; hunting like a pro in no time. &lt;/p&gt;
+&lt;p&gt;In Eat My Meat - now with the BONUS The Simple Hunting Guide - you'll discover: Step-by-step instructions on the most efficient techniques to successfully field dress popular small game animalsA simple but extensive guide on best practices, allowing you to minimize your chances of accidentally ruining your game while dressing itThe vital equipment you absolutely need to make your field dressing experience as seamless and trouble-free as possibleSimple field dressing tricks that only the real pros knowHow to field dress small game birds in as little as 30 secondsWhat you should absolutely NOT do and how to avoid the most common mistakes that can potentially haunt inexperienced huntersThe basics of hunting, with easy-to-follow directions for acquiring your hunting licenseEssential gear and survival equipment that every hunter must haveA thorough manual on hunting weapons, guns, and ammunitionEasy and efficient ways to hunt small gameThe most effective hunting tips and techniques that will launch you miles ahead of other beginner huntersAll the top secrets from the pros!And much more. &lt;/p&gt;
+&lt;p&gt;There's nothing more satisfying than the pride that comes with eating meat you've worked so hard to earn. &lt;/p&gt;
+&lt;p&gt;Instead of squandering your money on stale and tasteless strips of pre-frozen meat...You can nourish your family with delicious game that's free of antibiotics and harmful bacteria. &lt;/p&gt;
+&lt;p&gt;Because with these 2 comprehensive guides, you are guaranteed to become a successful hunter - even if you have zero experience with hunting and field dressing. &lt;/p&gt;
+&lt;p&gt;It's time to seize the moment, reconnect with nature, and fully enjoy the wealth it has to offer you.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hunting for Greatness</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781777877927</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">YE74zgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Nature</dc:subject>
+        <dc:subject>Sports &amp; Recreation</dc:subject>
+        <meta name="calibre:timestamp" content="2024-01-07T04:32:59.477285+00:00"/>
+        <meta name="calibre:title_sort" content="Hunting Starter Kit - 2-IN-1 Boxset"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

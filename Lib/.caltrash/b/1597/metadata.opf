@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1597</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d472600-dae9-4b84-8ad7-e833d3ef5379</dc:identifier>
+        <dc:title>Hunting Starter Kit--2-IN-1 Boxset</dc:title>
+        <dc:creator opf:file-as="Gatz, Pat" opf:role="aut">Pat Gatz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-19T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;How to start field dressing like a pro in no time &amp;#8212; even if you've never hunted before.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Hunting has always been an essential skill for our survival.&lt;/p&gt;&lt;p&gt;But somewhere along the way... we fell out of touch with this ancient art.&lt;/p&gt;&lt;p&gt;Today, this once popular skill is practiced only by a select few, which has resulted in many unnecessary problems that are putting you and your family at risk.&lt;/p&gt;&lt;p&gt;Like no longer having control over the quality of meat you buy at big-box stores...&lt;/p&gt;&lt;p&gt;And being forced to eat pork loins and steaks contaminated with weird "chemical solutions".&lt;/p&gt;&lt;p&gt;But what if you never had to waste your money on supermarket meat again?&lt;/p&gt;&lt;p&gt;What if you had access to an assortment of wild meats that are healthier and tastier than anything you can find in a store?&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;What if you had total control over not only the quality of your meat but also which animals it comes from?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;It's for...</dc:description>
+        <dc:publisher>Pat Gatz</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-01-07T04:34:17.074840+00:00"/>
+        <meta name="calibre:title_sort" content="Hunting Starter Kit--2-IN-1 Boxset"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
