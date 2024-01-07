@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1601</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37df3e6f-4c3b-4b29-932a-db5ab8b3c0d1</dc:identifier>
+        <dc:title>DW 2.0: The Architecture for the Next Generation of Data Warehousing</dc:title>
+        <dc:creator opf:file-as="Strauss, Derek &amp; Neushloss, Genia &amp; Inmon, W. H." opf:role="aut">Derek Strauss</dc:creator>
+        <dc:creator opf:file-as="Strauss, Derek &amp; Neushloss, Genia &amp; Inmon, W. H." opf:role="aut">Genia Neushloss</dc:creator>
+        <dc:creator opf:file-as="Strauss, Derek &amp; Neushloss, Genia &amp; Inmon, W. H." opf:role="aut">W. H. Inmon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-28T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;DW 2.0: The Architecture for the Next Generation of Data Warehousing&lt;/em&gt; is the first book on the new generation of data warehouse architecture, DW 2.0, by the father of the data warehouse. The book describes the future of data warehousing that is technologically possible today, at both an architectural level and technology level.&lt;/p&gt;
+&lt;p&gt;The perspective of the book is from the top down: looking at the overall architecture and then delving into the issues underlying the components. This allows people who are building or using a data warehouse to see what lies ahead and determine what new technology to buy, how to plan extensions to the data warehouse, what can be salvaged from the current system, and how to justify the expense at the most practical level. This book gives experienced data warehouse professionals everything they need in order to implement the new generation DW 2.0.&lt;/p&gt;
+&lt;p&gt;It is designed for professionals in the IT organization, including data architects, DBAs, systems design and development professionals, as well as data warehouse and knowledge management professionals.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First book on the new generation of data warehouse architecture, DW 2.0&lt;/li&gt;
+&lt;li&gt;Written by the "father of the data warehouse", Bill Inmon, a columnist and newsletter editor of The Bill Inmon Channel on the Business Intelligence Network&lt;/li&gt;
+&lt;li&gt;Long overdue comprehensive coverage of the implementation of technology and tools that enable the new generation of the DW: metadata, temporal data, ETL, unstructured data, and data quality control&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Elsevier Science</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780080558332</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business Software</dc:subject>
+        <dc:subject>Database Management</dc:subject>
+        <dc:subject>Nonfiction</dc:subject>
+        <dc:subject>Application Software</dc:subject>
+        <dc:subject>General Computing</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <meta name="calibre:timestamp" content="2024-01-07T10:08:36.194701+00:00"/>
+        <meta name="calibre:title_sort" content="DW 2.0: The Architecture for the Next Generation of Data Warehousing"/>
+        <meta name="calibre:user_metadata:#solutions" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Solutions&quot;, &quot;search_terms&quot;: [&quot;#solutions&quot;], &quot;label&quot;: &quot;solutions&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
