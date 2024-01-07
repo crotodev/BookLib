@@ -17,14 +17,6 @@
   ],
   "gui_view_history": [
     [
-      1595,
-      "Todays Hunter Virginia Worksheet"
-    ],
-    [
-      1594,
-      "Todays Hunter Virginia Manual"
-    ],
-    [
       106,
       "Intelligent Projects Using Python: 9 Real-World AI Projects Leveraging Machine Learning and Deep Learning With TensorFlow and Keras"
     ],
@@ -75,6 +67,14 @@
     [
       1536,
       "Introduction to Probability, Second Edition"
+    ],
+    [
+      1524,
+      "C++ Design Patterns and Derivatives Pricing"
+    ],
+    [
+      68,
+      "A Random Walk Down Wall Street"
     ]
   ],
   "library_view books view state": {
@@ -945,5 +945,5 @@
     "bookExemptions": [],
     "lastLibraryCompare": ""
   },
-  "last_expired_trash_at": 1704602065.439058
+  "last_expired_trash_at": 1704620527.873566
 }
